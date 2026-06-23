@@ -54,14 +54,6 @@ python app/generate.py "你的问题" --count 5
 └── styles/entries/         # 99 条风格分析
 ```
 
-## 技术栈
-
-| 组件 | 说明 |
-|------|------|
-| 身份检索 | bge-small-zh-v1.5 + FAISS（余弦相似度）|
-| 文档检索 | bge + BM25 混合检索，RRF 融合 |
-| 生成模型 | DeepSeek (deepseek-chat) |
-| Web 框架 | FastAPI + 原生 HTML/CSS/JS |
 
 ## 注意
 

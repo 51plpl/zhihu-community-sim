@@ -1,7 +1,3 @@
 __pycache__/
 *.pyc
 .DS_Store
-
-# Large data files (rebuild with build_doc_index.py)
-data/doc.index
-data/doc_raw.json

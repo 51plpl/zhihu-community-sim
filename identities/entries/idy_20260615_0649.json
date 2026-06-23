@@ -1,0 +1,139 @@
+{
+  "id": "idy_20260615_0649",
+  "source": {
+    "title": "为什么会选择脱粉华晨宇？",
+    "url": "https://www.zhihu.com/question/441290310/answer/2267395551",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科及以上",
+      "occupation": "白领或自由职业者",
+      "industry": "文化传媒、教育或互联网",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年期",
+      "自我探索期",
+      "理想主义幻灭期"
+    ],
+    "life_experiences": [
+      "深度追星经历",
+      "对偶像有过高期待",
+      "经历情感投射与失望",
+      "关注自我成长与修行"
+    ],
+    "interest_topics": [
+      "华晨宇",
+      "音乐",
+      "心理学",
+      "自我成长",
+      "修行",
+      "偶像文化",
+      "饭圈观察"
+    ],
+    "discussion_triggers": [
+      "偶像塌房",
+      "脱粉心路",
+      "音乐作品分析",
+      "粉丝心理",
+      "自我成长"
+    ],
+    "sensitive_topics": [
+      "偶像人设崩塌",
+      "粉丝与偶像关系",
+      "道德绑架",
+      "受害者心态"
+    ],
+    "value_tendencies": [
+      "重视真诚与知行合一",
+      "推崇自我接纳与爱自己",
+      "反对盲目崇拜",
+      "追求精神独立"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "内省反思",
+      "心理分析",
+      "批判性思维",
+      "情感细腻",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "华晨宇音乐",
+        "粉丝文化",
+        "心理学",
+        "灵性成长"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享脱粉心路",
+      "表达失望与反思",
+      "寻求共鸣",
+      "帮助他人看清偶像",
+      "自我疗愈"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "华晨宇新歌评价",
+        "score": 80
+      },
+      {
+        "topic": "偶像人设与真实",
+        "score": 90
+      },
+      {
+        "topic": "脱粉经历分享",
+        "score": 95
+      },
+      {
+        "topic": "粉丝心理分析",
+        "score": 85
+      },
+      {
+        "topic": "自我成长与修行",
+        "score": 70
+      }
+    ],
+    "impression": "一个曾经深度投入、如今清醒抽离的前粉丝，带着失望与自省，用细腻的心理分析解构偶像与自我的关系。"
+  },
+  "analyzed_at": "2026-06-15T22:28:06.998820",
+  "token_usage": 3925
+}

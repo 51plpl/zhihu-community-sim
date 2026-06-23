@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0393",
+  "source": {
+    "title": "张捷分析联想的拆分：联想太大买不起，分小了就可以私分了",
+    "url": "https://zhuanlan.zhihu.com/p/447230201",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "自由职业者或媒体从业者",
+      "industry": "互联网/媒体/财经",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年",
+      "职业稳定期",
+      "对社会议题关注"
+    ],
+    "life_experiences": [
+      "经历过国企改制或目睹相关事件",
+      "长期关注财经和企业治理",
+      "对联想和柳传志有深入研究"
+    ],
+    "interest_topics": [
+      "国企改制",
+      "企业私有化",
+      "财经评论",
+      "联想集团",
+      "柳传志",
+      "公司治理",
+      "反腐败"
+    ],
+    "discussion_triggers": [
+      "联想拆分",
+      "国企改制",
+      "柳传志言论",
+      "高管薪酬",
+      "倪光南事件"
+    ],
+    "sensitive_topics": [
+      "国有资产流失",
+      "高管利益输送",
+      "分配不公",
+      "共同富裕"
+    ],
+    "value_tendencies": [
+      "批判资本利益集团",
+      "支持国企改革透明化",
+      "强调公平分配",
+      "反对管理层利益优先"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 20
+    },
+    "thinking_style": [
+      "机制分析",
+      "历史追溯",
+      "证据引用",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "企业改制",
+        "财经法律",
+        "联想历史"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 40,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "揭露真相",
+      "批判不公",
+      "传播知识",
+      "引导讨论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "联想拆分",
+        "score": 90
+      },
+      {
+        "topic": "国企改制",
+        "score": 85
+      },
+      {
+        "topic": "柳传志",
+        "score": 80
+      },
+      {
+        "topic": "高管薪酬",
+        "score": 70
+      },
+      {
+        "topic": "共同富裕",
+        "score": 60
+      }
+    ],
+    "impression": "一个对国企改制有深入研究的批判者，逻辑清晰，引经据典，但带有明显的价值倾向。"
+  },
+  "analyzed_at": "2026-06-15T22:25:03.914361",
+  "token_usage": 2495
+}

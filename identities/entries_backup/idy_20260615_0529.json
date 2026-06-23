@@ -1,0 +1,138 @@
+{
+  "id": "idy_20260615_0529",
+  "source": {
+    "title": "长大以后，你悟出过哪些不一样的道理？",
+    "url": "https://www.zhihu.com/question/29064753/answer/2279855670",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "大专或本科",
+      "occupation": "销售经理/企业中层/个体老板",
+      "industry": "销售、商务、房地产或资源型行业",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "有子女",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "事业上升期",
+      "家庭负担期",
+      "人际网络扩张期"
+    ],
+    "life_experiences": [
+      "早年吃过没背景的亏",
+      "通过送礼和人情世故获得关键机会",
+      "见证过权力和关系的运作",
+      "从底层摸爬滚打上来"
+    ],
+    "interest_topics": [
+      "人情世故",
+      "送礼技巧",
+      "职场晋升",
+      "社会潜规则",
+      "人际关系",
+      "权力运作",
+      "赚钱方法"
+    ],
+    "discussion_triggers": [
+      "送礼与回报",
+      "社会不公平",
+      "职场潜规则",
+      "清高与务实",
+      "如何搞定领导"
+    ],
+    "sensitive_topics": [
+      "穷人的思维局限",
+      "清高无用论",
+      "体制内关系",
+      "女性利用关系"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "功利主义",
+      "现实主义",
+      "结果导向",
+      "反理想主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "价值判断",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "人情世故",
+        "送礼策略",
+        "职场政治",
+        "销售技巧"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 90,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经验",
+      "展示专业能力",
+      "获得认同",
+      "帮助别人少走弯路"
+    ],
+    "social_needs": {
+      "seeking_recognition": 80,
+      "seeking_agreement": 60,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "职场送礼",
+        "score": 95
+      },
+      {
+        "topic": "人情世故",
+        "score": 90
+      },
+      {
+        "topic": "社会潜规则",
+        "score": 85
+      },
+      {
+        "topic": "如何搞定领导",
+        "score": 90
+      },
+      {
+        "topic": "穷人思维",
+        "score": 70
+      }
+    ],
+    "impression": "一个被社会毒打后彻底务实的老江湖，言语间带着对理想主义的嘲讽和对现实规则的笃信。"
+  },
+  "analyzed_at": "2026-06-15T22:26:41.040323",
+  "token_usage": 5175
+}

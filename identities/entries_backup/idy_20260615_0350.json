@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0350",
+  "source": {
+    "title": "目前低生育率会有什么后果?",
+    "url": "https://www.zhihu.com/question/365442448/answer/2254498054",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "数据分析师/研究员",
+      "industry": "互联网/咨询",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "未婚未育",
+      "职业发展期",
+      "关注社会议题"
+    ],
+    "life_experiences": [
+      "在一线城市生活工作",
+      "经历过教育内卷",
+      "关注房价与生活成本"
+    ],
+    "interest_topics": [
+      "人口经济学",
+      "社会政策",
+      "生育率",
+      "城市化",
+      "养老体系",
+      "教育改革"
+    ],
+    "discussion_triggers": [
+      "低生育率后果",
+      "房价与生育",
+      "教育成本",
+      "职场性别歧视",
+      "移民政策"
+    ],
+    "sensitive_topics": [
+      "性别平等",
+      "阶层固化",
+      "政府干预生育"
+    ],
+    "value_tendencies": [
+      "理性务实",
+      "支持适度政府干预",
+      "重视个人发展",
+      "对传统生育观持批判态度"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "比较分析",
+      "逻辑推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "人口统计学",
+        "宏观经济学",
+        "社会政策"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 20,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "展示专业分析能力",
+      "引发理性讨论",
+      "分享数据洞察",
+      "反驳情绪化观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "低生育率后果",
+        "score": 90
+      },
+      {
+        "topic": "房价与生育",
+        "score": 80
+      },
+      {
+        "topic": "教育内卷",
+        "score": 75
+      },
+      {
+        "topic": "养老压力",
+        "score": 70
+      },
+      {
+        "topic": "移民政策",
+        "score": 65
+      }
+    ],
+    "impression": "一个用数据说话、冷静分析社会问题的理性青年，偶尔流露出对未来的隐忧。"
+  },
+  "analyzed_at": "2026-06-15T22:24:34.989379",
+  "token_usage": 3856
+}

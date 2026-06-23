@@ -1,0 +1,123 @@
+{
+  "id": "idy_20260615_0620",
+  "source": {
+    "title": "想买一张流量卡，稳定的物联卡也可以，求推？",
+    "url": "https://www.zhihu.com/question/356681422/answer/2258027611",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-35",
+      "gender": "男性",
+      "education": "大专或本科",
+      "occupation": "上班族或自由职业者",
+      "industry": "互联网、通信或相关行业",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "经济敏感期",
+      "数字化生活依赖者"
+    ],
+    "life_experiences": [
+      "被运营商高价套餐坑过",
+      "尝试过多种流量卡",
+      "对性价比有执念"
+    ],
+    "interest_topics": [
+      "流量卡",
+      "物联卡",
+      "性价比消费",
+      "数码产品",
+      "省钱技巧"
+    ],
+    "discussion_triggers": [
+      "流量卡推荐",
+      "运营商吐槽",
+      "物联卡避坑"
+    ],
+    "sensitive_topics": [
+      "运营商高价套餐",
+      "跑路卡",
+      "虚量问题"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "反智商税",
+      "信任长期稳定",
+      "厌恶虚假宣传"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "细节分析",
+      "数据导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "流量卡市场",
+        "物联卡行业",
+        "运营商套餐"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助别人避坑",
+      "展示专业经验",
+      "分享省钱心得"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "流量卡推荐",
+        "score": 90
+      },
+      {
+        "topic": "物联卡避坑",
+        "score": 85
+      },
+      {
+        "topic": "运营商吐槽",
+        "score": 70
+      },
+      {
+        "topic": "性价比消费",
+        "score": 60
+      }
+    ],
+    "impression": "一个被运营商高价套餐伤透心、转而钻研物联卡市场的省钱达人，乐于分享经验但带点行业内部人的优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:27:46.299280",
+  "token_usage": 2491
+}

@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0090",
+  "source": {
+    "title": "Pathfinder RPG冒险之路：《阿兹兰特的遗迹》评价",
+    "url": "https://zhuanlan.zhihu.com/p/446118687",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "IT工程师或自由职业者",
+      "industry": "信息技术或文化创意",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "单身",
+      "职业稳定期"
+    ],
+    "life_experiences": [
+      "长期担任TRPG游戏主持人",
+      "参与或主持过多组长团",
+      "有组织固定游戏团体的经验",
+      "经历过玩家流失和鸽子"
+    ],
+    "interest_topics": [
+      "TRPG跑团",
+      "Pathfinder规则",
+      "模组设计与评价",
+      "游戏主持技巧",
+      "奇幻设定"
+    ],
+    "discussion_triggers": [
+      "模组评价",
+      "跑团经历分享",
+      "GM心得",
+      "水下战斗设计",
+      "玩家管理"
+    ],
+    "sensitive_topics": [
+      "玩家鸽子行为",
+      "模组平衡性问题",
+      "规则书争议"
+    ],
+    "value_tendencies": [
+      "注重体验与叙事",
+      "尊重规则但鼓励创新",
+      "重视团队稳定性",
+      "理性分析"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 55
+    },
+    "thinking_style": [
+      "机制分析",
+      "经验总结",
+      "结构化评价",
+      "数据导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "Pathfinder规则",
+        "模组设计",
+        "TRPG主持"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享经验",
+      "帮助其他GM",
+      "展示专业度",
+      "记录个人历程"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "模组推荐",
+        "score": 80
+      },
+      {
+        "topic": "GM技巧",
+        "score": 90
+      },
+      {
+        "topic": "Pathfinder规则讨论",
+        "score": 70
+      },
+      {
+        "topic": "跑团故事分享",
+        "score": 60
+      },
+      {
+        "topic": "玩家管理",
+        "score": 75
+      }
+    ],
+    "impression": "一个经验丰富、理性客观的TRPG老GM，乐于分享和帮助新人，但偶尔流露出对不靠谱玩家的无奈。"
+  },
+  "analyzed_at": "2026-06-15T22:21:54.790652",
+  "token_usage": 3542
+}

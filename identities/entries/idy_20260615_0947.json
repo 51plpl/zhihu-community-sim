@@ -1,0 +1,139 @@
+{
+  "id": "idy_20260615_0947",
+  "source": {
+    "title": "宋朝是否是中国的耻辱？",
+    "url": "https://www.zhihu.com/question/322751263/answer/2256825959",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科或以上",
+      "occupation": "历史爱好者/自媒体作者",
+      "industry": "文化传媒",
+      "city_tier": "二线或三线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "长期研究中国历史",
+      "对宋朝有强烈负面情绪",
+      "经历过网络论战",
+      "可能参与过历史类社群"
+    ],
+    "interest_topics": [
+      "宋朝历史",
+      "唐朝历史",
+      "军事制度",
+      "经济史",
+      "社会阶层",
+      "历史评价"
+    ],
+    "discussion_triggers": [
+      "宋朝评价",
+      "历史对比",
+      "军队制度",
+      "农民起义",
+      "士大夫政治"
+    ],
+    "sensitive_topics": [
+      "宋朝功过",
+      "士大夫阶层",
+      "军队地位",
+      "福建开发史",
+      "美国军队类比"
+    ],
+    "value_tendencies": [
+      "反精英主义",
+      "重视军事与拓土",
+      "批判封建制度",
+      "同情底层",
+      "主张历史应当实事求是"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "批判性思维",
+      "历史对比",
+      "情绪化表达",
+      "数据引用",
+      "讽刺挖苦"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "宋朝制度",
+        "唐朝军事",
+        "中国历史人口",
+        "福建开发史"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 40,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 80,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 40,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "反驳他人",
+      "表达观点",
+      "展示专业能力",
+      "获得认同",
+      "纠正错误认知"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "宋朝评价",
+        "score": 90
+      },
+      {
+        "topic": "唐朝与宋朝对比",
+        "score": 85
+      },
+      {
+        "topic": "历史军事制度",
+        "score": 80
+      },
+      {
+        "topic": "福建开发史",
+        "score": 70
+      },
+      {
+        "topic": "美国军队生态",
+        "score": 60
+      }
+    ],
+    "impression": "一个对宋朝恨之入骨、言辞犀利的历史批判者，喜欢用讽刺和对比来输出观点，情绪饱满但知识储备扎实。"
+  },
+  "analyzed_at": "2026-06-15T22:31:38.981803",
+  "token_usage": 2690
+}

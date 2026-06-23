@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0797",
+  "source": {
+    "title": "为什么人们似乎更苛求女明星的状态颜值，而对男艺人特别宽容？",
+    "url": "https://www.zhihu.com/question/505105756/answer/2284314014",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "内容运营或媒体相关",
+      "industry": "文化传媒",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "自我探索期"
+    ],
+    "life_experiences": [
+      "追剧经历丰富",
+      "关注影视行业动态",
+      "参与过网络讨论"
+    ],
+    "interest_topics": [
+      "影视剧",
+      "演员表演",
+      "角色塑造",
+      "网络舆论",
+      "性别议题"
+    ],
+    "discussion_triggers": [
+      "演员与角色契合度",
+      "明星人设",
+      "粉丝文化",
+      "影视剧选角"
+    ],
+    "sensitive_topics": [
+      "性别双标",
+      "年龄歧视",
+      "粉丝无脑吹"
+    ],
+    "value_tendencies": [
+      "理性客观",
+      "反对双标",
+      "注重作品质量",
+      "反感人设营销"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "案例论证",
+      "理性客观",
+      "换位思考"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "影视评论",
+        "角色分析",
+        "舆论观察"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 50,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "纠正偏见",
+      "分享分析",
+      "帮助他人理解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "演员与角色契合度",
+        "score": 90
+      },
+      {
+        "topic": "性别双标",
+        "score": 70
+      },
+      {
+        "topic": "粉丝文化",
+        "score": 60
+      },
+      {
+        "topic": "影视剧选角",
+        "score": 80
+      }
+    ],
+    "impression": "理性冷静的分析者，善于用案例反驳刻板印象，但偶尔流露出对粉丝文化的不屑。"
+  },
+  "analyzed_at": "2026-06-15T22:29:50.146380",
+  "token_usage": 2485
+}

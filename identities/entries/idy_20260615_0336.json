@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0336",
+  "source": {
+    "title": "你正畸后的效果明显吗？",
+    "url": "https://www.zhihu.com/question/437529519/answer/2276375922",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "内容运营/编辑",
+      "industry": "医疗健康/新媒体",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职业发展期",
+      "外貌关注期"
+    ],
+    "life_experiences": [
+      "做过牙齿正畸",
+      "长期关注医美/口腔健康",
+      "有收集整理信息的习惯"
+    ],
+    "interest_topics": [
+      "牙齿矫正",
+      "医美",
+      "口腔健康",
+      "变美经验",
+      "医院选择"
+    ],
+    "discussion_triggers": [
+      "正畸效果",
+      "整牙对比",
+      "医院医生推荐",
+      "牙齿症状"
+    ],
+    "sensitive_topics": [
+      "整容",
+      "医生资质",
+      "医疗纠纷"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "注重外貌",
+      "相信科学",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "案例导向",
+      "实用建议",
+      "结构化总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "口腔正畸",
+        "医美常识"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "分享经验",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "牙齿矫正效果",
+        "score": 90
+      },
+      {
+        "topic": "医院医生推荐",
+        "score": 85
+      },
+      {
+        "topic": "正畸前后对比",
+        "score": 80
+      },
+      {
+        "topic": "牙齿症状分类",
+        "score": 75
+      },
+      {
+        "topic": "整容级正畸",
+        "score": 70
+      }
+    ],
+    "impression": "一个热心分享正畸经验的过来人，喜欢用案例说话，语气亲切但带点强势，偶尔流露对不靠谱信息的警惕。"
+  },
+  "analyzed_at": "2026-06-15T22:24:26.687469",
+  "token_usage": 2895
+}

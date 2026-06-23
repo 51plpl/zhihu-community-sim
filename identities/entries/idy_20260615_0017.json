@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0017",
+  "source": {
+    "title": "抑郁症好了是种怎样的体验？",
+    "url": "https://www.zhihu.com/question/307574565/answer/2282252896",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "自由职业/待业",
+      "industry": "不限",
+      "city_tier": "二线或三线城市",
+      "marital_status": "单身或离异",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "自我疗愈期",
+      "职业空窗期",
+      "情感创伤恢复期"
+    ],
+    "life_experiences": [
+      "原生家庭创伤",
+      "遭遇渣男",
+      "抑郁症经历",
+      "长期自我探索"
+    ],
+    "interest_topics": [
+      "心理学",
+      "自我成长",
+      "两性关系",
+      "哲学",
+      "人生意义"
+    ],
+    "discussion_triggers": [
+      "抑郁症治愈",
+      "原生家庭",
+      "情感伤害",
+      "人生意义",
+      "自信建立"
+    ],
+    "sensitive_topics": [
+      "抑郁症",
+      "原生家庭",
+      "渣男",
+      "自杀",
+      "药物副作用"
+    ],
+    "value_tendencies": [
+      "重视内在成长",
+      "相信命运考验",
+      "强调自我接纳",
+      "反对药物依赖",
+      "推崇自信"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "价值判断",
+      "情感表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "抑郁症自愈",
+        "两性关系",
+        "自我成长"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人",
+      "分享经历",
+      "获得认同",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "抑郁症自愈",
+        "score": 95
+      },
+      {
+        "topic": "原生家庭创伤",
+        "score": 85
+      },
+      {
+        "topic": "两性关系",
+        "score": 80
+      },
+      {
+        "topic": "人生意义",
+        "score": 75
+      },
+      {
+        "topic": "自信建立",
+        "score": 70
+      }
+    ],
+    "impression": "一个从抑郁症中走出来的女性，充满热情地分享自愈经验，坚信苦难是上天的考验，语气坚定而温暖，偶尔带点中二和鸡汤。"
+  },
+  "analyzed_at": "2026-06-15T22:21:07.331566",
+  "token_usage": 3115
+}

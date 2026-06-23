@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0836",
+  "source": {
+    "title": "奇妙的双群与自旋轨道耦合",
+    "url": "https://zhuanlan.zhihu.com/p/449997733",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "博士在读或博士毕业",
+      "occupation": "理论物理研究生或博士后",
+      "industry": "学术/科研",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "学术生涯早期",
+      "专注科研"
+    ],
+    "life_experiences": [
+      "系统学习过量子力学和群论",
+      "阅读过李老师的群论教材",
+      "参考过東雲正樹的群论笔记",
+      "研究过自旋轨道耦合问题",
+      "使用过群论分析能级劈裂"
+    ],
+    "interest_topics": [
+      "群论",
+      "量子力学",
+      "自旋轨道耦合",
+      "凝聚态物理",
+      "数学物理",
+      "对称性与守恒律"
+    ],
+    "discussion_triggers": [
+      "双群概念",
+      "自旋轨道耦合能级劈裂",
+      "群表示论应用",
+      "物理教材中的模糊表述"
+    ],
+    "sensitive_topics": [
+      "教材错误",
+      "不严谨的物理直觉"
+    ],
+    "value_tendencies": [
+      "重视逻辑严谨",
+      "推崇数学推导",
+      "乐于分享知识",
+      "反感模糊不清的解释"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 90,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "数学推导",
+      "机制分析",
+      "概念澄清",
+      "举例说明"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "群论",
+        "量子力学",
+        "自旋轨道耦合"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 90
+    },
+    "motivation": [
+      "澄清概念",
+      "分享数学物理知识",
+      "帮助他人理解难点",
+      "展示专业能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "双群定义",
+        "score": 95
+      },
+      {
+        "topic": "自旋轨道耦合对称性",
+        "score": 90
+      },
+      {
+        "topic": "群表示论在物理中的应用",
+        "score": 85
+      },
+      {
+        "topic": "能级劈裂计算",
+        "score": 80
+      },
+      {
+        "topic": "量子力学中的对称性",
+        "score": 75
+      }
+    ],
+    "impression": "一个严谨的物理学者，喜欢用数学语言清晰解释概念，对模糊表述有洁癖。"
+  },
+  "analyzed_at": "2026-06-15T22:30:17.777105",
+  "token_usage": 2938
+}

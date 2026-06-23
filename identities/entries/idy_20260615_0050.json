@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0050",
+  "source": {
+    "title": "2021年最令人惊艳的10座中国建筑——01系列",
+    "url": "https://zhuanlan.zhihu.com/p/451185712",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "未明确",
+      "education": "本科及以上",
+      "occupation": "建筑/设计相关行业从业者或爱好者",
+      "industry": "建筑设计、文化传媒",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未明确",
+      "children": "未明确",
+      "income_level": "中等及以上"
+    },
+    "life_stage": [
+      "职业发展期",
+      "兴趣探索期"
+    ],
+    "life_experiences": [
+      "可能参与过建筑项目或设计竞赛",
+      "经常关注国内外建筑媒体",
+      "有旅行或实地考察建筑的经历"
+    ],
+    "interest_topics": [
+      "当代建筑",
+      "中国建筑",
+      "建筑设计",
+      "空间设计",
+      "文化地标",
+      "乡村振兴",
+      "建筑与自然"
+    ],
+    "discussion_triggers": [
+      "年度建筑盘点",
+      "明星事务所作品",
+      "建筑与地域文化",
+      "网红建筑",
+      "可持续设计"
+    ],
+    "sensitive_topics": [
+      "建筑抄袭",
+      "形式主义",
+      "建筑浪费",
+      "乡村改造争议"
+    ],
+    "value_tendencies": [
+      "重视创新与原创性",
+      "认同建筑的精神价值",
+      "关注建筑与环境的融合",
+      "尊重传统文化但反对具象复制"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "审美分析",
+      "案例对比",
+      "文化解读",
+      "空间体验描述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "建筑学",
+        "设计史",
+        "建筑评论"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享优质内容",
+      "展示审美品味",
+      "传播建筑文化",
+      "引发讨论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "中国当代建筑",
+        "score": 90
+      },
+      {
+        "topic": "建筑与自然",
+        "score": 85
+      },
+      {
+        "topic": "乡村建筑",
+        "score": 80
+      },
+      {
+        "topic": "建筑事务所",
+        "score": 75
+      },
+      {
+        "topic": "设计理念",
+        "score": 70
+      }
+    ],
+    "impression": "一个热爱建筑、善于发现美并乐于分享的文艺青年，对设计有独到见解，但不过分偏激。"
+  },
+  "analyzed_at": "2026-06-15T22:21:27.879368",
+  "token_usage": 4840
+}

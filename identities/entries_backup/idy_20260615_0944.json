@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0944",
+  "source": {
+    "title": "如果只选择国产，请问猫粮哪个品牌好？",
+    "url": "https://www.zhihu.com/question/268842724/answer/2287083905",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "办公室职员或自由职业者",
+      "industry": "非宠物相关行业",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "独居",
+      "养宠新手期已过",
+      "开始深入钻研养宠知识"
+    ],
+    "life_experiences": [
+      "养猫两年半",
+      "猫咪曾患猫癣",
+      "被宠物医院和网店坑过",
+      "自学养宠知识并成功治愈猫咪"
+    ],
+    "interest_topics": [
+      "宠物营养",
+      "猫粮成分分析",
+      "宠物医疗",
+      "养宠经验分享",
+      "消费者权益"
+    ],
+    "discussion_triggers": [
+      "国产猫粮推荐",
+      "宠物食品安全性",
+      "宠物医院避坑",
+      "猫癣治疗"
+    ],
+    "sensitive_topics": [
+      "宠物食品暴利",
+      "黑心商家",
+      "宠物医疗乱收费",
+      "后院猫舍"
+    ],
+    "value_tendencies": [
+      "理性消费",
+      "注重科学喂养",
+      "反对盲目崇洋",
+      "同情心强",
+      "愿意分享经验"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "经验主义",
+      "数据导向",
+      "批判性思维",
+      "共情能力"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "宠物营养",
+        "猫粮成分分析",
+        "猫病防治"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助其他养宠新手",
+      "分享经验避免踩坑",
+      "表达对宠物食品行业的担忧",
+      "获得认同感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "国产猫粮推荐",
+        "score": 90
+      },
+      {
+        "topic": "猫癣治疗",
+        "score": 80
+      },
+      {
+        "topic": "宠物医院避坑",
+        "score": 70
+      },
+      {
+        "topic": "宠物食品成分分析",
+        "score": 85
+      },
+      {
+        "topic": "养猫经验分享",
+        "score": 75
+      }
+    ],
+    "impression": "一个被坑过但依然热心的养猫人，用经验和数据说话，字里行间透着对猫咪的爱和对行业的不满。"
+  },
+  "analyzed_at": "2026-06-15T22:31:35.476754",
+  "token_usage": 2551
+}

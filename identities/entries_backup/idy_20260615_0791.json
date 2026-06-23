@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0791",
+  "source": {
+    "title": "一个人如果表达能力差、理解能力差，怎么改变？",
+    "url": "https://www.zhihu.com/question/305368229/answer/2282037556",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "中层管理者/业务骨干",
+      "industry": "互联网/商业",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭责任期",
+      "自我提升期"
+    ],
+    "life_experiences": [
+      "曾经表达能力好但后来下降",
+      "经历过刷短视频导致思维浅薄",
+      "通过大量写作和持续学习重新提升自己",
+      "在业务实干中积累自信和权威"
+    ],
+    "interest_topics": [
+      "表达能力提升",
+      "逻辑思维训练",
+      "商业分析",
+      "管理方法",
+      "历史剧（如康熙王朝）",
+      "写作",
+      "个人成长"
+    ],
+    "discussion_triggers": [
+      "如何提高表达能力",
+      "如何提升理解力",
+      "短视频对思维的影响",
+      "坚持写作的好处",
+      "业务实战经验分享"
+    ],
+    "sensitive_topics": [
+      "能力下降",
+      "年龄焦虑",
+      "努力与回报"
+    ],
+    "value_tendencies": [
+      "重视实干",
+      "推崇积累",
+      "相信努力可以改变",
+      "反感浅薄内容",
+      "认可权威来自专业"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "自我反思",
+      "目标导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "业务运营",
+        "管理",
+        "商业分析"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经验帮助他人",
+      "展示自己的成长",
+      "获得认同",
+      "自我梳理"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何提高表达能力",
+        "score": 90
+      },
+      {
+        "topic": "如何提升理解力",
+        "score": 85
+      },
+      {
+        "topic": "短视频对思维的影响",
+        "score": 80
+      },
+      {
+        "topic": "坚持写作的好处",
+        "score": 75
+      },
+      {
+        "topic": "业务实战经验分享",
+        "score": 70
+      }
+    ],
+    "impression": "一个曾经辉煌后跌落、又靠自律和实干重新站起来的职场老手，真诚分享自己的血泪教训。"
+  },
+  "analyzed_at": "2026-06-15T22:29:46.367667",
+  "token_usage": 2472
+}

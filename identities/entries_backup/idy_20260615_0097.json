@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0097",
+  "source": {
+    "title": "谁接孩子上下学，对孩子有什么区别吗？譬如爸爸妈妈和爷爷奶奶？",
+    "url": "https://www.zhihu.com/question/494726403/answer/2281044002",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "教育行业从业者",
+      "industry": "教育",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "已婚有孩",
+      "事业稳定期",
+      "育儿焦虑期"
+    ],
+    "life_experiences": [
+      "童年由爷爷奶奶带大",
+      "从事教育行业",
+      "学习育儿知识",
+      "亲自接送孩子上下学"
+    ],
+    "interest_topics": [
+      "育儿",
+      "儿童心理",
+      "学前教育",
+      "亲子关系",
+      "教育方法"
+    ],
+    "discussion_triggers": [
+      "接送孩子话题",
+      "隔代教育",
+      "孩子安全感",
+      "规则意识培养"
+    ],
+    "sensitive_topics": [
+      "隔代抚养的弊端",
+      "父母陪伴缺失",
+      "孩子自卑心理"
+    ],
+    "value_tendencies": [
+      "重视亲子陪伴",
+      "强调规则意识",
+      "注重孩子心理健康",
+      "反对溺爱",
+      "认同科学育儿"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验反思",
+      "案例引用",
+      "情感共鸣",
+      "逻辑分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "儿童心理学",
+        "学前教育",
+        "家庭教育"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享育儿经验",
+      "帮助其他家长",
+      "表达对童年缺失的补偿心理",
+      "展示专业知识",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "孩子接送问题",
+        "score": 90
+      },
+      {
+        "topic": "隔代教育",
+        "score": 85
+      },
+      {
+        "topic": "儿童安全感",
+        "score": 80
+      },
+      {
+        "topic": "规则意识培养",
+        "score": 75
+      },
+      {
+        "topic": "幼儿园适应",
+        "score": 70
+      }
+    ],
+    "impression": "一个从自身童年经历出发，用专业知识和亲身实践来指导其他家长的教育工作者，感性中带着理性，温暖而坚定。"
+  },
+  "analyzed_at": "2026-06-15T22:22:00.434576",
+  "token_usage": 3620
+}

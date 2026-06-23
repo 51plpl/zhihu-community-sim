@@ -1,0 +1,124 @@
+{
+  "id": "idy_20260615_0208",
+  "source": {
+    "title": "写日语邮件的时候，如何把握好敬语的度呢？",
+    "url": "https://www.zhihu.com/question/406081420/answer/2288306073",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女性",
+      "education": "大学本科在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低收入（无收入）"
+    },
+    "life_stage": [
+      "大学生活",
+      "学业压力",
+      "求职准备"
+    ],
+    "life_experiences": [
+      "给教授写邮件时曾因敬语不当被提醒",
+      "经历过小组作业和论文写作",
+      "正在学习职场礼仪"
+    ],
+    "interest_topics": [
+      "日语学习",
+      "商务礼仪",
+      "大学生活",
+      "邮件写作",
+      "敬语"
+    ],
+    "discussion_triggers": [
+      "如何正确使用敬语",
+      "给教授发邮件的注意事项",
+      "日语邮件模板",
+      "职场礼仪"
+    ],
+    "sensitive_topics": [
+      "敬语使用错误",
+      "被教授批评",
+      "邮件失礼"
+    ],
+    "value_tendencies": [
+      "尊重权威",
+      "注重细节",
+      "谨慎保守",
+      "追求完美"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "规则导向",
+      "注重细节"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "日语",
+        "商务邮件写作"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人避免失礼",
+      "展示自己的日语知识",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "日语敬语",
+        "score": 90
+      },
+      {
+        "topic": "给教授写邮件",
+        "score": 85
+      },
+      {
+        "topic": "商务邮件模板",
+        "score": 80
+      },
+      {
+        "topic": "大学生活礼仪",
+        "score": 70
+      }
+    ],
+    "impression": "一个认真谨慎、注重礼仪的日本语专业大学生，喜欢分享实用技巧，有点完美主义。"
+  },
+  "analyzed_at": "2026-06-15T22:23:04.899620",
+  "token_usage": 5072
+}

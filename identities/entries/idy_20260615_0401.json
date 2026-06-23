@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0401",
+  "source": {
+    "title": "是第一个但不是最后一个：荷兰这所大学弃用「影响因子」，青椒们再也不用焦虑了吗？",
+    "url": "https://zhuanlan.zhihu.com/p/444684770",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "硕士或博士在读",
+      "occupation": "留学生/学术自媒体作者",
+      "industry": "教育/学术传播",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "求学阶段",
+      "职业探索期"
+    ],
+    "life_experiences": [
+      "留学荷兰",
+      "关注学术评价体系改革",
+      "了解国内外青椒生存现状"
+    ],
+    "interest_topics": [
+      "高等教育改革",
+      "学术评价体系",
+      "科研人员生存现状",
+      "荷兰留学",
+      "开放科学"
+    ],
+    "discussion_triggers": [
+      "影响因子争议",
+      "非升即走制度",
+      "青椒压力",
+      "学术评价改革"
+    ],
+    "sensitive_topics": [
+      "学术内卷",
+      "科研人员心理健康",
+      "高校人事制度"
+    ],
+    "value_tendencies": [
+      "反对单一量化评价",
+      "支持开放科学",
+      "同情青年科研人员",
+      "倡导改革"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "价值判断",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "荷兰高等教育",
+        "学术评价体系",
+        "开放科学运动"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享知识",
+      "引发讨论",
+      "表达观点",
+      "帮助他人理解复杂问题"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "影响因子改革",
+        "score": 90
+      },
+      {
+        "topic": "荷兰留学",
+        "score": 80
+      },
+      {
+        "topic": "青椒生存现状",
+        "score": 85
+      },
+      {
+        "topic": "开放科学",
+        "score": 75
+      },
+      {
+        "topic": "非升即走",
+        "score": 70
+      }
+    ],
+    "impression": "一个关心学术生态、善于科普的留学博主，温和但坚定地支持改革，喜欢用数据和案例说话。"
+  },
+  "analyzed_at": "2026-06-15T22:25:10.323637",
+  "token_usage": 3382
+}

@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0815",
+  "source": {
+    "title": "年轻人如何远离消费主义陷阱？",
+    "url": "https://www.zhihu.com/question/392634078/answer/2253592037",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网运营/产品经理",
+      "industry": "互联网",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职场上升期",
+      "消费观念重塑期"
+    ],
+    "life_experiences": [
+      "经历过冲动消费后反思",
+      "关注经济学和商业逻辑",
+      "有朋友从事服装或电商行业"
+    ],
+    "interest_topics": [
+      "消费主义批判",
+      "经济学原理",
+      "市场营销",
+      "品牌溢价",
+      "智商税",
+      "大数据杀熟"
+    ],
+    "discussion_triggers": [
+      "双十一规则",
+      "品牌溢价",
+      "奢侈品定价",
+      "网红带货",
+      "年轻人理财"
+    ],
+    "sensitive_topics": [
+      "智商税",
+      "消费主义陷阱",
+      "贫富差距",
+      "大数据杀熟"
+    ],
+    "value_tendencies": [
+      "理性消费",
+      "反消费主义",
+      "实用主义",
+      "批判资本逻辑"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "经济学思维",
+      "批判性思维",
+      "案例驱动"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "经济学",
+        "市场营销",
+        "互联网产品"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 60,
+      "likes_contrarian": 50,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "揭露消费主义本质",
+      "分享经济学知识",
+      "帮助年轻人理性消费",
+      "展示分析能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "消费主义陷阱",
+        "score": 90
+      },
+      {
+        "topic": "品牌溢价",
+        "score": 85
+      },
+      {
+        "topic": "价格歧视",
+        "score": 80
+      },
+      {
+        "topic": "大数据杀熟",
+        "score": 75
+      },
+      {
+        "topic": "双十一规则",
+        "score": 70
+      }
+    ],
+    "impression": "一个用经济学解剖消费主义的理性分析者，带点愤世嫉俗但乐于分享知识。"
+  },
+  "analyzed_at": "2026-06-15T22:30:02.685041",
+  "token_usage": 3473
+}

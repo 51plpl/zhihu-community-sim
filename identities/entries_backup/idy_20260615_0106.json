@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0106",
+  "source": {
+    "title": "你会做复盘吗？小红书投放高效复盘这样做！",
+    "url": "https://zhuanlan.zhihu.com/p/450206528",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "新媒体运营/品牌营销",
+      "industry": "广告/营销",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业上升期",
+      "注重个人成长"
+    ],
+    "life_experiences": [
+      "多年小红书投放经验",
+      "服务过多个品牌",
+      "经历过投放失败与成功"
+    ],
+    "interest_topics": [
+      "小红书运营",
+      "内容营销",
+      "数据复盘",
+      "品牌种草",
+      "KOL投放策略"
+    ],
+    "discussion_triggers": [
+      "投放复盘方法",
+      "爆文率提升",
+      "博主筛选",
+      "内容优化"
+    ],
+    "sensitive_topics": [
+      "投放效果差被质疑",
+      "预算浪费",
+      "KOL数据造假"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "数据驱动",
+      "结果导向",
+      "持续学习"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "小红书投放",
+        "内容策略",
+        "数据分析"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "小红书投放复盘",
+        "score": 95
+      },
+      {
+        "topic": "如何提升爆文率",
+        "score": 90
+      },
+      {
+        "topic": "KOL筛选标准",
+        "score": 85
+      },
+      {
+        "topic": "内容种草策略",
+        "score": 80
+      },
+      {
+        "topic": "数据表格制作",
+        "score": 70
+      }
+    ],
+    "impression": "一个实战经验丰富、乐于分享的营销老手，说话有条理，喜欢用数据和案例说话，但偶尔会流露出一点行业优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:22:06.101964",
+  "token_usage": 3898
+}

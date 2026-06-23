@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0624",
+  "source": {
+    "title": "掌握4步，快速建立项目管理工作模型",
+    "url": "https://zhuanlan.zhihu.com/p/448846298",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "项目经理",
+      "industry": "IT/互联网",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "从基层技术转项目管理",
+      "经历过多个项目从启动到收尾",
+      "带过团队，处理过跨部门沟通"
+    ],
+    "interest_topics": [
+      "项目管理",
+      "PMP认证",
+      "敏捷开发",
+      "知识管理",
+      "职场方法论"
+    ],
+    "discussion_triggers": [
+      "学员提问",
+      "项目管理难题",
+      "工作模型构建",
+      "经验分享"
+    ],
+    "sensitive_topics": [
+      "项目失败责任归属",
+      "甲方无理需求",
+      "团队执行力差"
+    ],
+    "value_tendencies": [
+      "重视方法论",
+      "崇尚体系化",
+      "务实",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "系统思维",
+      "结构化思考",
+      "经验总结",
+      "教学导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "项目管理",
+        "团队管理",
+        "流程优化"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 85,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人成长",
+      "展示专业能力",
+      "分享经验",
+      "获得认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何建立项目管理模型",
+        "score": 95
+      },
+      {
+        "topic": "PMP认证备考经验",
+        "score": 80
+      },
+      {
+        "topic": "项目中的跨部门沟通",
+        "score": 75
+      },
+      {
+        "topic": "项目经理的职业发展",
+        "score": 70
+      }
+    ],
+    "impression": "一个乐于传道授业解惑的项目管理老手，喜欢用树状结构把复杂问题讲清楚。"
+  },
+  "analyzed_at": "2026-06-15T22:27:48.133774",
+  "token_usage": 3267
+}

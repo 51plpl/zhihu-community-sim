@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0878",
+  "source": {
+    "title": "千元以内最强有线耳机?",
+    "url": "https://www.zhihu.com/question/486073456/answer/2279793156",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "音频产品评测/数码博主",
+      "industry": "消费电子/音频",
+      "city_tier": "一线或新一线",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "兴趣驱动型消费"
+    ],
+    "life_experiences": [
+      "长期接触HIFI耳机",
+      "拥有多款耳机产品",
+      "参与过线下试听活动"
+    ],
+    "interest_topics": [
+      "HIFI耳机",
+      "音频设备评测",
+      "音乐鉴赏",
+      "数码产品",
+      "消费电子"
+    ],
+    "discussion_triggers": [
+      "耳机推荐",
+      "HIFI入门",
+      "千元内耳机对比",
+      "手机直推方案"
+    ],
+    "sensitive_topics": [
+      "耳机音质玄学",
+      "品牌粉丝争论",
+      "价格虚高质疑"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "理性消费",
+      "重视性价比",
+      "尊重个人听感差异"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向",
+      "对比分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "耳机声学",
+        "音频器材评测",
+        "HIFI入门指南"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助新手入门",
+      "分享专业知识",
+      "展示器材经验",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "千元内耳机推荐",
+        "score": 90
+      },
+      {
+        "topic": "HIFI入门搭配",
+        "score": 85
+      },
+      {
+        "topic": "手机直推耳机",
+        "score": 80
+      },
+      {
+        "topic": "动圈vs动铁",
+        "score": 70
+      },
+      {
+        "topic": "耳机品牌对比",
+        "score": 65
+      }
+    ],
+    "impression": "一个热情且专业的HIFI爱好者，乐于分享经验，注重实用建议，但偶尔流露出对某些品牌的偏爱。"
+  },
+  "analyzed_at": "2026-06-15T22:30:48.444110",
+  "token_usage": 2448
+}

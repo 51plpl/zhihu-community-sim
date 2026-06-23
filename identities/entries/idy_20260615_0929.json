@@ -1,0 +1,124 @@
+{
+  "id": "idy_20260615_0929",
+  "source": {
+    "title": "日本刚在台湾附近部署导弹，俄罗斯就在日本海开火",
+    "url": "https://zhuanlan.zhihu.com/p/448218310",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "自媒体作者/评论员",
+      "industry": "媒体/互联网",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "事业上升期",
+      "关注国际政治"
+    ],
+    "life_experiences": [
+      "长期关注国际时事",
+      "可能有过海外经历或与外国人交往",
+      "对历史有一定了解"
+    ],
+    "interest_topics": [
+      "国际政治",
+      "地缘战略",
+      "军事",
+      "中日关系",
+      "俄日关系",
+      "历史"
+    ],
+    "discussion_triggers": [
+      "日本军事动向",
+      "俄罗斯强硬行动",
+      "中国外交策略",
+      "台海问题"
+    ],
+    "sensitive_topics": [
+      "中国外交软弱",
+      "日本军国主义",
+      "美国霸权"
+    ],
+    "value_tendencies": [
+      "民族主义",
+      "现实主义",
+      "强调实力和强硬"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "历史类比",
+      "机制分析",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "国际关系",
+        "军事",
+        "历史"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 80,
+      "likes_contrarian": 60,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "影响他人",
+      "反驳不同意见"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "中日关系",
+        "score": 90
+      },
+      {
+        "topic": "俄罗斯军事行动",
+        "score": 85
+      },
+      {
+        "topic": "中国外交政策",
+        "score": 80
+      },
+      {
+        "topic": "台海局势",
+        "score": 75
+      }
+    ],
+    "impression": "一个愤世嫉俗的现实主义者，认为国际政治就是弱肉强食，对中国外交的温和姿态感到不满。"
+  },
+  "analyzed_at": "2026-06-15T22:31:24.813052",
+  "token_usage": 2757
+}

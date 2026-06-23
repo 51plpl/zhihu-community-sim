@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0337",
+  "source": {
+    "title": "蒋委员长和希特勒的军事水平谁更高?",
+    "url": "https://www.zhihu.com/question/438778559/answer/2287483558",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "历史爱好者/军事爱好者/自由职业",
+      "industry": "互联网/教育/文化",
+      "city_tier": "一二线城市",
+      "marital_status": "未知",
+      "children": "未知",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "成年早期"
+    ],
+    "life_experiences": [
+      "深度阅读二战历史",
+      "关注军事战略与政治领袖比较",
+      "可能参与过网络历史讨论"
+    ],
+    "interest_topics": [
+      "二战历史",
+      "军事战略",
+      "政治领袖评价",
+      "纳粹德国",
+      "民国历史",
+      "蒋介石",
+      "希特勒"
+    ],
+    "discussion_triggers": [
+      "领袖能力比较",
+      "军事指挥微操",
+      "历史人物评价",
+      "法西斯主义"
+    ],
+    "sensitive_topics": [
+      "蒋介石评价",
+      "希特勒评价",
+      "法西斯主义",
+      "中国近代史"
+    ],
+    "value_tendencies": [
+      "推崇战略眼光与魄力",
+      "厌恶任人唯亲",
+      "重视历史事实与细节",
+      "反对独裁但理性分析"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "比较分析",
+      "细节考证"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "二战军事史",
+        "德国军事指挥体系",
+        "民国政治军事"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 10
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 70,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "展示专业能力",
+      "反驳他人",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 80,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "二战军事指挥比较",
+        "score": 90
+      },
+      {
+        "topic": "蒋介石与希特勒",
+        "score": 95
+      },
+      {
+        "topic": "纳粹德国军事决策",
+        "score": 85
+      },
+      {
+        "topic": "民国政治",
+        "score": 70
+      }
+    ],
+    "impression": "一个对二战历史如数家珍的硬核军事迷，喜欢用细节和数据碾压对手，但偶尔流露出对蒋介石的不屑和对希特勒的复杂评价。"
+  },
+  "analyzed_at": "2026-06-15T22:24:26.691486",
+  "token_usage": 2845
+}

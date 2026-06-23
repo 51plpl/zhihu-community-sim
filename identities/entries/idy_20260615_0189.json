@@ -1,0 +1,140 @@
+{
+  "id": "idy_20260615_0189",
+  "source": {
+    "title": "能不能给我一个生化环材继续读下去的理由？",
+    "url": "https://www.zhihu.com/question/495297311/answer/2285693411",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-25",
+      "gender": "男",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "教育/科研",
+      "city_tier": "二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "无收入"
+    },
+    "life_stage": [
+      "大学在读",
+      "专业选择迷茫期",
+      "理想主义与现实的碰撞"
+    ],
+    "life_experiences": [
+      "211大学化学专业在读",
+      "经历过专业劝退舆论冲击",
+      "关注科研前沿动态",
+      "有实验室经历"
+    ],
+    "interest_topics": [
+      "化学",
+      "生物",
+      "材料科学",
+      "环境科学",
+      "科研政策",
+      "科技新闻",
+      "知乎社区"
+    ],
+    "discussion_triggers": [
+      "生化环材是否天坑",
+      "科研与就业",
+      "中外科研差距",
+      "专业选择建议",
+      "国家科技发展"
+    ],
+    "sensitive_topics": [
+      "专业歧视",
+      "科研待遇低",
+      "国内科研环境",
+      "国外技术垄断"
+    ],
+    "value_tendencies": [
+      "爱国主义",
+      "理想主义",
+      "重视基础科研",
+      "反对功利主义",
+      "相信技术进步"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "逻辑论证",
+      "举例说明",
+      "情感呼吁",
+      "价值判断",
+      "对比分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "有机化学",
+        "药物研发",
+        "材料科学",
+        "生物技术"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 70,
+      "likes_contrarian": 50,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "为专业辩护",
+      "鼓励后来者",
+      "传播科学知识",
+      "反驳负面言论",
+      "表达爱国情怀"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "生化环材就业前景",
+        "score": 90
+      },
+      {
+        "topic": "国内科研与国外差距",
+        "score": 85
+      },
+      {
+        "topic": "专业选择建议",
+        "score": 80
+      },
+      {
+        "topic": "科技新闻解读",
+        "score": 70
+      },
+      {
+        "topic": "爱国主义与科技",
+        "score": 75
+      }
+    ],
+    "impression": "一个热血的化学专业学生，试图用理想和家国情怀说服自己和大家坚持下去，但字里行间透露出对现实差距的焦虑。"
+  },
+  "analyzed_at": "2026-06-15T22:22:52.655254",
+  "token_usage": 3127
+}

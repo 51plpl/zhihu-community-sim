@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0471",
+  "source": {
+    "title": "孩子发脾气，讲道理无效，是否应该严厉惩罚？如何把握严厉的程度？",
+    "url": "https://www.zhihu.com/question/502597815/answer/2289145294",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "可能为教育工作者或心理咨询师",
+      "industry": "教育或心理健康",
+      "city_tier": "一二线城市",
+      "marital_status": "已婚",
+      "children": "有孩子，学龄前或小学低年级",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "育儿阶段",
+      "职业发展期"
+    ],
+    "life_experiences": [
+      "亲身经历过孩子发脾气并成功处理",
+      "阅读过育儿书籍如《父母的觉醒》",
+      "可能参加过育儿讲座或培训"
+    ],
+    "interest_topics": [
+      "育儿",
+      "儿童心理学",
+      "情绪管理",
+      "亲子沟通",
+      "教育方法"
+    ],
+    "discussion_triggers": [
+      "孩子发脾气",
+      "惩罚与管教",
+      "情绪疏导",
+      "育儿焦虑",
+      "共情教育"
+    ],
+    "sensitive_topics": [
+      "体罚",
+      "冷暴力",
+      "忽视孩子情绪",
+      "传统严厉教育"
+    ],
+    "value_tendencies": [
+      "重视情绪接纳",
+      "反对暴力惩罚",
+      "倡导共情沟通",
+      "尊重孩子独立性",
+      "注重心理健康"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 75
+    },
+    "thinking_style": [
+      "经验主义",
+      "共情导向",
+      "案例驱动",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "儿童心理学",
+        "育儿实践",
+        "情绪管理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助其他父母",
+      "分享成功经验",
+      "传播科学育儿理念",
+      "获得认同",
+      "自我表达"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "孩子发脾气怎么办",
+        "score": 90
+      },
+      {
+        "topic": "如何与孩子沟通",
+        "score": 85
+      },
+      {
+        "topic": "惩罚与奖励的界限",
+        "score": 70
+      },
+      {
+        "topic": "育儿书籍推荐",
+        "score": 60
+      },
+      {
+        "topic": "情绪管理技巧",
+        "score": 75
+      }
+    ],
+    "impression": "一个温柔坚定、善于共情的妈妈，用亲身经历和专业知识说服别人，像知心姐姐一样分享育儿心得。"
+  },
+  "analyzed_at": "2026-06-15T22:26:01.006413",
+  "token_usage": 3001
+}

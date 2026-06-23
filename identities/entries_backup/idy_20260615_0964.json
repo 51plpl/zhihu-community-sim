@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0964",
+  "source": {
+    "title": "如何以「嘶，姐姐腰好细」写一篇病娇文？",
+    "url": "https://www.zhihu.com/question/457966080/answer/2252115247",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "婚介所销售/诱饵",
+      "industry": "婚恋服务",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "婚恋压力期"
+    ],
+    "life_experiences": [
+      "从事婚介工作，常被当作诱饵吸引男客户",
+      "兼职腿模，注重外貌",
+      "网恋经历丰富"
+    ],
+    "interest_topics": [
+      "网络游戏（剑网3）",
+      "恋爱关系",
+      "职场生存",
+      "外貌管理"
+    ],
+    "discussion_triggers": [
+      "网恋翻车",
+      "相亲奇葩",
+      "游戏情缘",
+      "职场不公"
+    ],
+    "sensitive_topics": [
+      "年龄欺骗",
+      "被当工具人",
+      "舆论攻击"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "自我中心",
+      "享受掌控感"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "策略分析",
+      "经验主义",
+      "情感操控"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "婚恋市场",
+        "游戏攻略",
+        "人际博弈"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 50,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 60,
+      "likes_short_answers": 40,
+      "likes_storytelling": 70,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "获得认同",
+      "展示魅力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "网恋经历",
+        "score": 90
+      },
+      {
+        "topic": "游戏情缘",
+        "score": 85
+      },
+      {
+        "topic": "相亲吐槽",
+        "score": 80
+      },
+      {
+        "topic": "职场套路",
+        "score": 75
+      },
+      {
+        "topic": "外貌焦虑",
+        "score": 70
+      }
+    ],
+    "impression": "一个精于算计的都市女性，表面洒脱内心缺乏安全感，擅长利用自身优势却常被反噬。"
+  },
+  "analyzed_at": "2026-06-15T22:31:49.800159",
+  "token_usage": 5056
+}

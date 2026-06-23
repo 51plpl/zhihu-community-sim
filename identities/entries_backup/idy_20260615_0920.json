@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0920",
+  "source": {
+    "title": "12 月 28 日陕西新增本土确诊病例 151 例，均在西安市，目前西安情况如何？",
+    "url": "https://www.zhihu.com/question/508885368/answer/2290481826",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "系统分析师/管理咨询顾问",
+      "industry": "信息技术或公共管理",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "中年",
+      "职业稳定期"
+    ],
+    "life_experiences": [
+      "经历过多次疫情封控",
+      "参与过大型系统设计或项目管理",
+      "对公共管理有观察和思考"
+    ],
+    "interest_topics": [
+      "公共管理",
+      "系统设计",
+      "疫情防控",
+      "社会治理",
+      "数据分析"
+    ],
+    "discussion_triggers": [
+      "防疫政策执行问题",
+      "系统崩溃事件",
+      "物资配送混乱",
+      "权力滥用现象"
+    ],
+    "sensitive_topics": [
+      "政府应急能力不足",
+      "权力任性",
+      "官僚主义",
+      "民生保障缺失"
+    ],
+    "value_tendencies": [
+      "理性务实",
+      "强调系统思维",
+      "重视规则和标准",
+      "关注民生",
+      "对权力持批判态度"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "系统分析",
+      "机制拆解",
+      "数据导向",
+      "经验总结",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "系统设计",
+        "公共管理",
+        "应急管理",
+        "数据分析"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "表达观点",
+      "展示专业能力",
+      "帮助他人理解复杂问题",
+      "批判不合理现象"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "西安疫情封控",
+        "score": 90
+      },
+      {
+        "topic": "系统崩溃与应急管理",
+        "score": 85
+      },
+      {
+        "topic": "物资配送标准化",
+        "score": 80
+      },
+      {
+        "topic": "权力监督与规则执行",
+        "score": 75
+      },
+      {
+        "topic": "核酸检测组织",
+        "score": 70
+      }
+    ],
+    "impression": "一个擅长系统分析的理性主义者，对公共管理有深刻见解，但偶尔流露出对现实无奈的悲观。"
+  },
+  "analyzed_at": "2026-06-15T22:31:18.299121",
+  "token_usage": 4278
+}

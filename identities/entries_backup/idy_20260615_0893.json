@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0893",
+  "source": {
+    "title": "NBA 21-22 赛季篮网 102:99 逆转独行侠，哈登 23+9+12，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/504439476/answer/2261726590",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "体育媒体人/篮球分析师",
+      "industry": "体育媒体",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业生涯上升期",
+      "热爱篮球的单身青年"
+    ],
+    "life_experiences": [
+      "长期关注NBA",
+      "撰写篮球比赛分析文章",
+      "运营体育类公众号"
+    ],
+    "interest_topics": [
+      "NBA",
+      "篮球战术分析",
+      "体育媒体",
+      "球队管理",
+      "球员个人能力"
+    ],
+    "discussion_triggers": [
+      "篮网队比赛",
+      "哈登/杜兰特表现",
+      "纳什执教决策",
+      "独行侠东契奇"
+    ],
+    "sensitive_topics": [
+      "教练用人争议",
+      "球星负荷管理",
+      "球队防守体系"
+    ],
+    "value_tendencies": [
+      "崇尚专业分析",
+      "重视比赛细节",
+      "对球星个人能力有较高评价",
+      "对教练决策持批判态度"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "战术拆解",
+      "逻辑推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "NBA战术",
+        "篮球比赛分析",
+        "球队阵容搭配"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "展示专业分析能力",
+      "帮助球迷理解比赛",
+      "表达对战术的见解",
+      "获得认可和关注"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "篮网队战术",
+        "score": 90
+      },
+      {
+        "topic": "哈登状态",
+        "score": 85
+      },
+      {
+        "topic": "纳什执教",
+        "score": 80
+      },
+      {
+        "topic": "杜兰特表现",
+        "score": 85
+      },
+      {
+        "topic": "独行侠防守",
+        "score": 70
+      }
+    ],
+    "impression": "一个痴迷于篮球战术细节的理性分析师，喜欢用数据和逻辑拆解比赛，对教练决策有独到见解，偶尔流露出对球星个人能力的崇拜。"
+  },
+  "analyzed_at": "2026-06-15T22:30:58.140563",
+  "token_usage": 3208
+}

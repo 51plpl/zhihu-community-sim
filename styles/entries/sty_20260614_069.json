@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_069",
+  "source": {
+    "title": "如何看司马南扛上联想这一事？",
+    "url": "https://www.zhihu.com/question/500880962/answer/2259889687",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "混合，以书面语为主，夹杂口语化表达如“忍不住想帮联想说几句”，用词专业但易懂。",
+    "sentence_rhythm": "长短句结合，节奏适中，部分长句用于论证，短句用于强调。",
+    "favorite_expressions": [
+      "忍不住想帮联想说几句",
+      "是不是",
+      "相信",
+      "要知道",
+      "试问"
+    ],
+    "punctuation_habits": "逗号使用频繁，用于连接长句；感叹号用于强调观点；问号用于反问。",
+    "person_perspective": "第一人称“我”为主，偶尔切换为第三人称“司马南”“联想”。",
+    "emotion_intensity": "中等，带有辩护和反驳的激情，但保持理性论述。"
+  },
+  "structure": {
+    "opening_pattern": "直接亮观点：以反问开头，提出只有同行才有资格评论。",
+    "paragraph_rhythm": "段落长短交替，关键句如“我帮联想说几句”独立成段。",
+    "argument_logic": "并列型：分点列出9条理由，每条独立论证。",
+    "transition_style": "口语化过渡，使用数字序号和“关于”“至于”等连接词。",
+    "closing_pattern": "行动号召：呼吁读者看清谁在打压中国公司。",
+    "title_pattern": "提问式：以“如何看”开头，引发思考。"
+  },
+  "analyzed_at": "2026-06-14T22:55:37.932687",
+  "token_usage": 1815
+}

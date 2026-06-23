@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0420",
+  "source": {
+    "title": "北京做植发要多少钱？按照单位计算？怎么选择医院医生才不会被坑？植发原理是怎么样？存活率如何？",
+    "url": "https://zhuanlan.zhihu.com/p/439918806",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网/金融从业者",
+      "industry": "科技或金融",
+      "city_tier": "一线",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "脱发困扰期",
+      "消费决策期",
+      "信息搜集期"
+    ],
+    "life_experiences": [
+      "因工作压力导致脱发",
+      "尝试过防脱洗发水、药物等无效",
+      "在植发论坛潜水研究数月",
+      "咨询过多家医院"
+    ],
+    "interest_topics": [
+      "植发技术",
+      "医美整形",
+      "脱发治疗",
+      "消费决策",
+      "北京生活"
+    ],
+    "discussion_triggers": [
+      "植发价格",
+      "医院选择",
+      "术后效果",
+      "避坑指南"
+    ],
+    "sensitive_topics": [
+      "植发失败案例",
+      "医院虚假宣传",
+      "毛囊存活率低"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "理性消费",
+      "重视口碑",
+      "相信数据"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "植发技术",
+        "医美行业"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助别人避坑",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "植发价格",
+        "score": 90
+      },
+      {
+        "topic": "医院选择",
+        "score": 85
+      },
+      {
+        "topic": "植发原理",
+        "score": 80
+      },
+      {
+        "topic": "术后护理",
+        "score": 75
+      },
+      {
+        "topic": "脱发治疗",
+        "score": 70
+      }
+    ],
+    "impression": "一个做了大量功课的植发过来人，理性务实，喜欢用数据和案例说话，乐于分享避坑经验。"
+  },
+  "analyzed_at": "2026-06-15T22:25:24.255500",
+  "token_usage": 4109
+}

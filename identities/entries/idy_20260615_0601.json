@@ -1,0 +1,120 @@
+{
+  "id": "idy_20260615_0601",
+  "source": {
+    "title": "你认为性价比最好的游戏鼠标是哪款？",
+    "url": "https://www.zhihu.com/question/22552927/answer/2269145104",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "IT从业者或游戏玩家",
+      "industry": "科技/互联网",
+      "city_tier": "一二线城市",
+      "marital_status": "单身或未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场初期",
+      "游戏爱好者"
+    ],
+    "life_experiences": [
+      "学生时代用过低价鼠标",
+      "对电脑外设有研究",
+      "经常关注数码产品评测"
+    ],
+    "interest_topics": [
+      "游戏外设",
+      "电脑硬件",
+      "性价比产品",
+      "数码评测"
+    ],
+    "discussion_triggers": [
+      "鼠标推荐",
+      "性价比",
+      "游戏装备"
+    ],
+    "sensitive_topics": [
+      "低价产品品质",
+      "品牌偏见"
+    ],
+    "value_tendencies": [
+      "务实",
+      "追求性价比",
+      "注重参数",
+      "理性消费"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "数据导向",
+      "经验主义",
+      "比较分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "游戏鼠标",
+        "电脑外设"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人选择",
+      "展示专业知识",
+      "分享经验"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "游戏鼠标推荐",
+        "score": 90
+      },
+      {
+        "topic": "性价比外设",
+        "score": 85
+      },
+      {
+        "topic": "罗技鼠标评测",
+        "score": 80
+      },
+      {
+        "topic": "雷蛇鼠标对比",
+        "score": 75
+      }
+    ],
+    "impression": "一个务实的数据党，乐于分享外设选购经验，但偶尔流露出对低价产品的优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:27:32.453280",
+  "token_usage": 2445
+}

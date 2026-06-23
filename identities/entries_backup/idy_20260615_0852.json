@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0852",
+  "source": {
+    "title": "有没有可以笑出姨妈笑的甜文？",
+    "url": "https://www.zhihu.com/question/498621374/answer/2289871235",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-22",
+      "gender": "女",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "二线",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "大学二年级",
+      "刚经历分手"
+    ],
+    "life_experiences": [
+      "充错会员号码",
+      "与学霸男友分手",
+      "遇到技术大佬网友"
+    ],
+    "interest_topics": [
+      "编程",
+      "追剧",
+      "甜文",
+      "恋爱吐槽",
+      "大学生活"
+    ],
+    "discussion_triggers": [
+      "充错账号",
+      "男友不给情绪价值",
+      "小组作业被挂名",
+      "程序员梗"
+    ],
+    "sensitive_topics": [
+      "被白嫖劳动成果",
+      "感情中的理性说教",
+      "不公平的团队合作"
+    ],
+    "value_tendencies": [
+      "重视情绪价值",
+      "反感道德绑架",
+      "独立自主",
+      "幽默自嘲"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "幽默自嘲",
+      "细节观察"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "编程（汇编、MFC）",
+        "大学生存技能"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 30,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "寻求认同",
+      "娱乐他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "甜文推荐",
+        "score": 80
+      },
+      {
+        "topic": "恋爱吐槽",
+        "score": 70
+      },
+      {
+        "topic": "编程学习",
+        "score": 60
+      },
+      {
+        "topic": "大学生活",
+        "score": 70
+      },
+      {
+        "topic": "程序员梗",
+        "score": 50
+      }
+    ],
+    "impression": "一个刚分手但心态乐观、爱自嘲的工科女生，擅长用幽默化解尴尬。"
+  },
+  "analyzed_at": "2026-06-15T22:30:29.697873",
+  "token_usage": 4291
+}

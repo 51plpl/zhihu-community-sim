@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0016",
+  "source": {
+    "title": "对你帮助最大的书是什么?",
+    "url": "https://www.zhihu.com/question/333995687/answer/2285721577",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网产品经理或运营",
+      "industry": "互联网/科技",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "职业上升期",
+      "自我提升期"
+    ],
+    "life_experiences": [
+      "经历过拖延和自控力不足的困扰",
+      "曾因信息过载而焦虑",
+      "尝试通过读书改变自己"
+    ],
+    "interest_topics": [
+      "自我提升",
+      "心理学",
+      "思维模型",
+      "批判性思维",
+      "时间管理",
+      "认知科学"
+    ],
+    "discussion_triggers": [
+      "推荐好书",
+      "如何提高自控力",
+      "拖延症怎么办",
+      "批判性思维方法",
+      "思维模型应用"
+    ],
+    "sensitive_topics": [
+      "成功学",
+      "鸡汤",
+      "李笑来争议"
+    ],
+    "value_tendencies": [
+      "重视个人成长",
+      "推崇理性思考",
+      "相信方法论",
+      "实用主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "自我管理",
+        "心理学",
+        "思维模型"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "获得认同",
+      "分享经历"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "自控力",
+        "score": 90
+      },
+      {
+        "topic": "拖延症",
+        "score": 85
+      },
+      {
+        "topic": "思维模型",
+        "score": 80
+      },
+      {
+        "topic": "批判性思维",
+        "score": 75
+      },
+      {
+        "topic": "读书方法",
+        "score": 70
+      }
+    ],
+    "impression": "一个热衷自我提升的实用主义者，喜欢分享方法论，有点知识优越感但真诚助人。"
+  },
+  "analyzed_at": "2026-06-15T22:21:07.300579",
+  "token_usage": 2387
+}

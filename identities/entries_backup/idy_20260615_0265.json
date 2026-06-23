@@ -1,0 +1,123 @@
+{
+  "id": "idy_20260615_0265",
+  "source": {
+    "title": "你收藏过哪些高级朋友圈情绪文案呢？",
+    "url": "https://www.zhihu.com/question/503937031/answer/2262272776",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "文案策划/新媒体运营",
+      "industry": "文化传媒",
+      "city_tier": "二线",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年期",
+      "职业探索期",
+      "情感空窗期"
+    ],
+    "life_experiences": [
+      "经历过情感挫折",
+      "对人生意义有过迷茫",
+      "喜欢阅读文学和心理学书籍"
+    ],
+    "interest_topics": [
+      "文学",
+      "心理学",
+      "人生哲理",
+      "情感语录",
+      "自我成长"
+    ],
+    "discussion_triggers": [
+      "分享喜欢的句子",
+      "表达情感困惑",
+      "讨论人生意义"
+    ],
+    "sensitive_topics": [
+      "孤独",
+      "爱情失败",
+      "人生无意义"
+    ],
+    "value_tendencies": [
+      "重视精神世界",
+      "追求自由与独立",
+      "相信善良但需带锋芒"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "情感共鸣",
+      "文学化表达",
+      "哲理反思"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "文学",
+        "文案写作"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 30,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 40,
+      "likes_short_answers": 30,
+      "likes_storytelling": 70,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享美好",
+      "寻求共鸣",
+      "表达情感",
+      "帮助他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 30,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "朋友圈文案",
+        "score": 90
+      },
+      {
+        "topic": "人生哲理",
+        "score": 80
+      },
+      {
+        "topic": "情感语录",
+        "score": 85
+      },
+      {
+        "topic": "文学金句",
+        "score": 75
+      }
+    ],
+    "impression": "一个内心敏感、热爱文学、渴望被理解的文艺青年，喜欢用优美的句子表达自己的情感和思考。"
+  },
+  "analyzed_at": "2026-06-15T22:23:39.396949",
+  "token_usage": 2580
+}

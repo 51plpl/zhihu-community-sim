@@ -1,0 +1,125 @@
+{
+  "id": "idy_20260615_0344",
+  "source": {
+    "title": "如何在图书馆不刻意的要有眼缘的男生的微信？",
+    "url": "https://www.zhihu.com/question/502017003/answer/2253568664",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "大学阶段",
+      "恋爱探索期"
+    ],
+    "life_experiences": [
+      "经常去图书馆学习",
+      "有过搭讪或要联系方式的经历",
+      "和闺蜜们一起讨论恋爱技巧"
+    ],
+    "interest_topics": [
+      "恋爱技巧",
+      "社交心理学",
+      "大学生活",
+      "穿搭",
+      "图书馆学习"
+    ],
+    "discussion_triggers": [
+      "如何搭讪",
+      "图书馆偶遇",
+      "加微信方法",
+      "男生心理"
+    ],
+    "sensitive_topics": [
+      "被拒绝",
+      "尴尬场景",
+      "直男行为"
+    ],
+    "value_tendencies": [
+      "主动出击",
+      "实用主义",
+      "重视社交技巧",
+      "乐观积极"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "实用导向",
+      "幽默调侃"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "搭讪技巧",
+        "社交策略"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 90,
+      "likes_explaining": 50,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经验",
+      "帮助别人",
+      "获得认同",
+      "展示幽默"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何搭讪",
+        "score": 90
+      },
+      {
+        "topic": "图书馆社交",
+        "score": 85
+      },
+      {
+        "topic": "恋爱技巧",
+        "score": 80
+      },
+      {
+        "topic": "大学生活",
+        "score": 70
+      }
+    ],
+    "impression": "一个活泼爱分享、有点小聪明和幽默感的大学女生，热衷于传授自己的搭讪心得，像邻家姐姐一样热心但偶尔有点自恋。"
+  },
+  "analyzed_at": "2026-06-15T22:24:30.802598",
+  "token_usage": 2566
+}

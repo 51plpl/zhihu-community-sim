@@ -1,0 +1,119 @@
+{
+  "id": "idy_20260615_0871",
+  "source": {
+    "title": "圣诞节送什么礼物给女朋友?",
+    "url": "https://www.zhihu.com/question/361215733/answer/2255243367",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "程序员或白领",
+      "industry": "互联网或科技",
+      "city_tier": "二线或三线",
+      "marital_status": "恋爱中",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "恋爱期",
+      "工作初期"
+    ],
+    "life_experiences": [
+      "有过送礼物的经历",
+      "关注女友喜好"
+    ],
+    "interest_topics": [
+      "礼物推荐",
+      "电子产品",
+      "美妆护肤",
+      "生活小家电"
+    ],
+    "discussion_triggers": [
+      "节日送礼",
+      "女友生日",
+      "纪念日"
+    ],
+    "sensitive_topics": [
+      "价格争议",
+      "礼物是否用心"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "浪漫主义",
+      "注重仪式感"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "实用导向",
+      "细节描述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "电子产品",
+        "美妆护肤",
+        "生活用品"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 70,
+      "likes_commenting": 40,
+      "likes_debating": 10,
+      "likes_contrarian": 10,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 50,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 20
+    },
+    "motivation": [
+      "帮助别人",
+      "分享经验",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "送女友礼物",
+        "score": 90
+      },
+      {
+        "topic": "电子产品推荐",
+        "score": 70
+      },
+      {
+        "topic": "美妆护肤",
+        "score": 60
+      },
+      {
+        "topic": "生活小家电",
+        "score": 50
+      }
+    ],
+    "impression": "一个细心体贴的男友，喜欢分享实用礼物清单，注重性价比和颜值。"
+  },
+  "analyzed_at": "2026-06-15T22:30:42.955068",
+  "token_usage": 2808
+}

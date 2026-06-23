@@ -1,0 +1,115 @@
+{
+  "id": "idy_20260615_0080",
+  "source": {
+    "title": "河南警方通报 4 名阳性人员被立案侦查，未等核酸采样便从西安返回，或将受到什么处罚？",
+    "url": "https://www.zhihu.com/question/507853637",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "媒体编辑或法律相关从业者",
+      "industry": "新闻传媒或法律",
+      "city_tier": "二线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过疫情封控",
+      "关注公共事件",
+      "有法律常识"
+    ],
+    "interest_topics": [
+      "疫情防控",
+      "法律案例",
+      "社会新闻",
+      "公共卫生政策"
+    ],
+    "discussion_triggers": [
+      "违反防疫规定",
+      "法律处罚",
+      "瞒报行程"
+    ],
+    "sensitive_topics": [
+      "防疫过度",
+      "个人自由与公共安全冲突"
+    ],
+    "value_tendencies": [
+      "重视规则",
+      "支持依法防疫",
+      "强调社会责任"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "事实分析",
+      "法律逻辑",
+      "理性判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "法律",
+        "公共卫生"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 40,
+      "likes_short_answers": 30,
+      "likes_storytelling": 20,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "表达观点",
+      "普及法律知识",
+      "参与公共讨论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "疫情防控法律案例",
+        "score": 80
+      },
+      {
+        "topic": "妨碍传染病防治罪",
+        "score": 70
+      },
+      {
+        "topic": "西安疫情",
+        "score": 60
+      }
+    ],
+    "impression": "一个理性守法、关注公共安全的普通网民，喜欢用法律条文分析问题。"
+  },
+  "analyzed_at": "2026-06-15T22:21:46.112478",
+  "token_usage": 2499
+}

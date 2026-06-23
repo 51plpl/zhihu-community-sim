@@ -1,0 +1,140 @@
+{
+  "id": "idy_20260615_0535",
+  "source": {
+    "title": "柳传志为什么成为了买办和公知们的“精神教父”？",
+    "url": "https://zhuanlan.zhihu.com/p/443992712",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "互联网从业者或自由职业者",
+      "industry": "互联网/媒体/文化",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚或已婚无孩",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年到中年过渡期",
+      "对社会现实有强烈关注"
+    ],
+    "life_experiences": [
+      "经历过或关注国有资产流失、私有化进程",
+      "长期关注政治经济话题",
+      "参与过网络舆论讨论"
+    ],
+    "interest_topics": [
+      "政治经济学",
+      "中国近现代史",
+      "反垄断",
+      "国有资产",
+      "买办资本",
+      "网络舆论战",
+      "社会公平"
+    ],
+    "discussion_triggers": [
+      "柳传志、联想相关新闻",
+      "滴滴事件",
+      "司马南动态",
+      "白岩松言论",
+      "胡锡进文章"
+    ],
+    "sensitive_topics": [
+      "国有资产流失",
+      "买办路线",
+      "资本家特权",
+      "舆论管控",
+      "历史虚无主义"
+    ],
+    "value_tendencies": [
+      "反资本垄断",
+      "支持国有经济主导",
+      "民族主义",
+      "左翼倾向",
+      "反对公知",
+      "支持国家干预"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "历史类比",
+      "阴谋论倾向",
+      "价值判断",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中国政治经济",
+        "互联网企业史",
+        "反垄断法",
+        "舆论传播"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 30,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 80,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 90,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "反驳他人",
+      "表达观点",
+      "揭露真相",
+      "影响舆论",
+      "参与阶级斗争"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 80,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "柳传志与联想",
+        "score": 95
+      },
+      {
+        "topic": "滴滴事件",
+        "score": 90
+      },
+      {
+        "topic": "司马南",
+        "score": 85
+      },
+      {
+        "topic": "胡锡进",
+        "score": 80
+      },
+      {
+        "topic": "国有资产流失",
+        "score": 90
+      }
+    ],
+    "impression": "一个充满战斗精神的左翼网民，擅长用历史和政治经济分析来批判资本，言辞犀利，立场鲜明，喜欢在热点事件中发声，但偶尔流露出对现实无奈的悲观。"
+  },
+  "analyzed_at": "2026-06-15T22:26:46.626632",
+  "token_usage": 4148
+}

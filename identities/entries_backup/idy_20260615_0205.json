@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0205",
+  "source": {
+    "title": "忠！诚！：廓尔喀雇佣兵如何成为英王的宠儿？",
+    "url": "https://zhuanlan.zhihu.com/p/441757837",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "历史爱好者/自媒体作者",
+      "industry": "文化传媒",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业探索期",
+      "兴趣驱动型"
+    ],
+    "life_experiences": [
+      "长期关注军事历史",
+      "有写作或内容创作经验",
+      "可能参与过历史类社群讨论"
+    ],
+    "interest_topics": [
+      "军事史",
+      "雇佣兵",
+      "英国殖民史",
+      "尼泊尔文化",
+      "二战历史",
+      "武器发展史"
+    ],
+    "discussion_triggers": [
+      "雇佣兵忠诚度争议",
+      "廓尔喀弯刀",
+      "英军战斗力",
+      "殖民地军队",
+      "战狼电影中的雇佣兵形象"
+    ],
+    "sensitive_topics": [
+      "民族主义",
+      "殖民主义评价",
+      "雇佣兵道德"
+    ],
+    "value_tendencies": [
+      "尊重历史事实",
+      "欣赏忠诚与勇猛",
+      "反对刻板印象",
+      "理性分析"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "事实驱动",
+      "逻辑推理",
+      "类比分析",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "军事史",
+        "英国殖民史",
+        "廓尔喀雇佣兵"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享冷门历史知识",
+      "纠正刻板印象",
+      "展示专业积累",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "雇佣兵忠诚度",
+        "score": 90
+      },
+      {
+        "topic": "廓尔喀弯刀",
+        "score": 85
+      },
+      {
+        "topic": "英军历史",
+        "score": 80
+      },
+      {
+        "topic": "二战意大利战场",
+        "score": 75
+      },
+      {
+        "topic": "尼泊尔文化",
+        "score": 70
+      }
+    ],
+    "impression": "一个热衷于挖掘冷门军事史细节的科普作者，语气自信，喜欢用故事和事实打破常规认知。"
+  },
+  "analyzed_at": "2026-06-15T22:23:04.290398",
+  "token_usage": 4517
+}

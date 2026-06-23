@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0992",
+  "source": {
+    "title": "新手做头条自媒体，推荐这5个领域，不用出镜，每天日入400左右",
+    "url": "https://zhuanlan.zhihu.com/p/450415065",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "大专",
+      "occupation": "自媒体创作者",
+      "industry": "互联网/新媒体",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业转型期",
+      "经济压力期",
+      "创业初期"
+    ],
+    "life_experiences": [
+      "实体店经营受疫情影响",
+      "自学自媒体技能",
+      "通过视频剪辑获得额外收入"
+    ],
+    "interest_topics": [
+      "自媒体运营",
+      "视频剪辑",
+      "副业赚钱",
+      "创业",
+      "个人成长"
+    ],
+    "discussion_triggers": [
+      "新手做自媒体",
+      "副业推荐",
+      "疫情下的生存",
+      "影视剪辑技巧"
+    ],
+    "sensitive_topics": [
+      "平台政策变化",
+      "搬运与原创争议",
+      "收益真实性"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "鼓励坚持",
+      "重视努力"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "步骤分解",
+      "结果导向",
+      "鼓励性"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "头条自媒体运营",
+        "视频混剪",
+        "内容创作"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 40,
+      "likes_debating": 10,
+      "likes_contrarian": 10,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 70,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "帮助新手",
+      "展示专业能力",
+      "获得认同",
+      "分享经验"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "自媒体新手入门",
+        "score": 90
+      },
+      {
+        "topic": "视频剪辑工具",
+        "score": 70
+      },
+      {
+        "topic": "副业赚钱方法",
+        "score": 80
+      },
+      {
+        "topic": "影视混剪技巧",
+        "score": 85
+      },
+      {
+        "topic": "平台收益问题",
+        "score": 60
+      }
+    ],
+    "impression": "一个经历过实体店困境、靠自媒体翻身的热心过来人，喜欢用亲身经历鼓励新手，说话实在，带点江湖气。"
+  },
+  "analyzed_at": "2026-06-15T22:32:10.034376",
+  "token_usage": 2409
+}

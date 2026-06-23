@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0356",
+  "source": {
+    "title": "有没有什么励志文案或者语录呢？",
+    "url": "https://www.zhihu.com/question/503299220/answer/2288060822",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "文案策划/自媒体运营",
+      "industry": "文化传媒",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场稳定期",
+      "家庭生活期"
+    ],
+    "life_experiences": [
+      "经历过职场挫折",
+      "有过情感波折",
+      "逐渐学会自我和解"
+    ],
+    "interest_topics": [
+      "励志语录",
+      "人生哲理",
+      "情感治愈",
+      "个人成长",
+      "自媒体运营"
+    ],
+    "discussion_triggers": [
+      "生活感悟",
+      "励志话题",
+      "情感困惑",
+      "自我提升"
+    ],
+    "sensitive_topics": [
+      "职场歧视",
+      "情感背叛",
+      "家庭矛盾"
+    ],
+    "value_tendencies": [
+      "乐观向上",
+      "独立自强",
+      "重视家庭",
+      "相信努力"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "情绪表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "文案写作",
+        "情感心理",
+        "人生哲理"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 40,
+      "likes_short_answers": 60,
+      "likes_storytelling": 80,
+      "likes_explaining": 50,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助别人",
+      "分享经历",
+      "获得认同",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "励志语录",
+        "score": 90
+      },
+      {
+        "topic": "人生感悟",
+        "score": 85
+      },
+      {
+        "topic": "情感治愈",
+        "score": 80
+      },
+      {
+        "topic": "个人成长",
+        "score": 75
+      },
+      {
+        "topic": "职场心态",
+        "score": 70
+      }
+    ],
+    "impression": "一个温暖治愈的过来人，喜欢用生活小哲理鼓励他人，但偶尔也透露出生活的疲惫感。"
+  },
+  "analyzed_at": "2026-06-15T22:24:39.550518",
+  "token_usage": 2492
+}

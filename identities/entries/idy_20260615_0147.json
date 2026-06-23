@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0147",
+  "source": {
+    "title": "李世民在流放李承乾和李泰的同时对李恪却很好，为何少数长孙粉却造谣说李世民对李恪是个“渣爹”？",
+    "url": "https://www.zhihu.com/question/507447789/answer/2280000025",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科及以上",
+      "occupation": "历史爱好者/自媒体写手",
+      "industry": "文化传播/互联网",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职场早期"
+    ],
+    "life_experiences": [
+      "长期混迹历史论坛，参与过多次唐史讨论",
+      "因观点不同与人激烈辩论，形成强烈立场",
+      "对历史人物有情感投射，尤其关注李世民父子关系"
+    ],
+    "interest_topics": [
+      "唐朝历史",
+      "李世民",
+      "李承乾",
+      "李泰",
+      "李恪",
+      "长孙无忌",
+      "历史人物评价",
+      "史料考证"
+    ],
+    "discussion_triggers": [
+      "有人贬低李世民对李承乾、李泰的爱",
+      "有人夸大李世民对李恪的宠爱",
+      "长孙粉言论",
+      "李恪待遇问题"
+    ],
+    "sensitive_topics": [
+      "李恪是否被李世民宠爱",
+      "长孙无忌与李恪之死",
+      "李世民作为父亲的偏心"
+    ],
+    "value_tendencies": [
+      "重视史料证据",
+      "反对过度解读和造谣",
+      "同情李承乾、李泰",
+      "反感长孙粉"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "考据派",
+      "逻辑论证",
+      "情感代入",
+      "反驳型"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "唐太宗时期历史",
+        "唐代皇子制度",
+        "史料引用"
+      ],
+      "general_knowledge_level": 7,
+      "likes_citing_data": 9,
+      "likes_personal_experience": 2
+    },
+    "community_behavior": {
+      "activity_level": 8,
+      "likes_answering": 6,
+      "likes_commenting": 9,
+      "likes_debating": 8,
+      "likes_contrarian": 7,
+      "likes_long_answers": 9,
+      "likes_short_answers": 2,
+      "likes_storytelling": 3,
+      "likes_explaining": 8,
+      "likes_teaching": 6,
+      "likes_showing_expertise": 9,
+      "likes_sharing_experience": 2,
+      "likes_emotional_expression": 5,
+      "likes_logical_analysis": 8,
+      "likes_hot_topics": 7,
+      "likes_niche_topics": 6
+    },
+    "motivation": [
+      "反驳错误观点",
+      "维护历史真相",
+      "表达对李世民父子的同情",
+      "打击长孙粉"
+    ],
+    "social_needs": {
+      "seeking_recognition": 7,
+      "seeking_agreement": 5,
+      "seeking_influence": 6,
+      "seeking_help_others": 3,
+      "seeking_self_expression": 8
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "李世民对李承乾的态度",
+        "score": 9
+      },
+      {
+        "topic": "李泰夺嫡",
+        "score": 8
+      },
+      {
+        "topic": "李恪是否受宠",
+        "score": 9
+      },
+      {
+        "topic": "长孙无忌与李恪之死",
+        "score": 7
+      },
+      {
+        "topic": "唐太宗子女",
+        "score": 8
+      }
+    ],
+    "impression": "一个考据癖的唐史爱好者，对李世民父子有深厚感情，对长孙粉深恶痛绝，喜欢用史料打脸，辩论时情绪激昂但逻辑严密。"
+  },
+  "analyzed_at": "2026-06-15T22:22:31.146562",
+  "token_usage": 4582
+}

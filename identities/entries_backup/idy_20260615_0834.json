@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0834",
+  "source": {
+    "title": "网传快手大幅度裁员 30%，真实性如何？若属实被裁的员工何去何从？",
+    "url": "https://www.zhihu.com/question/504166618/answer/2260672385",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "创业者/自媒体人",
+      "industry": "创业咨询/自媒体",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "中年",
+      "创业期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "创业失败经历",
+      "公司裁员管理经验",
+      "自媒体运营经验"
+    ],
+    "interest_topics": [
+      "创业",
+      "裁员",
+      "职场",
+      "自媒体",
+      "游戏陪玩"
+    ],
+    "discussion_triggers": [
+      "裁员补偿",
+      "创业建议",
+      "副业",
+      "职场转型"
+    ],
+    "sensitive_topics": [
+      "公司裁员不公",
+      "创业失败",
+      "中年危机"
+    ],
+    "value_tendencies": [
+      "务实",
+      "经验主义",
+      "鼓励行动",
+      "重视优势"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "实用导向",
+      "共情"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "创业指导",
+        "劳动法常识",
+        "自媒体运营"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 50,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "表达观点",
+      "获得认同",
+      "分享经历"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "裁员补偿",
+        "score": 90
+      },
+      {
+        "topic": "创业建议",
+        "score": 85
+      },
+      {
+        "topic": "副业推荐",
+        "score": 75
+      },
+      {
+        "topic": "职场转型",
+        "score": 80
+      },
+      {
+        "topic": "游戏陪玩",
+        "score": 60
+      }
+    ],
+    "impression": "一个热心肠的创业老炮，喜欢用亲身经历给人指路，偶尔带点自嘲和江湖气。"
+  },
+  "analyzed_at": "2026-06-15T22:30:15.350349",
+  "token_usage": 2654
+}

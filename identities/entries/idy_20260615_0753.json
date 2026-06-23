@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0753",
+  "source": {
+    "title": ".NET6发布才1个月，实战教程已出！附视频及源码",
+    "url": "https://zhuanlan.zhihu.com/p/442813919",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "技术培训师/自媒体运营",
+      "industry": "IT教育",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "知识变现探索期"
+    ],
+    "life_experiences": [
+      "从.NET开发者转型为技术培训师",
+      "经历过.NET Framework到.NET Core的技术转型",
+      "运营技术类自媒体账号"
+    ],
+    "interest_topics": [
+      ".NET技术",
+      "跨平台开发",
+      "微服务架构",
+      "技术培训",
+      "知识付费"
+    ],
+    "discussion_triggers": [
+      ".NET新版本发布",
+      "技术学习资源分享",
+      "大厂招聘动态",
+      "技术转型讨论"
+    ],
+    "sensitive_topics": [
+      "技术栈选择争议",
+      "培训课程质量评价"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "技术社区共享精神",
+      "对新技术持积极态度"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "案例驱动",
+      "操作导向",
+      "资源整合"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        ".NET开发",
+        "跨平台技术",
+        "微服务架构"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 30,
+      "likes_commenting": 40,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 30,
+      "likes_short_answers": 50,
+      "likes_storytelling": 20,
+      "likes_explaining": 60,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "推广技术课程",
+      "建立个人品牌",
+      "帮助开发者成长",
+      "获取流量"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": ".NET6新特性",
+        "score": 90
+      },
+      {
+        "topic": "微服务架构实践",
+        "score": 85
+      },
+      {
+        "topic": "技术学习路径",
+        "score": 80
+      },
+      {
+        "topic": "大厂.NET岗位",
+        "score": 75
+      },
+      {
+        "topic": "跨平台开发工具",
+        "score": 70
+      }
+    ],
+    "impression": "一个热情推销.NET6培训课程的技术自媒体人，擅长用大厂招聘和免费资源吸引眼球。"
+  },
+  "analyzed_at": "2026-06-15T22:29:20.031364",
+  "token_usage": 2405
+}

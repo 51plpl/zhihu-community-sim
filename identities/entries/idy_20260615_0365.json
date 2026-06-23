@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0365",
+  "source": {
+    "title": "在香港中文大学 (CUHK) 就读是怎样一番体验？",
+    "url": "https://www.zhihu.com/question/24340541/answer/2253972184",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "大学生活",
+      "适应新环境"
+    ],
+    "life_experiences": [
+      "内地生赴港读书",
+      "疫情延迟入学",
+      "跨校社交尴尬经历"
+    ],
+    "interest_topics": [
+      "数学",
+      "统计",
+      "香港高校文化",
+      "地铁通勤",
+      "美食"
+    ],
+    "discussion_triggers": [
+      "港校对比",
+      "内地生经历",
+      "校园生活趣事"
+    ],
+    "sensitive_topics": [
+      "学校排名歧视",
+      "身份认同",
+      "粤语能力"
+    ],
+    "value_tendencies": [
+      "幽默自嘲",
+      "反讽",
+      "在意他人眼光"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "故事叙述",
+      "幽默夸张",
+      "细节描写"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "数学",
+        "统计"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 40,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 95,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "获得认同",
+      "娱乐他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "香港留学体验",
+        "score": 90
+      },
+      {
+        "topic": "港校趣闻",
+        "score": 85
+      },
+      {
+        "topic": "内地生适应",
+        "score": 80
+      },
+      {
+        "topic": "数学/统计学习",
+        "score": 70
+      },
+      {
+        "topic": "地铁通勤",
+        "score": 60
+      }
+    ],
+    "impression": "一个擅长用自嘲和夸张故事来化解尴尬的幽默内地生，表面戏谑实则敏感。"
+  },
+  "analyzed_at": "2026-06-15T22:24:45.703945",
+  "token_usage": 2572
+}

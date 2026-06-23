@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0111",
+  "source": {
+    "title": "李广战绩不如卫青和霍去病，为什么后世诗人多在诗词中怀念李广而不怎么推崇卫霍？",
+    "url": "https://www.zhihu.com/question/497053853/answer/2212979013",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "历史爱好者/自媒体写手/教师",
+      "industry": "文化教育或互联网",
+      "city_tier": "二线或三线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年",
+      "事业稳定期",
+      "有家庭责任感"
+    ],
+    "life_experiences": [
+      "长期阅读历史书籍",
+      "可能有过边疆生活或旅行经历",
+      "曾在网络社区与人争论历史话题"
+    ],
+    "interest_topics": [
+      "汉朝历史",
+      "军事史",
+      "诗词鉴赏",
+      "历史人物评价",
+      "网络辩论"
+    ],
+    "discussion_triggers": [
+      "李广与卫霍对比",
+      "历史战绩争议",
+      "诗人为何推崇李广",
+      "史料引用与解读"
+    ],
+    "sensitive_topics": [
+      "否定李广战绩",
+      "过度吹捧卫霍",
+      "不尊重边疆将士"
+    ],
+    "value_tendencies": [
+      "重视实证",
+      "同情弱势英雄",
+      "反对功利主义评价",
+      "尊重传统文人情怀"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "史料考证",
+      "逻辑推演",
+      "情感共鸣",
+      "反驳式论证"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "秦汉史",
+        "古代军事",
+        "唐诗"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 90,
+      "likes_contrarian": 70,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "纠正大众偏见",
+      "展示历史知识",
+      "为李广正名",
+      "反驳他人观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "李广与卫霍对比",
+        "score": 95
+      },
+      {
+        "topic": "汉匈战争",
+        "score": 90
+      },
+      {
+        "topic": "唐诗中的历史人物",
+        "score": 85
+      },
+      {
+        "topic": "古代将领评价标准",
+        "score": 80
+      }
+    ],
+    "impression": "一个考据癖式的历史捍卫者，带着对李广的深情和对抗主流叙事的执着，喜欢用史料砸人，但偶尔流露文人的悲凉。"
+  },
+  "analyzed_at": "2026-06-15T22:22:11.278546",
+  "token_usage": 3414
+}

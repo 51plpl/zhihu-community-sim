@@ -1,0 +1,137 @@
+{
+  "id": "idy_20260615_0699",
+  "source": {
+    "title": "你的 2021 年度手机游戏是什么？",
+    "url": "https://www.zhihu.com/question/508124596/answer/2284856099",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网/科技行业从业者",
+      "industry": "互联网",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "成家立业",
+      "有孩子",
+      "工作稳定但有一定压力"
+    ],
+    "life_experiences": [
+      "玩过多款游戏（传奇、魔兽、FGO、Steam）",
+      "从重度游戏玩家转变为休闲玩家",
+      "对国产游戏发展有长期观察和思考",
+      "对米哈游从质疑到认可"
+    ],
+    "interest_topics": [
+      "游戏设计",
+      "国产游戏发展",
+      "米哈游",
+      "原神",
+      "资本与游戏产业",
+      "党组织在企业中的作用"
+    ],
+    "discussion_triggers": [
+      "原神评价",
+      "米哈游发展",
+      "国产游戏未来",
+      "氪金机制",
+      "游戏与资本"
+    ],
+    "sensitive_topics": [
+      "腾讯阿里垄断",
+      "国产游戏抄袭",
+      "氪金骗氪",
+      "游戏价值观"
+    ],
+    "value_tendencies": [
+      "理想主义",
+      "务实",
+      "注重初心和责任感",
+      "批判资本但接受现实",
+      "支持国产创新"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "价值判断",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "游戏产业",
+        "互联网行业",
+        "国产游戏发展史"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "反驳他人",
+      "展示专业能力",
+      "帮助别人了解游戏"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "原神",
+        "score": 90
+      },
+      {
+        "topic": "米哈游",
+        "score": 85
+      },
+      {
+        "topic": "国产游戏",
+        "score": 80
+      },
+      {
+        "topic": "氪金机制",
+        "score": 70
+      },
+      {
+        "topic": "游戏产业资本",
+        "score": 75
+      }
+    ],
+    "impression": "一个玩过很多游戏、对国产游戏有深刻思考的理性玩家，带着理想主义但又不失务实，对米哈游又爱又恨，喜欢长篇大论分享经历和观点。"
+  },
+  "analyzed_at": "2026-06-15T22:28:43.000886",
+  "token_usage": 2597
+}

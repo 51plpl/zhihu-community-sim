@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0102",
+  "source": {
+    "title": "福州牙齿矫正哪家好？",
+    "url": "https://www.zhihu.com/question/269971005/answer/2261496175",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "内容运营/自媒体/医疗健康行业从业者",
+      "industry": "医疗健康/口腔护理",
+      "city_tier": "二线城市（福州）",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "关注个人形象与健康"
+    ],
+    "life_experiences": [
+      "自己或亲友做过牙齿矫正",
+      "经历过医疗选择的信息焦虑",
+      "长期关注口腔健康类内容"
+    ],
+    "interest_topics": [
+      "牙齿矫正",
+      "口腔护理",
+      "医疗科普",
+      "医院选择攻略",
+      "个人形象管理"
+    ],
+    "discussion_triggers": [
+      "牙齿矫正医院推荐",
+      "矫正案例分享",
+      "牙列不齐危害",
+      "隐形牙套效果"
+    ],
+    "sensitive_topics": [
+      "医院推荐争议",
+      "矫正失败案例",
+      "医疗广告可信度"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "信息透明",
+      "谨慎决策",
+      "乐于分享经验"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 65
+    },
+    "thinking_style": [
+      "经验主义",
+      "结构化分析",
+      "信息整合",
+      "案例导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "牙齿矫正基础知识",
+        "福州口腔医院信息"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人避坑",
+      "展示专业信息",
+      "获得认同",
+      "分享成功案例"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "福州牙齿矫正医院推荐",
+        "score": 90
+      },
+      {
+        "topic": "隐形牙套效果",
+        "score": 80
+      },
+      {
+        "topic": "牙列不齐危害",
+        "score": 70
+      },
+      {
+        "topic": "矫正案例分享",
+        "score": 85
+      },
+      {
+        "topic": "医院选择标准",
+        "score": 75
+      }
+    ],
+    "impression": "一个热心且谨慎的矫正过来人，喜欢用案例和攻略帮助别人，但不忘提醒风险。"
+  },
+  "analyzed_at": "2026-06-15T22:22:05.568351",
+  "token_usage": 2831
+}

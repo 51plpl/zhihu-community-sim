@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0217",
+  "source": {
+    "title": "男生一觉醒来发现变成了妹子，你第一天会干什么？",
+    "url": "https://www.zhihu.com/question/298563043/answer/2282338037",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "男",
+      "education": "本科在读或毕业",
+      "occupation": "学生或初级程序员",
+      "industry": "互联网/IT",
+      "city_tier": "二线或三线城市",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "学生阶段",
+      "探索自我",
+      "面临人生转折"
+    ],
+    "life_experiences": [
+      "有过野外生存知识积累",
+      "可能参与过解剖课或医学相关活动",
+      "有跆拳道训练经历",
+      "经历过亲人离世或家庭变故"
+    ],
+    "interest_topics": [
+      "荒野求生",
+      "科幻/奇幻小说",
+      "游戏",
+      "心理学",
+      "医学常识",
+      "户外运动"
+    ],
+    "discussion_triggers": [
+      "性别转换设定",
+      "极限生存场景",
+      "科学解释超自然现象",
+      "人性讨论"
+    ],
+    "sensitive_topics": [
+      "家庭创伤",
+      "死亡",
+      "暴力",
+      "性别认同"
+    ],
+    "value_tendencies": [
+      "理性务实",
+      "重视科学",
+      "有同情心",
+      "独立自主",
+      "幽默自嘲"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "经验主义",
+      "细节观察",
+      "内省反思"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "野外生存",
+        "基础医学",
+        "物理常识"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享经历",
+      "展示知识",
+      "寻求认同",
+      "娱乐他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 30,
+      "seeking_influence": 40,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "性别转换",
+        "score": 90
+      },
+      {
+        "topic": "荒野求生技巧",
+        "score": 85
+      },
+      {
+        "topic": "穿越/附身设定",
+        "score": 80
+      },
+      {
+        "topic": "心理学与情绪管理",
+        "score": 70
+      },
+      {
+        "topic": "医学常识（急救）",
+        "score": 75
+      }
+    ],
+    "impression": "一个脑洞大开的理工男，喜欢用科学解释魔幻，内心敏感但外表硬撑，擅长自嘲和讲故事。"
+  },
+  "analyzed_at": "2026-06-15T22:23:11.017555",
+  "token_usage": 5158
+}

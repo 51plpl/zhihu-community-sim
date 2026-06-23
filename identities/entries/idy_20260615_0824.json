@@ -1,0 +1,122 @@
+{
+  "id": "idy_20260615_0824",
+  "source": {
+    "title": "爱你才会对你发脾气的四大星座",
+    "url": "https://zhuanlan.zhihu.com/p/440950181",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-30",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "新媒体运营或自由职业者",
+      "industry": "自媒体/情感咨询",
+      "city_tier": "二线或三线城市",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "恋爱探索期",
+      "职业起步期"
+    ],
+    "life_experiences": [
+      "经历过暗恋或单恋",
+      "曾因情绪化在感情中受挫",
+      "关注星座运势和情感测试"
+    ],
+    "interest_topics": [
+      "星座",
+      "情感关系",
+      "心理学",
+      "自我成长",
+      "占星"
+    ],
+    "discussion_triggers": [
+      "对方是否真心",
+      "如何判断爱意",
+      "情绪控制",
+      "星座配对"
+    ],
+    "sensitive_topics": [
+      "被冷落",
+      "不被重视",
+      "感情中的不平等"
+    ],
+    "value_tendencies": [
+      "相信缘分和命运",
+      "重视情感表达",
+      "倾向于感性决策"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "情感驱动",
+      "星座归类",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "星座性格分析",
+        "情感心理"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 40,
+      "likes_short_answers": 60,
+      "likes_storytelling": 80,
+      "likes_explaining": 50,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "获得认同",
+      "分享情感经验",
+      "帮助他人理解感情"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "星座与性格",
+        "score": 90
+      },
+      {
+        "topic": "如何判断对方是否爱你",
+        "score": 85
+      },
+      {
+        "topic": "感情中的情绪管理",
+        "score": 75
+      },
+      {
+        "topic": "分手后复合",
+        "score": 70
+      }
+    ],
+    "impression": "一个相信星座决定爱情的浪漫少女，喜欢用星座解释一切感情问题，渴望被爱又害怕受伤。"
+  },
+  "analyzed_at": "2026-06-15T22:30:08.923177",
+  "token_usage": 2495
+}

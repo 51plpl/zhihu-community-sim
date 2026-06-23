@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0588",
+  "source": {
+    "title": "陕西科技大学会计学考研经验讲解，教你如何正确使用考研参考书及考研真题",
+    "url": "https://zhuanlan.zhihu.com/p/443021816",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-25",
+      "gender": "女",
+      "education": "硕士",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "考研上岸",
+      "本科毕业",
+      "研究生新生"
+    ],
+    "life_experiences": [
+      "考研备考经历",
+      "跨专业或本专业考研",
+      "成功上岸"
+    ],
+    "interest_topics": [
+      "考研",
+      "会计学",
+      "学习方法",
+      "时间管理",
+      "教育"
+    ],
+    "discussion_triggers": [
+      "考研经验分享",
+      "专业课复习方法",
+      "真题使用技巧",
+      "备考心态调整"
+    ],
+    "sensitive_topics": [
+      "考研失败",
+      "备考压力",
+      "竞争激烈"
+    ],
+    "value_tendencies": [
+      "努力决定论",
+      "方法论导向",
+      "分享互助"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "结构化思维",
+      "细节导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "会计学",
+        "考研备考"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助他人",
+      "分享经验",
+      "获得认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "考研英语复习",
+        "score": 80
+      },
+      {
+        "topic": "会计学专业课",
+        "score": 90
+      },
+      {
+        "topic": "备考时间规划",
+        "score": 85
+      },
+      {
+        "topic": "考研心态调整",
+        "score": 70
+      },
+      {
+        "topic": "真题使用技巧",
+        "score": 90
+      }
+    ],
+    "impression": "一个热心分享、条理清晰的考研上岸学姐，乐于用亲身经历帮助后来人。"
+  },
+  "analyzed_at": "2026-06-15T22:27:22.823968",
+  "token_usage": 3408
+}

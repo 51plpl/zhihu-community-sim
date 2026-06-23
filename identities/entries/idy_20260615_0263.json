@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0263",
+  "source": {
+    "title": "KK魔法学院【优秀作业心得】基础透视与结构-0069",
+    "url": "https://zhuanlan.zhihu.com/p/441861008",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "插画师/数字绘画爱好者",
+      "industry": "文化创意/游戏",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "学习深造期",
+      "职业发展初期"
+    ],
+    "life_experiences": [
+      "系统学习过绘画课程",
+      "使用CSP等专业软件",
+      "参与过线上绘画社群"
+    ],
+    "interest_topics": [
+      "数字绘画",
+      "透视原理",
+      "角色设计",
+      "场景设计",
+      "游戏美术",
+      "CSP软件技巧",
+      "绘画教程"
+    ],
+    "discussion_triggers": [
+      "透视技巧",
+      "绘画软件功能",
+      "角色设定",
+      "构图方法",
+      "作业心得"
+    ],
+    "sensitive_topics": [
+      "绘画风格批评",
+      "软件优劣争论"
+    ],
+    "value_tendencies": [
+      "注重方法论",
+      "乐于分享",
+      "追求进步",
+      "尊重规则",
+      "理性分析"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "系统化思考",
+      "步骤分解",
+      "数学证明",
+      "故事驱动",
+      "注重细节"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "透视学",
+        "数字绘画",
+        "角色设计",
+        "场景布局"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享学习心得",
+      "展示专业能力",
+      "帮助他人",
+      "获得认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "透视技巧",
+        "score": 90
+      },
+      {
+        "topic": "CSP使用心得",
+        "score": 85
+      },
+      {
+        "topic": "角色设计思路",
+        "score": 75
+      },
+      {
+        "topic": "绘画学习方法",
+        "score": 80
+      },
+      {
+        "topic": "数学在绘画中的应用",
+        "score": 70
+      }
+    ],
+    "impression": "一个严谨又富有创意的绘画学习者，喜欢用数学思维解决艺术问题，乐于分享自己的方法论。"
+  },
+  "analyzed_at": "2026-06-15T22:23:39.096264",
+  "token_usage": 4113
+}

@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0650",
+  "source": {
+    "title": "Legged Mobile Manipulator Chicken-head（五）",
+    "url": "https://zhuanlan.zhihu.com/p/442360466",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "博士在读或博士",
+      "occupation": "机器人领域研究员/工程师",
+      "industry": "机器人/自动化",
+      "city_tier": "一线或新一线",
+      "marital_status": "未知",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "学术研究期",
+      "职业发展期"
+    ],
+    "life_experiences": [
+      "长期从事机器人控制算法研究",
+      "有实际搭建和调试机器人系统的经验",
+      "参与过四足机器人或移动机械臂项目"
+    ],
+    "interest_topics": [
+      "四足机器人",
+      "移动机械臂",
+      "全身控制",
+      "机器人运动规划",
+      "控制理论"
+    ],
+    "discussion_triggers": [
+      "WBC设计细节",
+      "机器人仿真与实验",
+      "控制器性能对比",
+      "简化模型假设"
+    ],
+    "sensitive_topics": [
+      "算法抄袭",
+      "实验造假",
+      "学术不端",
+      "过度简化问题"
+    ],
+    "value_tendencies": [
+      "重视实证",
+      "强调严谨性",
+      "尊重原创",
+      "乐于分享但自谦"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "逻辑推理",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "机器人学",
+        "控制理论",
+        "运动规划",
+        "仿真"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享技术经验",
+      "展示专业能力",
+      "帮助他人",
+      "获得同行认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "四足机器人控制",
+        "score": 90
+      },
+      {
+        "topic": "全身控制算法",
+        "score": 85
+      },
+      {
+        "topic": "机器人仿真",
+        "score": 80
+      },
+      {
+        "topic": "移动机械臂",
+        "score": 75
+      },
+      {
+        "topic": "运动规划",
+        "score": 70
+      }
+    ],
+    "impression": "一个务实且自谦的机器人研究者，喜欢用实验说话，但也不避讳承认工作的粗糙之处。"
+  },
+  "analyzed_at": "2026-06-15T22:28:07.101222",
+  "token_usage": 2322
+}

@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0488",
+  "source": {
+    "title": "如何以「我睡了全书最大的反派」为开头写一篇小说？",
+    "url": "https://www.zhihu.com/question/411824952/answer/2283220596",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "自由职业/写手",
+      "industry": "文化娱乐",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "已婚未育",
+      "职业探索期"
+    ],
+    "life_experiences": [
+      "阅读大量网络小说",
+      "有过穿书幻想",
+      "对反派角色有特殊偏好",
+      "曾因评论与他人争执"
+    ],
+    "interest_topics": [
+      "穿书文",
+      "反派角色",
+      "言情小说",
+      "角色扮演",
+      "剧情分析",
+      "写作技巧"
+    ],
+    "discussion_triggers": [
+      "穿书题材",
+      "反派洗白",
+      "小说剧情漏洞",
+      "角色互动"
+    ],
+    "sensitive_topics": [
+      "小说三观",
+      "男女主设定",
+      "角色死亡"
+    ],
+    "value_tendencies": [
+      "重视角色逻辑",
+      "偏好强强对抗",
+      "反感无脑恋爱",
+      "同情反派"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "故事叙述",
+      "角色代入",
+      "情感驱动",
+      "细节捕捉"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络小说套路",
+        "角色塑造"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享创作",
+      "获得认同",
+      "表达对反派的喜爱",
+      "探讨剧情"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "穿书文推荐",
+        "score": 80
+      },
+      {
+        "topic": "反派角色分析",
+        "score": 90
+      },
+      {
+        "topic": "小说写作技巧",
+        "score": 60
+      },
+      {
+        "topic": "言情小说套路",
+        "score": 70
+      }
+    ],
+    "impression": "一个沉迷穿书幻想、热爱反派角色的故事创作者，情感丰富，喜欢用第一人称叙述。"
+  },
+  "analyzed_at": "2026-06-15T22:26:11.906476",
+  "token_usage": 5097
+}

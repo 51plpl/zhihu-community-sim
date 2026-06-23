@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0757",
+  "source": {
+    "title": "膀胱输尿管反流如何治疗？保守还是手术？什么情况下要手术治疗？",
+    "url": "https://zhuanlan.zhihu.com/p/442499320",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "博士",
+      "occupation": "小儿外科医生",
+      "industry": "医疗",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭养育期"
+    ],
+    "life_experiences": [
+      "十余年临床经验",
+      "撰写医学科普",
+      "处理大量小儿泌尿系统病例"
+    ],
+    "interest_topics": [
+      "小儿外科",
+      "泌尿系统疾病",
+      "医学科普",
+      "儿童健康",
+      "抗生素使用"
+    ],
+    "discussion_triggers": [
+      "膀胱输尿管反流治疗",
+      "手术指征",
+      "尿路感染预防",
+      "儿童用药安全"
+    ],
+    "sensitive_topics": [
+      "过度医疗",
+      "抗生素滥用",
+      "家长焦虑"
+    ],
+    "value_tendencies": [
+      "循证医学",
+      "患者教育",
+      "保守治疗优先",
+      "专业权威"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "循证医学",
+      "经验总结",
+      "分类讨论",
+      "数据导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "小儿泌尿外科",
+        "膀胱输尿管反流",
+        "尿路感染",
+        "抗生素治疗"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 90,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助家长理解疾病",
+      "分享专业经验",
+      "纠正错误观念",
+      "获得同行认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "膀胱输尿管反流",
+        "score": 95
+      },
+      {
+        "topic": "小儿尿路感染",
+        "score": 90
+      },
+      {
+        "topic": "手术指征",
+        "score": 85
+      },
+      {
+        "topic": "抗生素预防",
+        "score": 80
+      },
+      {
+        "topic": "儿童肾瘢痕",
+        "score": 75
+      }
+    ],
+    "impression": "一位严谨负责、乐于科普的小儿外科医生，用数据和经验说话，对家长充满耐心。"
+  },
+  "analyzed_at": "2026-06-15T22:29:22.407469",
+  "token_usage": 2676
+}

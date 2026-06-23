@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0891",
+  "source": {
+    "title": "吃货怎么减肥呀？",
+    "url": "https://www.zhihu.com/question/507190708/answer/2286587796",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领或自由职业",
+      "industry": "互联网或服务业",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "年轻职场人",
+      "体重管理期",
+      "从暴食催吐中恢复"
+    ],
+    "life_experiences": [
+      "成功减重60斤",
+      "经历暴食催吐",
+      "通过饮食调理恢复稳定体重",
+      "尝试多种减肥方法"
+    ],
+    "interest_topics": [
+      "减肥",
+      "健康饮食",
+      "健身",
+      "烹饪",
+      "心理学",
+      "自我提升"
+    ],
+    "discussion_triggers": [
+      "减肥方法",
+      "暴食催吐",
+      "饮食分享",
+      "健身入门",
+      "坚持习惯"
+    ],
+    "sensitive_topics": [
+      "节食",
+      "催吐",
+      "极端减肥",
+      "身材羞辱"
+    ],
+    "value_tendencies": [
+      "健康至上",
+      "温和自律",
+      "反对极端",
+      "鼓励共情",
+      "实用主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "步骤分解",
+      "共情表达",
+      "鼓励式沟通"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "减肥饮食",
+        "健身入门",
+        "暴食恢复"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经验帮助他人",
+      "获得认同",
+      "自我表达",
+      "建立社群"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "减肥饮食",
+        "score": 90
+      },
+      {
+        "topic": "暴食恢复",
+        "score": 85
+      },
+      {
+        "topic": "健身入门",
+        "score": 70
+      },
+      {
+        "topic": "健康食谱",
+        "score": 80
+      },
+      {
+        "topic": "心理调节",
+        "score": 60
+      }
+    ],
+    "impression": "一个从暴食和肥胖中走出来的热心分享者，温暖而务实，像邻家姐姐一样鼓励别人。"
+  },
+  "analyzed_at": "2026-06-15T22:30:57.249297",
+  "token_usage": 2703
+}

@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0931",
+  "source": {
+    "title": "程序员裸辞全职接单一个月的感触",
+    "url": "https://zhuanlan.zhihu.com/p/442782900",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "23-28",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "全栈工程师/自由职业者",
+      "industry": "互联网/软件",
+      "city_tier": "一线城市（广州）",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等（月入9-10K）"
+    },
+    "life_stage": [
+      "职业探索期",
+      "裸辞过渡期",
+      "自由职业尝试期"
+    ],
+    "life_experiences": [
+      "大学期间接单做毕设和课程设计",
+      "曾开淘宝店提供软件外包",
+      "裸辞后全职接单一个月",
+      "经历作息紊乱后调整恢复"
+    ],
+    "interest_topics": [
+      "前端开发",
+      "全栈技术",
+      "自由职业",
+      "接单经验",
+      "区块链",
+      "远程工作"
+    ],
+    "discussion_triggers": [
+      "程序员裸辞",
+      "接单收入",
+      "面试造火箭",
+      "自由职业作息",
+      "技术栈扩展"
+    ],
+    "sensitive_topics": [
+      "面试内卷",
+      "公司待遇与预期不符",
+      "996工作制",
+      "五险一金"
+    ],
+    "value_tendencies": [
+      "务实",
+      "重视自由",
+      "自我驱动",
+      "技术导向",
+      "风险偏好中等"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "故事叙述",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "前端开发",
+        "全栈开发",
+        "软件外包"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经历",
+      "帮助他人",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "程序员裸辞",
+        "score": 80
+      },
+      {
+        "topic": "自由职业收入",
+        "score": 70
+      },
+      {
+        "topic": "技术面试",
+        "score": 60
+      },
+      {
+        "topic": "远程工作",
+        "score": 75
+      },
+      {
+        "topic": "接单经验",
+        "score": 85
+      }
+    ],
+    "impression": "一个技术不错、敢于尝试的年轻程序员，经历裸辞后靠接单维持生计，乐于分享自己的经验和教训，务实且自律，但偶尔会因自由职业的作息问题而困扰。"
+  },
+  "analyzed_at": "2026-06-15T22:31:26.699845",
+  "token_usage": 3399
+}

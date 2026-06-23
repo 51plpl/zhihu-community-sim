@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0743",
+  "source": {
+    "title": "圣诞节礼物送什么礼物好？",
+    "url": "https://www.zhihu.com/question/38797262/answer/2278787524",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-28",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "学生或初级白领",
+      "industry": "不限",
+      "city_tier": "二线或三线",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中低收入"
+    },
+    "life_stage": [
+      "在校学生",
+      "初入职场",
+      "恋爱初期"
+    ],
+    "life_experiences": [
+      "曾为送礼发愁",
+      "喜欢精致小物件",
+      "关注节日仪式感"
+    ],
+    "interest_topics": [
+      "圣诞礼物",
+      "高颜值好物",
+      "香薰",
+      "果酒",
+      "盲盒",
+      "国潮设计"
+    ],
+    "discussion_triggers": [
+      "圣诞送礼推荐",
+      "平价礼物",
+      "仪式感好物",
+      "女生喜欢的礼物"
+    ],
+    "sensitive_topics": [
+      "礼物价格太贵",
+      "直男审美",
+      "没诚意"
+    ],
+    "value_tendencies": [
+      "重视仪式感",
+      "追求性价比",
+      "喜欢分享美好事物",
+      "相信爱情"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "感性体验",
+      "场景想象",
+      "细节描述",
+      "推荐分享"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "圣诞礼物挑选",
+        "平价好物",
+        "香薰"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 10,
+      "likes_contrarian": 5,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享好物",
+      "帮助他人选礼",
+      "获得认同",
+      "表达浪漫情怀"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "圣诞礼物推荐",
+        "score": 90
+      },
+      {
+        "topic": "平价高颜值礼物",
+        "score": 85
+      },
+      {
+        "topic": "女生喜欢的礼物",
+        "score": 80
+      },
+      {
+        "topic": "香薰推荐",
+        "score": 70
+      },
+      {
+        "topic": "果酒",
+        "score": 60
+      }
+    ],
+    "impression": "一个热爱生活、注重仪式感的年轻女孩，喜欢分享精致好物，语气活泼可爱，像闺蜜一样推荐礼物。"
+  },
+  "analyzed_at": "2026-06-15T22:29:12.858838",
+  "token_usage": 3167
+}

@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0390",
+  "source": {
+    "title": "老实人追女孩怎么追？",
+    "url": "https://zhuanlan.zhihu.com/p/449498126",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "情感咨询师",
+      "industry": "情感咨询/自媒体",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "事业上升期",
+      "婚恋稳定期"
+    ],
+    "life_experiences": [
+      "曾经也是老实人，在感情中碰壁",
+      "通过自我提升成功追到心仪女生",
+      "转型情感咨询，帮助上千男性脱单"
+    ],
+    "interest_topics": [
+      "恋爱技巧",
+      "两性心理",
+      "个人成长",
+      "社交技能",
+      "情感咨询"
+    ],
+    "discussion_triggers": [
+      "老实人追女生",
+      "渣男与老实人对比",
+      "女生心理分析",
+      "恋爱中的心态建设"
+    ],
+    "sensitive_topics": [
+      "渣男行为",
+      "女性择偶标准",
+      "老实人标签"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "鼓励自我提升",
+      "反对道德绑架"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "价值判断",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "恋爱心理学",
+        "两性沟通",
+        "个人形象管理"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 90,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "获得认同",
+      "引流变现"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 80,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "恋爱技巧",
+        "score": 90
+      },
+      {
+        "topic": "老实人追女生",
+        "score": 95
+      },
+      {
+        "topic": "渣男与老实人",
+        "score": 85
+      },
+      {
+        "topic": "女生心理",
+        "score": 80
+      },
+      {
+        "topic": "自我提升",
+        "score": 70
+      }
+    ],
+    "impression": "一个从老实人逆袭的情感导师，自信且乐于分享，但带有明显的营销倾向。"
+  },
+  "analyzed_at": "2026-06-15T22:25:02.728634",
+  "token_usage": 4565
+}

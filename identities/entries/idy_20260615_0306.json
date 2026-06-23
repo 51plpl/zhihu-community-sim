@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0306",
+  "source": {
+    "title": "为什么很多知乎左派人士都喜欢二次元？",
+    "url": "https://www.zhihu.com/question/64101613/answer/2251826547",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "教师或研究人员",
+      "industry": "教育/学术",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "思想成熟期"
+    ],
+    "life_experiences": [
+      "曾与工农群体深入交流",
+      "大学期间受左派教授影响",
+      "经历过网络舆论变迁（08年前后）"
+    ],
+    "interest_topics": [
+      "马克思主义",
+      "政治经济学",
+      "历史",
+      "哲学",
+      "二次元文化"
+    ],
+    "discussion_triggers": [
+      "左右派争论",
+      "网络民粹主义",
+      "官僚资本问题",
+      "阶级分析"
+    ],
+    "sensitive_topics": [
+      "公知与小粉红",
+      "官僚资本主义",
+      "民粹主义",
+      "资本剥削"
+    ],
+    "value_tendencies": [
+      "左翼",
+      "反资本",
+      "唯物史观",
+      "同情无产阶级",
+      "批判官僚资本主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "辩证思维",
+      "历史分析",
+      "价值判断",
+      "机制分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "马克思主义政治经济学",
+        "中国近现代史",
+        "哲学"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 80,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "表达观点",
+      "反驳他人",
+      "展示专业能力",
+      "帮助别人理解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 60,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "马克思主义",
+        "score": 90
+      },
+      {
+        "topic": "左右派争论",
+        "score": 85
+      },
+      {
+        "topic": "官僚资本",
+        "score": 80
+      },
+      {
+        "topic": "二次元与政治",
+        "score": 60
+      },
+      {
+        "topic": "阶级分析",
+        "score": 85
+      }
+    ],
+    "impression": "一个读过些书、有点愤世嫉俗的左派知识分子，喜欢用历史唯物论分析问题，对网络争论既不屑又忍不住参与。"
+  },
+  "analyzed_at": "2026-06-15T22:24:06.609709",
+  "token_usage": 2646
+}

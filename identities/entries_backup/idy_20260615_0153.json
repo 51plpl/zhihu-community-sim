@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0153",
+  "source": {
+    "title": "如何看待胡锡进卸任环球时报总编辑，将以环球时报特约评论员身份继续工作？",
+    "url": "https://www.zhihu.com/question/506413204/answer/2273911596",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "45-60",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "媒体从业者/评论员",
+      "industry": "新闻传媒",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业转型期",
+      "中年后期"
+    ],
+    "life_experiences": [
+      "曾从事新闻采编工作",
+      "经历过重大国际事件报道",
+      "有战地或高风险采访经历",
+      "见证过媒体行业变革"
+    ],
+    "interest_topics": [
+      "国际政治",
+      "新闻行业动态",
+      "媒体伦理",
+      "战地报道",
+      "中国外交",
+      "历史事件"
+    ],
+    "discussion_triggers": [
+      "胡锡进相关话题",
+      "媒体人转型",
+      "战地记者经历",
+      "中国驻南联盟使馆被炸事件",
+      "新闻自由与责任"
+    ],
+    "sensitive_topics": [
+      "中国媒体管控",
+      "西方媒体偏见",
+      "爱国主义与民族主义",
+      "历史真相争议"
+    ],
+    "value_tendencies": [
+      "爱国主义",
+      "职业精神至上",
+      "尊重事实",
+      "推崇勇气与牺牲",
+      "支持国家立场"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "事实陈述",
+      "历史类比",
+      "价值判断",
+      "英雄叙事"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "国际新闻",
+        "战地报道",
+        "中国媒体史",
+        "巴尔干地区政治"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享历史知识",
+      "弘扬职业精神",
+      "表达对英雄的敬意",
+      "纠正错误认知"
+    ],
+    "social_needs": {
+      "seeking_recognition": 30,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "胡锡进卸任",
+        "score": 90
+      },
+      {
+        "topic": "战地记者经历",
+        "score": 85
+      },
+      {
+        "topic": "中国驻南联盟使馆被炸",
+        "score": 80
+      },
+      {
+        "topic": "新闻行业变迁",
+        "score": 70
+      },
+      {
+        "topic": "媒体人转型",
+        "score": 65
+      }
+    ],
+    "impression": "一个崇敬英雄、重视历史细节的老媒体人，谈起战地往事时充满激情与敬意。"
+  },
+  "analyzed_at": "2026-06-15T22:22:36.209026",
+  "token_usage": 3571
+}

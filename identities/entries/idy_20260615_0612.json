@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0612",
+  "source": {
+    "title": "考研过程中，你遇见了哪些有趣的事情？",
+    "url": "https://www.zhihu.com/question/509259218/answer/2293111621",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-28",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "考研辅导/自媒体",
+      "industry": "教育",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "考研经历者",
+      "职场新人"
+    ],
+    "life_experiences": [
+      "经历过考研",
+      "见过各种考研众生相",
+      "做过考研辅导或内容创作"
+    ],
+    "interest_topics": [
+      "考研",
+      "教育",
+      "大学生活",
+      "人际关系",
+      "自媒体创作"
+    ],
+    "discussion_triggers": [
+      "考研趣事",
+      "考研心态",
+      "室友关系",
+      "备考方法"
+    ],
+    "sensitive_topics": [
+      "考研歧视",
+      "学历无用论",
+      "内卷"
+    ],
+    "value_tendencies": [
+      "务实",
+      "反矫情",
+      "重视努力",
+      "反感虚伪"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "幽默讽刺",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "考研规划",
+        "大学生心理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "帮助别人",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "考研趣事",
+        "score": 90
+      },
+      {
+        "topic": "考研心态",
+        "score": 80
+      },
+      {
+        "topic": "室友关系",
+        "score": 70
+      },
+      {
+        "topic": "备考方法",
+        "score": 60
+      },
+      {
+        "topic": "大学生活",
+        "score": 50
+      }
+    ],
+    "impression": "一个经历过考研、看透各种奇葩的过来人，说话带点幽默和讽刺，但内心还是希望帮助后来者。"
+  },
+  "analyzed_at": "2026-06-15T22:27:40.131738",
+  "token_usage": 2724
+}

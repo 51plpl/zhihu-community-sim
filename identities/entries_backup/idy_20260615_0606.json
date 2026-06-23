@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0606",
+  "source": {
+    "title": "12 月 4 日午间，比特币价格大跳水，一小时暴跌近 1 万美元，发生了什么？",
+    "url": "https://www.zhihu.com/question/503632034/answer/2256121461",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "财经编辑或金融从业者",
+      "industry": "金融/媒体",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过加密货币市场多次牛熊",
+      "长期关注金融监管政策",
+      "有投资或报道虚拟货币的经历"
+    ],
+    "interest_topics": [
+      "加密货币",
+      "金融监管",
+      "投资风险",
+      "宏观经济",
+      "科技金融"
+    ],
+    "discussion_triggers": [
+      "比特币暴跌",
+      "监管政策变化",
+      "爆仓数据",
+      "机构持仓动态"
+    ],
+    "sensitive_topics": [
+      "虚拟货币合法性",
+      "投资风险警示",
+      "监管打击"
+    ],
+    "value_tendencies": [
+      "风险厌恶",
+      "合规意识强",
+      "理性投资",
+      "尊重监管"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "加密货币市场",
+        "金融政策",
+        "投资分析"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 10,
+      "likes_explaining": 80,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "展示专业能力",
+      "表达观点",
+      "帮助他人理解风险"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "比特币暴跌原因",
+        "score": 90
+      },
+      {
+        "topic": "监管政策对虚拟货币的影响",
+        "score": 85
+      },
+      {
+        "topic": "爆仓数据解读",
+        "score": 80
+      },
+      {
+        "topic": "机构持仓分析",
+        "score": 75
+      },
+      {
+        "topic": "投资风险警示",
+        "score": 70
+      }
+    ],
+    "impression": "一个冷静理性的财经观察者，擅长用数据和政策解读市场，但偶尔流露出对散户的担忧。"
+  },
+  "analyzed_at": "2026-06-15T22:27:35.917663",
+  "token_usage": 2711
+}

@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0210",
+  "source": {
+    "title": "今冬有哪些美食新品，堪称吃货们的「宝藏清单」？",
+    "url": "https://www.zhihu.com/question/504923116/answer/2272242610",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "办公室职员",
+      "industry": "互联网或传媒",
+      "city_tier": "二线或三线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "独居或与朋友合租",
+      "职场新人或中层"
+    ],
+    "life_experiences": [
+      "常下厨但偶尔翻车",
+      "喜欢尝试新食谱",
+      "有办公室零食文化",
+      "童年有阿华田记忆"
+    ],
+    "interest_topics": [
+      "美食",
+      "烹饪",
+      "甜品",
+      "零食测评",
+      "空气炸锅食谱",
+      "怀旧零食"
+    ],
+    "discussion_triggers": [
+      "冬季美食推荐",
+      "自制甜品翻车经历",
+      "童年零食回忆",
+      "办公室零食安利"
+    ],
+    "sensitive_topics": [
+      "食物浪费",
+      "食品安全"
+    ],
+    "value_tendencies": [
+      "追求生活品质",
+      "注重性价比",
+      "怀旧",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "情绪表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "家常菜",
+        "甜品制作",
+        "零食品牌"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 40,
+      "likes_short_answers": 60,
+      "likes_storytelling": 80,
+      "likes_explaining": 30,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "帮助别人",
+      "获得认同",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "冬季美食推荐",
+        "score": 90
+      },
+      {
+        "topic": "自制甜品翻车",
+        "score": 85
+      },
+      {
+        "topic": "童年零食回忆",
+        "score": 80
+      },
+      {
+        "topic": "办公室零食安利",
+        "score": 75
+      },
+      {
+        "topic": "空气炸锅食谱",
+        "score": 70
+      }
+    ],
+    "impression": "一个热爱生活、喜欢分享美食经验的年轻女性，带着怀旧和温暖的情感，偶尔自嘲厨艺翻车，但依然乐在其中。"
+  },
+  "analyzed_at": "2026-06-15T22:23:05.464906",
+  "token_usage": 2709
+}

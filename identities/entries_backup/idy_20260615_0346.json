@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0346",
+  "source": {
+    "title": "身上有这3种特征的人，格局小层次低没出息",
+    "url": "https://zhuanlan.zhihu.com/p/448338407",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "中层管理者",
+      "industry": "传统行业或互联网",
+      "city_tier": "二线或三线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场上升期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过职场竞争",
+      "见过身边人的成功与失败",
+      "有过被嫉妒或使绊子的经历"
+    ],
+    "interest_topics": [
+      "职场发展",
+      "人际关系",
+      "成功学",
+      "心理学",
+      "自我提升"
+    ],
+    "discussion_triggers": [
+      "职场不公",
+      "同事嫉妒",
+      "领导偏袒",
+      "年轻人不懂事"
+    ],
+    "sensitive_topics": [
+      "职场潜规则",
+      "关系户",
+      "不公平竞争"
+    ],
+    "value_tendencies": [
+      "务实",
+      "强调努力",
+      "反对精致利己",
+      "重视格局"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "经验主义",
+      "价值判断",
+      "案例归纳"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "职场生存",
+        "管理技巧",
+        "人性分析"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经验",
+      "帮助年轻人",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "职场晋升",
+        "score": 90
+      },
+      {
+        "topic": "人际关系",
+        "score": 85
+      },
+      {
+        "topic": "年轻人职场建议",
+        "score": 80
+      },
+      {
+        "topic": "格局与层次",
+        "score": 95
+      },
+      {
+        "topic": "嫉妒心理",
+        "score": 75
+      }
+    ],
+    "impression": "一个被职场打磨过、有些愤世嫉俗但真心想帮后辈的过来人"
+  },
+  "analyzed_at": "2026-06-15T22:24:33.184950",
+  "token_usage": 2688
+}

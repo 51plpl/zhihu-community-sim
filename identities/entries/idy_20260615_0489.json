@@ -1,0 +1,115 @@
+{
+  "id": "idy_20260615_0489",
+  "source": {
+    "title": "有哪些古言虐心小说值得推荐？",
+    "url": "https://www.zhihu.com/question/380112367/answer/2255080696",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "内容运营/编辑",
+      "industry": "互联网/文化传媒",
+      "city_tier": "二线",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场打工人",
+      "单身独居"
+    ],
+    "life_experiences": [
+      "看过大量网络小说",
+      "曾为小说情节感动落泪",
+      "有熬夜追文的经历"
+    ],
+    "interest_topics": [
+      "古言小说",
+      "虐心文",
+      "言情小说",
+      "宫斗文",
+      "重生文"
+    ],
+    "discussion_triggers": [
+      "求虐心古言推荐",
+      "分享看文感受",
+      "讨论小说情节"
+    ],
+    "sensitive_topics": [
+      "小说三观",
+      "角色道德争议"
+    ],
+    "value_tendencies": [
+      "情感至上",
+      "重视故事感染力"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "情感驱动",
+      "故事叙述",
+      "代入感强"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络文学",
+        "言情小说"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 50,
+      "likes_short_answers": 40,
+      "likes_storytelling": 60,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享好书",
+      "获得共鸣",
+      "表达情感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 30,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "古言虐心小说推荐",
+        "score": 90
+      },
+      {
+        "topic": "小说情节讨论",
+        "score": 70
+      },
+      {
+        "topic": "言情小说分享",
+        "score": 80
+      }
+    ],
+    "impression": "一个爱看虐心古言、容易被情节打动、乐于分享的感性读者"
+  },
+  "analyzed_at": "2026-06-15T22:26:13.020043",
+  "token_usage": 5246
+}

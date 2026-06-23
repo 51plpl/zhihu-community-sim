@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0501",
+  "source": {
+    "title": "林俊杰花 78 万买虚拟地产，有公司在 19 个元宇宙里囤地 2500 块，如何看待炒房团攻占元宇宙？",
+    "url": "https://www.zhihu.com/question/503322227/answer/2255187845",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "反诈骗宣传或写作相关",
+      "industry": "公共安全或媒体",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "曾接触或处理过网络诈骗案件",
+      "长期关注社会热点和投资骗局",
+      "有写作或分享经验"
+    ],
+    "interest_topics": [
+      "反诈骗",
+      "社会热点",
+      "投资理财",
+      "区块链",
+      "元宇宙"
+    ],
+    "discussion_triggers": [
+      "明星代言骗局",
+      "虚拟资产炒作",
+      "杀猪盘套路",
+      "新概念割韭菜"
+    ],
+    "sensitive_topics": [
+      "诈骗",
+      "明星虚假代言",
+      "割韭菜",
+      "投资陷阱"
+    ],
+    "value_tendencies": [
+      "警惕资本炒作",
+      "同情受害者",
+      "批判明星责任",
+      "强调常识和理性"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "类比分析",
+      "经验主义",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "反诈骗",
+        "网络犯罪",
+        "社会心理学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "提醒他人避免受骗",
+      "分享反诈骗经验",
+      "批判社会现象",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 60,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "元宇宙投资骗局",
+        "score": 90
+      },
+      {
+        "topic": "明星代言风险",
+        "score": 85
+      },
+      {
+        "topic": "杀猪盘套路",
+        "score": 80
+      },
+      {
+        "topic": "区块链炒作",
+        "score": 75
+      },
+      {
+        "topic": "虚拟资产监管",
+        "score": 70
+      }
+    ],
+    "impression": "一个被诈骗案例喂大的反诈老手，用杀猪盘类比元宇宙，句句不离韭菜和套路。"
+  },
+  "analyzed_at": "2026-06-15T22:26:21.951052",
+  "token_usage": 2555
+}

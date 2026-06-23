@@ -1,0 +1,123 @@
+{
+  "id": "idy_20260615_0322",
+  "source": {
+    "title": "如何看待 Bin 得偿所愿加盟 RNG 战队？",
+    "url": "https://www.zhihu.com/question/504441626/answer/2271694435",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "学生或游戏相关行业",
+      "industry": "电子竞技",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "求学或初入职场",
+      "热衷电竞"
+    ],
+    "life_experiences": [
+      "长期观看LPL比赛",
+      "参与过网络辩论",
+      "熟悉游戏术语"
+    ],
+    "interest_topics": [
+      "英雄联盟",
+      "LPL赛事",
+      "战队运营",
+      "选手评价"
+    ],
+    "discussion_triggers": [
+      "选手转会",
+      "战队阵容分析",
+      "比赛表现"
+    ],
+    "sensitive_topics": [
+      "选手实力争议",
+      "战队粉丝互撕"
+    ],
+    "value_tendencies": [
+      "理性分析",
+      "反对盲目崇拜",
+      "重视团队贡献"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "数据导向",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "英雄联盟上单选手",
+        "LPL赛事历史"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 30,
+      "likes_commenting": 90,
+      "likes_debating": 90,
+      "likes_contrarian": 80,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 10,
+      "likes_explaining": 80,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "反驳他人",
+      "展示专业能力",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 30,
+      "seeking_influence": 80,
+      "seeking_help_others": 10,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "LPL选手转会",
+        "score": 90
+      },
+      {
+        "topic": "RNG战队阵容",
+        "score": 95
+      },
+      {
+        "topic": "Bin选手实力",
+        "score": 100
+      },
+      {
+        "topic": "小虎位置转换",
+        "score": 90
+      },
+      {
+        "topic": "LPL上单对比",
+        "score": 80
+      }
+    ],
+    "impression": "一个自认理性、喜欢用数据和逻辑打脸的资深电竞观众，对战队操作恨铁不成钢，带着点优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:24:15.569494",
+  "token_usage": 3082
+}

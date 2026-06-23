@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0789",
+  "source": {
+    "title": "刘耀文中考是怎么回事啊？",
+    "url": "https://www.zhihu.com/question/487353925/answer/2285729776",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "15-25",
+      "gender": "女",
+      "education": "高中或大学在读",
+      "occupation": "学生",
+      "industry": "娱乐/粉丝行业",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "青春期",
+      "追星活跃期",
+      "学业压力期"
+    ],
+    "life_experiences": [
+      "深度参与粉丝社群",
+      "为偶像进行舆论辩护",
+      "长期关注娱乐圈动态"
+    ],
+    "interest_topics": [
+      "偶像养成",
+      "娱乐圈八卦",
+      "中考教育政策",
+      "粉丝文化",
+      "网络舆论"
+    ],
+    "discussion_triggers": [
+      "偶像被误解",
+      "网络谣言",
+      "公司澄清不力",
+      "路人恶意评论"
+    ],
+    "sensitive_topics": [
+      "偶像学业争议",
+      "走后门质疑",
+      "粉丝与路人冲突"
+    ],
+    "value_tendencies": [
+      "忠诚",
+      "正义感",
+      "理性分析",
+      "反对网络暴力",
+      "支持偶像自主选择"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑推理",
+      "时间线梳理",
+      "细节挖掘",
+      "情感代入"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "粉丝圈内幕",
+        "偶像行程",
+        "中考流程",
+        "微博生态"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 60,
+      "likes_commenting": 90,
+      "likes_debating": 80,
+      "likes_contrarian": 30,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 90,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "为偶像澄清",
+      "反驳谣言",
+      "展示逻辑能力",
+      "获得同担认同",
+      "教育路人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "刘耀文中考",
+        "score": 100
+      },
+      {
+        "topic": "偶像学业争议",
+        "score": 90
+      },
+      {
+        "topic": "粉丝澄清方法论",
+        "score": 80
+      },
+      {
+        "topic": "巴蜀中学相关",
+        "score": 70
+      },
+      {
+        "topic": "网络谣言应对",
+        "score": 60
+      }
+    ],
+    "impression": "一个逻辑清晰、战斗力强的铁血粉丝，为偶像辩护时条理分明，但情绪投入较深，容易与路人发生争执。"
+  },
+  "analyzed_at": "2026-06-15T22:29:44.520153",
+  "token_usage": 2587
+}

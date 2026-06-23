@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0628",
+  "source": {
+    "title": "《他的小仙女超甜》江隽 沈星旖（双向奔赴宠文沈仙女×江学霸）完结已有",
+    "url": "https://zhuanlan.zhihu.com/p/442995002",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "16-18",
+      "gender": "女",
+      "education": "高中在读",
+      "occupation": "学生",
+      "industry": "无",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "青春期",
+      "高中阶段"
+    ],
+    "life_experiences": [
+      "家庭不和睦，父母感情不合",
+      "被同父异母的妹妹欺骗利用",
+      "曾经叛逆、成绩差",
+      "重生后觉醒，决心改变"
+    ],
+    "interest_topics": [
+      "言情小说",
+      "重生文",
+      "校园恋爱",
+      "个人成长",
+      "复仇"
+    ],
+    "discussion_triggers": [
+      "重生后悔恨",
+      "虐文推荐",
+      "校园恋爱",
+      "家庭关系"
+    ],
+    "sensitive_topics": [
+      "家庭暴力",
+      "校园霸凌",
+      "背叛",
+      "死亡"
+    ],
+    "value_tendencies": [
+      "珍惜感情",
+      "重视家庭",
+      "自我反省",
+      "勇敢改变"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "情感驱动",
+      "故事叙述",
+      "自我反思"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "言情小说",
+        "校园生活"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 50,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享情感体验",
+      "寻求共鸣",
+      "表达悔恨与成长",
+      "推荐好文"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "重生文推荐",
+        "score": 90
+      },
+      {
+        "topic": "校园恋爱故事",
+        "score": 85
+      },
+      {
+        "topic": "家庭关系处理",
+        "score": 70
+      },
+      {
+        "topic": "虐心小说分享",
+        "score": 80
+      },
+      {
+        "topic": "个人成长经历",
+        "score": 75
+      }
+    ],
+    "impression": "一个重生后幡然醒悟、渴望弥补过错的小女生，情感丰富，喜欢分享故事和表达内心感受。"
+  },
+  "analyzed_at": "2026-06-15T22:27:51.513558",
+  "token_usage": 5261
+}

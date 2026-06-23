@@ -1,0 +1,121 @@
+{
+  "id": "idy_20260615_0192",
+  "source": {
+    "title": "有没有不要为了虐而虐，主要虐男主的虐文推荐？",
+    "url": "https://www.zhihu.com/question/460211901/answer/2271800768",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "无",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "青春期",
+      "探索期"
+    ],
+    "life_experiences": [
+      "沉迷网络小说",
+      "曾追更虐文",
+      "有过穿书幻想"
+    ],
+    "interest_topics": [
+      "言情小说",
+      "虐文",
+      "穿书文",
+      "女配逆袭",
+      "耽美"
+    ],
+    "discussion_triggers": [
+      "虐男主文推荐",
+      "穿书文分享",
+      "吐槽虐文套路"
+    ],
+    "sensitive_topics": [
+      "为虐而虐",
+      "女配洗白",
+      "男主渣"
+    ],
+    "value_tendencies": [
+      "追求情感体验",
+      "偏好浪漫主义",
+      "反对无逻辑虐"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "情感驱动",
+      "代入感强",
+      "偏好故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络小说套路",
+        "言情小说分类"
+      ],
+      "general_knowledge_level": 30,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 50,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "寻找共鸣",
+      "分享喜好",
+      "获得推荐"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "虐文推荐",
+        "score": 90
+      },
+      {
+        "topic": "穿书文",
+        "score": 80
+      },
+      {
+        "topic": "言情小说",
+        "score": 70
+      },
+      {
+        "topic": "女配逆袭",
+        "score": 60
+      }
+    ],
+    "impression": "一个沉迷言情小说的少女，喜欢分享和吐槽，情感丰富，容易代入角色。"
+  },
+  "analyzed_at": "2026-06-15T22:22:54.242504",
+  "token_usage": 3761
+}

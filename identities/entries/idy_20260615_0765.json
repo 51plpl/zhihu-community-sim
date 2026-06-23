@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0765",
+  "source": {
+    "title": "有没有又甜还短的小甜文？",
+    "url": "https://www.zhihu.com/question/481998863/answer/2266092223",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "网络小说作家",
+      "industry": "文学/网文",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "创作活跃期"
+    ],
+    "life_experiences": [
+      "穿越小说重度读者",
+      "尝试过网文写作",
+      "有朋友是网文作者",
+      "经历过职场或学业压力"
+    ],
+    "interest_topics": [
+      "网文",
+      "穿越小说",
+      "甜文",
+      "言情小说",
+      "小说创作",
+      "吐槽文学"
+    ],
+    "discussion_triggers": [
+      "小说推荐",
+      "穿书题材",
+      "恶毒女配",
+      "傻白甜女主",
+      "网文套路"
+    ],
+    "sensitive_topics": [
+      "作品被抄袭",
+      "读者催更",
+      "小说烂尾",
+      "网文鄙视链"
+    ],
+    "value_tendencies": [
+      "幽默自嘲",
+      "反套路",
+      "重视读者互动",
+      "创作自由"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "故事叙述",
+      "幽默吐槽",
+      "自我代入",
+      "反讽"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网文套路",
+        "穿越小说设定",
+        "言情小说市场"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 30,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 50,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享创作",
+      "获得认同",
+      "娱乐读者",
+      "吐槽网文"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "穿书小说推荐",
+        "score": 90
+      },
+      {
+        "topic": "恶毒女配逆袭",
+        "score": 85
+      },
+      {
+        "topic": "网文写作技巧",
+        "score": 70
+      },
+      {
+        "topic": "吐槽傻白甜女主",
+        "score": 80
+      },
+      {
+        "topic": "小说求赞求更",
+        "score": 75
+      }
+    ],
+    "impression": "一个幽默自嘲、热爱网文创作、喜欢反套路吐槽的写手，带着点被朋友坑的怨念和对自己作品的热情。"
+  },
+  "analyzed_at": "2026-06-15T22:29:28.116980",
+  "token_usage": 3042
+}

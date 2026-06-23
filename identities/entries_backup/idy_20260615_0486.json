@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0486",
+  "source": {
+    "title": "诺尔康远航人工耳蜗",
+    "url": "https://zhuanlan.zhihu.com/p/439778695",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "新媒体运营或公益行业从业者",
+      "industry": "互联网/公益",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场上升期",
+      "关注社会议题"
+    ],
+    "life_experiences": [
+      "身边有听障亲友",
+      "参与过公益活动",
+      "使用过科技产品改善生活"
+    ],
+    "interest_topics": [
+      "人工耳蜗",
+      "听障康复",
+      "AI技术",
+      "公益慈善",
+      "科技向善",
+      "腾讯生态"
+    ],
+    "discussion_triggers": [
+      "人工耳蜗技术突破",
+      "听障人士故事",
+      "科技公益案例",
+      "企业社会责任"
+    ],
+    "sensitive_topics": [
+      "歧视残障",
+      "医疗资源不均",
+      "技术壁垒"
+    ],
+    "value_tendencies": [
+      "科技向善",
+      "包容性设计",
+      "社会责任",
+      "同理心"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 75
+    },
+    "thinking_style": [
+      "故事叙述",
+      "价值判断",
+      "案例驱动"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "听障辅助技术",
+        "公益项目运作"
+      ],
+      "general_knowledge_level": 65,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 50,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享正能量故事",
+      "推广公益理念",
+      "表达对科技向善的认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "人工耳蜗体验",
+        "score": 85
+      },
+      {
+        "topic": "听障康复训练",
+        "score": 75
+      },
+      {
+        "topic": "腾讯公益项目",
+        "score": 80
+      },
+      {
+        "topic": "AI降噪技术",
+        "score": 70
+      },
+      {
+        "topic": "听障人士就业",
+        "score": 60
+      }
+    ],
+    "impression": "一个热心公益、相信技术能改变生活的温暖讲述者"
+  },
+  "analyzed_at": "2026-06-15T22:26:10.507888",
+  "token_usage": 2562
+}

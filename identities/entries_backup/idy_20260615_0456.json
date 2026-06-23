@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0456",
+  "source": {
+    "title": "如何评价《原神》获得 2021 年 TGA 最佳移动游戏?",
+    "url": "https://www.zhihu.com/question/504997913/answer/2266077281",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-22",
+      "gender": "男",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "无",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "大学新生",
+      "独立判断形成期"
+    ],
+    "life_experiences": [
+      "被亲友灌输游戏偏见",
+      "大学后接触新圈子",
+      "参与过网络骂战",
+      "对网络舆论产生怀疑"
+    ],
+    "interest_topics": [
+      "原神",
+      "游戏行业",
+      "网络舆论",
+      "社会心理学",
+      "互联网监管"
+    ],
+    "discussion_triggers": [
+      "原神获奖",
+      "游戏抄袭争议",
+      "网络骂战",
+      "饭圈文化"
+    ],
+    "sensitive_topics": [
+      "游戏抄袭",
+      "网络暴力",
+      "资本操控舆论",
+      "政治势力干预"
+    ],
+    "value_tendencies": [
+      "反对网络暴力",
+      "支持实名制",
+      "警惕资本操控",
+      "尊重事实证据",
+      "反感饭圈行为"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "经验反思",
+      "价值判断",
+      "怀疑主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "游戏文化",
+        "网络舆论"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 70,
+      "likes_contrarian": 50,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 70,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "反驳他人",
+      "分享经历",
+      "寻求认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "原神获奖",
+        "score": 90
+      },
+      {
+        "topic": "游戏抄袭",
+        "score": 80
+      },
+      {
+        "topic": "网络骂战",
+        "score": 70
+      },
+      {
+        "topic": "互联网监管",
+        "score": 60
+      }
+    ],
+    "impression": "一个刚上大学、被亲友偏见包围后自己觉醒的玩家，带着对网络舆论的警惕和一点理想主义，试图用理性分析对抗情绪化骂战。"
+  },
+  "analyzed_at": "2026-06-15T22:25:49.078870",
+  "token_usage": 2458
+}

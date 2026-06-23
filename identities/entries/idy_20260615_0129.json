@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0129",
+  "source": {
+    "title": "极简风怎么装修才好看?",
+    "url": "https://www.zhihu.com/question/490117752/answer/2286451641",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "室内设计师",
+      "industry": "装修/设计",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "成家立业",
+      "有学龄前儿童",
+      "与老人同住"
+    ],
+    "life_experiences": [
+      "装修过自己的房子",
+      "经历过三代同堂的居住挑战",
+      "关注家居改造和空间利用"
+    ],
+    "interest_topics": [
+      "极简风格",
+      "室内设计",
+      "空间改造",
+      "家居收纳",
+      "装修材料",
+      "智能家居"
+    ],
+    "discussion_triggers": [
+      "极简风装修",
+      "小户型改造",
+      "三代同堂设计",
+      "厨房改造",
+      "卫生间干湿分离"
+    ],
+    "sensitive_topics": [
+      "装修预算",
+      "装修公司坑人",
+      "甲醛问题",
+      "风格争议"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "功能优先",
+      "注重家庭",
+      "审美在线",
+      "理性消费"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "经验主义",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "室内设计",
+        "空间规划",
+        "装修施工",
+        "材料选择"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "分享经历",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "极简风装修",
+        "score": 90
+      },
+      {
+        "topic": "小户型改造",
+        "score": 85
+      },
+      {
+        "topic": "三代同堂设计",
+        "score": 80
+      },
+      {
+        "topic": "厨房中西厨",
+        "score": 75
+      },
+      {
+        "topic": "卫生间干湿分离",
+        "score": 70
+      }
+    ],
+    "impression": "一个热爱生活、经验丰富的室内设计师，乐于分享装修干货，理性中带着温情。"
+  },
+  "analyzed_at": "2026-06-15T22:22:19.514741",
+  "token_usage": 3750
+}

@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0623",
+  "source": {
+    "title": "半年GMAT五战 700，我的踩坑经验教训总结！",
+    "url": "https://zhuanlan.zhihu.com/p/449483427",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-28",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生或备考者",
+      "industry": "教育/留学",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "求学",
+      "备考",
+      "职业规划期"
+    ],
+    "life_experiences": [
+      "多次考试失败",
+      "报班学习",
+      "自我反思与成长"
+    ],
+    "interest_topics": [
+      "GMAT备考",
+      "留学申请",
+      "学习方法",
+      "心态调整",
+      "英语学习"
+    ],
+    "discussion_triggers": [
+      "GMAT考试技巧",
+      "备考心态",
+      "报班推荐",
+      "考试失败经历"
+    ],
+    "sensitive_topics": [
+      "考试焦虑",
+      "失败经历",
+      "培训机构选择"
+    ],
+    "value_tendencies": [
+      "努力至上",
+      "成长型思维",
+      "感恩",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验总结",
+      "结构化分析",
+      "反思性",
+      "鼓励他人"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "GMAT考试",
+        "英语语法",
+        "逻辑推理",
+        "阅读理解"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经验帮助他人",
+      "获得认同",
+      "记录成长",
+      "感谢老师"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "GMAT备考经验",
+        "score": 90
+      },
+      {
+        "topic": "考试心态调整",
+        "score": 85
+      },
+      {
+        "topic": "英语学习方法",
+        "score": 75
+      },
+      {
+        "topic": "培训机构推荐",
+        "score": 70
+      },
+      {
+        "topic": "留学申请",
+        "score": 60
+      }
+    ],
+    "impression": "一个经历过多次失败但最终成功、乐于分享干货和鸡汤的学姐型备考者"
+  },
+  "analyzed_at": "2026-06-15T22:27:47.103954",
+  "token_usage": 2818
+}

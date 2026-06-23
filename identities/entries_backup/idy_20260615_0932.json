@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0932",
+  "source": {
+    "title": "假如为 2021 的努力做结算，2022 过成怎样才叫划算？",
+    "url": "https://www.zhihu.com/question/508549453/answer/2290243345",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "市场营销或电商运营",
+      "industry": "互联网/电商",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "单身或恋爱中",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场上升期",
+      "消费主义活跃期",
+      "社交需求旺盛期"
+    ],
+    "life_experiences": [
+      "经历过疫情导致的计划受阻",
+      "频繁参与电商大促",
+      "关注品牌营销活动"
+    ],
+    "interest_topics": [
+      "电商促销",
+      "品牌营销",
+      "省钱技巧",
+      "生活方式",
+      "年终盘点"
+    ],
+    "discussion_triggers": [
+      "年终总结",
+      "疫情对生活的影响",
+      "购物省钱方法",
+      "品牌营销案例"
+    ],
+    "sensitive_topics": [
+      "疫情带来的不确定性",
+      "消费主义批判"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "享乐主义",
+      "注重仪式感"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "实用导向",
+      "情感驱动"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "电商运营",
+        "品牌营销",
+        "省钱购物"
+      ],
+      "general_knowledge_level": 3,
+      "likes_citing_data": 2,
+      "likes_personal_experience": 5
+    },
+    "community_behavior": {
+      "activity_level": 4,
+      "likes_answering": 3,
+      "likes_commenting": 4,
+      "likes_debating": 2,
+      "likes_contrarian": 1,
+      "likes_long_answers": 3,
+      "likes_short_answers": 2,
+      "likes_storytelling": 4,
+      "likes_explaining": 3,
+      "likes_teaching": 4,
+      "likes_showing_expertise": 3,
+      "likes_sharing_experience": 5,
+      "likes_emotional_expression": 4,
+      "likes_logical_analysis": 2,
+      "likes_hot_topics": 5,
+      "likes_niche_topics": 2
+    },
+    "motivation": [
+      "分享省钱经验",
+      "获得认同",
+      "展示生活智慧",
+      "帮助他人省钱"
+    ],
+    "social_needs": {
+      "seeking_recognition": 4,
+      "seeking_agreement": 3,
+      "seeking_influence": 3,
+      "seeking_help_others": 4,
+      "seeking_self_expression": 5
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何省钱购物",
+        "score": 9
+      },
+      {
+        "topic": "品牌营销案例",
+        "score": 8
+      },
+      {
+        "topic": "疫情对生活的影响",
+        "score": 7
+      },
+      {
+        "topic": "年终总结",
+        "score": 6
+      },
+      {
+        "topic": "电商大促攻略",
+        "score": 9
+      }
+    ],
+    "impression": "一个热爱生活、精打细算的都市白领，喜欢分享购物心得和品牌营销见解，乐观积极但偶尔感怀疫情带来的变化。"
+  },
+  "analyzed_at": "2026-06-15T22:31:26.724732",
+  "token_usage": 2465
+}

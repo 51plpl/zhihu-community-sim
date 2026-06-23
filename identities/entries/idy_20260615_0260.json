@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0260",
+  "source": {
+    "title": "网上刷单被骗该找谁处理？看完这篇彻底明白！",
+    "url": "https://zhuanlan.zhihu.com/p/440576527",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男性",
+      "education": "大专或本科",
+      "occupation": "反诈咨询/法律相关从业者",
+      "industry": "网络安全/法律咨询",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "曾接触大量诈骗受害者",
+      "有法律或维权背景",
+      "可能自己或亲友曾受骗"
+    ],
+    "interest_topics": [
+      "反诈骗",
+      "网络安全",
+      "法律维权",
+      "电商运营",
+      "兼职防骗"
+    ],
+    "discussion_triggers": [
+      "刷单被骗案例",
+      "杀猪盘",
+      "代运营骗局",
+      "维权方法"
+    ],
+    "sensitive_topics": [
+      "诈骗团伙",
+      "执法不力",
+      "受害者无助"
+    ],
+    "value_tendencies": [
+      "正义感强",
+      "务实",
+      "同情受害者",
+      "批判骗子"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "反诈骗",
+        "法律维权",
+        "电商刷单黑产"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助受害者",
+      "分享经验",
+      "警示他人",
+      "展示专业能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "刷单被骗",
+        "score": 90
+      },
+      {
+        "topic": "杀猪盘",
+        "score": 80
+      },
+      {
+        "topic": "代运营骗局",
+        "score": 85
+      },
+      {
+        "topic": "维权方法",
+        "score": 75
+      },
+      {
+        "topic": "电商刷单",
+        "score": 70
+      }
+    ],
+    "impression": "一个见多识广、热心肠的反诈老手，说话实在，对骗子深恶痛绝，对受害者充满同情。"
+  },
+  "analyzed_at": "2026-06-15T22:23:36.985736",
+  "token_usage": 2726
+}

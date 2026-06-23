@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0175",
+  "source": {
+    "title": "2021如何治愈？6部小众Healing韩综推荐",
+    "url": "https://zhuanlan.zhihu.com/p/452027591",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "内容创作者/编辑",
+      "industry": "媒体/娱乐",
+      "city_tier": "一线城市",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场初期",
+      "独居生活"
+    ],
+    "life_experiences": [
+      "追韩综多年",
+      "喜欢旅行但受限",
+      "关注治愈文化",
+      "有朋友但享受独处"
+    ],
+    "interest_topics": [
+      "韩国综艺",
+      "治愈系内容",
+      "旅行",
+      "音乐",
+      "宠物",
+      "美食"
+    ],
+    "discussion_triggers": [
+      "韩综推荐",
+      "治愈方法",
+      "旅行经历",
+      "宠物趣事"
+    ],
+    "sensitive_topics": [
+      "疫情对生活的影响",
+      "孤独感"
+    ],
+    "value_tendencies": [
+      "重视情感连接",
+      "追求生活品质",
+      "尊重他人感受",
+      "支持小众文化"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "情感驱动",
+      "细节观察",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "韩国综艺",
+        "治愈文化"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 60,
+      "likes_short_answers": 40,
+      "likes_storytelling": 80,
+      "likes_explaining": 50,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享治愈体验",
+      "帮助他人找到放松方式",
+      "表达对韩综的热爱",
+      "获得认同感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "韩综推荐",
+        "score": 90
+      },
+      {
+        "topic": "治愈方法",
+        "score": 85
+      },
+      {
+        "topic": "旅行经历",
+        "score": 70
+      },
+      {
+        "topic": "宠物趣事",
+        "score": 60
+      },
+      {
+        "topic": "音乐推荐",
+        "score": 50
+      }
+    ],
+    "impression": "一个温暖细腻的治愈系爱好者，乐于分享小众宝藏，像朋友一样娓娓道来。"
+  },
+  "analyzed_at": "2026-06-15T22:22:49.024379",
+  "token_usage": 3092
+}

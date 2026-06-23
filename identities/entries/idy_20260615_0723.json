@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0723",
+  "source": {
+    "title": "如何以“算了，我来嫁。”为开头写一个故事？",
+    "url": "https://www.zhihu.com/question/453317026/answer/2267897148",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-25",
+      "gender": "女",
+      "education": "私塾教育",
+      "occupation": "无（丞相府嫡长女）",
+      "industry": "无",
+      "city_tier": "一线（京城）",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中产（依靠家族）"
+    },
+    "life_stage": [
+      "待嫁闺中",
+      "家族变故"
+    ],
+    "life_experiences": [
+      "母亲早逝",
+      "继母虐待",
+      "妹妹表面关怀实则心机",
+      "被杀手威胁",
+      "家族陷入危机"
+    ],
+    "interest_topics": [
+      "宅斗",
+      "权谋",
+      "生存策略",
+      "人性观察",
+      "写作（秘密日记）"
+    ],
+    "discussion_triggers": [
+      "家族不公",
+      "姐妹关系",
+      "生存困境",
+      "婚姻选择"
+    ],
+    "sensitive_topics": [
+      "母亲之死",
+      "继母与妹妹的虚伪",
+      "被忽视的嫡女身份",
+      "被迫嫁人"
+    ],
+    "value_tendencies": [
+      "重视生存与自由",
+      "厌恶虚伪",
+      "善于算计",
+      "对亲情冷漠",
+      "独立自保"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "策略分析",
+      "冷眼旁观",
+      "自我解嘲",
+      "隐忍算计"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "宅斗技巧",
+        "人心洞察",
+        "生存策略"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 40,
+      "likes_answering": 30,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 60,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "表达观点",
+      "分享经历",
+      "获得认同",
+      "反驳他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 40,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "古代宅斗",
+        "score": 90
+      },
+      {
+        "topic": "家族关系",
+        "score": 85
+      },
+      {
+        "topic": "女性生存",
+        "score": 80
+      },
+      {
+        "topic": "权谋策略",
+        "score": 75
+      },
+      {
+        "topic": "婚姻选择",
+        "score": 70
+      }
+    ],
+    "impression": "一个被命运逼到墙角却不肯认输的腹黑嫡女，表面隐忍内心戏精，擅长用文字和算计给自己找活路。"
+  },
+  "analyzed_at": "2026-06-15T22:28:58.470003",
+  "token_usage": 5318
+}

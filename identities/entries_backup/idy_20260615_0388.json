@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0388",
+  "source": {
+    "title": "2021 年音视频领域有哪些突破性技术与发展？明年甚至更远的未来是否会迎来技术性拐点？",
+    "url": "https://www.zhihu.com/question/508523690/answer/2292151873",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "AI算法工程师",
+      "industry": "互联网/音视频技术",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "技术深耕期"
+    ],
+    "life_experiences": [
+      "参与过音视频处理项目",
+      "使用过深度学习模型进行图像修复",
+      "关注技术前沿动态"
+    ],
+    "interest_topics": [
+      "深度学习",
+      "计算机视觉",
+      "音视频处理",
+      "AI落地应用",
+      "动漫",
+      "老片修复"
+    ],
+    "discussion_triggers": [
+      "音视频技术突破",
+      "AI修复老照片",
+      "画质增强",
+      "腾讯云音视频"
+    ],
+    "sensitive_topics": [
+      "技术落地难度",
+      "学术与工业差距",
+      "开源项目质量"
+    ],
+    "value_tendencies": [
+      "技术乐观主义",
+      "实用主义",
+      "注重落地效果",
+      "支持开源精神"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 75
+    },
+    "thinking_style": [
+      "技术分析",
+      "案例驱动",
+      "逻辑清晰",
+      "乐于分享"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "计算机视觉",
+        "深度学习",
+        "图像处理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 40,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助他人理解技术",
+      "分享前沿进展",
+      "推广产品"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "AI修复老照片",
+        "score": 90
+      },
+      {
+        "topic": "音视频编解码技术",
+        "score": 80
+      },
+      {
+        "topic": "腾讯云音视频产品",
+        "score": 85
+      },
+      {
+        "topic": "动漫超分辨率",
+        "score": 75
+      },
+      {
+        "topic": "深度学习落地案例",
+        "score": 70
+      }
+    ],
+    "impression": "一个技术功底扎实、乐于分享的AI工程师，对前沿技术充满热情，同时关注实际落地，略带产品推广倾向。"
+  },
+  "analyzed_at": "2026-06-15T22:25:00.599974",
+  "token_usage": 3823
+}

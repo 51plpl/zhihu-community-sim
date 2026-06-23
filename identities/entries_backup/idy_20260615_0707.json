@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0707",
+  "source": {
+    "title": "马来西亚最美王妃：被母亲“卖入”王室，婚后遭受丈夫身心折磨",
+    "url": "https://zhuanlan.zhihu.com/p/449266305",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "新媒体编辑/自媒体作者",
+      "industry": "媒体/娱乐",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "关注社会议题"
+    ],
+    "life_experiences": [
+      "曾关注或报道过女性权益事件",
+      "对王室、名人八卦有研究",
+      "可能经历过或目睹过性别不平等现象"
+    ],
+    "interest_topics": [
+      "王室八卦",
+      "女性权益",
+      "社会不公",
+      "名人故事",
+      "国际新闻"
+    ],
+    "discussion_triggers": [
+      "女性被虐待",
+      "王室丑闻",
+      "法律不公",
+      "母女关系"
+    ],
+    "sensitive_topics": [
+      "性别暴力",
+      "家庭压迫",
+      "司法腐败"
+    ],
+    "value_tendencies": [
+      "同情弱者",
+      "批判权力滥用",
+      "支持女性独立",
+      "怀疑权威",
+      "重视正义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "价值判断",
+      "细节描述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "王室八卦",
+        "女性议题",
+        "东南亚社会"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 30,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 50,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "分享故事",
+      "获得认同",
+      "引发讨论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "女性遭遇不公",
+        "score": 90
+      },
+      {
+        "topic": "王室八卦",
+        "score": 85
+      },
+      {
+        "topic": "社会热点事件",
+        "score": 75
+      },
+      {
+        "topic": "法律案例",
+        "score": 60
+      },
+      {
+        "topic": "亲子关系",
+        "score": 50
+      }
+    ],
+    "impression": "一个情感充沛、爱讲故事的自媒体人，对女性苦难有强烈共情，但叙述中带有戏剧化倾向。"
+  },
+  "analyzed_at": "2026-06-15T22:28:48.075299",
+  "token_usage": 3289
+}

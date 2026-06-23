@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0793",
+  "source": {
+    "title": "龅牙矫正戴半陶瓷牙套效果怎样，坐标成都，有推荐的吗？",
+    "url": "https://www.zhihu.com/question/55442115/answer/2289381209",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "办公室职员或自由职业者",
+      "industry": "服务业或互联网",
+      "city_tier": "新一线城市（成都）",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "外貌焦虑期",
+      "消费升级期",
+      "健康意识觉醒期"
+    ],
+    "life_experiences": [
+      "自己或身边人做过牙齿矫正",
+      "在成都生活多年",
+      "经历过信息搜集和决策过程"
+    ],
+    "interest_topics": [
+      "牙齿矫正",
+      "医美",
+      "口腔健康",
+      "成都本地生活",
+      "消费决策"
+    ],
+    "discussion_triggers": [
+      "牙齿矫正效果",
+      "牙套类型对比",
+      "医生选择技巧",
+      "成都本地推荐"
+    ],
+    "sensitive_topics": [
+      "矫正失败案例",
+      "医生资质问题",
+      "价格陷阱"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "谨慎决策",
+      "重视口碑",
+      "追求性价比"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "信息整合",
+      "案例导向",
+      "谨慎分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "牙齿矫正基础",
+        "牙套类型"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 40,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人",
+      "分享经验",
+      "展示信息搜集能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "牙齿矫正",
+        "score": 90
+      },
+      {
+        "topic": "成都本地生活",
+        "score": 70
+      },
+      {
+        "topic": "医美",
+        "score": 60
+      },
+      {
+        "topic": "消费决策",
+        "score": 50
+      }
+    ],
+    "impression": "一个热心又谨慎的过来人，乐于分享自己搜集的干货，但也会提醒别人避坑。"
+  },
+  "analyzed_at": "2026-06-15T22:29:47.545006",
+  "token_usage": 2842
+}

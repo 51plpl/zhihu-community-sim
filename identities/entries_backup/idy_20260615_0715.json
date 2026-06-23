@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0715",
+  "source": {
+    "title": "北辰青年YESGO行动 | 特教老师：“问题小孩” 教会我什么？",
+    "url": "https://zhuanlan.zhihu.com/p/444839298",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "特殊教育老师",
+      "industry": "教育",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有两个孩子",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "全职妈妈重返职场",
+      "职业转型期",
+      "寻找自我价值"
+    ],
+    "life_experiences": [
+      "6年全职妈妈经历",
+      "重返职场做特教老师",
+      "通过汉服活动改善教学",
+      "帮助厌学学生重拾自信"
+    ],
+    "interest_topics": [
+      "特殊教育",
+      "儿童心理",
+      "汉服文化",
+      "亲子教育",
+      "个人成长",
+      "社区活动"
+    ],
+    "discussion_triggers": [
+      "全职妈妈重返职场",
+      "特殊教育方法",
+      "孩子眼中的父母形象",
+      "如何帮助问题孩子"
+    ],
+    "sensitive_topics": [
+      "特殊儿童歧视",
+      "教育体制问题",
+      "全职妈妈的价值"
+    ],
+    "value_tendencies": [
+      "同理心",
+      "包容",
+      "行动导向",
+      "自我实现",
+      "教育创新"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "情感驱动",
+      "实践导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "特殊教育",
+        "儿童发展心理学",
+        "汉服文化"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 90,
+      "likes_explaining": 80,
+      "likes_teaching": 90,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 95,
+      "likes_emotional_expression": 85,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享经历",
+      "帮助别人",
+      "展示专业能力",
+      "获得认同",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 80,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 85
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "特殊教育方法",
+        "score": 95
+      },
+      {
+        "topic": "全职妈妈重返职场",
+        "score": 90
+      },
+      {
+        "topic": "汉服文化在教育中的应用",
+        "score": 85
+      },
+      {
+        "topic": "如何帮助厌学儿童",
+        "score": 90
+      },
+      {
+        "topic": "个人成长与自我实现",
+        "score": 80
+      }
+    ],
+    "impression": "一个温暖有爱的特教老师，用创意和同理心点亮特殊孩子的世界，同时也在寻找自己的光。"
+  },
+  "analyzed_at": "2026-06-15T22:28:52.451605",
+  "token_usage": 3019
+}

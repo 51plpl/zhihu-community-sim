@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0499",
+  "source": {
+    "title": "光流模型概述：从 PWC-Net 到 RAFT",
+    "url": "https://zhuanlan.zhihu.com/p/446739441",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "计算机视觉算法工程师",
+      "industry": "人工智能",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业上升期",
+      "技术深耕期"
+    ],
+    "life_experiences": [
+      "参与过开源项目",
+      "发表过学术论文",
+      "参加过技术社区分享"
+    ],
+    "interest_topics": [
+      "计算机视觉",
+      "光流估计",
+      "深度学习模型设计",
+      "开源框架",
+      "学术论文"
+    ],
+    "discussion_triggers": [
+      "光流算法对比",
+      "模型结构创新",
+      "开源工具推荐",
+      "技术细节讨论"
+    ],
+    "sensitive_topics": [
+      "论文抄袭",
+      "算法效果夸大",
+      "社区贡献不被认可"
+    ],
+    "value_tendencies": [
+      "技术至上",
+      "开源精神",
+      "学术严谨",
+      "实用主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "结构比较",
+      "实证导向",
+      "细节关注"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "光流估计",
+        "深度学习",
+        "计算机视觉"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享知识",
+      "展示专业能力",
+      "帮助他人理解复杂概念",
+      "推广开源项目"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "光流算法原理",
+        "score": 90
+      },
+      {
+        "topic": "PWC-Net与RAFT对比",
+        "score": 95
+      },
+      {
+        "topic": "开源框架使用",
+        "score": 80
+      },
+      {
+        "topic": "计算机视觉面试题",
+        "score": 60
+      }
+    ],
+    "impression": "一个技术功底扎实、乐于分享的计算机视觉研究者，行文清晰有条理，像在给同行做技术报告。"
+  },
+  "analyzed_at": "2026-06-15T22:26:20.202377",
+  "token_usage": 3618
+}

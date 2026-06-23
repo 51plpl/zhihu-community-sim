@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0162",
+  "source": {
+    "title": "母亲癌症后，我越来越烦她？怎么办?",
+    "url": "https://www.zhihu.com/question/452908894/answer/2253238674",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领（可能互联网或金融行业）",
+      "industry": "互联网/金融",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有孩子（幼儿园阶段）",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "已婚有娃",
+      "职场奋斗期",
+      "赡养父母压力期"
+    ],
+    "life_experiences": [
+      "单亲家庭长大",
+      "母亲患癌",
+      "辞工照顾母亲",
+      "与母亲关系紧张",
+      "经济独立后与母亲划清界限"
+    ],
+    "interest_topics": [
+      "家庭关系",
+      "心理疗愈",
+      "职场与育儿平衡",
+      "癌症康复",
+      "养老规划"
+    ],
+    "discussion_triggers": [
+      "亲情绑架",
+      "父母索取",
+      "孝道压力",
+      "边界感",
+      "女性困境"
+    ],
+    "sensitive_topics": [
+      "母亲癌症",
+      "原生家庭伤害",
+      "离婚",
+      "自私与道德"
+    ],
+    "value_tendencies": [
+      "重视个人边界",
+      "理性务实",
+      "反对道德绑架",
+      "自我保全优先",
+      "强调公平与互惠"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "逻辑分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "职场生存",
+        "家庭财务管理",
+        "育儿"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "寻求认同",
+      "帮助有类似困境的人",
+      "表达观点",
+      "宣泄情绪"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何应对父母的过度索取",
+        "score": 90
+      },
+      {
+        "topic": "癌症家属的心理调适",
+        "score": 80
+      },
+      {
+        "topic": "单亲家庭的影响",
+        "score": 70
+      },
+      {
+        "topic": "职场妈妈的时间管理",
+        "score": 60
+      },
+      {
+        "topic": "养老院 vs 居家养老",
+        "score": 50
+      }
+    ],
+    "impression": "一个被原生家庭伤害但努力自救的职场妈妈，理性清醒，带着疲惫的坚强。"
+  },
+  "analyzed_at": "2026-06-15T22:22:42.063839",
+  "token_usage": 2629
+}

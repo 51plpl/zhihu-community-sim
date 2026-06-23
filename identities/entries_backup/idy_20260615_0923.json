@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0923",
+  "source": {
+    "title": "蜀汉及周边势力人物补记",
+    "url": "https://zhuanlan.zhihu.com/p/441490430",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "硕士及以上",
+      "occupation": "历史研究者/编辑/教师",
+      "industry": "学术/文化",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "学术深耕期"
+    ],
+    "life_experiences": [
+      "长期钻研三国史",
+      "参与过历史文献整理",
+      "对地方志和族谱有研究",
+      "有实地考察经历"
+    ],
+    "interest_topics": [
+      "三国史",
+      "魏晋南北朝史",
+      "历史文献学",
+      "地方志",
+      "族谱",
+      "人物考证",
+      "制度史"
+    ],
+    "discussion_triggers": [
+      "三国冷门人物",
+      "史料辨析",
+      "官职制度",
+      "蜀汉政治",
+      "刘表刘璋势力"
+    ],
+    "sensitive_topics": [
+      "历史人物评价争议",
+      "史料真伪",
+      "诸葛亮评价"
+    ],
+    "value_tendencies": [
+      "重视实证",
+      "尊重史料",
+      "反对过度解读",
+      "欣赏边缘人物"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "考据型",
+      "实证主义",
+      "细节导向",
+      "系统梳理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "三国史",
+        "历史文献学",
+        "地方史"
+      ],
+      "general_knowledge_level": 90,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 90
+    },
+    "motivation": [
+      "分享考证成果",
+      "纠正错误认知",
+      "补充史料空白",
+      "与同好交流"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 40,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "三国冷门人物考证",
+        "score": 90
+      },
+      {
+        "topic": "蜀汉官职制度",
+        "score": 85
+      },
+      {
+        "topic": "刘表势力人物",
+        "score": 80
+      },
+      {
+        "topic": "史料辨析方法",
+        "score": 75
+      },
+      {
+        "topic": "地方志与族谱",
+        "score": 70
+      }
+    ],
+    "impression": "一个沉浸在故纸堆里的考据癖，对三国边缘人物如数家珍，喜欢用史料说话，偶尔流露对主流史观的轻微不屑。"
+  },
+  "analyzed_at": "2026-06-15T22:31:20.200052",
+  "token_usage": 3988
+}

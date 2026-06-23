@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0573",
+  "source": {
+    "title": "问一下有没有上过新南威尔士大学商科diploma得学长学姐，介绍一下课程难度和生活?",
+    "url": "https://www.zhihu.com/question/423366836/answer/2257828211",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-22",
+      "gender": "男",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "一线城市（上海）",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "留学生",
+      "大学生"
+    ],
+    "life_experiences": [
+      "高考后出国留学",
+      "就读UNSW Diploma",
+      "网课经历",
+      "上海学习中心体验",
+      "获得奖学金"
+    ],
+    "interest_topics": [
+      "留学经验分享",
+      "商科学习",
+      "UNSW课程",
+      "英语学习",
+      "考试技巧",
+      "小组合作"
+    ],
+    "discussion_triggers": [
+      "Diploma课程难度",
+      "UNSW vs 其他大学",
+      "网课体验",
+      "奖学金申请",
+      "学术诚信"
+    ],
+    "sensitive_topics": [
+      "留学中介信息不准确",
+      "学术诚信问题",
+      "小组作业不公平"
+    ],
+    "value_tendencies": [
+      "重视教育",
+      "勤奋上进",
+      "务实",
+      "注重细节",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "商科基础",
+        "UNSW Diploma课程",
+        "留学申请"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 90,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "表达观点",
+      "获得认同",
+      "分享经历"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "UNSW Diploma课程难度",
+        "score": 95
+      },
+      {
+        "topic": "留学选校建议",
+        "score": 90
+      },
+      {
+        "topic": "网课学习技巧",
+        "score": 85
+      },
+      {
+        "topic": "小组作业经验",
+        "score": 80
+      },
+      {
+        "topic": "学术诚信",
+        "score": 70
+      }
+    ],
+    "impression": "一个勤奋、乐于分享的留学生，对学习充满热情，喜欢用数据和经验帮助后来者。"
+  },
+  "analyzed_at": "2026-06-15T22:27:13.265535",
+  "token_usage": 4344
+}

@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_043",
+  "source": {
+    "title": "平顶山 15 岁男孩网上求助，称父因不签拆迁协议被打，官方回应「打人者已获刑」，目前事件进展如何？",
+    "url": "https://www.zhihu.com/question/506620221/answer/2275845966",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "混合，专业术语与日常用语结合，如“破产重整”“违约责任”与“哭诉求助”并存。",
+    "sentence_rhythm": "中长句为主，节奏平稳，信息密度高。",
+    "favorite_expressions": [
+      "据悉",
+      "此外",
+      "同时",
+      "对此",
+      "记者注意到"
+    ],
+    "punctuation_habits": "逗号使用频繁，引号用于引用官方和专家言论，感叹号极少。",
+    "person_perspective": "第三人称客观叙述，偶尔切换为第一人称“记者”。",
+    "emotion_intensity": "冷静克制，保持新闻客观性。"
+  },
+  "structure": {
+    "opening_pattern": "事件概述+官方回应，直接亮出核心事实。",
+    "paragraph_rhythm": "段落长短交替，关键信息独立成段，如官方通报和专家观点。",
+    "argument_logic": "归纳型，先陈述事件案例，再引出专家分析和法律解读。",
+    "transition_style": "连接词过渡，如“据悉”“此外”“同时”。",
+    "closing_pattern": "专家建议结尾，强调依法维权。",
+    "title_pattern": "事件+官方回应+进展提问，兼具悬念和直给。"
+  },
+  "analyzed_at": "2026-06-14T22:55:18.170667",
+  "token_usage": 1774
+}

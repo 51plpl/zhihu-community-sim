@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0036",
+  "source": {
+    "title": "媒体人称「李铁已主动向中国足协提出辞职」，你希望李铁继续执教国足吗？你看好谁成为国足新任主帅？",
+    "url": "https://www.zhihu.com/question/502751105/answer/2250639453",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网或游戏行业从业者",
+      "industry": "科技/游戏",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场稳定期",
+      "兴趣驱动型"
+    ],
+    "life_experiences": [
+      "长期关注中国足球",
+      "玩足球经理游戏十余年",
+      "曾尝试直播或电商带货"
+    ],
+    "interest_topics": [
+      "中国足球",
+      "足球战术",
+      "游戏直播",
+      "电商带货",
+      "社会潜规则"
+    ],
+    "discussion_triggers": [
+      "国足主帅人选",
+      "归化球员使用",
+      "李铁执教争议",
+      "土帅与洋帅对比"
+    ],
+    "sensitive_topics": [
+      "足协腐败",
+      "体制内潜规则",
+      "公众人物言论自由"
+    ],
+    "value_tendencies": [
+      "务实",
+      "批判性思维",
+      "同情弱者",
+      "反权威"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "类比推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中国足球历史",
+        "足球战术",
+        "足球经理游戏"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享专业知识",
+      "表达观点",
+      "帮助他人理解",
+      "批判不公"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "国足主帅",
+        "score": 90
+      },
+      {
+        "topic": "李铁下课",
+        "score": 85
+      },
+      {
+        "topic": "归化球员",
+        "score": 80
+      },
+      {
+        "topic": "土帅与洋帅",
+        "score": 75
+      },
+      {
+        "topic": "足球经理游戏",
+        "score": 70
+      }
+    ],
+    "impression": "一个懂球又爱吐槽的资深球迷，用游戏经验分析现实足球，对体制内潜规则有深刻洞察，语气老练但不失幽默。"
+  },
+  "analyzed_at": "2026-06-15T22:21:19.314294",
+  "token_usage": 4250
+}

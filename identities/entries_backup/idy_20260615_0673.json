@@ -1,0 +1,140 @@
+{
+  "id": "idy_20260615_0673",
+  "source": {
+    "title": "易经的最大魅力在哪里？",
+    "url": "https://www.zhihu.com/question/486275558/answer/2285297468",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "45-65",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "传统文化讲师/国学研究者",
+      "industry": "教育/文化传播",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有子女",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年",
+      "事业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "长期研习《易经》等国学经典",
+      "有教学或演讲经历",
+      "经历过社会变迁，对传统与现代冲突有体会",
+      "可能曾从事教育或管理相关工作"
+    ],
+    "interest_topics": [
+      "易经",
+      "国学",
+      "传统文化",
+      "哲学",
+      "家庭教育",
+      "人生智慧",
+      "管理哲学"
+    ],
+    "discussion_triggers": [
+      "易经的智慧",
+      "变与不变",
+      "传统文化在现代的应用",
+      "教育孩子的方法",
+      "为人处世的道理"
+    ],
+    "sensitive_topics": [
+      "全盘西化",
+      "否定传统",
+      "过度追求物质",
+      "道德滑坡"
+    ],
+    "value_tendencies": [
+      "重视传统",
+      "强调中庸",
+      "注重家庭",
+      "推崇自然规律",
+      "反对极端",
+      "主张内方外圆"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "类比思维",
+      "辩证思维",
+      "经验主义",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "易经",
+        "儒家思想",
+        "道家思想",
+        "中国哲学"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 90,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "传播传统文化",
+      "启发他人思考",
+      "分享人生智慧",
+      "维护传统价值"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "易经的智慧",
+        "score": 90
+      },
+      {
+        "topic": "如何教育孩子",
+        "score": 70
+      },
+      {
+        "topic": "传统文化与现代生活",
+        "score": 80
+      },
+      {
+        "topic": "人生哲理",
+        "score": 85
+      },
+      {
+        "topic": "变与不变",
+        "score": 75
+      }
+    ],
+    "impression": "一位热爱国学、喜欢用生活实例讲解深奥道理的传统文化布道者，语气亲切但略带说教感。"
+  },
+  "analyzed_at": "2026-06-15T22:28:22.663593",
+  "token_usage": 4867
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>吹牛的地方</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<div class="app">
+  <header class="header">
+    <div class="header-inner">
+      <span class="logo">吹牛的地方</span>
+    </div>
+  </header>
+
+  <div class="input-area">
+    <input type="text" id="questionInput" placeholder="输入一个问题…" />
+    <button id="genBtn">生成 5 个回答</button>
+  </div>
+
+  <main class="feed" id="feed">
+    <div class="placeholder">输入一个问题，看看知乎上会有什么样的回答</div>
+  </main>
+
+  <div id="loading" class="loading" style="display:none">
+    <div class="spinner"></div>
+    <span>正在生成回答…（首次可能需要加载模型）</span>
+  </div>
+</div>
+
+<script src="/script.js"></script>
+</body>
+</html>

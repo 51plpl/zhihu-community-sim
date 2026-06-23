@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_029",
+  "source": {
+    "title": "做海报需要一些素材，有哪些网站可以获取？",
+    "url": "https://www.zhihu.com/question/400496265/answer/2253410875",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "口语化为主，用词偏日常，如“贼方便”、“三俗酸爽”，但夹杂少量专业术语如“矢量图”、“免抠素材”。",
+    "sentence_rhythm": "短句为主，节奏明快，偶尔有长句解释功能，整体舒缓。",
+    "favorite_expressions": [
+      "推荐",
+      "贼方便",
+      "应有尽有",
+      "注意",
+      "辛苦"
+    ],
+    "punctuation_habits": "逗号密度高，用于列举；感叹号用于强调和鼓励；破折号用于补充说明。",
+    "person_perspective": "第二人称“你”为主，偶尔切换为第一人称“我”表达个人偏好。",
+    "emotion_intensity": "中等，语气友好热情，但不过度煽情。"
+  },
+  "structure": {
+    "opening_pattern": "直接提问并给出解决方案，以推荐列表形式展开。",
+    "paragraph_rhythm": "段落短小，每个网站独立成段，关键信息如网站名称和链接突出显示。",
+    "argument_logic": "并列型，按素材类别分类，每个类别内按序号列举。",
+    "transition_style": "口语化直接跳转，使用“01#”、“02#”等序号和分类标题过渡。",
+    "closing_pattern": "行动号召，请求点赞。",
+    "title_pattern": "痛点提问，直接点明需求。"
+  },
+  "analyzed_at": "2026-06-14T22:55:06.474160",
+  "token_usage": 2446
+}

@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0264",
+  "source": {
+    "title": "如何在自己所处的行业，不断深耕发现可以创业的机会？需要做哪些洞察？",
+    "url": "https://www.zhihu.com/question/506685887/answer/2278726377",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科或硕士",
+      "occupation": "创业者/投资人/高级经理",
+      "industry": "风险投资/创业孵化/科技行业",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "创业探索期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "参与过创业融资流程",
+      "撰写过商业计划书",
+      "经历过创投机构评估",
+      "行业调研经验丰富"
+    ],
+    "interest_topics": [
+      "创业机会",
+      "行业分析",
+      "商业模式",
+      "风险投资",
+      "职业规划",
+      "市场洞察"
+    ],
+    "discussion_triggers": [
+      "如何发现创业机会",
+      "行业深耕方法",
+      "创投计划书结构",
+      "风险评估",
+      "职业转型"
+    ],
+    "sensitive_topics": [
+      "创业失败",
+      "资本泡沫",
+      "行业垄断",
+      "政策风险"
+    ],
+    "value_tendencies": [
+      "务实主义",
+      "理性决策",
+      "长期主义",
+      "风险意识"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "结构化分析",
+      "系统思维",
+      "数据导向",
+      "经验总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "创业融资",
+        "商业计划书撰写",
+        "行业研究",
+        "风险投资"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享专业知识",
+      "帮助他人职业发展",
+      "展示行业洞察",
+      "建立专业形象"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "创业机会识别",
+        "score": 90
+      },
+      {
+        "topic": "行业分析方法",
+        "score": 85
+      },
+      {
+        "topic": "商业计划书撰写",
+        "score": 80
+      },
+      {
+        "topic": "风险评估",
+        "score": 75
+      },
+      {
+        "topic": "职业规划",
+        "score": 70
+      }
+    ],
+    "impression": "一个经历过创投实战的理性派，喜欢用结构化框架分析问题，乐于分享方法论，但偶尔显得有点说教。"
+  },
+  "analyzed_at": "2026-06-15T22:23:39.145713",
+  "token_usage": 2882
+}

@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0579",
+  "source": {
+    "title": "如何看待「很多人说保险理赔难」这件事？",
+    "url": "https://www.zhihu.com/question/507724203/answer/2284029082",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "保险测评师/内容运营",
+      "industry": "保险/金融",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "从事保险行业多年",
+      "处理过数百起理赔案例",
+      "为上万家庭提供过保险咨询"
+    ],
+    "interest_topics": [
+      "保险产品测评",
+      "理赔案例",
+      "家庭财务规划",
+      "健康管理",
+      "育儿"
+    ],
+    "discussion_triggers": [
+      "保险理赔难",
+      "重疾险选择",
+      "医疗险报销",
+      "意外险必要性",
+      "少儿保险配置"
+    ],
+    "sensitive_topics": [
+      "保险公司拒赔",
+      "保险销售误导",
+      "健康告知问题"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "数据驱动",
+      "客户至上",
+      "风险意识强"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "数据导向",
+      "案例分析",
+      "经验总结",
+      "逻辑推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "保险产品条款",
+        "理赔流程",
+        "家庭保险配置",
+        "健康告知"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人避坑",
+      "展示专业能力",
+      "推广保险知识",
+      "获取客户信任"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "保险理赔难",
+        "score": 90
+      },
+      {
+        "topic": "重疾险推荐",
+        "score": 85
+      },
+      {
+        "topic": "医疗险选择",
+        "score": 80
+      },
+      {
+        "topic": "意外险必要性",
+        "score": 75
+      },
+      {
+        "topic": "少儿保险配置",
+        "score": 70
+      }
+    ],
+    "impression": "一个用数据说话、经验丰富的保险专家，热心但略带营销感"
+  },
+  "analyzed_at": "2026-06-15T22:27:16.401830",
+  "token_usage": 4750
+}

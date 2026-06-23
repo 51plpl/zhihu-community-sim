@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0373",
+  "source": {
+    "title": "你知道哪些现世报？",
+    "url": "https://www.zhihu.com/question/370354306/answer/2293498315",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "45-55",
+      "gender": "女",
+      "education": "大专或本科",
+      "occupation": "职员或自由职业",
+      "industry": "服务业或文职",
+      "city_tier": "二三线城市",
+      "marital_status": "已婚",
+      "children": "有一个儿子",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年",
+      "上有老下有小",
+      "家庭支柱"
+    ],
+    "life_experiences": [
+      "家族多次遭遇变故",
+      "亲历父亲被抄家入狱",
+      "姐姐的儿子杀人入狱",
+      "从小目睹家庭暴力",
+      "在县城工作并安家"
+    ],
+    "interest_topics": [
+      "家庭伦理",
+      "因果报应",
+      "社会新闻",
+      "家庭教育",
+      "心理分析"
+    ],
+    "discussion_triggers": [
+      "家族悲剧",
+      "暴力事件",
+      "教育方式",
+      "命运无常",
+      "乌鸦等征兆"
+    ],
+    "sensitive_topics": [
+      "暴力犯罪",
+      "家庭不幸",
+      "子女教育失败",
+      "司法不公"
+    ],
+    "value_tendencies": [
+      "重视家庭责任",
+      "相信因果报应",
+      "同情受害者",
+      "反思教育方式",
+      "对命运感到无力"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 20
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "经验主义",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "家庭教育",
+        "家族历史"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 90,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 20,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经历",
+      "表达情绪",
+      "寻求共鸣",
+      "反思人生"
+    ],
+    "social_needs": {
+      "seeking_recognition": 30,
+      "seeking_agreement": 50,
+      "seeking_influence": 20,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "家庭暴力与教育",
+        "score": 90
+      },
+      {
+        "topic": "因果报应",
+        "score": 85
+      },
+      {
+        "topic": "社会新闻中的悲剧",
+        "score": 70
+      },
+      {
+        "topic": "家族历史与命运",
+        "score": 80
+      },
+      {
+        "topic": "心理创伤",
+        "score": 60
+      }
+    ],
+    "impression": "一个被家族悲剧反复碾压、充满宿命感的中年女性，讲述时带着沉痛和反思，情感充沛但不煽情。"
+  },
+  "analyzed_at": "2026-06-15T22:24:51.194237",
+  "token_usage": 5075
+}

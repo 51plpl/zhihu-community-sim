@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0599",
+  "source": {
+    "title": "欧拉好猫太下头，错了不认很没品。",
+    "url": "https://zhuanlan.zhihu.com/p/440371009",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领/自由职业者",
+      "industry": "科技/媒体/消费品",
+      "city_tier": "1-2",
+      "marital_status": "已婚或恋爱中",
+      "children": "无或1个",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "购车维权",
+      "关注消费权益",
+      "对国产品牌有期待"
+    ],
+    "life_experiences": [
+      "购买过欧拉好猫",
+      "遭遇过消费欺诈",
+      "参与过网络维权"
+    ],
+    "interest_topics": [
+      "新能源汽车",
+      "女性消费",
+      "消费者权益",
+      "品牌公关",
+      "科技产品"
+    ],
+    "discussion_triggers": [
+      "欧拉好猫芯片事件",
+      "女性被歧视",
+      "国产品牌质量",
+      "虚假宣传"
+    ],
+    "sensitive_topics": [
+      "性别歧视",
+      "欺骗消费者",
+      "品牌甩锅"
+    ],
+    "value_tendencies": [
+      "重视诚信",
+      "支持国货但要求品质",
+      "反对性别刻板印象",
+      "维权意识强"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "价值判断",
+      "案例分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "汽车常识",
+        "消费者权益法",
+        "品牌营销"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 40,
+      "likes_commenting": 80,
+      "likes_debating": 60,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "表达愤怒",
+      "呼吁维权",
+      "警示他人",
+      "寻求认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "欧拉好猫维权",
+        "score": 95
+      },
+      {
+        "topic": "女性购车陷阱",
+        "score": 80
+      },
+      {
+        "topic": "国产品牌信任",
+        "score": 70
+      },
+      {
+        "topic": "汽车芯片",
+        "score": 60
+      },
+      {
+        "topic": "消费维权经历",
+        "score": 85
+      }
+    ],
+    "impression": "一个被品牌伤了心的女车主，愤怒中带着理性，希望用自己的经历唤醒更多女性消费者。"
+  },
+  "analyzed_at": "2026-06-15T22:27:31.298472",
+  "token_usage": 4487
+}

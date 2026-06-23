@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0219",
+  "source": {
+    "title": "旅行中的艳遇怎样一种体验？",
+    "url": "https://www.zhihu.com/question/336571948/answer/2259060617",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-30",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "上班族（具体行业不明，可能是技术或文职）",
+      "industry": "互联网或传统行业",
+      "city_tier": "二线（南昌）",
+      "marital_status": "恋爱中",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职场初期",
+      "恋爱稳定期"
+    ],
+    "life_experiences": [
+      "中学同学圈子深厚",
+      "有过减肥经历（200斤减到150斤）",
+      "单身多年后脱单",
+      "自驾游经历",
+      "醉酒后大胆表白"
+    ],
+    "interest_topics": [
+      "自驾游",
+      "喝酒游戏",
+      "恋爱关系",
+      "减肥",
+      "B站旅游视频"
+    ],
+    "discussion_triggers": [
+      "艳遇经历",
+      "醉酒后的行为",
+      "恋爱中的巧合",
+      "同学聚会"
+    ],
+    "sensitive_topics": [
+      "酒后乱性",
+      "感情中的主动与被动",
+      "外貌变化"
+    ],
+    "value_tendencies": [
+      "相信缘分",
+      "重视朋友义气",
+      "对感情较为被动",
+      "珍惜当下"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 40,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 10,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 20,
+      "seeking_help_others": 10,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "恋爱经历",
+        "score": 90
+      },
+      {
+        "topic": "醉酒趣事",
+        "score": 80
+      },
+      {
+        "topic": "减肥经历",
+        "score": 70
+      },
+      {
+        "topic": "自驾游",
+        "score": 60
+      },
+      {
+        "topic": "同学聚会",
+        "score": 50
+      }
+    ],
+    "impression": "一个幸运的普通男生，带着点羞涩和真诚，喜欢分享自己戏剧性的恋爱故事。"
+  },
+  "analyzed_at": "2026-06-15T22:23:11.824629",
+  "token_usage": 2820
+}

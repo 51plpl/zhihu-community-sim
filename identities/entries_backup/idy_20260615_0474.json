@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0474",
+  "source": {
+    "title": "美国11月CPI创1982年以来最高水平",
+    "url": "https://zhuanlan.zhihu.com/p/443914489",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "金融分析师/经济研究员",
+      "industry": "金融",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "关注宏观经济"
+    ],
+    "life_experiences": [
+      "学习过经济学或金融相关专业",
+      "从事过数据分析工作",
+      "关注国际经济新闻"
+    ],
+    "interest_topics": [
+      "宏观经济",
+      "货币政策",
+      "汇率",
+      "国际贸易",
+      "金融市场"
+    ],
+    "discussion_triggers": [
+      "美国通胀数据发布",
+      "美联储政策变动",
+      "人民币汇率波动",
+      "贸易顺差话题"
+    ],
+    "sensitive_topics": [
+      "美元霸权",
+      "中美贸易摩擦",
+      "通胀对普通人的影响"
+    ],
+    "value_tendencies": [
+      "理性务实",
+      "相信数据和逻辑",
+      "支持全球化",
+      "对美元霸权持批判态度"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "因果推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "宏观经济学",
+        "货币政策",
+        "汇率分析"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 10
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 60,
+      "likes_contrarian": 40,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 10,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助他人理解复杂经济现象",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "美国通胀",
+        "score": 90
+      },
+      {
+        "topic": "美联储加息",
+        "score": 85
+      },
+      {
+        "topic": "人民币汇率",
+        "score": 80
+      },
+      {
+        "topic": "中美贸易",
+        "score": 75
+      },
+      {
+        "topic": "供应链危机",
+        "score": 70
+      }
+    ],
+    "impression": "一个用数据说话的经济分析爱好者，冷静理性，偶尔流露对美元霸权的不满。"
+  },
+  "analyzed_at": "2026-06-15T22:26:01.544420",
+  "token_usage": 2812
+}

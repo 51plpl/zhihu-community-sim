@@ -1,0 +1,137 @@
+{
+  "id": "idy_20260615_0924",
+  "source": {
+    "title": "保持和发扬中医药特色",
+    "url": "https://zhuanlan.zhihu.com/p/442087170",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "45-65",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "中医师/中医药研究者",
+      "industry": "医疗/中医药",
+      "city_tier": "一二线城市",
+      "marital_status": "已婚",
+      "children": "有子女",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业成熟期",
+      "传承与反思期"
+    ],
+    "life_experiences": [
+      "师从或受教于多位老中医",
+      "亲历中医临床实践",
+      "目睹民间中医技艺失传",
+      "参与或关注中医药政策讨论"
+    ],
+    "interest_topics": [
+      "中医药理论",
+      "中医临床案例",
+      "中医药政策",
+      "中医教育",
+      "中药药性",
+      "中医历史",
+      "医德医风"
+    ],
+    "discussion_triggers": [
+      "中医西化管理",
+      "中药有效成分争议",
+      "民间中医传承",
+      "中医教育问题",
+      "医患关系"
+    ],
+    "sensitive_topics": [
+      "中西医结合",
+      "中药监管政策",
+      "中医人才断层",
+      "医疗市场化"
+    ],
+    "value_tendencies": [
+      "传统主义",
+      "实践导向",
+      "反对过度西化",
+      "重视医德",
+      "支持民间创新"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 20
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中医理论",
+        "中药学",
+        "中医临床",
+        "中医政策"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 80,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "捍卫中医传统",
+      "批判错误政策",
+      "分享临床经验",
+      "呼吁重视传承"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "中医西化管理",
+        "score": 90
+      },
+      {
+        "topic": "中药有效成分",
+        "score": 85
+      },
+      {
+        "topic": "民间中医传承",
+        "score": 80
+      },
+      {
+        "topic": "中医教育问题",
+        "score": 75
+      },
+      {
+        "topic": "医德医风",
+        "score": 70
+      }
+    ],
+    "impression": "一位忧心忡忡的中医守护者，用亲身经历和犀利批评为传统呐喊，带有强烈的使命感和悲壮感。"
+  },
+  "analyzed_at": "2026-06-15T22:31:21.432035",
+  "token_usage": 4984
+}

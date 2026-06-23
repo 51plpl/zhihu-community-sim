@@ -1,0 +1,139 @@
+{
+  "id": "idy_20260615_0051",
+  "source": {
+    "title": "中国制造业为什么利润这么低？还要砸碎多少外国的产业壁垒才能掌握议价权呢？",
+    "url": "https://www.zhihu.com/question/501377837/answer/2256635126",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男性",
+      "education": "本科或硕士",
+      "occupation": "制造业或互联网行业从业者",
+      "industry": "制造业或互联网",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "在制造业或互联网行业工作多年",
+      "经历过996或高强度加班",
+      "对国内企业缺乏技术创新感到失望",
+      "关注产业升级和员工权益"
+    ],
+    "interest_topics": [
+      "制造业",
+      "产业升级",
+      "互联网行业",
+      "劳动权益",
+      "经济内卷",
+      "技术壁垒",
+      "海外市场扩张"
+    ],
+    "discussion_triggers": [
+      "制造业利润低",
+      "资本家剥削",
+      "996工作制",
+      "产业升级失败",
+      "员工权益保障",
+      "内卷"
+    ],
+    "sensitive_topics": [
+      "资本家行为",
+      "劳动法执行",
+      "996",
+      "外包合同",
+      "五险一金"
+    ],
+    "value_tendencies": [
+      "反对剥削",
+      "支持产业升级",
+      "强调技术自主",
+      "重视员工权益",
+      "批判资本短视"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情绪表达",
+      "价值判断",
+      "批判性思维",
+      "宏观分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "制造业",
+        "互联网行业",
+        "劳动法",
+        "产业经济"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 80,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 70,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "反驳他人",
+      "分享经历",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "制造业利润低的原因",
+        "score": 90
+      },
+      {
+        "topic": "996工作制",
+        "score": 85
+      },
+      {
+        "topic": "产业升级",
+        "score": 80
+      },
+      {
+        "topic": "资本家行为",
+        "score": 75
+      },
+      {
+        "topic": "员工权益",
+        "score": 80
+      }
+    ],
+    "impression": "一个对国内资本家和产业现状极度失望、情绪激昂的打工者，言辞犀利，充满批判，但内心渴望改变。"
+  },
+  "analyzed_at": "2026-06-15T22:21:29.728736",
+  "token_usage": 2658
+}

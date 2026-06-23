@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0569",
+  "source": {
+    "title": "2021年度编程语言将花落谁家？",
+    "url": "https://zhuanlan.zhihu.com/p/450206885",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "编程培训推广/市场运营",
+      "industry": "IT教育培训",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "关注行业趋势"
+    ],
+    "life_experiences": [
+      "参加过编程培训",
+      "从事过技术推广工作",
+      "关注程序员就业市场"
+    ],
+    "interest_topics": [
+      "编程语言",
+      "Java",
+      "Python",
+      "程序员就业",
+      "IT培训",
+      "技术趋势"
+    ],
+    "discussion_triggers": [
+      "编程语言排名",
+      "Java vs Python",
+      "程序员薪资",
+      "零基础转行"
+    ],
+    "sensitive_topics": [
+      "编程语言优劣争论",
+      "培训机构口碑"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "推崇Java",
+      "重视就业薪资"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "案例驱动",
+      "推广导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "Java开发",
+        "编程培训",
+        "技术社区"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "推广Java培训",
+      "展示行业洞察",
+      "吸引潜在学员"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 80,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "Java就业前景",
+        "score": 90
+      },
+      {
+        "topic": "编程语言排名",
+        "score": 85
+      },
+      {
+        "topic": "零基础转行IT",
+        "score": 80
+      },
+      {
+        "topic": "Python vs Java",
+        "score": 75
+      },
+      {
+        "topic": "培训机构选择",
+        "score": 70
+      }
+    ],
+    "impression": "一个充满热情的Java布道者，用数据和案例说服你学Java"
+  },
+  "analyzed_at": "2026-06-15T22:27:09.076875",
+  "token_usage": 3482
+}

@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0369",
+  "source": {
+    "title": "中小企业获客难怎么办？",
+    "url": "https://www.zhihu.com/question/495348472/answer/2254308966",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "数字营销经理",
+      "industry": "SaaS/营销科技",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "关注效率与ROI"
+    ],
+    "life_experiences": [
+      "从事邮件营销5年以上",
+      "经历过多次获客困难",
+      "成功通过社交媒体+邮件结合获客"
+    ],
+    "interest_topics": [
+      "邮件营销",
+      "社交媒体营销",
+      "获客策略",
+      "营销自动化",
+      "ROI分析",
+      "移动端营销"
+    ],
+    "discussion_triggers": [
+      "获客难",
+      "邮件营销效果",
+      "社交媒体与邮件结合",
+      "营销ROI",
+      "移动端趋势"
+    ],
+    "sensitive_topics": [
+      "营销预算不足",
+      "客户数据隐私",
+      "邮件被屏蔽"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "数据驱动",
+      "注重效率",
+      "拥抱新技术"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "数据导向",
+      "案例驱动",
+      "策略思考",
+      "结果导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "邮件营销",
+        "社交媒体营销",
+        "获客策略",
+        "营销自动化"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助同行解决获客难题",
+      "展示专业能力",
+      "推广邮件营销平台",
+      "获得行业认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 80,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "邮件营销最佳实践",
+        "score": 90
+      },
+      {
+        "topic": "社交媒体获客技巧",
+        "score": 85
+      },
+      {
+        "topic": "营销ROI计算",
+        "score": 80
+      },
+      {
+        "topic": "移动端营销趋势",
+        "score": 75
+      },
+      {
+        "topic": "中小企业营销痛点",
+        "score": 70
+      }
+    ],
+    "impression": "一个数据驱动的营销老手，喜欢用案例和数字说话，乐于分享但也不忘推销自家产品。"
+  },
+  "analyzed_at": "2026-06-15T22:24:47.748078",
+  "token_usage": 2405
+}

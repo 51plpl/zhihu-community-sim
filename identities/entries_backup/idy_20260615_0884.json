@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0884",
+  "source": {
+    "title": "这种说倭寇不是日本人的言论为什么会出现？",
+    "url": "https://www.zhihu.com/question/507662860/answer/2285248749",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "硕士及以上",
+      "occupation": "历史研究者或业余历史爱好者",
+      "industry": "文化/教育/互联网",
+      "city_tier": "一线或新一线",
+      "marital_status": "未知",
+      "children": "未知",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "学术探索期",
+      "职业稳定期"
+    ],
+    "life_experiences": [
+      "接受过高等教育，可能主修历史或相关领域",
+      "长期关注中日关系史和倭寇问题",
+      "有查阅原始文献和外语资料的习惯",
+      "活跃于B站等知识社区，参与历史类讨论"
+    ],
+    "interest_topics": [
+      "明朝历史",
+      "倭寇问题",
+      "中日关系史",
+      "历史考据",
+      "纪录片分析",
+      "B站历史区"
+    ],
+    "discussion_triggers": [
+      "历史谣言",
+      "断章取义",
+      "学术不端",
+      "倭寇的定性",
+      "中日历史争议"
+    ],
+    "sensitive_topics": [
+      "民族主义情绪下的历史歪曲",
+      "学术造假",
+      "历史虚无主义"
+    ],
+    "value_tendencies": [
+      "求真",
+      "严谨",
+      "反对断章取义",
+      "尊重学术规范",
+      "理性讨论"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "考据派",
+      "逻辑分析",
+      "证据导向",
+      "注重细节",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "明代倭寇史",
+        "日本战国史",
+        "中日交流史"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 10
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 70,
+      "likes_contrarian": 40,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 10,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "纠正错误认知",
+      "传播准确知识",
+      "揭露断章取义",
+      "维护学术严谨"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "倭寇的构成",
+        "score": 90
+      },
+      {
+        "topic": "历史纪录片中的错误",
+        "score": 85
+      },
+      {
+        "topic": "日本战国大名与倭寇的关系",
+        "score": 80
+      },
+      {
+        "topic": "B站历史区up主水平",
+        "score": 70
+      },
+      {
+        "topic": "中日历史争议",
+        "score": 60
+      }
+    ],
+    "impression": "一个严谨到有点较真的历史考据党，喜欢用原文和逻辑打脸断章取义，但也能保持理性不情绪化。"
+  },
+  "analyzed_at": "2026-06-15T22:30:52.300258",
+  "token_usage": 2959
+}

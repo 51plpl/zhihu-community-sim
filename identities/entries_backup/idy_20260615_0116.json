@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0116",
+  "source": {
+    "title": "如何看待年度游戏《双人成行》制作人提到「半数玩家来自中国」？为什么在中国这么火？",
+    "url": "https://www.zhihu.com/question/507701497/answer/2284139037",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "游戏行业从业者或资深游戏玩家",
+      "industry": "互联网/游戏",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业发展期",
+      "社交活跃期"
+    ],
+    "life_experiences": [
+      "与基友联机玩双人成行",
+      "关注游戏主播和直播平台",
+      "经历过2016年守望先锋热潮",
+      "玩过绝地求生等爆款游戏"
+    ],
+    "interest_topics": [
+      "买断制游戏",
+      "游戏直播",
+      "游戏市场分析",
+      "社交型游戏",
+      "独立游戏"
+    ],
+    "discussion_triggers": [
+      "游戏销量数据",
+      "主播带货模式",
+      "中国玩家市场",
+      "游戏社交属性"
+    ],
+    "sensitive_topics": [
+      "游戏质量争议",
+      "主播炒作",
+      "玩家群体分化"
+    ],
+    "value_tendencies": [
+      "支持游戏大众化",
+      "理性看待市场现象",
+      "反对游戏推广中的恶意操控"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "经验归纳"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "游戏市场",
+        "直播生态",
+        "买断制游戏历史"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "展示专业能力",
+      "帮助他人理解市场现象"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "游戏主播带货模式",
+        "score": 90
+      },
+      {
+        "topic": "中国买断制游戏市场",
+        "score": 85
+      },
+      {
+        "topic": "双人成行火爆原因",
+        "score": 80
+      },
+      {
+        "topic": "社交型游戏 vs 硬核游戏",
+        "score": 75
+      },
+      {
+        "topic": "游戏质量与销量关系",
+        "score": 70
+      }
+    ],
+    "impression": "一个理性分析游戏市场的老玩家，喜欢用数据和案例说话，对行业有热情但保持客观。"
+  },
+  "analyzed_at": "2026-06-15T22:22:12.645177",
+  "token_usage": 2706
+}

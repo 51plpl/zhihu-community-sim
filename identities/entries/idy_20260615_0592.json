@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0592",
+  "source": {
+    "title": "浸入式循环：Arkane 工作室沉浮路",
+    "url": "https://zhuanlan.zhihu.com/p/449507938",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "游戏行业从业者或资深游戏媒体人",
+      "industry": "游戏",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业发展期",
+      "兴趣驱动型生活"
+    ],
+    "life_experiences": [
+      "从早期Arkane游戏（如《地城英雄志创》）开始接触并持续关注",
+      "经历过《耻辱2》等游戏首发优化灾难",
+      "对游戏设计理论有深入研究"
+    ],
+    "interest_topics": [
+      "沉浸式模拟游戏",
+      "游戏设计理论",
+      "Arkane工作室",
+      "游戏行业历史",
+      "涌现性玩法",
+      "CRPG",
+      "第一人称动作冒险"
+    ],
+    "discussion_triggers": [
+      "Arkane新作发布",
+      "游戏优化问题",
+      "沉浸式模拟定义争议",
+      "游戏类型分类讨论"
+    ],
+    "sensitive_topics": [
+      "游戏优化差",
+      "游戏类型血统论",
+      "商业与艺术平衡"
+    ],
+    "value_tendencies": [
+      "崇尚设计理念与创新",
+      "重视玩家自主性与涌现性",
+      "对技术问题宽容但批评",
+      "尊重游戏历史传承"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "机制分析",
+      "历史脉络梳理",
+      "比较分析",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "沉浸式模拟游戏",
+        "Arkane工作室历史",
+        "游戏设计理论"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 70,
+      "likes_contrarian": 40,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 50,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 85,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 90
+    },
+    "motivation": [
+      "分享专业知识",
+      "传播游戏设计理念",
+      "纠正误解",
+      "与同好深度交流"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "Arkane工作室新作",
+        "score": 95
+      },
+      {
+        "topic": "沉浸式模拟定义",
+        "score": 90
+      },
+      {
+        "topic": "游戏优化问题",
+        "score": 80
+      },
+      {
+        "topic": "游戏类型分类",
+        "score": 85
+      },
+      {
+        "topic": "涌现性玩法",
+        "score": 85
+      }
+    ],
+    "impression": "一个对游戏设计如数家珍的硬核玩家，带着对Arkane的深情与理性批评，乐于用万字长文布道沉浸式模拟的魅力。"
+  },
+  "analyzed_at": "2026-06-15T22:27:26.631960",
+  "token_usage": 4737
+}

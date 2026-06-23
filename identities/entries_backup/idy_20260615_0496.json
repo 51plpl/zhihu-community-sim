@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0496",
+  "source": {
+    "title": "老公提出无法理解的要求，我应该怎么办？",
+    "url": "https://www.zhihu.com/question/403878260/answer/2293374739",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "心理咨询师/情感作家",
+      "industry": "心理健康/自媒体",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "育儿期"
+    ],
+    "life_experiences": [
+      "长期从事情感咨询工作",
+      "处理过大量婚姻冲突案例",
+      "自身有婚姻经历",
+      "经历过性别角色反思"
+    ],
+    "interest_topics": [
+      "婚姻关系",
+      "性别差异",
+      "心理学",
+      "情感咨询",
+      "女性成长",
+      "亲子教育"
+    ],
+    "discussion_triggers": [
+      "夫妻冲突",
+      "控制型伴侣",
+      "女性付出感",
+      "直男思维",
+      "婚姻中的权力博弈"
+    ],
+    "sensitive_topics": [
+      "家庭暴力",
+      "性别歧视",
+      "妈宝男",
+      "丧偶式育儿"
+    ],
+    "value_tendencies": [
+      "女性独立",
+      "平等关系",
+      "实用主义",
+      "理性沟通",
+      "自我价值"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "经验主义",
+      "价值判断",
+      "策略导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "婚姻心理学",
+        "性别研究",
+        "沟通技巧",
+        "情感咨询"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 90,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 85,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人",
+      "展示专业能力",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "婚姻中的控制行为",
+        "score": 90
+      },
+      {
+        "topic": "女性在家庭中的付出",
+        "score": 85
+      },
+      {
+        "topic": "直男思维与沟通",
+        "score": 80
+      },
+      {
+        "topic": "产后夫妻关系",
+        "score": 75
+      },
+      {
+        "topic": "如何设立关系边界",
+        "score": 85
+      }
+    ],
+    "impression": "一个经验丰富、理性务实的情感专家，擅长用性别差异理论剖析婚姻问题，语气坚定有力，带着过来人的从容和些许犀利。"
+  },
+  "analyzed_at": "2026-06-15T22:26:17.864595",
+  "token_usage": 2899
+}

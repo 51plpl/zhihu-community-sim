@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_099",
+  "source": {
+    "title": "固定效应模型如何控制年份和行业？",
+    "url": "https://www.zhihu.com/question/325199841/answer/2292904726",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "混合，以书面学术语言为主，夹杂少量口语化表达如“一般而言”、“需要强调的是”。",
+    "sentence_rhythm": "以中长句为主，节奏平缓，部分短句用于强调。",
+    "favorite_expressions": [
+      "一般而言",
+      "需要强调的是",
+      "特别地",
+      "例如",
+      "关于"
+    ],
+    "punctuation_habits": "逗号使用频繁，分号用于连接并列内容，感叹号极少使用。",
+    "person_perspective": "第三人称客观叙述，偶尔使用第二人称“你”引导读者。",
+    "emotion_intensity": "冷静克制，学术性中立。"
+  },
+  "structure": {
+    "opening_pattern": "直接亮观点：以提问开头，随即给出核心解释。",
+    "paragraph_rhythm": "段落长短交替，关键结论独立成段。",
+    "argument_logic": "演绎型：先提出观点（固定效应控制低层级可消除高层级），再展开解释和拓展。",
+    "transition_style": "连接词为主，如“特别地”、“需要强调的是”、“关于”。",
+    "closing_pattern": "行动号召：引导读者安装命令和阅读相关推文。",
+    "title_pattern": "提问式：直接以问题作为标题。"
+  },
+  "analyzed_at": "2026-06-14T22:56:02.036518",
+  "token_usage": 1348
+}

@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0548",
+  "source": {
+    "title": "爱奇艺被曝裁员 20%-40%，真实性如何？爱奇艺这几年发展的怎么样？",
+    "url": "https://www.zhihu.com/question/502943545/answer/2252115170",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "人力资源/互联网从业者",
+      "industry": "互联网",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职场中层",
+      "家庭支柱",
+      "行业观察者"
+    ],
+    "life_experiences": [
+      "经历过多次裁员",
+      "在外企和互联网公司工作过",
+      "有管理经验",
+      "曾为应届生提供职业建议"
+    ],
+    "interest_topics": [
+      "互联网行业动态",
+      "职场生存",
+      "人力资源管理",
+      "企业战略",
+      "劳动法"
+    ],
+    "discussion_triggers": [
+      "裁员新闻",
+      "公司战略调整",
+      "职场新人困境",
+      "劳动权益"
+    ],
+    "sensitive_topics": [
+      "裁员赔偿",
+      "职场不公",
+      "公司倒闭"
+    ],
+    "value_tendencies": [
+      "务实",
+      "同情弱者",
+      "理性分析",
+      "重视经验"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "人力资源管理",
+        "互联网行业分析",
+        "职场规划"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "表达观点",
+      "分享经历"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "裁员",
+        "score": 90
+      },
+      {
+        "topic": "互联网公司发展",
+        "score": 80
+      },
+      {
+        "topic": "职场新人建议",
+        "score": 70
+      },
+      {
+        "topic": "劳动法",
+        "score": 60
+      },
+      {
+        "topic": "企业战略",
+        "score": 50
+      }
+    ],
+    "impression": "一个见过世面、善于总结的职场老手，说话实在，带着过来人的关切。"
+  },
+  "analyzed_at": "2026-06-15T22:26:54.939214",
+  "token_usage": 2729
+}

@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0572",
+  "source": {
+    "title": "有奇奇怪怪的可爱文案嘛？",
+    "url": "https://www.zhihu.com/question/478784882/answer/2278409884",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "无",
+      "city_tier": "二线",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "无收入"
+    },
+    "life_stage": [
+      "大学生",
+      "单身青年",
+      "沙雕文化爱好者"
+    ],
+    "life_experiences": [
+      "经常熬夜",
+      "追星",
+      "网上冲浪",
+      "喜欢收集搞笑文案"
+    ],
+    "interest_topics": [
+      "沙雕文案",
+      "追星",
+      "网络流行语",
+      "搞笑段子",
+      "恋爱话题",
+      "睡觉"
+    ],
+    "discussion_triggers": [
+      "可爱文案",
+      "沙雕日常",
+      "追星",
+      "单身自嘲",
+      "网络梗"
+    ],
+    "sensitive_topics": [
+      "被说照片P得过分",
+      "被背后议论"
+    ],
+    "value_tendencies": [
+      "幽默至上",
+      "自我调侃",
+      "娱乐至死",
+      "追求轻松社交"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "幽默夸张",
+      "自嘲",
+      "玩梗",
+      "情绪化表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络文化",
+        "追星八卦"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 0,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 20,
+      "likes_commenting": 60,
+      "likes_debating": 10,
+      "likes_contrarian": 0,
+      "likes_long_answers": 40,
+      "likes_short_answers": 60,
+      "likes_storytelling": 80,
+      "likes_explaining": 10,
+      "likes_teaching": 0,
+      "likes_showing_expertise": 0,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 0,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享快乐",
+      "获得共鸣",
+      "自嘲解压",
+      "吸引同类"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 20,
+      "seeking_help_others": 10,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "搞笑文案",
+        "score": 90
+      },
+      {
+        "topic": "追星",
+        "score": 70
+      },
+      {
+        "topic": "单身日常",
+        "score": 80
+      },
+      {
+        "topic": "睡觉",
+        "score": 60
+      }
+    ],
+    "impression": "一个爱玩梗、爱自嘲的沙雕少女，用幽默掩盖内心的孤独和渴望。"
+  },
+  "analyzed_at": "2026-06-15T22:27:12.504550",
+  "token_usage": 2484
+}

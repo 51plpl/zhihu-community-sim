@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0546",
+  "source": {
+    "title": "空军军医大学心理学考研经验+考研参考书+考研真题大放送",
+    "url": "https://zhuanlan.zhihu.com/p/451508783",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-26",
+      "gender": "女",
+      "education": "硕士在读",
+      "occupation": "学生",
+      "industry": "教育/心理学",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "考研冲刺期",
+      "学生生涯末期"
+    ],
+    "life_experiences": [
+      "考研备考经历",
+      "心理学本科学习",
+      "使用木糖英语等辅导资料"
+    ],
+    "interest_topics": [
+      "心理学考研",
+      "考研经验分享",
+      "心理学统考312",
+      "学习方法",
+      "时间管理"
+    ],
+    "discussion_triggers": [
+      "考研择校",
+      "备考心态",
+      "专业课背诵技巧",
+      "真题利用"
+    ],
+    "sensitive_topics": [
+      "考研焦虑",
+      "复习进度落后",
+      "模拟考失利"
+    ],
+    "value_tendencies": [
+      "重视努力和坚持",
+      "相信方法比天赋重要",
+      "务实功利"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验总结",
+      "方法导向",
+      "实用主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "心理学统考312",
+        "考研英语"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 10,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享经验帮助他人",
+      "获得认同",
+      "展示自己的备考成果"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "心理学考研经验",
+        "score": 90
+      },
+      {
+        "topic": "312统考参考书",
+        "score": 85
+      },
+      {
+        "topic": "考研心态调整",
+        "score": 80
+      },
+      {
+        "topic": "专业课背诵方法",
+        "score": 85
+      },
+      {
+        "topic": "真题与期末试题关系",
+        "score": 70
+      }
+    ],
+    "impression": "一个认真备考、乐于分享的心理学考研过来人，语气诚恳，细节丰富，略带广告推广倾向。"
+  },
+  "analyzed_at": "2026-06-15T22:26:53.672064",
+  "token_usage": 3787
+}

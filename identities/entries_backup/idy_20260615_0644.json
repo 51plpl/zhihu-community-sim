@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0644",
+  "source": {
+    "title": "DIY了一个三国杀武将，请大佬们帮忙看看技能描述是否准确并评价一下强度？",
+    "url": "https://www.zhihu.com/question/502260557/answer/2258493924",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "游戏程序员/独立游戏开发者",
+      "industry": "游戏开发",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "热衷业余创作"
+    ],
+    "life_experiences": [
+      "参与过三国杀同人游戏开发",
+      "深度体验多种桌游",
+      "在开源社区贡献代码"
+    ],
+    "interest_topics": [
+      "三国杀",
+      "桌游设计",
+      "游戏机制",
+      "程序开发",
+      "独立游戏",
+      "同人创作"
+    ],
+    "discussion_triggers": [
+      "DIY武将设计",
+      "技能机制争议",
+      "游戏平衡性",
+      "程序实现细节"
+    ],
+    "sensitive_topics": [
+      "规则漏洞",
+      "设计不严谨",
+      "抄袭争议"
+    ],
+    "value_tendencies": [
+      "重视规则严谨性",
+      "推崇创新但务实",
+      "乐于分享技术经验",
+      "对同人创作持开放态度"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "逻辑推演",
+      "经验归纳",
+      "技术导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "三国杀规则",
+        "游戏编程",
+        "桌游设计"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助他人完善设计",
+      "展示专业能力",
+      "表达观点",
+      "推广自己的作品"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "三国杀DIY设计",
+        "score": 90
+      },
+      {
+        "topic": "游戏机制实现",
+        "score": 85
+      },
+      {
+        "topic": "桌游规则解析",
+        "score": 80
+      },
+      {
+        "topic": "独立游戏开发",
+        "score": 70
+      }
+    ],
+    "impression": "一个技术过硬、乐于分享的程序员，对规则有洁癖，但也能用实际案例温和地指出问题。"
+  },
+  "analyzed_at": "2026-06-15T22:28:02.110443",
+  "token_usage": 3227
+}

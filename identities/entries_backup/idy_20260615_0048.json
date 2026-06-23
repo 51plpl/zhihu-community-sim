@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0048",
+  "source": {
+    "title": "历史上发生过哪些著名的「老司机翻车」事件？",
+    "url": "https://www.zhihu.com/question/39982586/answer/2261635936",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "历史爱好者/自媒体作者/内容运营",
+      "industry": "文化传媒",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业探索期",
+      "兴趣驱动型学习"
+    ],
+    "life_experiences": [
+      "大学期间选修历史相关课程",
+      "长期混迹历史论坛和贴吧",
+      "曾尝试写网络小说或公众号文章"
+    ],
+    "interest_topics": [
+      "民国史",
+      "盗墓史",
+      "军阀秘闻",
+      "清东陵",
+      "孙殿英",
+      "历史冷知识",
+      "故事写作"
+    ],
+    "discussion_triggers": [
+      "盗墓事件",
+      "历史人物评价",
+      "军事演习与盗墓的关联",
+      "文物盗窃"
+    ],
+    "sensitive_topics": [
+      "盗墓合法性",
+      "文物归属",
+      "历史人物道德评判"
+    ],
+    "value_tendencies": [
+      "历史相对主义",
+      "反权威",
+      "实用主义",
+      "对正统叙事持怀疑态度"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "故事叙述",
+      "细节考证",
+      "因果分析",
+      "幽默讽刺"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "民国军阀史",
+        "盗墓史",
+        "清东陵建筑"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 10
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享冷门历史知识",
+      "展示考据能力",
+      "获得认同",
+      "娱乐他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "孙殿英盗墓细节",
+        "score": 90
+      },
+      {
+        "topic": "清东陵建筑结构",
+        "score": 80
+      },
+      {
+        "topic": "民国土匪与军阀",
+        "score": 70
+      },
+      {
+        "topic": "盗墓与文物保护",
+        "score": 60
+      },
+      {
+        "topic": "历史故事写作技巧",
+        "score": 50
+      }
+    ],
+    "impression": "一个喜欢讲历史段子的说书人，考据严谨但风格轻松，偶尔带点黑色幽默。"
+  },
+  "analyzed_at": "2026-06-15T22:21:26.100310",
+  "token_usage": 4735
+}

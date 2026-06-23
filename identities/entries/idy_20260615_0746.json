@@ -1,0 +1,122 @@
+{
+  "id": "idy_20260615_0746",
+  "source": {
+    "title": "为什么红米 K40 口碑吊打小米 MIX 4 ？",
+    "url": "https://www.zhihu.com/question/504367152/answer/2277322463",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "科技行业从业者或数码爱好者",
+      "industry": "互联网/通信",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场上升期",
+      "消费理性化"
+    ],
+    "life_experiences": [
+      "多次购买手机经验",
+      "关注双十一促销",
+      "使用过小米和红米产品"
+    ],
+    "interest_topics": [
+      "手机评测",
+      "性价比分析",
+      "数码产品",
+      "科技新闻",
+      "消费电子"
+    ],
+    "discussion_triggers": [
+      "手机价格对比",
+      "高端手机值不值得买",
+      "国产手机与苹果对比"
+    ],
+    "sensitive_topics": [
+      "国产高端手机竞争力",
+      "苹果生态",
+      "降价太快"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "性价比优先",
+      "理性消费",
+      "支持国产但认可苹果"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "数据对比",
+      "体验分析",
+      "归纳总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "手机硬件参数",
+        "性价比分析"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享观点",
+      "帮助他人选购",
+      "展示分析能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "手机性价比",
+        "score": 90
+      },
+      {
+        "topic": "红米 vs 小米",
+        "score": 85
+      },
+      {
+        "topic": "苹果 vs 安卓",
+        "score": 80
+      },
+      {
+        "topic": "双十一购物",
+        "score": 70
+      }
+    ],
+    "impression": "一个理性的数码爱好者，喜欢用数据和体验说话，对价格敏感，但也不盲目排斥高端。"
+  },
+  "analyzed_at": "2026-06-15T22:29:13.653791",
+  "token_usage": 2514
+}

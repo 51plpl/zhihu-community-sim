@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0013",
+  "source": {
+    "title": "马刺当年不让邓肯平稳退役，而是坚持裁掉他，为什么？",
+    "url": "https://zhuanlan.zhihu.com/p/444383357",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "自媒体作者/体育写手",
+      "industry": "体育媒体",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "独居"
+    ],
+    "life_experiences": [
+      "长期关注NBA",
+      "撰写体育类文章",
+      "经历过职场裁员或辞职"
+    ],
+    "interest_topics": [
+      "NBA",
+      "篮球历史",
+      "体育商业",
+      "职场故事",
+      "人物传记"
+    ],
+    "discussion_triggers": [
+      "NBA冷知识",
+      "球员退役内幕",
+      "球队管理决策",
+      "商业与温情的冲突"
+    ],
+    "sensitive_topics": [
+      "球员忠诚度",
+      "商业联盟的冷酷",
+      "管理层决策争议"
+    ],
+    "value_tendencies": [
+      "重视人情味",
+      "认可商业逻辑",
+      "同情老将",
+      "欣赏温情操作"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "故事叙述",
+      "价值判断",
+      "对比分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "NBA历史",
+        "球员合同规则",
+        "球队管理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享知识",
+      "表达观点",
+      "获得认同",
+      "帮助他人理解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "NBA历史冷知识",
+        "score": 80
+      },
+      {
+        "topic": "球员退役故事",
+        "score": 75
+      },
+      {
+        "topic": "球队管理层决策",
+        "score": 70
+      },
+      {
+        "topic": "体育商业分析",
+        "score": 60
+      },
+      {
+        "topic": "职场人情与规则",
+        "score": 50
+      }
+    ],
+    "impression": "一个喜欢用讲故事的方式科普NBA冷知识的体育博主，表面理性分析，实则暗含对人情味的推崇。"
+  },
+  "analyzed_at": "2026-06-15T22:21:06.367272",
+  "token_usage": 2579
+}

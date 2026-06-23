@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0038",
+  "source": {
+    "title": "2021儿童安全座椅选购攻略|安全座椅真的不是智商税吗？到底应该怎么选？二胎宝妈两千字真实干货分享",
+    "url": "https://zhuanlan.zhihu.com/p/449716112",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "全职妈妈/自由职业",
+      "industry": "家庭育儿",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "2个",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "二胎妈妈",
+      "育儿关键期",
+      "家庭消费决策者"
+    ],
+    "life_experiences": [
+      "生二胎后重新研究安全座椅",
+      "购买低价安全座椅踩雷",
+      "独自安装安全座椅",
+      "日常带娃出行"
+    ],
+    "interest_topics": [
+      "儿童安全座椅",
+      "育儿经验",
+      "家庭用品测评",
+      "性价比消费",
+      "亲子出行"
+    ],
+    "discussion_triggers": [
+      "安全座椅选购",
+      "宝宝哭闹不坐座椅",
+      "座椅加热通风功能",
+      "i-Size认证"
+    ],
+    "sensitive_topics": [
+      "儿童安全",
+      "产品质量争议",
+      "智商税",
+      "育儿焦虑"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "安全至上",
+      "性价比优先",
+      "相信权威测评",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "对比分析",
+      "细节导向",
+      "实用主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "儿童安全座椅选购",
+        "育儿日常"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 50,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经验帮助他人",
+      "展示自己研究能力",
+      "获得认同",
+      "推荐好物"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "安全座椅选购",
+        "score": 90
+      },
+      {
+        "topic": "宝宝出行安全",
+        "score": 80
+      },
+      {
+        "topic": "育儿好物推荐",
+        "score": 70
+      },
+      {
+        "topic": "性价比消费",
+        "score": 60
+      }
+    ],
+    "impression": "一个踩过坑后认真研究、热情分享的二胎妈妈，实用主义且相信权威，但也会为性价比精打细算。"
+  },
+  "analyzed_at": "2026-06-15T22:21:19.762541",
+  "token_usage": 3581
+}

@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0914",
+  "source": {
+    "title": "有哪些平平淡淡却虐到骨子里的虐文？",
+    "url": "https://www.zhihu.com/question/479148526/answer/2275253349",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-25",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "自由职业/无业",
+      "industry": "服务业",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "青年期",
+      "情感创伤期",
+      "独立挣扎期"
+    ],
+    "life_experiences": [
+      "亲人被害",
+      "被迫成为替身情人",
+      "情感欺骗与背叛",
+      "自我觉醒与复仇"
+    ],
+    "interest_topics": [
+      "言情小说",
+      "虐文",
+      "情感故事",
+      "复仇题材",
+      "心理成长"
+    ],
+    "discussion_triggers": [
+      "替身梗",
+      "虐恋",
+      "渣男",
+      "复仇",
+      "情感背叛"
+    ],
+    "sensitive_topics": [
+      "替身情人",
+      "亲人被害",
+      "情感操控",
+      "权力不对等关系"
+    ],
+    "value_tendencies": [
+      "重视情感忠诚",
+      "独立自主",
+      "有仇必报",
+      "不轻易信任他人"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情感驱动",
+      "故事叙述",
+      "细节描写",
+      "情绪表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "言情小说套路",
+        "情感关系分析"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "表达情感",
+      "寻求共鸣",
+      "展示文笔"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "虐文推荐",
+        "score": 90
+      },
+      {
+        "topic": "替身情人故事",
+        "score": 85
+      },
+      {
+        "topic": "情感创伤",
+        "score": 80
+      },
+      {
+        "topic": "复仇",
+        "score": 75
+      },
+      {
+        "topic": "言情小说写作",
+        "score": 70
+      }
+    ],
+    "impression": "一个用文字疗伤的虐文爱好者，内心敏感细腻，擅长用第一人称讲述揪心的情感故事。"
+  },
+  "analyzed_at": "2026-06-15T22:31:13.490387",
+  "token_usage": 5075
+}

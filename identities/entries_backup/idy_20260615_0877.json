@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0877",
+  "source": {
+    "title": "神炮手赵章成：朝你竖大拇指不一定是夸你，也可能正在拿炮轰你",
+    "url": "https://zhuanlan.zhihu.com/p/441085988",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "军事历史研究者/自媒体撰稿人",
+      "industry": "文化传媒",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "长期关注军事历史",
+      "有军迷社群活跃经历",
+      "可能曾从事技术或工程类工作"
+    ],
+    "interest_topics": [
+      "军事历史",
+      "解放军战史",
+      "火炮技术",
+      "二战武器",
+      "人物传记"
+    ],
+    "discussion_triggers": [
+      "红军长征故事",
+      "百团大战细节",
+      "迫击炮战术",
+      "赵章成相关",
+      "抗战中的技术创新"
+    ],
+    "sensitive_topics": [
+      "抗日神剧",
+      "历史虚无主义",
+      "对解放军战力的质疑"
+    ],
+    "value_tendencies": [
+      "崇尚实干",
+      "尊重技术",
+      "爱国情怀",
+      "敬佩逆境中的奋斗"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "故事叙述",
+      "细节考证",
+      "技术分析",
+      "英雄崇拜"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中国近代军事史",
+        "火炮技术",
+        "解放军炮兵发展史"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享历史知识",
+      "传播正能量",
+      "展示专业积累",
+      "激发爱国情怀"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "赵章成的炮术细节",
+        "score": 90
+      },
+      {
+        "topic": "迫击炮平射技术",
+        "score": 85
+      },
+      {
+        "topic": "红军长征中的战斗",
+        "score": 80
+      },
+      {
+        "topic": "百团大战的战术创新",
+        "score": 75
+      },
+      {
+        "topic": "解放军炮兵发展史",
+        "score": 85
+      }
+    ],
+    "impression": "一个热爱军事历史的讲述者，用生动的故事和细节让历史人物活起来，带着对英雄的敬意和对技术的痴迷。"
+  },
+  "analyzed_at": "2026-06-15T22:30:48.116427",
+  "token_usage": 5216
+}

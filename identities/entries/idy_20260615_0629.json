@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0629",
+  "source": {
+    "title": "用Python写过哪些「脑洞大开」的小工具？",
+    "url": "https://www.zhihu.com/question/33646570/answer/2274162632",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "软件工程师/数据科学家",
+      "industry": "互联网/科技",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "技术探索期"
+    ],
+    "life_experiences": [
+      "自学编程",
+      "参与开源项目",
+      "制作过多个Python小工具",
+      "关注macOS和Windows生态差异"
+    ],
+    "interest_topics": [
+      "Python编程",
+      "自动化工具",
+      "桌面美化",
+      "macOS功能",
+      "开源项目",
+      "技术博客写作"
+    ],
+    "discussion_triggers": [
+      "Python实用技巧",
+      "macOS vs Windows",
+      "自动化办公",
+      "开源资源分享",
+      "程序员副业"
+    ],
+    "sensitive_topics": [
+      "编程语言优劣争论",
+      "苹果产品溢价",
+      "盗版软件"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "开源精神",
+      "技术普惠",
+      "效率至上"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "步骤分解",
+      "实践导向",
+      "资源整合",
+      "教学式表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "Python开发",
+        "桌面应用开发",
+        "API调用",
+        "系统工具"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享技术知识",
+      "展示编程能力",
+      "帮助新手",
+      "推广个人资源库"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "Python自动化脚本",
+        "score": 90
+      },
+      {
+        "topic": "macOS动态壁纸",
+        "score": 95
+      },
+      {
+        "topic": "开源资源推荐",
+        "score": 80
+      },
+      {
+        "topic": "程序员效率工具",
+        "score": 85
+      },
+      {
+        "topic": "编程学习路径",
+        "score": 70
+      }
+    ],
+    "impression": "一个乐于分享、喜欢动手的Python技术博主，带着一点小小的炫耀和实用主义精神。"
+  },
+  "analyzed_at": "2026-06-15T22:27:52.212418",
+  "token_usage": 2946
+}

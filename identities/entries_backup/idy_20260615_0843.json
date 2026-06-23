@@ -1,0 +1,138 @@
+{
+  "id": "idy_20260615_0843",
+  "source": {
+    "title": "《962525》陆庭深 宋南溪 伪叔侄 禁忌文 追妻火葬场",
+    "url": "https://zhuanlan.zhihu.com/p/445756684",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-26",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "待业/家族企业挂职",
+      "industry": "无固定行业",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中产（依赖家庭）"
+    },
+    "life_stage": [
+      "青年期",
+      "感情挫折期",
+      "职业迷茫期"
+    ],
+    "life_experiences": [
+      "暗恋年长男性多年",
+      "告白被拒后对方消失两年",
+      "家族企业衰落",
+      "被迫参加相亲酒会",
+      "遭遇下药险失身"
+    ],
+    "interest_topics": [
+      "言情小说",
+      "情感话题",
+      "家族关系",
+      "社交礼仪",
+      "心理学"
+    ],
+    "discussion_triggers": [
+      "暗恋经历",
+      "被拒绝后的痛苦",
+      "家族压力",
+      "不公平对待",
+      "情感背叛"
+    ],
+    "sensitive_topics": [
+      "年龄差恋情",
+      "未婚先孕",
+      "家族联姻",
+      "酒后失态",
+      "被轻视"
+    ],
+    "value_tendencies": [
+      "情感至上",
+      "浪漫主义",
+      "重视家庭伦理但内心叛逆",
+      "渴望被认可",
+      "自尊心强"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情感驱动",
+      "自我反思",
+      "理想化",
+      "偶尔冲动"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "言情小说套路",
+        "社交礼仪",
+        "家族企业运作常识"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 40,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 60,
+      "likes_short_answers": 40,
+      "likes_storytelling": 90,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 95,
+      "likes_emotional_expression": 85,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享情感经历",
+      "寻求共鸣",
+      "发泄情绪",
+      "获得安慰",
+      "寻找同类"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 80,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "暗恋经历",
+        "score": 95
+      },
+      {
+        "topic": "被拒绝后的痛苦",
+        "score": 90
+      },
+      {
+        "topic": "家族压力",
+        "score": 80
+      },
+      {
+        "topic": "言情小说推荐",
+        "score": 70
+      },
+      {
+        "topic": "情感咨询",
+        "score": 60
+      }
+    ],
+    "impression": "一个为爱痴狂又自尊心强的年轻女孩，在情感挫折中挣扎，渴望被理解却又不愿示弱。"
+  },
+  "analyzed_at": "2026-06-15T22:30:22.143636",
+  "token_usage": 5235
+}

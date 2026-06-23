@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0169",
+  "source": {
+    "title": "“炒股养家”从炒股养家到炒股发家，从90万赚到10亿",
+    "url": "https://zhuanlan.zhihu.com/p/449428914",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "职业投资者/游资",
+      "industry": "金融投资",
+      "city_tier": "一线城市（上海）",
+      "marital_status": "已婚",
+      "children": "有子女",
+      "income_level": "极高（资产过亿）"
+    },
+    "life_stage": [
+      "职业巅峰期",
+      "已实现财务自由"
+    ],
+    "life_experiences": [
+      "2008年辞职职业炒股遭遇熊市亏损",
+      "2009年潜心学习悟道",
+      "2010年起资金快速增长",
+      "2015年资产突破10亿",
+      "成名后隐退江湖"
+    ],
+    "interest_topics": [
+      "股票投资",
+      "游资操作手法",
+      "交易心理学",
+      "龙虎榜数据",
+      "市场情绪分析"
+    ],
+    "discussion_triggers": [
+      "炒股养家心法",
+      "游资成长历程",
+      "牛熊周期经验",
+      "资金管理策略"
+    ],
+    "sensitive_topics": [
+      "股市监管政策",
+      "内幕交易",
+      "散户亏损"
+    ],
+    "value_tendencies": [
+      "重视悟性与学习",
+      "低调务实",
+      "风险意识强",
+      "尊重市场规律"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向",
+      "复盘总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "短线交易",
+        "情绪周期",
+        "资金流分析",
+        "游资席位识别"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 30,
+      "likes_answering": 20,
+      "likes_commenting": 10,
+      "likes_debating": 10,
+      "likes_contrarian": 30,
+      "likes_long_answers": 50,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享悟道经历",
+      "展示专业能力",
+      "帮助后来者",
+      "记录投资历程"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "炒股养家心法",
+        "score": 90
+      },
+      {
+        "topic": "游资成长经历",
+        "score": 80
+      },
+      {
+        "topic": "牛熊市应对策略",
+        "score": 70
+      },
+      {
+        "topic": "短线交易技巧",
+        "score": 60
+      },
+      {
+        "topic": "股市悟道过程",
+        "score": 85
+      }
+    ],
+    "impression": "一个从低谷中悟道、最终封神的游资大佬，低调神秘但乐于分享核心心法。"
+  },
+  "analyzed_at": "2026-06-15T22:22:43.650711",
+  "token_usage": 2691
+}

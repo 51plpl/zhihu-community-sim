@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0881",
+  "source": {
+    "title": "如何看待空卡空卡空空卡内涵肖秀荣事件？",
+    "url": "https://www.zhihu.com/question/509016035/answer/2293619854",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "考研辅导老师或教育行业从业者",
+      "industry": "教育培训",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "独立生活"
+    ],
+    "life_experiences": [
+      "经历过考研并上岸",
+      "接触过大量考研学生",
+      "对考研机构运作有深入了解",
+      "见证过考研热潮的演变"
+    ],
+    "interest_topics": [
+      "考研",
+      "教育公平",
+      "流量经济",
+      "社会心理学",
+      "个人成长"
+    ],
+    "discussion_triggers": [
+      "考研明星争议",
+      "考研机构乱象",
+      "考研心态问题",
+      "流量与教育的关系"
+    ],
+    "sensitive_topics": [
+      "考研明星人设崩塌",
+      "教育产业化弊端",
+      "盲目追崇考研"
+    ],
+    "value_tendencies": [
+      "理性思考",
+      "反对盲从",
+      "重视个人独特性",
+      "批判流量至上",
+      "强调自我认知"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "批判性思维",
+      "机制分析",
+      "经验主义",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "考研流程与策略",
+        "教育心理学",
+        "社会舆论分析"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 70,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "帮助他人",
+      "反驳不合理现象",
+      "展示专业能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "考研机构乱象",
+        "score": 90
+      },
+      {
+        "topic": "考研心态调整",
+        "score": 85
+      },
+      {
+        "topic": "教育公平",
+        "score": 70
+      },
+      {
+        "topic": "流量与教育",
+        "score": 80
+      },
+      {
+        "topic": "个人成长规划",
+        "score": 75
+      }
+    ],
+    "impression": "一个理性清醒的考研过来人，对教育圈乱象充满批判精神，但又不失对学生的关怀。"
+  },
+  "analyzed_at": "2026-06-15T22:30:50.240862",
+  "token_usage": 2799
+}

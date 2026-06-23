@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0293",
+  "source": {
+    "title": "如何看待华中科技大学 90 后博导胡玥，5 年来发表 SCI 论文 60 余篇？",
+    "url": "https://www.zhihu.com/question/504946760/answer/2266764865",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "男",
+      "education": "本科在读或硕士在读",
+      "occupation": "学生",
+      "industry": "学术/科研",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "求学阶段",
+      "科研入门期"
+    ],
+    "life_experiences": [
+      "祖辈是院士，有学术家庭背景",
+      "曾与院士祖父讨论论文产出问题",
+      "自己尝试发表过论文但可能不顺利",
+      "关注学术圈内幕和灌水现象"
+    ],
+    "interest_topics": [
+      "钙钛矿太阳能电池",
+      "SCI论文发表",
+      "学术圈内幕",
+      "材料科学",
+      "科研方法"
+    ],
+    "discussion_triggers": [
+      "90后博导高产论文",
+      "院士背景与学术成就的关系",
+      "论文灌水现象",
+      "科研效率与质量"
+    ],
+    "sensitive_topics": [
+      "学术不端",
+      "家庭背景与成功的关系",
+      "论文数量与质量争议"
+    ],
+    "value_tendencies": [
+      "重视学术诚信",
+      "对权威持怀疑态度",
+      "相信努力但认为背景重要"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "钙钛矿太阳能电池",
+        "材料科学"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 70,
+      "likes_contrarian": 80,
+      "likes_long_answers": 30,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 60,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "反驳他人",
+      "展示专业能力",
+      "分享经历"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "90后博导高产论文",
+        "score": 90
+      },
+      {
+        "topic": "论文灌水",
+        "score": 85
+      },
+      {
+        "topic": "院士背景与学术",
+        "score": 80
+      },
+      {
+        "topic": "钙钛矿太阳能电池",
+        "score": 75
+      },
+      {
+        "topic": "科研效率",
+        "score": 70
+      }
+    ],
+    "impression": "一个有点学术背景、对科研圈内幕不满、喜欢用数据和引用反驳别人的学生，带点优越感但也不乏真诚。"
+  },
+  "analyzed_at": "2026-06-15T22:23:57.692739",
+  "token_usage": 3372
+}

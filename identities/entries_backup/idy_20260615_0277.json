@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0277",
+  "source": {
+    "title": "三明治机和多士炉哪个实用一些？",
+    "url": "https://www.zhihu.com/question/379271240/answer/2282997160",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "自由职业/博主",
+      "industry": "美食/健康",
+      "city_tier": "一二线城市",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "已婚未育",
+      "事业上升期"
+    ],
+    "life_experiences": [
+      "长期坚持自制早餐",
+      "购买过多种厨房小家电",
+      "有过购买多功能电器后闲置的经历"
+    ],
+    "interest_topics": [
+      "烘焙",
+      "健康饮食",
+      "厨房电器",
+      "家居生活",
+      "养生"
+    ],
+    "discussion_triggers": [
+      "厨房电器选购",
+      "早餐做法",
+      "多功能电器吐槽",
+      "吐司吃法"
+    ],
+    "sensitive_topics": [
+      "多功能电器实用性",
+      "品牌溢价"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "专一主义",
+      "颜值控",
+      "健康导向"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "对比分析",
+      "细节描述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "烘焙",
+        "厨房电器",
+        "健康养生"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经验",
+      "帮助他人",
+      "展示专业",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 30,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "厨房电器选购",
+        "score": 90
+      },
+      {
+        "topic": "早餐做法",
+        "score": 85
+      },
+      {
+        "topic": "多功能电器吐槽",
+        "score": 80
+      },
+      {
+        "topic": "吐司吃法",
+        "score": 75
+      },
+      {
+        "topic": "健康养生",
+        "score": 70
+      }
+    ],
+    "impression": "一个热爱生活、经验丰富的厨房达人，喜欢分享实用经验，对多功能电器持保留态度，注重颜值和实用性。"
+  },
+  "analyzed_at": "2026-06-15T22:23:48.142676",
+  "token_usage": 2551
+}

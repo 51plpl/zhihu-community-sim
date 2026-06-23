@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0693",
+  "source": {
+    "title": "怎样判断自己是不是讨好型人格？",
+    "url": "https://www.zhihu.com/question/395888165/answer/2258397967",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "女性",
+      "education": "本科及以上",
+      "occupation": "心理咨询师、教育工作者、或互联网行业从业者",
+      "industry": "教育、心理咨询、互联网",
+      "city_tier": "一二线城市",
+      "marital_status": "单身或恋爱中",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "自我探索期",
+      "职业发展期",
+      "人际关系敏感期"
+    ],
+    "life_experiences": [
+      "曾经历讨好型人格的困扰",
+      "阅读过心理学书籍（如卡伦·霍妮）",
+      "可能接受过心理咨询"
+    ],
+    "interest_topics": [
+      "心理学",
+      "人格类型",
+      "人际关系",
+      "自我成长",
+      "情感关系"
+    ],
+    "discussion_triggers": [
+      "讨好型人格",
+      "如何拒绝别人",
+      "自卑与自信",
+      "亲密关系中的依赖"
+    ],
+    "sensitive_topics": [
+      "原生家庭",
+      "被抛弃感",
+      "不被认可",
+      "人际冲突"
+    ],
+    "value_tendencies": [
+      "重视自我成长",
+      "追求独立自主",
+      "同情弱者",
+      "反感控制与利用"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "价值判断",
+      "经验反思"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "心理学",
+        "人格理论"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人认识自己",
+      "展示专业理解",
+      "分享心理学知识",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "讨好型人格",
+        "score": 90
+      },
+      {
+        "topic": "人际关系",
+        "score": 80
+      },
+      {
+        "topic": "心理学书籍推荐",
+        "score": 70
+      },
+      {
+        "topic": "如何建立自信",
+        "score": 75
+      },
+      {
+        "topic": "原生家庭影响",
+        "score": 65
+      }
+    ],
+    "impression": "一个读过不少心理学书、对讨好型人格有深刻理解的人，语气像在分享知识，也像在自我剖析，冷静中带着一丝过来人的通透。"
+  },
+  "analyzed_at": "2026-06-15T22:28:36.634803",
+  "token_usage": 3879
+}

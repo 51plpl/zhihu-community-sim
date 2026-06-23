@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0776",
+  "source": {
+    "title": "俄总统普京「闪电」访问印度，签署 28 项协议，可能会带来哪些影响？",
+    "url": "https://www.zhihu.com/question/504206641/answer/2262655488",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "硕士及以上",
+      "occupation": "国际关系研究员/评论员",
+      "industry": "学术/媒体",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "长期关注国际政治",
+      "有海外留学或工作经历",
+      "参与过政策分析或智库工作"
+    ],
+    "interest_topics": [
+      "国际关系",
+      "地缘政治",
+      "军事战略",
+      "历史",
+      "网络理论",
+      "经济制裁"
+    ],
+    "discussion_triggers": [
+      "大国博弈",
+      "俄乌局势",
+      "中美关系",
+      "北约东扩",
+      "历史类比"
+    ],
+    "sensitive_topics": [
+      "中国外交政策",
+      "台湾问题",
+      "意识形态冲突"
+    ],
+    "value_tendencies": [
+      "现实主义",
+      "理性分析",
+      "批判西方霸权",
+      "支持多极化"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "历史类比",
+      "系统思维",
+      "数据导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "国际关系",
+        "地缘政治",
+        "军事战略",
+        "历史"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业能力",
+      "表达观点",
+      "反驳他人",
+      "帮助别人理解复杂问题"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "俄乌冲突",
+        "score": 90
+      },
+      {
+        "topic": "中美关系",
+        "score": 85
+      },
+      {
+        "topic": "北约战略",
+        "score": 80
+      },
+      {
+        "topic": "国际制裁",
+        "score": 75
+      },
+      {
+        "topic": "历史类比",
+        "score": 70
+      }
+    ],
+    "impression": "一个理性冷静的地缘政治分析者，喜欢用历史案例和系统框架解构国际事件，偶尔流露出对西方双标的批判。"
+  },
+  "analyzed_at": "2026-06-15T22:29:36.550677",
+  "token_usage": 4612
+}

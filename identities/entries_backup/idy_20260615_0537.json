@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0537",
+  "source": {
+    "title": "TNO后十年会是什么样（1972—1982）?",
+    "url": "https://www.zhihu.com/question/503430546/answer/2258908509",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "学生或游戏爱好者",
+      "industry": "游戏或历史相关",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "求学",
+      "探索兴趣"
+    ],
+    "life_experiences": [
+      "玩过大量策略游戏",
+      "对架空历史题材有深入研究",
+      "参与过游戏社区讨论"
+    ],
+    "interest_topics": [
+      "TNO模组",
+      "架空历史",
+      "政治模拟",
+      "二战历史",
+      "冷战史",
+      "游戏剧情设计"
+    ],
+    "discussion_triggers": [
+      "TNO新版本",
+      "架空历史走向",
+      "政治人物评价",
+      "游戏剧情脑补"
+    ],
+    "sensitive_topics": [
+      "政治立场争议",
+      "历史人物评价",
+      "游戏剧情合理性"
+    ],
+    "value_tendencies": [
+      "反殖民主义",
+      "支持独立自主",
+      "理想主义",
+      "对宏大叙事感兴趣"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "故事叙述",
+      "机制分析",
+      "脑补推演",
+      "历史类比"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "TNO模组设定",
+        "二战历史",
+        "冷战史",
+        "架空历史创作"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 60,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 90
+    },
+    "motivation": [
+      "分享脑洞",
+      "展示对模组的理解",
+      "获得同好认同",
+      "参与剧情讨论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "TNO剧情推测",
+        "score": 90
+      },
+      {
+        "topic": "架空历史政治",
+        "score": 80
+      },
+      {
+        "topic": "游戏模组推荐",
+        "score": 70
+      },
+      {
+        "topic": "历史人物评价",
+        "score": 60
+      }
+    ],
+    "impression": "一个沉浸在架空历史世界中的热血青年，喜欢用故事推演来抒发理想主义情怀。"
+  },
+  "analyzed_at": "2026-06-15T22:26:48.309157",
+  "token_usage": 3197
+}

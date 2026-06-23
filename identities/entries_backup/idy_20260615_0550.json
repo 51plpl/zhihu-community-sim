@@ -1,0 +1,117 @@
+{
+  "id": "idy_20260615_0550",
+  "source": {
+    "title": "有没有圣诞礼物清单推荐，送男生女生都适用的那种？",
+    "url": "https://www.zhihu.com/question/501814247/answer/2280814396",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "市场营销或内容运营",
+      "industry": "互联网/电商",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "职场上升期",
+      "社交活跃期"
+    ],
+    "life_experiences": [
+      "经常为送礼发愁",
+      "关注节日仪式感",
+      "喜欢整理和分享信息"
+    ],
+    "interest_topics": [
+      "礼物推荐",
+      "节日文化",
+      "消费指南",
+      "生活方式",
+      "品牌知识"
+    ],
+    "discussion_triggers": [
+      "节日送礼难题",
+      "礼物清单分享",
+      "品牌对比"
+    ],
+    "sensitive_topics": [
+      "礼物价格敏感",
+      "送礼翻车经历"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "仪式感",
+      "品牌意识"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "分类归纳",
+      "清单式思维",
+      "信息整合"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "礼物推荐",
+        "品牌评测",
+        "节日文化"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人解决送礼难题",
+      "展示自己的信息整合能力",
+      "获得认同和感谢"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "节日礼物推荐",
+        "score": 90
+      },
+      {
+        "topic": "品牌对比评测",
+        "score": 70
+      },
+      {
+        "topic": "送礼技巧",
+        "score": 80
+      }
+    ],
+    "impression": "一个热心且有条理的送礼达人，喜欢用清单和分类来解决问题。"
+  },
+  "analyzed_at": "2026-06-15T22:26:56.461984",
+  "token_usage": 4113
+}

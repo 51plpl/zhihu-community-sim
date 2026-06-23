@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0637",
+  "source": {
+    "title": "李靓蕾控诉王力宏，婚后连续生育三个孩子但仍得不到尊重，身处类似情况的女性应该如何避免这样的处境？",
+    "url": "https://www.zhihu.com/question/506785580/answer/2275744084",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "硕士及以上",
+      "occupation": "内容创作者/媒体人/互联网从业者",
+      "industry": "文化传媒/互联网",
+      "city_tier": "一线城市",
+      "marital_status": "单身或恋爱中",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "自我探索期"
+    ],
+    "life_experiences": [
+      "经历过或观察过高压家庭环境",
+      "对流行文化有深度研究",
+      "有情感关系中的反思经历"
+    ],
+    "interest_topics": [
+      "心理学",
+      "性别议题",
+      "流行文化",
+      "名人八卦",
+      "人际关系",
+      "自我成长"
+    ],
+    "discussion_triggers": [
+      "名人塌房",
+      "完美人设",
+      "鸡娃教育",
+      "情感操控",
+      "女性处境"
+    ],
+    "sensitive_topics": [
+      "性别不平等",
+      "家庭压力",
+      "自恋型人格",
+      "虚假人设"
+    ],
+    "value_tendencies": [
+      "重视真实与自我",
+      "批判完美主义",
+      "支持女性独立",
+      "崇尚自然魅力"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "机制分析",
+      "价值判断",
+      "经验反思",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "流行文化分析",
+        "心理学",
+        "性别研究"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "表达观点",
+      "帮助他人",
+      "展示洞察",
+      "分享经历"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "名人塌房分析",
+        "score": 90
+      },
+      {
+        "topic": "完美人设的弊端",
+        "score": 85
+      },
+      {
+        "topic": "女性在婚姻中的自我保全",
+        "score": 80
+      },
+      {
+        "topic": "鸡娃教育的长期影响",
+        "score": 75
+      },
+      {
+        "topic": "情感关系中的自恋型人格",
+        "score": 80
+      }
+    ],
+    "impression": "一个善于洞察人性、热衷解构名人现象的理性分析者，带着过来人的清醒和一丝悲观。"
+  },
+  "analyzed_at": "2026-06-15T22:27:58.380351",
+  "token_usage": 2818
+}

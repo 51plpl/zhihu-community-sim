@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0180",
+  "source": {
+    "title": "有人在中地国际工程有限公司工作过吗，能客观的介绍一下吗？",
+    "url": "https://www.zhihu.com/question/35236393/answer/2276167808",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-35",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "前海外工程项目经理",
+      "industry": "国际工程",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业转型期",
+      "海外经历丰富"
+    ],
+    "life_experiences": [
+      "211高校硕士毕业",
+      "伊拉克工作经历",
+      "肯尼亚市场开发",
+      "经历恐怖袭击",
+      "离职回国适应期"
+    ],
+    "interest_topics": [
+      "国际工程",
+      "海外工作生活",
+      "职业发展",
+      "跨文化经历",
+      "工程行业薪酬"
+    ],
+    "discussion_triggers": [
+      "公司评价",
+      "海外工作利弊",
+      "职业选择",
+      "薪资待遇"
+    ],
+    "sensitive_topics": [
+      "恐怖袭击",
+      "海外安全",
+      "回国适应困难"
+    ],
+    "value_tendencies": [
+      "务实",
+      "看重人际关系",
+      "重视个人成长",
+      "开放包容"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验总结",
+      "客观分析",
+      "对比论证",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "国际工程项目管理",
+        "海外市场开发",
+        "中东非洲环境"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 40,
+      "likes_answering": 70,
+      "likes_commenting": 30,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "帮助他人决策",
+      "展示专业见解",
+      "怀念过去"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 30,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "中地国际工程公司评价",
+        "score": 90
+      },
+      {
+        "topic": "海外工程工作体验",
+        "score": 85
+      },
+      {
+        "topic": "伊拉克/肯尼亚生活",
+        "score": 80
+      },
+      {
+        "topic": "工程行业职业发展",
+        "score": 70
+      },
+      {
+        "topic": "回国适应问题",
+        "score": 60
+      }
+    ],
+    "impression": "一个在海外打拼多年、务实念旧的工程人，喜欢用亲身经历说话，带着点过来人的淡然和怀念。"
+  },
+  "analyzed_at": "2026-06-15T22:22:49.816146",
+  "token_usage": 2490
+}

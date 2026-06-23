@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0936",
+  "source": {
+    "title": "考研考什么？2023考研该如何着手准备？",
+    "url": "https://zhuanlan.zhihu.com/p/443285920",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-25",
+      "gender": "女",
+      "education": "硕士在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "无收入"
+    },
+    "life_stage": [
+      "考研上岸",
+      "研究生一年级"
+    ],
+    "life_experiences": [
+      "本科双非",
+      "一战上岸211",
+      "实习经历",
+      "被学历差距打击"
+    ],
+    "interest_topics": [
+      "考研备考",
+      "新传专业",
+      "学习方法",
+      "时间管理",
+      "自我提升",
+      "教育公平"
+    ],
+    "discussion_triggers": [
+      "考研经验分享",
+      "双非逆袭",
+      "备考规划",
+      "择校建议",
+      "考研资料获取"
+    ],
+    "sensitive_topics": [
+      "学历歧视",
+      "考研难度",
+      "跨考压力",
+      "家庭支持"
+    ],
+    "value_tendencies": [
+      "努力决定论",
+      "实用主义",
+      "结果导向",
+      "相信规划",
+      "反对投机"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "步骤分解",
+      "数据导向",
+      "鼓励型"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "新传考研",
+        "英语备考",
+        "政治备考",
+        "考研规划"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 50,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 40,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助学弟学妹",
+      "分享成功经验",
+      "获得认同",
+      "展示能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "考研英语复习",
+        "score": 90
+      },
+      {
+        "topic": "双非考研经验",
+        "score": 85
+      },
+      {
+        "topic": "新传专业课备考",
+        "score": 80
+      },
+      {
+        "topic": "考研资料推荐",
+        "score": 75
+      },
+      {
+        "topic": "考研心态调整",
+        "score": 70
+      }
+    ],
+    "impression": "一个从双非逆袭211的学姐，热情分享干货，带着过来人的真诚和一点小骄傲。"
+  },
+  "analyzed_at": "2026-06-15T22:31:30.782348",
+  "token_usage": 4501
+}

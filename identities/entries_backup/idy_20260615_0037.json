@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0037",
+  "source": {
+    "title": "为什么有的人就是讨厌胖子？",
+    "url": "https://www.zhihu.com/question/38907758/answer/2254994455",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "男",
+      "education": "硕士在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "求学阶段",
+      "集体生活经历"
+    ],
+    "life_experiences": [
+      "大学宿舍与胖子室友冲突",
+      "研究生宿舍再次与胖子室友冲突",
+      "因室友打呼噜导致睡眠不足和健康问题",
+      "尝试沟通解决但失败"
+    ],
+    "interest_topics": [
+      "宿舍生活",
+      "睡眠健康",
+      "集体生活规则",
+      "人际沟通"
+    ],
+    "discussion_triggers": [
+      "胖子相关话题",
+      "宿舍矛盾",
+      "打呼噜问题",
+      "评论区争议"
+    ],
+    "sensitive_topics": [
+      "胖子歧视",
+      "个人卫生",
+      "噪音干扰",
+      "情商争论"
+    ],
+    "value_tendencies": [
+      "集体主义",
+      "规则导向",
+      "结果正义",
+      "直接沟通"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "经验主义",
+      "逻辑推理",
+      "情绪表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "宿舍生活",
+        "睡眠问题"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 30,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 70,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 40,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "表达观点",
+      "反驳他人",
+      "分享经历",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "宿舍矛盾",
+        "score": 90
+      },
+      {
+        "topic": "胖子歧视",
+        "score": 80
+      },
+      {
+        "topic": "打呼噜",
+        "score": 85
+      },
+      {
+        "topic": "集体生活",
+        "score": 75
+      },
+      {
+        "topic": "情商",
+        "score": 70
+      }
+    ],
+    "impression": "一个被宿舍胖子室友折磨到崩溃的暴躁老哥，带着怨气在网上发泄，逻辑在线但情绪上头，喜欢跟评论区对线。"
+  },
+  "analyzed_at": "2026-06-15T22:21:19.351615",
+  "token_usage": 2479
+}

@@ -1,0 +1,121 @@
+{
+  "id": "idy_20260615_0391",
+  "source": {
+    "title": "Python，用代码画一棵漂亮的动态樱花树（不同种樱花+玫瑰+圣诞树喔）附源码！",
+    "url": "https://zhuanlan.zhihu.com/p/446383527",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "2",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "大学阶段",
+      "学习编程入门"
+    ],
+    "life_experiences": [
+      "自学Python",
+      "喜欢分享代码资源",
+      "关注节日氛围"
+    ],
+    "interest_topics": [
+      "Python编程",
+      "趣味代码",
+      "可视化",
+      "节日主题",
+      "资源分享"
+    ],
+    "discussion_triggers": [
+      "Python小项目",
+      "代码分享",
+      "节日特效",
+      "零基础学习"
+    ],
+    "sensitive_topics": [
+      "代码版权",
+      "学习资源付费"
+    ],
+    "value_tendencies": [
+      "乐于分享",
+      "注重实用",
+      "喜欢互动"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "经验分享",
+      "教程导向",
+      "鼓励式"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "Python基础",
+        "turtle库"
+      ],
+      "general_knowledge_level": 30,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 50,
+      "likes_debating": 10,
+      "likes_contrarian": 5,
+      "likes_long_answers": 30,
+      "likes_short_answers": 70,
+      "likes_storytelling": 20,
+      "likes_explaining": 60,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享资源",
+      "获得认可",
+      "帮助初学者"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "Python入门",
+        "score": 90
+      },
+      {
+        "topic": "turtle画图",
+        "score": 85
+      },
+      {
+        "topic": "节日代码",
+        "score": 80
+      },
+      {
+        "topic": "学习资源",
+        "score": 75
+      }
+    ],
+    "impression": "一个热情爱分享的编程初学者，喜欢用代码制造节日气氛，渴望得到小红心。"
+  },
+  "analyzed_at": "2026-06-15T22:25:03.485653",
+  "token_usage": 2319
+}

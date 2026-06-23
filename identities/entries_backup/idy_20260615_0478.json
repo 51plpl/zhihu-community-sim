@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0478",
+  "source": {
+    "title": "如何评价战国时期魏国历代君主?",
+    "url": "https://www.zhihu.com/question/505688363/answer/2269491750",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "历史爱好者/自媒体作者/教师",
+      "industry": "教育/文化/互联网",
+      "city_tier": "二线或三线",
+      "marital_status": "未知",
+      "children": "未知",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "知识积累期"
+    ],
+    "life_experiences": [
+      "长期钻研战国史",
+      "可能参与过历史论坛讨论",
+      "读过《孙子兵法》等古籍"
+    ],
+    "interest_topics": [
+      "战国史",
+      "古代战略",
+      "历史人物评价",
+      "政治博弈",
+      "军事思想"
+    ],
+    "discussion_triggers": [
+      "魏国君主排名",
+      "战国战略分析",
+      "秦国崛起原因",
+      "信陵君作用"
+    ],
+    "sensitive_topics": [
+      "嬴政评价",
+      "魏惠王战略失误",
+      "孟尝君功过"
+    ],
+    "value_tendencies": [
+      "重视战略远见",
+      "崇尚实用主义",
+      "欣赏授权型领导",
+      "反对短视行为"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "历史比较",
+      "战略思维",
+      "归纳总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "战国史",
+        "古代战略",
+        "人物评价"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享知识",
+      "展示专业",
+      "帮助理解历史",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "战国君主评价",
+        "score": 90
+      },
+      {
+        "topic": "战国战略博弈",
+        "score": 85
+      },
+      {
+        "topic": "魏国兴衰",
+        "score": 95
+      },
+      {
+        "topic": "孙子兵法应用",
+        "score": 70
+      }
+    ],
+    "impression": "一个沉迷战国战略分析的历史爱好者，喜欢用现代管理术语解读古代政治，自信且条理清晰。"
+  },
+  "analyzed_at": "2026-06-15T22:26:04.448592",
+  "token_usage": 2523
+}

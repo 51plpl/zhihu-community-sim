@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_003",
+  "source": {
+    "title": "你见过最土的土豪有多土？",
+    "url": "https://www.zhihu.com/question/59949917/answer/2288133907",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "口语化为主，用词偏日常，如“土”、“幺蛾子”、“盘问个底掉”，夹杂少量专业词如“家宴”、“对质”。",
+    "sentence_rhythm": "短句为主，节奏明快，叙述紧凑，偶尔插入长句补充细节。",
+    "favorite_expressions": [
+      "后面",
+      "也",
+      "确实",
+      "但是",
+      "据说"
+    ],
+    "punctuation_habits": "逗号密集，句号分隔短句，感叹号用于强调，省略号用于待续。",
+    "person_perspective": "第一人称“我”叙述，穿插第三人称“李老板”、“马秘书”。",
+    "emotion_intensity": "中等，叙述偏冷静，略带调侃和猎奇，不煽情。"
+  },
+  "structure": {
+    "opening_pattern": "以提问开头，直接引出主题。",
+    "paragraph_rhythm": "段落长短交替，关键情节独立成段，如“后面待续”。",
+    "argument_logic": "归纳型，通过具体案例（李老板故事）引出观点。",
+    "transition_style": "口语化连接词，如“后面”、“但是”、“然后”。",
+    "closing_pattern": "开放提问，邀请读者继续关注。",
+    "title_pattern": "提问式，制造悬念。"
+  },
+  "analyzed_at": "2026-06-14T22:54:45.685939",
+  "token_usage": 1606
+}

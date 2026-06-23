@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_033",
+  "source": {
+    "title": "IEEE Fellow梅涛：视觉计算的前沿进展与挑战",
+    "url": "https://zhuanlan.zhihu.com/p/448990260",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "混合，以书面语为主，夹杂少量口语化表达，用词专业但易懂。",
+    "sentence_rhythm": "长短句结合，节奏舒缓，以陈述句为主，偶尔使用短句强调。",
+    "favorite_expressions": [
+      "例如",
+      "如上图所示",
+      "值得一提的是",
+      "个人认为",
+      "总结起来"
+    ],
+    "punctuation_habits": "逗号使用频繁，句子较长；引号用于强调术语；感叹号极少使用。",
+    "person_perspective": "第三人称客观叙述，偶尔使用第一人称“我”表达个人观点。",
+    "emotion_intensity": "冷静克制，保持学术报告的客观性。"
+  },
+  "structure": {
+    "opening_pattern": "以演讲主题和背景引入，结合大会场景。",
+    "paragraph_rhythm": "段落长度中等，关键句独立成段，如“计算机视觉的进展与挑战”等小标题。",
+    "argument_logic": "演绎型，先提出观点（如感知AI超越人类），再通过案例和数据进行论证。",
+    "transition_style": "使用连接词和口语化过渡，如“通过上述两个例子可以看出”、“总结起来”。",
+    "closing_pattern": "以趋势预测图收尾，展望未来，呼应开头。",
+    "title_pattern": "直给型，直接点明演讲者身份和主题。"
+  },
+  "analyzed_at": "2026-06-14T22:55:10.284199",
+  "token_usage": 3629
+}

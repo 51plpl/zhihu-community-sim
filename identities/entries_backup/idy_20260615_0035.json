@@ -1,0 +1,122 @@
+{
+  "id": "idy_20260615_0035",
+  "source": {
+    "title": "10000以内大学生买电脑哪款比较好，能用完大学，并且可以打游戏？",
+    "url": "https://www.zhihu.com/question/497725023/answer/2275225268",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "IT相关行业或游戏爱好者",
+      "industry": "科技/互联网",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场初期",
+      "怀旧学生时代"
+    ],
+    "life_experiences": [
+      "大学时期使用低端电脑",
+      "工作后有一定经济能力",
+      "深度体验过多款3A游戏"
+    ],
+    "interest_topics": [
+      "笔记本电脑硬件",
+      "游戏配置",
+      "3A大作",
+      "性价比产品",
+      "科技评测"
+    ],
+    "discussion_triggers": [
+      "大学生购机咨询",
+      "游戏性能对比",
+      "硬件升级讨论"
+    ],
+    "sensitive_topics": [
+      "显卡功耗争议",
+      "品牌忠诚度争论"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "性价比优先",
+      "技术导向",
+      "乐于分享经验"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "数据导向",
+      "机制分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "电脑硬件",
+        "游戏优化",
+        "笔记本评测"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "分享经验"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 30,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "大学生购机",
+        "score": 90
+      },
+      {
+        "topic": "游戏本推荐",
+        "score": 85
+      },
+      {
+        "topic": "永劫无间配置",
+        "score": 80
+      },
+      {
+        "topic": "3A游戏体验",
+        "score": 70
+      }
+    ],
+    "impression": "一个热心且专业的硬件爱好者，喜欢用具体游戏案例和数据说话，偶尔流露对过去穷学生时代的感慨。"
+  },
+  "analyzed_at": "2026-06-15T22:21:18.663237",
+  "token_usage": 3019
+}

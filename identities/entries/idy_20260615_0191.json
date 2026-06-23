@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0191",
+  "source": {
+    "title": "职工社保已到退体年龄未交满十五年可以一次补齐吗？",
+    "url": "https://www.zhihu.com/question/502568320/answer/2274692379",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "保险经纪人/社保咨询师",
+      "industry": "保险/金融",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过社保补缴咨询案例",
+      "研究过各地社保政策",
+      "帮助过亲友处理退休社保问题"
+    ],
+    "interest_topics": [
+      "社保政策",
+      "养老保险",
+      "退休规划",
+      "保险科普",
+      "理财规划"
+    ],
+    "discussion_triggers": [
+      "社保补缴",
+      "退休年龄",
+      "养老金计算",
+      "社保转移"
+    ],
+    "sensitive_topics": [
+      "社保断缴",
+      "养老金不足",
+      "退休延迟"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "风险规避",
+      "社会责任",
+      "家庭优先"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "经验主义",
+      "条理清晰"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "社保政策",
+        "养老保险",
+        "保险产品对比"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助他人解决社保问题",
+      "展示专业能力",
+      "普及保险知识",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "社保补缴",
+        "score": 90
+      },
+      {
+        "topic": "养老金计算",
+        "score": 85
+      },
+      {
+        "topic": "退休年龄",
+        "score": 75
+      },
+      {
+        "topic": "社保转移",
+        "score": 70
+      },
+      {
+        "topic": "保险产品对比",
+        "score": 60
+      }
+    ],
+    "impression": "一个专业、细致、乐于分享的社保政策科普者，语气冷静但透着热心肠。"
+  },
+  "analyzed_at": "2026-06-15T22:22:53.230246",
+  "token_usage": 2809
+}

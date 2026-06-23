@@ -1,0 +1,117 @@
+{
+  "id": "idy_20260615_0255",
+  "source": {
+    "title": "《亲爱的》原型儿子-1000名拐卖儿童中仅有1个找到，还不回家",
+    "url": "https://zhuanlan.zhihu.com/p/441937292",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "内容运营/编辑",
+      "industry": "媒体/互联网",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职场初期"
+    ],
+    "life_experiences": [
+      "关注社会新闻",
+      "可能参与过公益活动",
+      "对法律有基础了解"
+    ],
+    "interest_topics": [
+      "社会新闻",
+      "法律",
+      "儿童保护",
+      "心理学",
+      "电影"
+    ],
+    "discussion_triggers": [
+      "拐卖儿童",
+      "法律量刑",
+      "亲情与伦理"
+    ],
+    "sensitive_topics": [
+      "拐卖儿童",
+      "法律不公",
+      "亲情缺失"
+    ],
+    "value_tendencies": [
+      "正义感强",
+      "同情弱者",
+      "批判法律不完善"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情感驱动",
+      "道德推理",
+      "类比思考"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "社会新闻",
+        "法律常识"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 20,
+      "likes_commenting": 80,
+      "likes_debating": 60,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 60,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "获得认同",
+      "引发讨论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "拐卖儿童新闻",
+        "score": 90
+      },
+      {
+        "topic": "法律量刑讨论",
+        "score": 80
+      },
+      {
+        "topic": "亲情伦理",
+        "score": 70
+      }
+    ],
+    "impression": "一个情感丰富、正义感强的年轻女性，对社会不公感到愤懑，善于共情，但偶尔陷入悲观。"
+  },
+  "analyzed_at": "2026-06-15T22:23:33.832698",
+  "token_usage": 2444
+}

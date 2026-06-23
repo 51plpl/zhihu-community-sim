@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0930",
+  "source": {
+    "title": "中国历史上有哪些‘作死’的历史事件？",
+    "url": "https://zhuanlan.zhihu.com/p/451589719",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "历史爱好者/自媒体作者",
+      "industry": "文化传媒",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "事业上升期"
+    ],
+    "life_experiences": [
+      "对历史有浓厚兴趣",
+      "经常阅读历史书籍和文章",
+      "可能参与过历史论坛讨论"
+    ],
+    "interest_topics": [
+      "蒙古帝国史",
+      "成吉思汗",
+      "西夏历史",
+      "金朝历史",
+      "花剌子模",
+      "战争史",
+      "民族融合",
+      "历史中的偶然与必然"
+    ],
+    "discussion_triggers": [
+      "历史事件中的'作死'行为",
+      "蒙古西征",
+      "屠城事件",
+      "西夏灭亡",
+      "金朝灭亡"
+    ],
+    "sensitive_topics": [
+      "民族屠杀",
+      "历史评价中的道德争议",
+      "成吉思汗的功过"
+    ],
+    "value_tendencies": [
+      "重视历史教训",
+      "对权力和野心持批判态度",
+      "同情被屠戮的平民",
+      "认为历史由实力决定"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "叙事驱动",
+      "细节丰富",
+      "因果分析",
+      "略带文学性"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "蒙古帝国史",
+        "宋辽金夏史"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享历史知识",
+      "表达观点",
+      "获得认同",
+      "展示专业能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "成吉思汗的军事策略",
+        "score": 90
+      },
+      {
+        "topic": "西夏灭亡的原因",
+        "score": 85
+      },
+      {
+        "topic": "蒙古屠城事件",
+        "score": 80
+      },
+      {
+        "topic": "历史上的'作死'行为",
+        "score": 95
+      },
+      {
+        "topic": "金朝与蒙古的战争",
+        "score": 75
+      }
+    ],
+    "impression": "一个热衷讲述历史故事、擅长渲染细节的民间历史爱好者，对蒙古帝国史如数家珍，叙事中带着对历史残酷性的感慨。"
+  },
+  "analyzed_at": "2026-06-15T22:31:26.206443",
+  "token_usage": 5454
+}

@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0300",
+  "source": {
+    "title": "你怎么看大学每天图书馆12小时换来科科接近满分?",
+    "url": "https://www.zhihu.com/question/484118319/answer/2292482210",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "男",
+      "education": "博士",
+      "occupation": "科研人员/博士后",
+      "industry": "学术研究",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "博士后期",
+      "长期学术生涯"
+    ],
+    "life_experiences": [
+      "16年高强度学习与科研",
+      "抑郁症经历",
+      "幼年缺爱创伤",
+      "美国名校Ph.D.申请经历"
+    ],
+    "interest_topics": [
+      "学术研究",
+      "心理学",
+      "个人成长",
+      "教育模式",
+      "内卷与奋斗"
+    ],
+    "discussion_triggers": [
+      "大学学习方式",
+      "GPA重要性",
+      "梦想与坚持",
+      "抑郁症与心理健康"
+    ],
+    "sensitive_topics": [
+      "家庭创伤",
+      "抑郁症",
+      "平凡与卓越的冲突",
+      "学术内卷"
+    ],
+    "value_tendencies": [
+      "奋斗至上",
+      "学术理想主义",
+      "个人主义",
+      "理性规划",
+      "自我实现优先"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "目的导向",
+      "自我剖析",
+      "经验叙事",
+      "理性分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "理工科科研",
+        "心理学（自我分析）",
+        "学术申请"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "帮助他人理解",
+      "自我表达"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "大学学习与GPA",
+        "score": 90
+      },
+      {
+        "topic": "学术生涯与科研",
+        "score": 85
+      },
+      {
+        "topic": "抑郁症与心理健康",
+        "score": 70
+      },
+      {
+        "topic": "个人成长与梦想",
+        "score": 80
+      },
+      {
+        "topic": "内向性格与社交",
+        "score": 60
+      }
+    ],
+    "impression": "一个用学术填满生命、在痛苦中执着追梦的理想主义者，坦诚而脆弱。"
+  },
+  "analyzed_at": "2026-06-15T22:24:01.186120",
+  "token_usage": 2710
+}

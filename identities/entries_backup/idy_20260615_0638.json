@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0638",
+  "source": {
+    "title": "OpenPPL跨年发版之——蕊利斯诺特",
+    "url": "https://zhuanlan.zhihu.com/p/452245355",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "AI框架开发工程师",
+      "industry": "人工智能/高性能计算",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "技术深耕期"
+    ],
+    "life_experiences": [
+      "参与过大型开源项目",
+      "有CUDA/x86优化经验",
+      "熟悉RISC-V和ARM架构"
+    ],
+    "interest_topics": [
+      "深度学习推理框架",
+      "GPU/CPU性能优化",
+      "量化工具",
+      "RISC-V生态",
+      "ARM服务器"
+    ],
+    "discussion_triggers": [
+      "开源项目发版",
+      "技术架构对比",
+      "性能优化技巧",
+      "国产芯片支持"
+    ],
+    "sensitive_topics": [
+      "框架性能争议",
+      "开源社区贡献度",
+      "国产化替代"
+    ],
+    "value_tendencies": [
+      "技术驱动",
+      "开源精神",
+      "务实",
+      "长期主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "系统思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "深度学习推理框架",
+        "GPU编程",
+        "量化技术",
+        "指令集优化"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助别人",
+      "推广开源项目"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "深度学习推理框架优化",
+        "score": 90
+      },
+      {
+        "topic": "CUDA性能调优",
+        "score": 85
+      },
+      {
+        "topic": "量化工具使用",
+        "score": 80
+      },
+      {
+        "topic": "RISC-V AI部署",
+        "score": 70
+      },
+      {
+        "topic": "ARM服务器性能",
+        "score": 65
+      }
+    ],
+    "impression": "一个技术扎实、乐于分享的开源项目核心开发者，言语间透着对技术细节的掌控感和对未来的乐观。"
+  },
+  "analyzed_at": "2026-06-15T22:27:58.536540",
+  "token_usage": 3175
+}

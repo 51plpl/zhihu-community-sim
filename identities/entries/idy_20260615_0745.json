@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0745",
+  "source": {
+    "title": "小伙误入「传销」紧抱消防员求助，传销是如何洗脑让人沉迷的？逃离传销之后有可能维权吗？",
+    "url": "https://www.zhihu.com/question/504063451/answer/2263457351",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "自由职业/文职",
+      "industry": "互联网/媒体",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年期",
+      "职业探索期"
+    ],
+    "life_experiences": [
+      "朋友陷入传销",
+      "亲身参与解救传销受害者",
+      "目睹社会底层困境"
+    ],
+    "interest_topics": [
+      "社会新闻",
+      "传销与诈骗",
+      "法律维权",
+      "心理学",
+      "生活故事"
+    ],
+    "discussion_triggers": [
+      "传销经历",
+      "朋友被骗",
+      "社会不公",
+      "人性弱点"
+    ],
+    "sensitive_topics": [
+      "传销",
+      "贫困",
+      "法律漏洞",
+      "教育无用论"
+    ],
+    "value_tendencies": [
+      "重视友情",
+      "同情弱者",
+      "怀疑权威",
+      "现实主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "故事叙述",
+      "经验主义",
+      "情感共鸣",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "传销运作模式",
+        "社会心理学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "警示他人",
+      "表达观点",
+      "寻求共鸣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "传销经历",
+        "score": 90
+      },
+      {
+        "topic": "社会底层困境",
+        "score": 70
+      },
+      {
+        "topic": "朋友关系",
+        "score": 60
+      },
+      {
+        "topic": "法律维权",
+        "score": 50
+      }
+    ],
+    "impression": "一个重情重义、爱讲故事的社会观察者，对传销有切肤之痛，言语间充满对弱者的同情和对现实的无奈。"
+  },
+  "analyzed_at": "2026-06-15T22:29:13.459832",
+  "token_usage": 3580
+}

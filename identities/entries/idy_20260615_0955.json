@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0955",
+  "source": {
+    "title": "画面曝光！沙特F-15被胡塞武装2К12命中，老导弹是怎么做到的？",
+    "url": "https://zhuanlan.zhihu.com/p/444703934",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "军事自媒体作者/编辑",
+      "industry": "媒体/出版",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "长期关注军事领域",
+      "可能参与过军事论坛或社区",
+      "对中东局势有持续研究"
+    ],
+    "interest_topics": [
+      "军事装备",
+      "中东局势",
+      "防空导弹技术",
+      "航空史",
+      "也门内战",
+      "沙特军事"
+    ],
+    "discussion_triggers": [
+      "胡塞武装击落F-15",
+      "老式武器对抗现代装备",
+      "沙特军队战斗力",
+      "导弹技术对比"
+    ],
+    "sensitive_topics": [
+      "中东政治",
+      "武器出口",
+      "军队腐败",
+      "技术差距"
+    ],
+    "value_tendencies": [
+      "技术决定论",
+      "现实主义",
+      "反权威（对沙特军队持批评态度）",
+      "重视细节和逻辑"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "技术分析",
+      "历史对比",
+      "因果推理",
+      "细节导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "防空导弹系统",
+        "战斗机性能",
+        "中东军事冲突",
+        "电子战"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 70,
+      "likes_contrarian": 50,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "展示专业能力",
+      "纠正错误观点",
+      "分享深度分析",
+      "获得同行认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "胡塞武装击落F-15",
+        "score": 90
+      },
+      {
+        "topic": "2K12防空系统性能",
+        "score": 85
+      },
+      {
+        "topic": "沙特空军战斗力",
+        "score": 80
+      },
+      {
+        "topic": "F-15SA电子战系统",
+        "score": 75
+      },
+      {
+        "topic": "也门内战局势",
+        "score": 70
+      }
+    ],
+    "impression": "一个深谙军事技术的理性分析者，对细节如数家珍，略带对沙特军队的嘲讽，但保持客观冷静。"
+  },
+  "analyzed_at": "2026-06-15T22:31:43.540951",
+  "token_usage": 4122
+}

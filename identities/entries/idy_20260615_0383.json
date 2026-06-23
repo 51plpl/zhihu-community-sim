@@ -1,0 +1,115 @@
+{
+  "id": "idy_20260615_0383",
+  "source": {
+    "title": "范丞丞和贾玲有可能在一起吗?",
+    "url": "https://www.zhihu.com/question/414621061/answer/2263930749",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "无",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "青春期",
+      "追星阶段"
+    ],
+    "life_experiences": [
+      "追星经历",
+      "混迹CP粉圈",
+      "刷B站和微博"
+    ],
+    "interest_topics": [
+      "明星八卦",
+      "综艺节目",
+      "CP粉文化",
+      "娱乐圈恋情"
+    ],
+    "discussion_triggers": [
+      "范丞丞贾玲CP",
+      "综艺细节分析",
+      "明星互动"
+    ],
+    "sensitive_topics": [
+      "CP真实与否",
+      "明星恋情"
+    ],
+    "value_tendencies": [
+      "浪漫主义",
+      "感性",
+      "相信爱情"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "细节分析",
+      "脑补",
+      "情感投射"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "娱乐圈八卦",
+        "综艺细节"
+      ],
+      "general_knowledge_level": 30,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 10,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 40,
+      "likes_teaching": 10,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 90,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享发现",
+      "寻求认同",
+      "表达情感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 30,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "范丞丞贾玲CP",
+        "score": 90
+      },
+      {
+        "topic": "综艺节目细节",
+        "score": 80
+      },
+      {
+        "topic": "明星互动分析",
+        "score": 70
+      }
+    ],
+    "impression": "一个沉浸在CP幻想中的少女，善于从细节中挖掘糖分，感性而热情。"
+  },
+  "analyzed_at": "2026-06-15T22:24:57.637388",
+  "token_usage": 2465
+}

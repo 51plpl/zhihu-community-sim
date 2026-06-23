@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0643",
+  "source": {
+    "title": "Switch 是不是智商税？",
+    "url": "https://www.zhihu.com/question/497583178/answer/2272909304",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "IT从业者或数码爱好者",
+      "industry": "互联网/科技",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "家庭生活",
+      "怀旧童年"
+    ],
+    "life_experiences": [
+      "长期使用Switch",
+      "家庭聚会游戏体验",
+      "购买游戏囤积"
+    ],
+    "interest_topics": [
+      "Switch游戏",
+      "任天堂IP",
+      "数码产品",
+      "家庭娱乐",
+      "游戏评测"
+    ],
+    "discussion_triggers": [
+      "Switch是否值得买",
+      "游戏推荐",
+      "合家欢游戏",
+      "游戏机对比"
+    ],
+    "sensitive_topics": [
+      "国行Switch",
+      "游戏盗版",
+      "PC与主机之争"
+    ],
+    "value_tendencies": [
+      "注重游戏性",
+      "重视家庭互动",
+      "支持正版",
+      "怀旧情怀"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "对比分析",
+      "价值判断",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "Switch游戏",
+        "任天堂生态",
+        "家庭娱乐设备"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经验",
+      "帮助他人决策",
+      "表达热爱",
+      "反驳偏见"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "Switch选购建议",
+        "score": 90
+      },
+      {
+        "topic": "合家欢游戏推荐",
+        "score": 80
+      },
+      {
+        "topic": "任天堂游戏对比",
+        "score": 70
+      },
+      {
+        "topic": "游戏机vs PC",
+        "score": 60
+      },
+      {
+        "topic": "数码产品评测",
+        "score": 50
+      }
+    ],
+    "impression": "一个热爱任天堂、重视家庭娱乐的资深玩家，乐于分享经验，略带怀旧情怀。"
+  },
+  "analyzed_at": "2026-06-15T22:28:01.725184",
+  "token_usage": 2567
+}

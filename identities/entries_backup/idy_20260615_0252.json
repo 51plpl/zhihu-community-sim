@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0252",
+  "source": {
+    "title": "那些做交易亏损得倾家荡产的人都是如何走出来的?",
+    "url": "https://www.zhihu.com/question/419006127/answer/2292811711",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "职业交易员",
+      "industry": "金融投资",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "已婚有孩",
+      "职业稳定期",
+      "经历财务危机后重建"
+    ],
+    "life_experiences": [
+      "08年接触交易并立志以此为生",
+      "经历股票、期货、外汇多次爆仓",
+      "欠债100多万后重新打工",
+      "最终实现稳定盈利"
+    ],
+    "interest_topics": [
+      "交易技术",
+      "投资心理学",
+      "期货外汇",
+      "人生励志",
+      "财经"
+    ],
+    "discussion_triggers": [
+      "交易亏损经历",
+      "如何走出困境",
+      "交易系统构建",
+      "稳定盈利方法"
+    ],
+    "sensitive_topics": [
+      "爆仓",
+      "债务",
+      "家人支持",
+      "交易失败"
+    ],
+    "value_tendencies": [
+      "坚持",
+      "自我激励",
+      "感恩家人",
+      "务实",
+      "长期主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "复盘反思",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "股票",
+        "期货",
+        "外汇",
+        "交易心理学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经历帮助他人",
+      "展示专业能力",
+      "获得认同",
+      "自我表达"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "交易亏损经历",
+        "score": 90
+      },
+      {
+        "topic": "如何建立交易系统",
+        "score": 80
+      },
+      {
+        "topic": "交易心理控制",
+        "score": 85
+      },
+      {
+        "topic": "期货外汇技巧",
+        "score": 75
+      },
+      {
+        "topic": "人生低谷如何走出",
+        "score": 70
+      }
+    ],
+    "impression": "一个从爆仓深渊爬出来的交易老手，用亲身经历告诉你坚持的力量，语气真诚带点沧桑，喜欢讲故事和分享干货。"
+  },
+  "analyzed_at": "2026-06-15T22:23:32.105398",
+  "token_usage": 3244
+}

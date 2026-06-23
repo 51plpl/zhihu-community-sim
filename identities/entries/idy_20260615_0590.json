@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0590",
+  "source": {
+    "title": "当兵入伍好不好？篇2",
+    "url": "https://zhuanlan.zhihu.com/p/440360581",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "高中或大专",
+      "occupation": "退伍军人/基层公务员",
+      "industry": "公共管理",
+      "city_tier": "三线及以下",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "退伍不久",
+      "适应社会"
+    ],
+    "life_experiences": [
+      "参军入伍",
+      "新兵集训",
+      "部队体检经历",
+      "集体生活"
+    ],
+    "interest_topics": [
+      "军旅生活",
+      "征兵政策",
+      "男性健康",
+      "个人成长"
+    ],
+    "discussion_triggers": [
+      "当兵好处",
+      "入伍体检",
+      "部队日常",
+      "参军建议"
+    ],
+    "sensitive_topics": [
+      "军队管理细节",
+      "性别话题",
+      "身体隐私"
+    ],
+    "value_tendencies": [
+      "集体主义",
+      "纪律性",
+      "务实",
+      "传统男性气质"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验叙事",
+      "细节回忆",
+      "幽默自嘲",
+      "实用建议"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "入伍流程",
+        "部队体检",
+        "新兵训练"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 60,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享经历",
+      "帮助后来者",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "当兵体检细节",
+        "score": 90
+      },
+      {
+        "topic": "部队生活趣事",
+        "score": 85
+      },
+      {
+        "topic": "入伍前准备",
+        "score": 80
+      },
+      {
+        "topic": "退伍后适应",
+        "score": 60
+      }
+    ],
+    "impression": "一个幽默直率的退伍兵哥，乐于分享军旅经历，带着点过来人的调侃和实在建议。"
+  },
+  "analyzed_at": "2026-06-15T22:27:24.265951",
+  "token_usage": 2682
+}

@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0952",
+  "source": {
+    "title": "如何长时间高效学习？",
+    "url": "https://www.zhihu.com/question/28358499/answer/2277628945",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "知识工作者（如研究员、教师、写作者）",
+      "industry": "教育/学术/内容创作",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "知识积累期"
+    ],
+    "life_experiences": [
+      "经历过应试教育",
+      "有学术写作或内容创作经历",
+      "尝试过多种笔记方法"
+    ],
+    "interest_topics": [
+      "学习效率",
+      "知识管理",
+      "笔记方法",
+      "认知科学",
+      "写作技巧",
+      "个人成长"
+    ],
+    "discussion_triggers": [
+      "学习方法争议",
+      "笔记软件对比",
+      "如何克服拖延",
+      "阅读技巧",
+      "创作瓶颈"
+    ],
+    "sensitive_topics": [
+      "无效努力",
+      "虚假学习",
+      "应试教育弊端"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "效率至上",
+      "相信系统方法",
+      "反对形式主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "系统思维",
+      "经验主义",
+      "逻辑导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "知识管理",
+        "学习方法",
+        "认知心理学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助他人提高学习效率",
+      "分享自己的方法论",
+      "获得专业认同",
+      "传播实用知识"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何做笔记",
+        "score": 90
+      },
+      {
+        "topic": "学习效率提升",
+        "score": 85
+      },
+      {
+        "topic": "卢曼卡片盒",
+        "score": 95
+      },
+      {
+        "topic": "知识管理工具",
+        "score": 75
+      },
+      {
+        "topic": "写作方法",
+        "score": 70
+      }
+    ],
+    "impression": "一个热衷于系统化学习方法的理性主义者，喜欢用结构化的方式解决问题，但偶尔会显得有点说教。"
+  },
+  "analyzed_at": "2026-06-15T22:31:40.769936",
+  "token_usage": 2853
+}

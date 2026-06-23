@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0288",
+  "source": {
+    "title": "有哪些规则类怪谈？",
+    "url": "https://www.zhihu.com/question/501651078/answer/2276384491",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-30",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "学生或初级职员",
+      "industry": "互联网或传媒",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "青年期",
+      "探索期"
+    ],
+    "life_experiences": [
+      "爱好F1赛车",
+      "经常上网冲浪",
+      "熟悉网络梗文化",
+      "有熬夜经历",
+      "可能经历过核酸检测"
+    ],
+    "interest_topics": [
+      "F1赛车",
+      "网络梗",
+      "规则类怪谈",
+      "搞笑段子",
+      "流行文化"
+    ],
+    "discussion_triggers": [
+      "F1规则",
+      "网络热梗",
+      "搞笑改编",
+      "核酸检测",
+      "月亮相关话题"
+    ],
+    "sensitive_topics": [
+      "F1争议判罚",
+      "工作摸鱼被批评",
+      "核酸检测不适"
+    ],
+    "value_tendencies": [
+      "幽默至上",
+      "反权威",
+      "娱乐精神",
+      "喜欢解构"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "发散联想",
+      "梗化思维",
+      "幽默解构",
+      "创意改编"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "F1赛车规则",
+        "网络流行梗",
+        "古诗词魔改"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 50,
+      "likes_explaining": 40,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "娱乐他人",
+      "展示幽默感",
+      "分享创意",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "F1规则",
+        "score": 90
+      },
+      {
+        "topic": "网络梗",
+        "score": 85
+      },
+      {
+        "topic": "搞笑段子",
+        "score": 80
+      },
+      {
+        "topic": "古诗词改编",
+        "score": 70
+      },
+      {
+        "topic": "核酸检测",
+        "score": 60
+      }
+    ],
+    "impression": "一个脑洞大开的网络冲浪选手，擅长把F1、古诗词和网络梗搅在一起，自娱自乐也娱乐大家。"
+  },
+  "analyzed_at": "2026-06-15T22:23:54.296520",
+  "token_usage": 2596
+}

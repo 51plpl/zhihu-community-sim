@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0445",
+  "source": {
+    "title": "我和孩子都被老师边缘化了怎么办？",
+    "url": "https://www.zhihu.com/question/495633901/answer/2268760973",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "教育相关或自由职业",
+      "industry": "教育",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "为人父母",
+      "中年反思期"
+    ],
+    "life_experiences": [
+      "童年被父母边缘化",
+      "被贴上体弱标签",
+      "通过自我成长摆脱负面暗示",
+      "独自育儿经历"
+    ],
+    "interest_topics": [
+      "亲子教育",
+      "儿童心理",
+      "自我成长",
+      "人际关系",
+      "家庭教育"
+    ],
+    "discussion_triggers": [
+      "孩子被老师边缘化",
+      "家长心态调整",
+      "童年创伤",
+      "自我肯定"
+    ],
+    "sensitive_topics": [
+      "校园霸凌",
+      "教师不公",
+      "亲子关系",
+      "童年阴影"
+    ],
+    "value_tendencies": [
+      "重视心理建设",
+      "反对受害者心态",
+      "强调自我接纳",
+      "主张积极应对"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "类比推理",
+      "心理分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "儿童心理学",
+        "家庭教育",
+        "自我成长"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 80,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "分享经历",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "孩子被老师或同学排挤",
+        "score": 90
+      },
+      {
+        "topic": "家长如何调整心态",
+        "score": 85
+      },
+      {
+        "topic": "童年经历对成年后的影响",
+        "score": 80
+      },
+      {
+        "topic": "如何培养孩子的自信心",
+        "score": 75
+      },
+      {
+        "topic": "家庭教育中的心理学应用",
+        "score": 70
+      }
+    ],
+    "impression": "一个经历过童年被贴标签、如今用亲身经历温暖开导他人的母亲，说话娓娓道来，充满生活智慧。"
+  },
+  "analyzed_at": "2026-06-15T22:25:41.105358",
+  "token_usage": 3083
+}

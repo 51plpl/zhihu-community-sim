@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0315",
+  "source": {
+    "title": "分手了怎么能放下 已经挽回不了了?",
+    "url": "https://www.zhihu.com/question/503743994/answer/2284641210",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "心理咨询师或情感博主",
+      "industry": "心理咨询或自媒体",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职业发展期",
+      "情感探索期"
+    ],
+    "life_experiences": [
+      "经历过分手或失恋",
+      "自我成长与疗愈经历",
+      "帮助他人处理情感问题"
+    ],
+    "interest_topics": [
+      "心理学",
+      "情感关系",
+      "自我成长",
+      "认知行为疗法",
+      "两性关系"
+    ],
+    "discussion_triggers": [
+      "分手后如何放下",
+      "挽回失败",
+      "情感依赖",
+      "自我价值",
+      "新欢与时间"
+    ],
+    "sensitive_topics": [
+      "出轨",
+      "被拒绝",
+      "自我否定",
+      "孤独感"
+    ],
+    "value_tendencies": [
+      "理性面对情感",
+      "自我负责",
+      "积极行动",
+      "实用主义",
+      "相信科学方法"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验总结",
+      "认知重构",
+      "目标分解",
+      "多角度分析",
+      "引用理论"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "心理学",
+        "情感咨询",
+        "认知行为疗法"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人走出情感困境",
+      "分享实用方法",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "分手后如何放下",
+        "score": 90
+      },
+      {
+        "topic": "挽回方法",
+        "score": 70
+      },
+      {
+        "topic": "自我成长",
+        "score": 80
+      },
+      {
+        "topic": "心理学技巧",
+        "score": 75
+      },
+      {
+        "topic": "情感依赖",
+        "score": 85
+      }
+    ],
+    "impression": "一个理性又温暖的过来人，用心理学工具帮人走出失恋泥潭，说话接地气，不鸡汤。"
+  },
+  "analyzed_at": "2026-06-15T22:24:11.076692",
+  "token_usage": 3422
+}

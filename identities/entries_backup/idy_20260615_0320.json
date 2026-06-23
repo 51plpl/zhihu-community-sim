@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0320",
+  "source": {
+    "title": "抖音直播脚本",
+    "url": "https://zhuanlan.zhihu.com/p/436607080",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "大专或本科",
+      "occupation": "直播运营/电商运营",
+      "industry": "电商直播",
+      "city_tier": "二线或三线",
+      "marital_status": "未婚或已婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "创业或副业探索期"
+    ],
+    "life_experiences": [
+      "经历过直播带货从0到1",
+      "踩过违规和流量低谷的坑",
+      "研究过头部主播话术"
+    ],
+    "interest_topics": [
+      "直播带货",
+      "抖音算法",
+      "电商运营",
+      "用户心理",
+      "话术设计"
+    ],
+    "discussion_triggers": [
+      "直播间权重",
+      "憋单技巧",
+      "投放策略",
+      "违规风险",
+      "头部主播案例"
+    ],
+    "sensitive_topics": [
+      "平台规则变动",
+      "流量成本上升",
+      "同行抄袭"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "重视效率",
+      "尊重数据",
+      "认可努力"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "经验总结",
+      "案例拆解"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "直播运营",
+        "抖音算法",
+        "话术设计",
+        "投放策略"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助同行少走弯路",
+      "展示专业能力",
+      "获得同行认可",
+      "分享实战经验"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "直播间如何憋单",
+        "score": 90
+      },
+      {
+        "topic": "抖音投放技巧",
+        "score": 85
+      },
+      {
+        "topic": "直播话术设计",
+        "score": 80
+      },
+      {
+        "topic": "违规避坑",
+        "score": 75
+      },
+      {
+        "topic": "新手直播运营",
+        "score": 70
+      }
+    ],
+    "impression": "一个实战派直播运营，干货满满但偶尔带点老江湖的谨慎"
+  },
+  "analyzed_at": "2026-06-15T22:24:14.010187",
+  "token_usage": 2829
+}

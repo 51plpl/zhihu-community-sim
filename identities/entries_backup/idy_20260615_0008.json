@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0008",
+  "source": {
+    "title": "你买股票亏的最多的是哪只？",
+    "url": "https://www.zhihu.com/question/499524898/answer/2254642031",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "财经自媒体作者/分析师",
+      "industry": "金融",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "多年股市投资经验",
+      "经历多次牛熊转换",
+      "曾深度研究技术分析和基本面"
+    ],
+    "interest_topics": [
+      "A股市场",
+      "技术分析",
+      "概念炒作",
+      "资金流向",
+      "财经新闻",
+      "投资心理学"
+    ],
+    "discussion_triggers": [
+      "个股暴跌",
+      "概念股炒作",
+      "大股东减持",
+      "市场风格切换"
+    ],
+    "sensitive_topics": [
+      "庄家操纵",
+      "内幕交易",
+      "政策风险",
+      "散户亏损"
+    ],
+    "value_tendencies": [
+      "风险厌恶",
+      "理性投资",
+      "价值投资",
+      "警惕投机"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "逻辑推理",
+      "经验总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "股票分析",
+        "技术指标",
+        "市场情绪",
+        "公司基本面"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "展示专业分析能力",
+      "帮助散户避免踩雷",
+      "获得行业认可",
+      "吸引粉丝关注"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "个股暴跌原因",
+        "score": 90
+      },
+      {
+        "topic": "概念股炒作逻辑",
+        "score": 85
+      },
+      {
+        "topic": "大股东减持影响",
+        "score": 80
+      },
+      {
+        "topic": "市场风格切换",
+        "score": 75
+      },
+      {
+        "topic": "技术指标应用",
+        "score": 70
+      }
+    ],
+    "impression": "一个冷静理性的市场观察者，善于用数据和逻辑分析股市现象，但偶尔流露出对散户的同情和对投机行为的警惕。"
+  },
+  "analyzed_at": "2026-06-15T22:21:01.221375",
+  "token_usage": 2470
+}

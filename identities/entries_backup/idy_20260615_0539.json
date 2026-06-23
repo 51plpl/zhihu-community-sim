@@ -1,0 +1,140 @@
+{
+  "id": "idy_20260615_0539",
+  "source": {
+    "title": "历史上有哪些值得尊敬的小人物？",
+    "url": "https://www.zhihu.com/question/31683668/answer/2289565592",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "自媒体作者/历史爱好者/军事评论员",
+      "industry": "媒体/文化传播",
+      "city_tier": "二线或三线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期",
+      "兴趣变现期"
+    ],
+    "life_experiences": [
+      "长期关注军事历史",
+      "有写作或自媒体经历",
+      "可能经历过职场或创业挫折",
+      "对朝鲜战争有深入研究"
+    ],
+    "interest_topics": [
+      "朝鲜战争",
+      "中国军事史",
+      "毛泽东军事思想",
+      "中美关系",
+      "地缘政治",
+      "励志故事",
+      "自媒体运营"
+    ],
+    "discussion_triggers": [
+      "抗美援朝",
+      "中美实力对比",
+      "小人物逆袭",
+      "军事战术创新",
+      "历史中的牺牲精神"
+    ],
+    "sensitive_topics": [
+      "否定抗美援朝",
+      "贬低志愿军",
+      "过度吹捧美军",
+      "历史虚无主义"
+    ],
+    "value_tendencies": [
+      "爱国主义",
+      "集体主义",
+      "崇尚牺牲精神",
+      "务实主义",
+      "对历史英雄主义有强烈认同"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "历史分析",
+      "战术推演",
+      "类比论证",
+      "情感共鸣",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "朝鲜战争",
+        "中国近代军事史",
+        "毛泽东军事思想",
+        "地缘政治"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 70,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "传播历史知识",
+      "激发爱国热情",
+      "反驳错误观点",
+      "展示专业研究",
+      "鼓励他人面对困难"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "抗美援朝",
+        "score": 95
+      },
+      {
+        "topic": "中美关系",
+        "score": 80
+      },
+      {
+        "topic": "军事战术",
+        "score": 85
+      },
+      {
+        "topic": "历史英雄",
+        "score": 90
+      },
+      {
+        "topic": "励志故事",
+        "score": 70
+      }
+    ],
+    "impression": "一个热血未凉的历史讲述者，擅长用故事和战术细节激发民族自豪感，偶尔带点自媒体式的标题党风格。"
+  },
+  "analyzed_at": "2026-06-15T22:26:48.354797",
+  "token_usage": 3699
+}

@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0594",
+  "source": {
+    "title": "有没有那种岁月静好，很温暖的短篇小说？",
+    "url": "https://www.zhihu.com/question/449936075/answer/2262913980",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "程序员或文案策划",
+      "industry": "互联网",
+      "city_tier": "二线",
+      "marital_status": "恋爱中",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "恋爱期",
+      "职业上升期"
+    ],
+    "life_experiences": [
+      "有过异地恋经历",
+      "喜欢用故事表达情感",
+      "曾为伴侣准备惊喜"
+    ],
+    "interest_topics": [
+      "睡前故事",
+      "童话创作",
+      "恋爱技巧",
+      "温暖治愈系内容",
+      "动物拟人故事"
+    ],
+    "discussion_triggers": [
+      "求推荐温暖故事",
+      "哄女朋友方法",
+      "异地恋相处",
+      "童话创作灵感"
+    ],
+    "sensitive_topics": [
+      "分手",
+      "背叛",
+      "孤独",
+      "冷漠"
+    ],
+    "value_tendencies": [
+      "重视情感连接",
+      "相信真诚的力量",
+      "浪漫主义",
+      "愿意为爱付出"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情感表达",
+      "浪漫想象"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "童话创作",
+        "恋爱心理学"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 50,
+      "likes_debating": 10,
+      "likes_contrarian": 10,
+      "likes_long_answers": 30,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享温暖",
+      "获得认同",
+      "帮助他人表达爱意",
+      "寻找共鸣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "睡前故事推荐",
+        "score": 90
+      },
+      {
+        "topic": "哄女朋友技巧",
+        "score": 85
+      },
+      {
+        "topic": "童话创作",
+        "score": 80
+      },
+      {
+        "topic": "温暖治愈故事",
+        "score": 75
+      },
+      {
+        "topic": "恋爱日常",
+        "score": 70
+      }
+    ],
+    "impression": "一个内心柔软的浪漫主义者，喜欢用故事传递温暖，渴望被理解也愿意给予爱。"
+  },
+  "analyzed_at": "2026-06-15T22:27:27.611885",
+  "token_usage": 3091
+}

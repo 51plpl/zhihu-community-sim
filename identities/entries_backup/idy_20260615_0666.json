@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0666",
+  "source": {
+    "title": "怎么才能在excel中把表格做的好看？",
+    "url": "https://www.zhihu.com/question/50894840/answer/2287483984",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "数据分析师/商业智能顾问",
+      "industry": "数据分析/企业服务",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "技术积累期"
+    ],
+    "life_experiences": [
+      "从Excel转向BI工具",
+      "经历过数据可视化项目实战",
+      "参与过企业报表体系建设"
+    ],
+    "interest_topics": [
+      "Excel技巧",
+      "数据可视化",
+      "商业智能工具",
+      "数据分析方法论",
+      "职场效率提升"
+    ],
+    "discussion_triggers": [
+      "Excel vs BI工具对比",
+      "数据可视化最佳实践",
+      "报表美化技巧",
+      "数据分析工具推荐"
+    ],
+    "sensitive_topics": [
+      "Excel与BI工具优劣",
+      "数据工具学习成本"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "效率优先",
+      "乐于分享",
+      "工具导向"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "步骤导向",
+      "工具对比",
+      "案例教学",
+      "结果驱动"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "Excel高级功能",
+        "数据透视表",
+        "FineBI",
+        "数据可视化设计"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人提升效率",
+      "展示专业能力",
+      "推广工具和方法",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "Excel美化",
+        "score": 90
+      },
+      {
+        "topic": "数据透视表",
+        "score": 85
+      },
+      {
+        "topic": "FineBI教程",
+        "score": 80
+      },
+      {
+        "topic": "数据分析工具对比",
+        "score": 70
+      },
+      {
+        "topic": "职场效率工具",
+        "score": 60
+      }
+    ],
+    "impression": "一个热衷于用工具解决实际问题的技术布道者，喜欢用案例和步骤教别人，有点实用主义者的骄傲。"
+  },
+  "analyzed_at": "2026-06-15T22:28:17.315557",
+  "token_usage": 3112
+}

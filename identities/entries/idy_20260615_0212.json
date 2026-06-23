@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0212",
+  "source": {
+    "title": "有什么能够提升自己的好习惯？",
+    "url": "https://www.zhihu.com/question/506529567/answer/2289557445",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "白领/公务员/教师",
+      "industry": "教育/互联网/行政",
+      "city_tier": "二线或三线",
+      "marital_status": "已婚或单身",
+      "children": "可能有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "追求自我提升"
+    ],
+    "life_experiences": [
+      "经历过失败",
+      "有早起习惯",
+      "坚持阅读"
+    ],
+    "interest_topics": [
+      "自我管理",
+      "时间管理",
+      "健康生活",
+      "心理学",
+      "阅读"
+    ],
+    "discussion_triggers": [
+      "如何养成习惯",
+      "早起方法",
+      "运动坚持",
+      "复盘技巧"
+    ],
+    "sensitive_topics": [
+      "熬夜",
+      "拖延",
+      "抱怨"
+    ],
+    "value_tendencies": [
+      "自律",
+      "积极",
+      "务实",
+      "内省",
+      "尊重他人"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "自我提升",
+        "习惯养成"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 70,
+      "likes_commenting": 40,
+      "likes_debating": 10,
+      "likes_contrarian": 10,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助别人",
+      "分享经历",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何早睡早起",
+        "score": 90
+      },
+      {
+        "topic": "运动坚持方法",
+        "score": 85
+      },
+      {
+        "topic": "阅读习惯培养",
+        "score": 80
+      },
+      {
+        "topic": "复盘反思技巧",
+        "score": 75
+      },
+      {
+        "topic": "失败经验总结",
+        "score": 70
+      }
+    ],
+    "impression": "一个温和自律的过来人，喜欢用亲身经验鼓励他人，但偶尔显得说教"
+  },
+  "analyzed_at": "2026-06-15T22:23:05.924770",
+  "token_usage": 2556
+}

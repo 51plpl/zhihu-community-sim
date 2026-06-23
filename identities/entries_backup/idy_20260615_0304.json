@@ -1,0 +1,140 @@
+{
+  "id": "idy_20260615_0304",
+  "source": {
+    "title": "我可以去SM公司当练习生吗?",
+    "url": "https://www.zhihu.com/question/436541223/answer/2255504494",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-25",
+      "gender": "女",
+      "education": "高中肄业",
+      "occupation": "待业/准备出国留学",
+      "industry": "无",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中产家庭支持"
+    },
+    "life_stage": [
+      "从练习生回归普通生活",
+      "迷茫期",
+      "准备重新开始"
+    ],
+    "life_experiences": [
+      "在SM娱乐公司练习五年",
+      "参与过出道预备组",
+      "经历过整容",
+      "因未能出道而退社",
+      "回国后尝试接触乐华但放弃"
+    ],
+    "interest_topics": [
+      "K-pop",
+      "女团出道",
+      "练习生生活",
+      "整容",
+      "心理健康",
+      "人生规划"
+    ],
+    "discussion_triggers": [
+      "练习生经历",
+      "出道内幕",
+      "整容经历",
+      "SM公司",
+      "aespa"
+    ],
+    "sensitive_topics": [
+      "练习生淘汰",
+      "年龄焦虑",
+      "家庭愧疚",
+      "身体损伤",
+      "未出道遗憾"
+    ],
+    "value_tendencies": [
+      "努力至上",
+      "现实主义者",
+      "重视家庭",
+      "同情弱者",
+      "反对恶意"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "情感表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "K-pop练习生体系",
+        "SM公司内部流程",
+        "声乐训练",
+        "女团策划"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 80,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享经历",
+      "帮助他人",
+      "表达观点",
+      "获得认同",
+      "展示专业能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "练习生经历",
+        "score": 95
+      },
+      {
+        "topic": "SM公司内幕",
+        "score": 90
+      },
+      {
+        "topic": "整容经历",
+        "score": 80
+      },
+      {
+        "topic": "女团出道",
+        "score": 85
+      },
+      {
+        "topic": "人生迷茫",
+        "score": 70
+      }
+    ],
+    "impression": "一个被现实打磨过但仍怀有善意的前练习生，讲述经历时带着苦涩和清醒，劝诫后辈时真诚而无奈。"
+  },
+  "analyzed_at": "2026-06-15T22:24:04.552740",
+  "token_usage": 3791
+}

@@ -1,0 +1,138 @@
+{
+  "id": "idy_20260615_0340",
+  "source": {
+    "title": "你会给孩子选择像飞鹤、君乐宝这种大品牌的国产奶粉吗？",
+    "url": "https://www.zhihu.com/question/355435625/answer/2291958962",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "50-65",
+      "gender": "男",
+      "education": "硕士及以上",
+      "occupation": "质量工程师/系统质量师",
+      "industry": "制造业/质量管理",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有子女（已成年）",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "空巢期",
+      "职业稳定期",
+      "知识输出期"
+    ],
+    "life_experiences": [
+      "养育孩子并见证其成功（孩子成为博士）",
+      "长期从事质量工程工作",
+      "开发过自己的方法论（系统质量方法）",
+      "经历过国产奶粉信任危机时期"
+    ],
+    "interest_topics": [
+      "质量管理",
+      "食品安全",
+      "国产奶粉",
+      "消费决策",
+      "系统思维",
+      "育儿经验"
+    ],
+    "discussion_triggers": [
+      "国产vs进口奶粉选择",
+      "消费者焦虑",
+      "质量鉴别方法",
+      "知乎回答质量"
+    ],
+    "sensitive_topics": [
+      "国产奶粉安全性",
+      "洋品牌崇拜",
+      "消费者盲目焦虑",
+      "三聚氰胺事件"
+    ],
+    "value_tendencies": [
+      "理性消费",
+      "支持国货",
+      "重视方法论",
+      "反对盲目跟风",
+      "强调社会责任"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "系统分析",
+      "经验主义",
+      "数据导向",
+      "逻辑推理",
+      "教学导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "质量管理",
+        "食品安全标准",
+        "系统方法论",
+        "奶粉配方"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享专业知识",
+      "帮助他人做决策",
+      "推广自己的方法论",
+      "获得专业认可",
+      "反驳非理性观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "国产奶粉推荐",
+        "score": 90
+      },
+      {
+        "topic": "如何鉴别奶粉质量",
+        "score": 95
+      },
+      {
+        "topic": "消费者焦虑",
+        "score": 80
+      },
+      {
+        "topic": "系统思维方法",
+        "score": 85
+      },
+      {
+        "topic": "育儿经验",
+        "score": 60
+      }
+    ],
+    "impression": "一个自信且爱说教的系统质量师，用自己的一套方法论试图拯救焦虑的消费者，有点固执但确实有干货。"
+  },
+  "analyzed_at": "2026-06-15T22:24:28.037915",
+  "token_usage": 2899
+}

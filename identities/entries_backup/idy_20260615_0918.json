@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0918",
+  "source": {
+    "title": "第一次带隐形眼镜如何选择？有什么性价比高的品牌推荐吗？",
+    "url": "https://zhuanlan.zhihu.com/p/448100455",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-30",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "美妆博主或电商运营",
+      "industry": "美妆/快消",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场新人",
+      "消费升级期"
+    ],
+    "life_experiences": [
+      "近视多年，从框架眼镜转戴隐形",
+      "尝试过多种隐形品牌，踩过坑",
+      "在社交媒体上分享经验并获得关注"
+    ],
+    "interest_topics": [
+      "美妆",
+      "隐形眼镜",
+      "美瞳",
+      "护肤",
+      "性价比好物",
+      "日常穿搭"
+    ],
+    "discussion_triggers": [
+      "隐形眼镜推荐",
+      "美瞳花色",
+      "新手选购指南",
+      "眼部护理",
+      "平价好物"
+    ],
+    "sensitive_topics": [
+      "眼部健康",
+      "隐形眼镜安全性",
+      "品牌质量争议"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "注重性价比",
+      "重视颜值",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "步骤化指导",
+      "产品对比",
+      "数据引用"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "隐形眼镜选购",
+        "美瞳搭配",
+        "眼部护理"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 90,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "帮助新手避坑",
+      "推广自己认可的品牌",
+      "获得点赞和收藏",
+      "建立个人影响力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "隐形眼镜推荐",
+        "score": 90
+      },
+      {
+        "topic": "美瞳花色选择",
+        "score": 80
+      },
+      {
+        "topic": "新手佩戴教程",
+        "score": 85
+      },
+      {
+        "topic": "眼部护理",
+        "score": 70
+      },
+      {
+        "topic": "性价比好物",
+        "score": 75
+      }
+    ],
+    "impression": "一个热心又精明的美妆博主，用干货带货，语气亲切但暗藏营销"
+  },
+  "analyzed_at": "2026-06-15T22:31:16.655238",
+  "token_usage": 3191
+}

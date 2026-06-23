@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0724",
+  "source": {
+    "title": "有没有公务员无领导面试高分考生现身说法？",
+    "url": "https://www.zhihu.com/question/274076659/answer/2269136028",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "公务员",
+      "industry": "政府/公共部门",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场新人",
+      "备考上岸"
+    ],
+    "life_experiences": [
+      "公务员面试高分上岸",
+      "多次参加无领导小组讨论",
+      "经历过奇葩面试题",
+      "见过各种队友"
+    ],
+    "interest_topics": [
+      "公务员考试",
+      "无领导小组面试",
+      "职场沟通",
+      "面试技巧",
+      "个人成长"
+    ],
+    "discussion_triggers": [
+      "公务员面试",
+      "无领导面试吐槽",
+      "面试技巧分享",
+      "奇葩面试题",
+      "上岸经验"
+    ],
+    "sensitive_topics": [
+      "面试不公平",
+      "笔试大神面试挂",
+      "队友太差"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "强调个人努力",
+      "重视团队合作"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "策略导向",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "无领导小组面试",
+        "公务员考试",
+        "面试技巧"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "分享经验",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "公务员面试技巧",
+        "score": 90
+      },
+      {
+        "topic": "无领导小组讨论",
+        "score": 95
+      },
+      {
+        "topic": "奇葩面试题",
+        "score": 80
+      },
+      {
+        "topic": "上岸经验",
+        "score": 85
+      }
+    ],
+    "impression": "一个热情分享、经验丰富的面试达人，自信且乐于助人，但偶尔有点小骄傲。"
+  },
+  "analyzed_at": "2026-06-15T22:28:58.815414",
+  "token_usage": 3325
+}

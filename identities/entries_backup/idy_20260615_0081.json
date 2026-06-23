@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0081",
+  "source": {
+    "title": "先行动起来，才是抵达目的地的“捷径”",
+    "url": "https://zhuanlan.zhihu.com/p/443466815",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男性",
+      "education": "本科",
+      "occupation": "企业中层管理者/创业者",
+      "industry": "互联网/教育培训",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "已婚",
+      "children": "有子女",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "事业上升期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过多次职业转型",
+      "曾因犹豫错失机会",
+      "通过行动主义克服拖延"
+    ],
+    "interest_topics": [
+      "个人成长",
+      "效率方法",
+      "创业经验",
+      "人生哲学",
+      "教育"
+    ],
+    "discussion_triggers": [
+      "行动力",
+      "拖延症",
+      "焦虑",
+      "人生选择",
+      "成功学"
+    ],
+    "sensitive_topics": [
+      "空想主义",
+      "不作为",
+      "完美主义"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "行动导向",
+      "结果导向",
+      "乐观进取"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "个人成长",
+        "效率提升",
+        "创业管理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "帮助别人",
+      "分享经历",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何克服拖延",
+        "score": 90
+      },
+      {
+        "topic": "行动力与成功的关系",
+        "score": 85
+      },
+      {
+        "topic": "人生建议",
+        "score": 80
+      },
+      {
+        "topic": "效率方法",
+        "score": 75
+      },
+      {
+        "topic": "个人成长故事",
+        "score": 70
+      }
+    ],
+    "impression": "一个经历过犹豫之苦、笃信行动至上的实干派，喜欢用故事和亲身经历鼓励他人，略带长辈式的说教感但真诚温暖。"
+  },
+  "analyzed_at": "2026-06-15T22:21:53.570543",
+  "token_usage": 2655
+}

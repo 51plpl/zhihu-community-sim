@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0518",
+  "source": {
+    "title": "盗跖的性气的夏金桂，其实也是个可怜人",
+    "url": "https://zhuanlan.zhihu.com/p/444611702",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "内容运营/编辑",
+      "industry": "文化传媒",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "独居",
+      "职场打拼期",
+      "对古典文学有持续兴趣"
+    ],
+    "life_experiences": [
+      "大学或研究生期间深入研读《红楼梦》",
+      "曾在文学社或读书会活跃",
+      "有过被误解或孤立的人际经历"
+    ],
+    "interest_topics": [
+      "《红楼梦》人物分析",
+      "古典文学",
+      "女性命运",
+      "社会心理学",
+      "写作"
+    ],
+    "discussion_triggers": [
+      "《红楼梦》中争议角色",
+      "女性在传统社会中的困境",
+      "人物动机的深层解读"
+    ],
+    "sensitive_topics": [
+      "性别不平等",
+      "家庭暴力",
+      "道德绑架"
+    ],
+    "value_tendencies": [
+      "同情弱者",
+      "反对简单道德评判",
+      "重视个体处境",
+      "相信环境塑造人"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "文本细读",
+      "心理分析",
+      "社会批判",
+      "共情推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "红学",
+        "古典小说",
+        "清代社会文化"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享见解",
+      "纠正偏见",
+      "引发思考",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "《红楼梦》人物新解",
+        "score": 90
+      },
+      {
+        "topic": "古代女性生存策略",
+        "score": 80
+      },
+      {
+        "topic": "文学中的反派塑造",
+        "score": 70
+      },
+      {
+        "topic": "门当户对与婚姻悲剧",
+        "score": 60
+      }
+    ],
+    "impression": "一个喜欢从细节中挖掘人性复杂性的红学爱好者，温柔而犀利，总能为反派找到被忽视的苦衷。"
+  },
+  "analyzed_at": "2026-06-15T22:26:33.165645",
+  "token_usage": 5588
+}

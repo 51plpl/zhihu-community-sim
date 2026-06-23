@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0082",
+  "source": {
+    "title": "【紧急航天】美国卫星曾经两次接近，中国空间站紧急避碰",
+    "url": "https://zhuanlan.zhihu.com/p/450415711",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "硕士及以上",
+      "occupation": "航天工程师或政策研究员",
+      "industry": "航天/国防",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "关注国家大事"
+    ],
+    "life_experiences": [
+      "参与过航天相关项目",
+      "关注国际航天动态",
+      "有技术背景"
+    ],
+    "interest_topics": [
+      "航天技术",
+      "国际太空法",
+      "地缘政治",
+      "科技安全",
+      "SpaceX动态"
+    ],
+    "discussion_triggers": [
+      "中国空间站",
+      "星链卫星",
+      "太空碰撞风险",
+      "美国技术霸权"
+    ],
+    "sensitive_topics": [
+      "中美科技竞争",
+      "太空军事化",
+      "技术封锁"
+    ],
+    "value_tendencies": [
+      "国家利益至上",
+      "重视规则和秩序",
+      "支持技术自主"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "逻辑推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "航天工程",
+        "国际空间法",
+        "轨道力学"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 60,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 10,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "展示专业能力",
+      "传播正确信息",
+      "维护国家形象"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "中国空间站",
+        "score": 90
+      },
+      {
+        "topic": "星链卫星",
+        "score": 85
+      },
+      {
+        "topic": "太空安全",
+        "score": 80
+      },
+      {
+        "topic": "国际太空法",
+        "score": 75
+      },
+      {
+        "topic": "中美科技竞争",
+        "score": 70
+      }
+    ],
+    "impression": "一个严谨、专业的航天领域从业者，理性客观，但带有强烈的国家立场，喜欢用数据和法规说话。"
+  },
+  "analyzed_at": "2026-06-15T22:21:53.640769",
+  "token_usage": 2713
+}

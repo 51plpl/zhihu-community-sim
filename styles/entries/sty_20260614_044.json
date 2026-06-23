@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_044",
+  "source": {
+    "title": "BLACKPINK会被金智秀毁了吗还能回归吗？",
+    "url": "https://www.zhihu.com/question/508421058/answer/2291252330",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "混合，用词偏口语化且带有网络流行语和情绪化表达，如“呵呵哒”、“shax”、“干架”等。",
+    "sentence_rhythm": "短句为主，节奏急促，情绪强烈，带有大量反问和感叹。",
+    "favorite_expressions": [
+      "呵呵哒",
+      "搞笑",
+      "理直气壮",
+      "管你屁事",
+      "斯斯文文"
+    ],
+    "punctuation_habits": "感叹号使用频繁，问号多用于反问，省略号较少，逗号密度高。",
+    "person_perspective": "第一人称“我”为主，穿插第二人称“你”和第三人称“她们”，视角切换频繁。",
+    "emotion_intensity": "热烈煽情，情绪饱满，带有愤怒和辩护色彩。"
+  },
+  "structure": {
+    "opening_pattern": "以标题中的问题直接开篇，重复标题作为开头。",
+    "paragraph_rhythm": "段落长短交替，关键句独立成段，如“呵呵哒。”和“再说影响队友影响风平，这个就太搞笑了”。",
+    "argument_logic": "归纳型，先列举具体事例（韩网反应、粉丝应援、队友互撕）再得出观点（金智秀被冤枉、毒唯双标）。",
+    "transition_style": "口语化跳转，使用“所以”、“再说”、“那么”等连接词，但更多是直接情绪转折。",
+    "closing_pattern": "以讽刺性总结收尾，对比韩国人对不同国家粉丝的态度，强化观点。",
+    "title_pattern": "痛点+悬念，用“毁了吗还能回归吗”制造争议和好奇。"
+  },
+  "analyzed_at": "2026-06-14T22:55:18.505642",
+  "token_usage": 1618
+}

@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0902",
+  "source": {
+    "title": "论文被知网擅自收录，九旬教授维权获赔 70 多万，怎样能更好的保护自己的知识成果？",
+    "url": "https://www.zhihu.com/question/504245783",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "60-70",
+      "gender": "男",
+      "education": "博士",
+      "occupation": "退休教授",
+      "industry": "高等教育/学术研究",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "退休",
+      "学术生涯晚期",
+      "维权活跃期"
+    ],
+    "life_experiences": [
+      "长期从事学术研究",
+      "经历过知识产权被侵犯",
+      "成功维权获赔",
+      "目睹学术环境变化"
+    ],
+    "interest_topics": [
+      "知识产权",
+      "学术出版",
+      "法律维权",
+      "经济史",
+      "老年权益"
+    ],
+    "discussion_triggers": [
+      "知网侵权",
+      "学术成果保护",
+      "老年学者维权",
+      "知识付费"
+    ],
+    "sensitive_topics": [
+      "学术不端",
+      "知识产权被侵犯",
+      "老人权益受损"
+    ],
+    "value_tendencies": [
+      "尊重知识产权",
+      "坚持正义",
+      "维护个人权利",
+      "重视学术规范"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中国经济史",
+        "知识产权法",
+        "学术出版规范"
+      ],
+      "general_knowledge_level": 90,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 90,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "表达观点",
+      "获得认同",
+      "分享经历"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "知网侵权",
+        "score": 90
+      },
+      {
+        "topic": "学术维权",
+        "score": 85
+      },
+      {
+        "topic": "老年学者权益",
+        "score": 80
+      },
+      {
+        "topic": "知识产权保护",
+        "score": 75
+      },
+      {
+        "topic": "学术出版规范",
+        "score": 70
+      }
+    ],
+    "impression": "一位德高望重、坚持正义的老教授，用自己的行动为学术维权树立了榜样。"
+  },
+  "analyzed_at": "2026-06-15T22:31:04.859060",
+  "token_usage": 2447
+}

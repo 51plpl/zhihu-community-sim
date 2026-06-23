@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0603",
+  "source": {
+    "title": "12月付费咨询特别篇：黑名单也可做按揭，XT6落地价多出1万3",
+    "url": "https://zhuanlan.zhihu.com/p/440647034",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "汽车销售顾问/内容创作者",
+      "industry": "汽车销售",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场打工人",
+      "游戏爱好者",
+      "家庭支柱"
+    ],
+    "life_experiences": [
+      "在4S店工作多年",
+      "沉迷魔兽世界怀旧服",
+      "经历过汽车行业行情波动",
+      "做过付费咨询"
+    ],
+    "interest_topics": [
+      "汽车行情",
+      "购车技巧",
+      "4S店套路",
+      "魔兽世界",
+      "游戏经济"
+    ],
+    "discussion_triggers": [
+      "购车咨询",
+      "按揭问题",
+      "4S店收费陷阱",
+      "游戏内打工经历"
+    ],
+    "sensitive_topics": [
+      "4S店乱收费",
+      "黑名单按揭",
+      "金融返佣套路"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "反套路",
+      "诚信",
+      "性价比优先"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "数据导向",
+      "机制分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "汽车销售",
+        "按揭金融",
+        "4S店运营"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 90,
+      "likes_commenting": 50,
+      "likes_debating": 60,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助别人避坑",
+      "展示专业能力",
+      "分享行业知识"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "购车砍价",
+        "score": 95
+      },
+      {
+        "topic": "按揭贷款",
+        "score": 90
+      },
+      {
+        "topic": "4S店套路",
+        "score": 85
+      },
+      {
+        "topic": "汽车行情",
+        "score": 80
+      },
+      {
+        "topic": "魔兽世界",
+        "score": 60
+      }
+    ],
+    "impression": "一个在4S店摸爬滚打多年的老销售，懂行且愿意分享，说话实在，偶尔自嘲，对行业套路门儿清。"
+  },
+  "analyzed_at": "2026-06-15T22:27:34.056958",
+  "token_usage": 3270
+}

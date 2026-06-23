@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0141",
+  "source": {
+    "title": "5位华人博士生获英伟达奖学金，清华校友、神经机器翻译工具OpenNMT的开发者在列",
+    "url": "https://zhuanlan.zhihu.com/p/446229705",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-34",
+      "gender": "男性",
+      "education": "博士在读或已毕业",
+      "occupation": "博士生或科研人员",
+      "industry": "人工智能/计算机科学",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏上"
+    },
+    "life_stage": [
+      "求学阶段",
+      "科研起步期"
+    ],
+    "life_experiences": [
+      "国内顶尖高校本科（清华/北航/电子科大）",
+      "海外名校博士（CMU/哈佛/康奈尔等）",
+      "获得英伟达奖学金",
+      "发表多篇顶会论文"
+    ],
+    "interest_topics": [
+      "深度学习",
+      "计算机视觉",
+      "自然语言处理",
+      "机器人",
+      "高性能计算",
+      "学术奖学金"
+    ],
+    "discussion_triggers": [
+      "华人学者成就",
+      "AI技术突破",
+      "留学经历",
+      "科研竞赛"
+    ],
+    "sensitive_topics": [
+      "学术不公",
+      "中美科技竞争",
+      "AI伦理"
+    ],
+    "value_tendencies": [
+      "崇尚学术卓越",
+      "重视教育背景",
+      "技术乐观主义",
+      "精英主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "深度学习",
+        "计算机视觉",
+        "自然语言处理",
+        "机器人"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 40,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 60,
+      "likes_short_answers": 40,
+      "likes_storytelling": 30,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助别人",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 30,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "英伟达奖学金",
+        "score": 90
+      },
+      {
+        "topic": "华人AI学者",
+        "score": 85
+      },
+      {
+        "topic": "计算机视觉",
+        "score": 80
+      },
+      {
+        "topic": "留学申请",
+        "score": 70
+      },
+      {
+        "topic": "论文发表",
+        "score": 75
+      }
+    ],
+    "impression": "一个对华人学术成就充满自豪的技术精英，喜欢用数据和事实说话，略带精英主义色彩。"
+  },
+  "analyzed_at": "2026-06-15T22:22:29.459663",
+  "token_usage": 3223
+}

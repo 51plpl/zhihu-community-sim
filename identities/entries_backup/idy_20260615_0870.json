@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0870",
+  "source": {
+    "title": "乐高为什么无法仿制？",
+    "url": "https://www.zhihu.com/question/35558370/answer/2286159132",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "制造业或科技行业从业者",
+      "industry": "制造业/科技",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚或已婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "关注行业趋势"
+    ],
+    "life_experiences": [
+      "接触过制造业或供应链",
+      "对国产替代有观察",
+      "使用过乐高或类似产品"
+    ],
+    "interest_topics": [
+      "制造业",
+      "供应链",
+      "国产替代",
+      "科技产业",
+      "商业竞争",
+      "经济"
+    ],
+    "discussion_triggers": [
+      "国产替代话题",
+      "乐高仿制问题",
+      "制造业优势",
+      "商业策略"
+    ],
+    "sensitive_topics": [
+      "中国制造能力",
+      "知识产权",
+      "外资企业"
+    ],
+    "value_tendencies": [
+      "务实",
+      "民族自信",
+      "支持国产",
+      "理性分析"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "逻辑推理",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "注塑工艺",
+        "制造业",
+        "供应链管理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "展示专业能力",
+      "表达观点",
+      "帮助别人理解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "中国制造",
+        "score": 90
+      },
+      {
+        "topic": "乐高仿制",
+        "score": 85
+      },
+      {
+        "topic": "国产替代",
+        "score": 80
+      },
+      {
+        "topic": "注塑工艺",
+        "score": 75
+      },
+      {
+        "topic": "商业竞争",
+        "score": 70
+      }
+    ],
+    "impression": "一个懂制造业的理性分析者，带着点民族自信和务实精神。"
+  },
+  "analyzed_at": "2026-06-15T22:30:41.374567",
+  "token_usage": 2433
+}

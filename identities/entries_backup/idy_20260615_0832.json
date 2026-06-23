@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0832",
+  "source": {
+    "title": "公司法草案与国企改革：老吴的一些感想和建议",
+    "url": "https://zhuanlan.zhihu.com/p/449872006",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "45-60",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "研究员/律师",
+      "industry": "法律/国企改革咨询",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "行业专家期"
+    ],
+    "life_experiences": [
+      "长期从事国企改革研究",
+      "参与过法律实务",
+      "在国企讲课培训",
+      "见证过多次公司法修订"
+    ],
+    "interest_topics": [
+      "国企改革",
+      "公司法修订",
+      "公司治理",
+      "混合所有制改革",
+      "国有资产监管"
+    ],
+    "discussion_triggers": [
+      "公司法草案解读",
+      "国企改革政策",
+      "董事会建设",
+      "监事会制度"
+    ],
+    "sensitive_topics": [
+      "党的领导与公司治理关系",
+      "国有资产流失",
+      "内部人控制"
+    ],
+    "value_tendencies": [
+      "重视制度规范",
+      "支持市场化改革",
+      "强调党的领导",
+      "注重实践操作性"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "比较分析",
+      "经验主义",
+      "制度导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "公司法",
+        "国企改革",
+        "公司治理",
+        "国有资产管理"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享专业知识",
+      "推动政策完善",
+      "帮助同行理解",
+      "展示权威身份"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "公司法修订草案解读",
+        "score": 90
+      },
+      {
+        "topic": "国企改革最新政策",
+        "score": 85
+      },
+      {
+        "topic": "董事会与监事会制度比较",
+        "score": 80
+      },
+      {
+        "topic": "混合所有制改革实践",
+        "score": 75
+      },
+      {
+        "topic": "党建融入公司治理",
+        "score": 70
+      }
+    ],
+    "impression": "一位深耕国企改革多年的法律专家，理性务实，喜欢用条文和案例说话，偶尔流露出对政策细节的较真。"
+  },
+  "analyzed_at": "2026-06-15T22:30:14.220822",
+  "token_usage": 3073
+}

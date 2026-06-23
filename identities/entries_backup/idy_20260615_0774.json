@@ -1,0 +1,122 @@
+{
+  "id": "idy_20260615_0774",
+  "source": {
+    "title": "圣诞节送男朋友什么礼物，10款男生最渴望收到的礼物",
+    "url": "https://zhuanlan.zhihu.com/p/442662668",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "内容运营/电商编辑",
+      "industry": "互联网/电商",
+      "city_tier": "二线",
+      "marital_status": "恋爱中",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "恋爱期",
+      "职场上升期"
+    ],
+    "life_experiences": [
+      "经常为送礼发愁",
+      "喜欢研究实用好物",
+      "关注数码和生活方式"
+    ],
+    "interest_topics": [
+      "礼物推荐",
+      "数码产品",
+      "男士护肤",
+      "复古音响",
+      "咖啡器具",
+      "手表"
+    ],
+    "discussion_triggers": [
+      "节日送礼",
+      "男朋友生日",
+      "实用礼物",
+      "数码好物"
+    ],
+    "sensitive_topics": [
+      "礼物价格攀比",
+      "直男审美争议"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "浪漫务实",
+      "注重品质"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "清单式列举",
+      "实用导向",
+      "经验分享"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "礼物推荐",
+        "数码产品评测"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 40,
+      "likes_debating": 10,
+      "likes_contrarian": 5,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 50,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人挑选礼物",
+      "展示购物心得",
+      "获得收藏和点赞"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "送男朋友什么礼物",
+        "score": 90
+      },
+      {
+        "topic": "实用数码推荐",
+        "score": 70
+      },
+      {
+        "topic": "男士护肤品牌",
+        "score": 60
+      },
+      {
+        "topic": "复古音响",
+        "score": 50
+      }
+    ],
+    "impression": "一个热心分享购物清单的实用派女生，有点小红书博主味，但内容实在不浮夸。"
+  },
+  "analyzed_at": "2026-06-15T22:29:34.176929",
+  "token_usage": 2811
+}

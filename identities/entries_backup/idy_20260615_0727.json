@@ -1,0 +1,116 @@
+{
+  "id": "idy_20260615_0727",
+  "source": {
+    "title": "王致和豆腐乳为什么我觉得不好吃但是特有名？",
+    "url": "https://www.zhihu.com/question/356490987/answer/2287684669",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网运营或产品经理",
+      "industry": "互联网",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业探索期",
+      "个人品味形成期"
+    ],
+    "life_experiences": [
+      "尝试过多种地方特色食物",
+      "对传统食品有好奇心但挑剔",
+      "可能有过类似‘别人说好自己却不喜欢’的体验"
+    ],
+    "interest_topics": [
+      "美食评测",
+      "传统小吃",
+      "食品历史",
+      "文化差异",
+      "个人口味"
+    ],
+    "discussion_triggers": [
+      "网红食品名不副实",
+      "地方特色食物争议",
+      "个人口味与大众评价不符"
+    ],
+    "sensitive_topics": [
+      "传统食品被过度神化",
+      "口味主观性被忽视"
+    ],
+    "value_tendencies": [
+      "尊重传统但不盲从",
+      "重视个人体验",
+      "理性分析优于从众"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "经验主义",
+      "对比分析",
+      "质疑权威"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "食品工艺",
+        "历史典故"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 70,
+      "likes_long_answers": 40,
+      "likes_short_answers": 30,
+      "likes_storytelling": 20,
+      "likes_explaining": 50,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "表达个人观点",
+      "寻求认同",
+      "引发讨论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "传统食品评价",
+        "score": 80
+      },
+      {
+        "topic": "王致和臭豆腐",
+        "score": 90
+      },
+      {
+        "topic": "个人口味与大众差异",
+        "score": 70
+      }
+    ],
+    "impression": "一个对传统食品有好奇心但坚持自我口味的理性质疑者"
+  },
+  "analyzed_at": "2026-06-15T22:29:01.664913",
+  "token_usage": 2586
+}

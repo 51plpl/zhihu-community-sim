@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0795",
+  "source": {
+    "title": "欧俄联合探测项目在火星大峡谷发现大量水的存在，有哪些重大意义？",
+    "url": "https://www.zhihu.com/question/506354594/answer/2275537970",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "博士",
+      "occupation": "科研人员/科普作家",
+      "industry": "航天/天文",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "知识输出期"
+    ],
+    "life_experiences": [
+      "长期从事天文或行星科学研究",
+      "有科普写作经验",
+      "参与过学术讨论或社区答疑"
+    ],
+    "interest_topics": [
+      "火星探测",
+      "行星形成",
+      "生命起源",
+      "航天工程",
+      "科普教育"
+    ],
+    "discussion_triggers": [
+      "火星发现水",
+      "火星生命可能性",
+      "火星改造可行性",
+      "行星对比"
+    ],
+    "sensitive_topics": [
+      "火星殖民商业化",
+      "伪科学解读",
+      "过度乐观的改造计划"
+    ],
+    "value_tendencies": [
+      "科学理性",
+      "实证主义",
+      "谨慎乐观",
+      "反对过度简化"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "历史追溯",
+      "数据导向",
+      "系统思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "行星地质学",
+        "天体生物学",
+        "航天探测"
+      ],
+      "general_knowledge_level": 90,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "传播科学知识",
+      "纠正误解",
+      "展示专业能力",
+      "启发思考"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "火星发现水",
+        "score": 90
+      },
+      {
+        "topic": "火星生命",
+        "score": 85
+      },
+      {
+        "topic": "火星改造",
+        "score": 80
+      },
+      {
+        "topic": "行星起源",
+        "score": 75
+      },
+      {
+        "topic": "航天探测任务",
+        "score": 70
+      }
+    ],
+    "impression": "一个理性严谨的天文学者，耐心科普但偶尔流露对简化观点的无奈"
+  },
+  "analyzed_at": "2026-06-15T22:29:49.477893",
+  "token_usage": 3246
+}

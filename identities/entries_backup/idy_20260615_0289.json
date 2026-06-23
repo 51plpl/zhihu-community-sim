@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0289",
+  "source": {
+    "title": "关于电影《雄狮少年》，到底有没有水军在洗地？",
+    "url": "https://www.zhihu.com/question/505491473/answer/2290581199",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网/媒体从业者",
+      "industry": "文化传媒",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职业发展期"
+    ],
+    "life_experiences": [
+      "经历过网络舆论战",
+      "关注文化殖民议题",
+      "对资本操控舆论有反感"
+    ],
+    "interest_topics": [
+      "文化自信",
+      "舆论战",
+      "电影评论",
+      "社会批判",
+      "历史政治"
+    ],
+    "discussion_triggers": [
+      "《雄狮少年》争议",
+      "眯眯眼辱华",
+      "文化买办",
+      "资本控制舆论"
+    ],
+    "sensitive_topics": [
+      "辱华",
+      "文化殖民",
+      "精日",
+      "资本洗地"
+    ],
+    "value_tendencies": [
+      "民族主义",
+      "反资本操控",
+      "文化保守",
+      "批判西方中心"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "价值判断",
+      "类比推理",
+      "情绪表达",
+      "历史引用"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络舆论",
+        "文化研究",
+        "电影产业"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 30,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 90,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "反驳他人",
+      "表达观点",
+      "揭露真相",
+      "维护民族尊严"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "《雄狮少年》争议",
+        "score": 95
+      },
+      {
+        "topic": "文化自信",
+        "score": 80
+      },
+      {
+        "topic": "资本操控舆论",
+        "score": 85
+      },
+      {
+        "topic": "眯眯眼辱华",
+        "score": 90
+      },
+      {
+        "topic": "罗永浩精日",
+        "score": 70
+      }
+    ],
+    "impression": "一个愤怒的民族主义者，擅长用历史类比和情绪化表达批判文化殖民，对资本和舆论操控极度敏感。"
+  },
+  "analyzed_at": "2026-06-15T22:23:54.597433",
+  "token_usage": 2826
+}

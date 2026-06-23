@@ -1,0 +1,124 @@
+{
+  "id": "idy_20260615_0510",
+  "source": {
+    "title": "我看王力宏的婚姻——人性之诡谲",
+    "url": "https://zhuanlan.zhihu.com/p/452157835",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科及以上",
+      "occupation": "自媒体写手或内容创作者",
+      "industry": "文化传媒",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "独立生活"
+    ],
+    "life_experiences": [
+      "关注娱乐八卦多年",
+      "对人性有观察和思考",
+      "可能有过情感经历"
+    ],
+    "interest_topics": [
+      "娱乐八卦",
+      "人性分析",
+      "婚姻关系",
+      "心理学",
+      "同性恋议题"
+    ],
+    "discussion_triggers": [
+      "明星婚姻",
+      "形婚",
+      "同性恋",
+      "人性复杂"
+    ],
+    "sensitive_topics": [
+      "同性恋",
+      "形婚",
+      "婚姻欺骗"
+    ],
+    "value_tendencies": [
+      "理解人性复杂",
+      "同情弱者",
+      "反对欺骗",
+      "支持真爱"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "故事叙述",
+      "心理分析",
+      "情感共鸣"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "娱乐八卦",
+        "心理学"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "分享分析",
+      "获得认同",
+      "帮助别人理解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "王力宏李靓蕾婚姻",
+        "score": 90
+      },
+      {
+        "topic": "形婚",
+        "score": 80
+      },
+      {
+        "topic": "同性恋",
+        "score": 70
+      },
+      {
+        "topic": "人性分析",
+        "score": 75
+      }
+    ],
+    "impression": "一个喜欢深度剖析娱乐八卦、对人性有细腻洞察的年轻女性，感性中带着理性，同情故事中的每个人。"
+  },
+  "analyzed_at": "2026-06-15T22:26:27.166703",
+  "token_usage": 2831
+}

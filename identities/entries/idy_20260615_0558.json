@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0558",
+  "source": {
+    "title": "40句锻炼演讲口才表达力的经典短文，日积月累，提升讲话水平",
+    "url": "https://zhuanlan.zhihu.com/p/449764627",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "不限",
+      "education": "大专及以上",
+      "occupation": "职场白领、培训师、公务员、创业者",
+      "industry": "教育培训、人力资源、行政管理、销售",
+      "city_tier": "二线或三线",
+      "marital_status": "不限",
+      "children": "可能有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "自我提升期",
+      "寻求稳定与突破并存"
+    ],
+    "life_experiences": [
+      "经历过挫折或迷茫",
+      "有自我激励和成长的经历",
+      "可能参与过演讲或培训活动"
+    ],
+    "interest_topics": [
+      "演讲口才",
+      "个人成长",
+      "励志文学",
+      "职场技能",
+      "心理学",
+      "人生哲理"
+    ],
+    "discussion_triggers": [
+      "如何提升表达能力",
+      "如何克服自卑",
+      "职场沟通技巧",
+      "人生感悟分享"
+    ],
+    "sensitive_topics": [
+      "失败与挫折",
+      "年龄焦虑",
+      "社会不公"
+    ],
+    "value_tendencies": [
+      "积极向上",
+      "努力奋斗",
+      "相信自我",
+      "重视成长",
+      "强调坚持"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "励志性表达",
+      "经验总结",
+      "情感驱动",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "演讲口才",
+        "个人发展",
+        "励志心理学"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 40,
+      "likes_short_answers": 30,
+      "likes_storytelling": 60,
+      "likes_explaining": 50,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人",
+      "分享经验",
+      "获得认同",
+      "自我表达"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何提升口才",
+        "score": 90
+      },
+      {
+        "topic": "人生励志语录",
+        "score": 80
+      },
+      {
+        "topic": "职场沟通技巧",
+        "score": 70
+      },
+      {
+        "topic": "克服拖延症",
+        "score": 60
+      },
+      {
+        "topic": "成功学",
+        "score": 50
+      }
+    ],
+    "impression": "一个温暖而坚定的励志者，喜欢用金句鼓励自己和他人，相信努力的意义，但偶尔显得鸡汤化。"
+  },
+  "analyzed_at": "2026-06-15T22:27:01.861353",
+  "token_usage": 4546
+}

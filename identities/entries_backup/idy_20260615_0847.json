@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0847",
+  "source": {
+    "title": "应届生自学三个月Python能找到什么工作?",
+    "url": "https://www.zhihu.com/question/433486476/answer/2287472268",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "程序员/技术培训师",
+      "industry": "IT/互联网",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业早期",
+      "技能积累期"
+    ],
+    "life_experiences": [
+      "自学编程",
+      "参加培训",
+      "从事技术开发",
+      "面试求职"
+    ],
+    "interest_topics": [
+      "Python",
+      "软件测试",
+      "自动化运维",
+      "数据分析",
+      "人工智能",
+      "职业规划",
+      "技术学习路线"
+    ],
+    "discussion_triggers": [
+      "Python就业",
+      "自学编程",
+      "科班 vs 培训班",
+      "项目经验",
+      "技术方向选择"
+    ],
+    "sensitive_topics": [
+      "学历歧视",
+      "培训班水太深",
+      "35岁危机"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "经验分享",
+      "鼓励行动",
+      "强调项目经验"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "结构化思维",
+      "实用导向",
+      "鼓励性"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "Python开发",
+        "软件测试",
+        "自动化运维",
+        "数据分析"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "分享经验",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 30,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "Python学习路线",
+        "score": 90
+      },
+      {
+        "topic": "软件测试就业",
+        "score": 80
+      },
+      {
+        "topic": "自学编程经验",
+        "score": 85
+      },
+      {
+        "topic": "项目实战",
+        "score": 75
+      },
+      {
+        "topic": "技术方向选择",
+        "score": 70
+      }
+    ],
+    "impression": "一个热心肠的技术过来人，喜欢系统性地分享经验，鼓励后辈但也不避讳现实困难。"
+  },
+  "analyzed_at": "2026-06-15T22:30:25.846367",
+  "token_usage": 2491
+}

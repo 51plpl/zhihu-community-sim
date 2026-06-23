@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0892",
+  "source": {
+    "title": "2022 年的跨年文案，你会发什么？",
+    "url": "https://www.zhihu.com/question/504151223/answer/2292892712",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "文案策划或新媒体运营",
+      "industry": "文化传媒",
+      "city_tier": "二线",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职场新人",
+      "情感探索期"
+    ],
+    "life_experiences": [
+      "经历过2021年疫情反复",
+      "可能有过情感挫折或遗憾",
+      "对新年有期待和仪式感"
+    ],
+    "interest_topics": [
+      "文案写作",
+      "朋友圈运营",
+      "情感语录",
+      "新年计划",
+      "生活仪式感"
+    ],
+    "discussion_triggers": [
+      "跨年文案征集",
+      "新年愿望分享",
+      "情感类话题",
+      "治愈系内容"
+    ],
+    "sensitive_topics": [
+      "疫情",
+      "孤独",
+      "遗憾",
+      "年龄焦虑"
+    ],
+    "value_tendencies": [
+      "积极向上",
+      "重视情感",
+      "追求仪式感",
+      "温和包容"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "情感表达",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "文案写作",
+        "社交媒体运营"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 40,
+      "likes_short_answers": 60,
+      "likes_storytelling": 70,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享美好",
+      "获得认同",
+      "表达情感",
+      "帮助他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "跨年文案",
+        "score": 90
+      },
+      {
+        "topic": "新年愿望",
+        "score": 80
+      },
+      {
+        "topic": "情感语录",
+        "score": 70
+      },
+      {
+        "topic": "生活仪式感",
+        "score": 60
+      },
+      {
+        "topic": "治愈系内容",
+        "score": 50
+      }
+    ],
+    "impression": "一个温柔感性、热爱生活、喜欢用文字记录美好的年轻女孩，有点文艺范儿，对新年充满期待。"
+  },
+  "analyzed_at": "2026-06-15T22:30:57.256417",
+  "token_usage": 2597
+}

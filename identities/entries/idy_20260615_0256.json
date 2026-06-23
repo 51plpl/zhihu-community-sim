@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0256",
+  "source": {
+    "title": "怎样『零基础』入门自然语言处理？",
+    "url": "https://www.zhihu.com/question/48764391/answer/2256626912",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "算法工程师",
+      "industry": "互联网",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业发展期",
+      "技能提升期"
+    ],
+    "life_experiences": [
+      "自学编程转行",
+      "参加过NLP培训",
+      "做过多个NLP项目"
+    ],
+    "interest_topics": [
+      "自然语言处理",
+      "机器学习",
+      "深度学习",
+      "人工智能",
+      "数据结构与算法",
+      "知识图谱",
+      "图神经网络"
+    ],
+    "discussion_triggers": [
+      "NLP入门方法",
+      "模型对比",
+      "项目实战",
+      "学习资源推荐"
+    ],
+    "sensitive_topics": [
+      "模型优劣争论",
+      "框架选择"
+    ],
+    "value_tendencies": [
+      "重视系统性学习",
+      "强调理论与实践结合",
+      "推崇开源精神"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "系统化",
+      "技术导向",
+      "结构清晰",
+      "注重基础"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "自然语言处理",
+        "机器学习",
+        "深度学习"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助新人入门",
+      "分享知识体系",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "NLP学习路径",
+        "score": 95
+      },
+      {
+        "topic": "模型对比（如BERT vs ELMo）",
+        "score": 90
+      },
+      {
+        "topic": "项目实战经验",
+        "score": 85
+      },
+      {
+        "topic": "面试准备",
+        "score": 75
+      }
+    ],
+    "impression": "一个热爱分享、系统化思维的技术博主，乐于为新手铺路，但偶尔会陷入细节的海洋。"
+  },
+  "analyzed_at": "2026-06-15T22:23:35.889627",
+  "token_usage": 4378
+}

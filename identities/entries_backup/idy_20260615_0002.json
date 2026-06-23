@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0002",
+  "source": {
+    "title": "2021最全软件测试面试题，400页pdf背熟不拿下offer算我输",
+    "url": "https://zhuanlan.zhihu.com/p/442355167",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "软件测试工程师",
+      "industry": "互联网/软件",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "求职跳槽期"
+    ],
+    "life_experiences": [
+      "经历过多次面试",
+      "整理过大量面试题",
+      "在测试行业工作3-5年"
+    ],
+    "interest_topics": [
+      "软件测试",
+      "面试技巧",
+      "自动化测试",
+      "性能测试",
+      "Python编程",
+      "职业发展"
+    ],
+    "discussion_triggers": [
+      "面试题分享",
+      "测试技术讨论",
+      "求职经验",
+      "薪资谈判"
+    ],
+    "sensitive_topics": [
+      "面试不公",
+      "技术歧视",
+      "年龄危机"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验总结",
+      "系统梳理",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "软件测试",
+        "自动化测试框架",
+        "接口测试",
+        "性能测试"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人",
+      "展示专业能力",
+      "获得认同",
+      "分享经验"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "软件测试面试题",
+        "score": 90
+      },
+      {
+        "topic": "自动化测试工具",
+        "score": 80
+      },
+      {
+        "topic": "性能测试经验",
+        "score": 70
+      },
+      {
+        "topic": "职业发展建议",
+        "score": 60
+      }
+    ],
+    "impression": "一个热心肠的测试老手，喜欢整理干货分享给后来人，有点实用主义的小骄傲。"
+  },
+  "analyzed_at": "2026-06-15T22:21:00.097255",
+  "token_usage": 3142
+}

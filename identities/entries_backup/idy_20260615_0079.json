@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0079",
+  "source": {
+    "title": "如何以“我穿成了总裁文里总裁的女秘书，还是一个女配”为开头写一篇文？",
+    "url": "https://www.zhihu.com/question/381369185/answer/2277775250",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-32",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "总裁秘书（即将离职）",
+      "industry": "企业服务/行政管理",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业转型期",
+      "从追求爱情转向追求稳定",
+      "自我觉醒与独立"
+    ],
+    "life_experiences": [
+      "从小被奶奶带大，性格泼辣",
+      "在司家长大，与总裁有情感纠葛",
+      "发现自己穿书后决定改变命运",
+      "经历好友家庭变故（抱错孩子）"
+    ],
+    "interest_topics": [
+      "公务员考试",
+      "职场生存",
+      "女性独立",
+      "网络小说/穿书题材",
+      "烧烤美食"
+    ],
+    "discussion_triggers": [
+      "考公经验分享",
+      "吐槽总裁/职场",
+      "男女关系中的不平等",
+      "吐槽小说套路"
+    ],
+    "sensitive_topics": [
+      "被当作女配的命运",
+      "家庭偏心",
+      "感情中的备胎经历",
+      "阶级差异"
+    ],
+    "value_tendencies": [
+      "务实主义",
+      "反恋爱脑",
+      "重视稳定与保障",
+      "友情高于爱情",
+      "追求自我价值"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "实用导向",
+      "幽默自嘲",
+      "剧情分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "秘书实务",
+        "公司行政管理",
+        "公务员考试备考"
+      ],
+      "general_knowledge_level": 65,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 50,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享个人经历",
+      "鼓励他人追求稳定",
+      "吐槽小说/职场",
+      "获得认同与共鸣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "考公经验",
+        "score": 90
+      },
+      {
+        "topic": "穿书/女配话题",
+        "score": 85
+      },
+      {
+        "topic": "职场吐槽",
+        "score": 75
+      },
+      {
+        "topic": "女性独立",
+        "score": 70
+      },
+      {
+        "topic": "小说推荐",
+        "score": 60
+      }
+    ],
+    "impression": "一个从恋爱脑觉醒的务实派，用幽默和自嘲对抗狗血命运，嘴上骂骂咧咧但内心温暖，考公是她的新信仰。"
+  },
+  "analyzed_at": "2026-06-15T22:21:45.726150",
+  "token_usage": 5148
+}

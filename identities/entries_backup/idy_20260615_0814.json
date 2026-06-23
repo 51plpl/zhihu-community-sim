@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0814",
+  "source": {
+    "title": "猫杯状病毒怎么治疗，猫杯状病毒是否可以治愈？",
+    "url": "https://www.zhihu.com/question/54583460/answer/2277229213",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "宠物医生/兽医",
+      "industry": "宠物医疗",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭生活期"
+    ],
+    "life_experiences": [
+      "多年宠物临床诊疗经验",
+      "养猫经历丰富",
+      "经历过宠物疾病治疗"
+    ],
+    "interest_topics": [
+      "猫科疾病",
+      "病毒学",
+      "宠物用药",
+      "宠物营养",
+      "宠物行为学"
+    ],
+    "discussion_triggers": [
+      "猫杯状病毒",
+      "猫鼻支",
+      "宠物疫苗",
+      "宠物医院选择"
+    ],
+    "sensitive_topics": [
+      "宠物医院乱收费",
+      "宠物用药安全性",
+      "宠物遗弃"
+    ],
+    "value_tendencies": [
+      "专业主义",
+      "科学养宠",
+      "责任心强",
+      "重视生命"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "经验总结",
+      "数据导向",
+      "结构化思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "猫科病毒学",
+        "临床兽医",
+        "宠物药理学"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 90,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助宠物主人",
+      "展示专业能力",
+      "传播科学养宠知识",
+      "建立专业权威"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "猫杯状病毒治疗",
+        "score": 95
+      },
+      {
+        "topic": "宠物疫苗选择",
+        "score": 85
+      },
+      {
+        "topic": "猫鼻支症状",
+        "score": 80
+      },
+      {
+        "topic": "宠物医院避坑",
+        "score": 70
+      },
+      {
+        "topic": "猫营养补充",
+        "score": 60
+      }
+    ],
+    "impression": "一个专业严谨、乐于分享的宠物医生，回答像教科书一样条理清晰，但偶尔流露出对宠物主人的耐心和关怀。"
+  },
+  "analyzed_at": "2026-06-15T22:30:01.871805",
+  "token_usage": 3268
+}

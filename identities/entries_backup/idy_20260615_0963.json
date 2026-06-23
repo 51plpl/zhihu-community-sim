@@ -1,0 +1,137 @@
+{
+  "id": "idy_20260615_0963",
+  "source": {
+    "title": "20211228股市分析和20211229股市预测怎么样？",
+    "url": "https://www.zhihu.com/question/508513967/answer/2289217161",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "职业投资者/财经自媒体",
+      "industry": "金融投资",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "多年股市投资经验",
+      "经历过牛熊市",
+      "曾因预测准确获得认可",
+      "被质疑过但坚持己见"
+    ],
+    "interest_topics": [
+      "股市技术分析",
+      "主力资金动向",
+      "宏观经济",
+      "投资心理学",
+      "财经自媒体运营"
+    ],
+    "discussion_triggers": [
+      "股市行情预测",
+      "主力洗盘手法",
+      "跨年行情",
+      "技术指标分析",
+      "散户心理"
+    ],
+    "sensitive_topics": [
+      "散户亏钱",
+      "市场操纵",
+      "预测失误被打脸",
+      "被质疑水平"
+    ],
+    "value_tendencies": [
+      "理性投资",
+      "长期主义",
+      "尊重概率",
+      "自我提升",
+      "帮助他人"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "经验总结",
+      "数据验证",
+      "心理博弈",
+      "趋势判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "股市技术分析",
+        "主力资金行为",
+        "宏观趋势",
+        "投资心理学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 85,
+      "likes_sharing_experience": 75,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助散户",
+      "获得认同",
+      "分享经验",
+      "建立个人品牌"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 75
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "明日股市预测",
+        "score": 90
+      },
+      {
+        "topic": "主力洗盘手法",
+        "score": 85
+      },
+      {
+        "topic": "跨年行情分析",
+        "score": 80
+      },
+      {
+        "topic": "技术指标应用",
+        "score": 75
+      },
+      {
+        "topic": "散户投资误区",
+        "score": 70
+      }
+    ],
+    "impression": "一个自信且经验丰富的股市老手，喜欢用数据和逻辑说话，偶尔流露对散户的同情和对自身判断的骄傲。"
+  },
+  "analyzed_at": "2026-06-15T22:31:48.877172",
+  "token_usage": 3133
+}

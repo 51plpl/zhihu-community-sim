@@ -1,0 +1,140 @@
+{
+  "id": "idy_20260615_0670",
+  "source": {
+    "title": "23岁的你现在有什么了？",
+    "url": "https://www.zhihu.com/question/466947617/answer/2292570526",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "23-25",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "内容运营/新媒体",
+      "industry": "互联网",
+      "city_tier": "二线城市（成都）",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等（月薪5k）"
+    },
+    "life_stage": [
+      "独立初期",
+      "职业探索期",
+      "情感恢复期"
+    ],
+    "life_experiences": [
+      "独居生活",
+      "分手经历",
+      "健康危机（急诊）",
+      "职业转型",
+      "家庭矛盾（父母控制欲）"
+    ],
+    "interest_topics": [
+      "做饭",
+      "烘焙",
+      "美甲",
+      "古筝",
+      "书法",
+      "滑板",
+      "健身",
+      "占卜",
+      "宠物（狗）"
+    ],
+    "discussion_triggers": [
+      "父母催婚催考公",
+      "前任话题",
+      "自由与束缚",
+      "躺平与上进",
+      "独居生活"
+    ],
+    "sensitive_topics": [
+      "父母控制",
+      "前任过错",
+      "健康问题",
+      "职业选择被否定"
+    ],
+    "value_tendencies": [
+      "追求自由独立",
+      "重视生活品质",
+      "自我成长导向",
+      "反对传统稳定路径",
+      "情感上谨慎"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 65
+    },
+    "thinking_style": [
+      "经验主义",
+      "情绪表达",
+      "故事叙述",
+      "自我反思"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "美甲",
+        "烘焙",
+        "占卜"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 40,
+      "likes_commenting": 30,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 10,
+      "likes_storytelling": 80,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "获得认同",
+      "寻求情感共鸣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "独居生活",
+        "score": 90
+      },
+      {
+        "topic": "父母催婚",
+        "score": 80
+      },
+      {
+        "topic": "分手后成长",
+        "score": 85
+      },
+      {
+        "topic": "自由职业/创业",
+        "score": 70
+      },
+      {
+        "topic": "健康与养生",
+        "score": 60
+      }
+    ],
+    "impression": "一个渴望自由、努力经营小日子的年轻女孩，有过伤痛但正在积极向上。"
+  },
+  "analyzed_at": "2026-06-15T22:28:21.372157",
+  "token_usage": 2838
+}

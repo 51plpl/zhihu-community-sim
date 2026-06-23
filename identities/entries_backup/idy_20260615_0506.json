@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0506",
+  "source": {
+    "title": "如何评价一些人看到有人在沈阳北陵公园（清太宗皇太极陵墓）？",
+    "url": "https://www.zhihu.com/question/474162974/answer/2263917222",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男性",
+      "education": "本科及以上",
+      "occupation": "互联网从业者或自由职业者",
+      "industry": "文化/传媒/教育",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职业发展期",
+      "思想活跃期"
+    ],
+    "life_experiences": [
+      "经历过网络论战",
+      "关注民族议题",
+      "可能有多民族朋友或背景"
+    ],
+    "interest_topics": [
+      "民族关系",
+      "历史争议",
+      "服饰文化",
+      "网络舆论",
+      "社会公平"
+    ],
+    "discussion_triggers": [
+      "民族服饰争议",
+      "历史人物评价",
+      "网络极端言论",
+      "文化认同"
+    ],
+    "sensitive_topics": [
+      "民族歧视",
+      "极端民族主义",
+      "历史清算",
+      "文化霸权"
+    ],
+    "value_tendencies": [
+      "平等主义",
+      "多元文化主义",
+      "反极端主义",
+      "个人自由"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "价值判断",
+      "批判性思维",
+      "例证丰富"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中国历史",
+        "民族政策",
+        "网络舆情"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 70,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 90,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "反驳极端观点",
+      "维护平等原则",
+      "表达个人立场",
+      "教育他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "民族服饰争议",
+        "score": 90
+      },
+      {
+        "topic": "网络极端言论",
+        "score": 85
+      },
+      {
+        "topic": "历史人物评价",
+        "score": 70
+      },
+      {
+        "topic": "文化认同",
+        "score": 80
+      },
+      {
+        "topic": "社会公平",
+        "score": 60
+      }
+    ],
+    "impression": "一个理性、正义感强、喜欢用逻辑和例子反驳极端言论的网民，对民族议题有深入思考，但偶尔显得说教。"
+  },
+  "analyzed_at": "2026-06-15T22:26:25.083371",
+  "token_usage": 2726
+}

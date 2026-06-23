@@ -1,0 +1,122 @@
+{
+  "id": "idy_20260615_0103",
+  "source": {
+    "title": "PS在哪里下载比较安全？如果要买在哪里买？",
+    "url": "https://www.zhihu.com/question/40408844/answer/2259415327",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-35",
+      "gender": "不限",
+      "education": "大专或本科",
+      "occupation": "设计师、摄影爱好者、学生",
+      "industry": "设计、摄影、互联网",
+      "city_tier": "一二线城市",
+      "marital_status": "不限",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "学习技能期",
+      "职业发展期"
+    ],
+    "life_experiences": [
+      "自学设计软件",
+      "寻找免费资源",
+      "在知乎等平台学习教程"
+    ],
+    "interest_topics": [
+      "Photoshop教程",
+      "设计软件下载",
+      "摄影后期",
+      "创意特效",
+      "免费资源获取"
+    ],
+    "discussion_triggers": [
+      "PS下载安全",
+      "软件购买渠道",
+      "特效制作技巧",
+      "免费资源分享"
+    ],
+    "sensitive_topics": [
+      "盗版软件",
+      "付费订阅",
+      "软件安全性"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "分享精神",
+      "注重性价比"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "操作导向",
+      "步骤分解",
+      "资源整合"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "Photoshop操作",
+        "特效制作"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 30,
+      "likes_debating": 10,
+      "likes_contrarian": 5,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 20,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享知识",
+      "帮助新手",
+      "获得认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 30,
+      "seeking_influence": 20,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "PS下载与安装",
+        "score": 90
+      },
+      {
+        "topic": "PS特效教程",
+        "score": 80
+      },
+      {
+        "topic": "设计资源分享",
+        "score": 70
+      },
+      {
+        "topic": "软件安全",
+        "score": 60
+      }
+    ],
+    "impression": "一个热心分享PS教程和资源的实用主义者，喜欢详细步骤，但偶尔夹杂广告推广。"
+  },
+  "analyzed_at": "2026-06-15T22:22:05.698962",
+  "token_usage": 2596
+}

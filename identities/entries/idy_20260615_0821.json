@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0821",
+  "source": {
+    "title": "有没有关于友情的温柔文案？",
+    "url": "https://www.zhihu.com/question/469061647/answer/2284910923",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "无收入"
+    },
+    "life_stage": [
+      "青春期后期",
+      "大学阶段",
+      "探索自我"
+    ],
+    "life_experiences": [
+      "经历过友谊的温暖与治愈",
+      "曾因朋友的支持走出低落",
+      "喜欢收集和分享美好句子"
+    ],
+    "interest_topics": [
+      "友情",
+      "温柔文案",
+      "治愈系语录",
+      "青春成长",
+      "情感表达"
+    ],
+    "discussion_triggers": [
+      "关于友情的感人故事",
+      "如何维系友谊",
+      "朋友之间的暖心细节",
+      "文案分享"
+    ],
+    "sensitive_topics": [
+      "背叛",
+      "孤独",
+      "友谊破裂"
+    ],
+    "value_tendencies": [
+      "重视情感连接",
+      "相信真诚",
+      "感恩",
+      "乐观"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 85
+    },
+    "thinking_style": [
+      "情感驱动",
+      "感性",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "文案收集",
+        "情感表达"
+      ],
+      "general_knowledge_level": 40,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 10,
+      "likes_contrarian": 5,
+      "likes_long_answers": 50,
+      "likes_short_answers": 40,
+      "likes_storytelling": 80,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 10,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享美好",
+      "获得认同",
+      "帮助别人",
+      "表达情感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "友情文案",
+        "score": 95
+      },
+      {
+        "topic": "治愈系句子",
+        "score": 90
+      },
+      {
+        "topic": "朋友之间的感动",
+        "score": 85
+      },
+      {
+        "topic": "青春回忆",
+        "score": 70
+      },
+      {
+        "topic": "情感语录",
+        "score": 80
+      }
+    ],
+    "impression": "一个温暖细腻、热爱分享的文艺少女，把友情当作生命中的光。"
+  },
+  "analyzed_at": "2026-06-15T22:30:06.029424",
+  "token_usage": 2654
+}

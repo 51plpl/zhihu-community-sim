@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0497",
+  "source": {
+    "title": "C++很重视头文件的编写，特别是大项目时还有很多这方面的技巧。Rust没这方面的考虑，它不怕编译慢吗？",
+    "url": "https://www.zhihu.com/question/507147705/answer/2279931051",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "系统程序员",
+      "industry": "软件开发",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业上升期",
+      "技术深耕期"
+    ],
+    "life_experiences": [
+      "多年C++开发经验",
+      "参与过大型项目",
+      "对编译原理有研究",
+      "尝试过Rust但不满"
+    ],
+    "interest_topics": [
+      "C++",
+      "Rust",
+      "编译器设计",
+      "编程语言理论",
+      "系统编程",
+      "性能优化"
+    ],
+    "discussion_triggers": [
+      "Rust编译速度",
+      "C++头文件",
+      "编程语言对比",
+      "V语言"
+    ],
+    "sensitive_topics": [
+      "Rust vs C++",
+      "unsafe代码",
+      "编译速度",
+      "语言生态"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "性能至上",
+      "反对过度抽象",
+      "尊重传统"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "技术分析",
+      "对比论证",
+      "引用数据",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "C++",
+        "编译器",
+        "系统编程"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 80,
+      "likes_contrarian": 70,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 10,
+      "likes_explaining": 80,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "反驳他人",
+      "展示专业能力",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 30,
+      "seeking_influence": 60,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "Rust编译速度",
+        "score": 90
+      },
+      {
+        "topic": "C++头文件设计",
+        "score": 85
+      },
+      {
+        "topic": "编程语言性能对比",
+        "score": 80
+      },
+      {
+        "topic": "V语言",
+        "score": 70
+      },
+      {
+        "topic": "增量编译",
+        "score": 75
+      }
+    ],
+    "impression": "一个经验丰富的C++老手，对Rust的缺陷了如指掌，喜欢用数据和事实进行尖锐批评，带有技术优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:26:18.260898",
+  "token_usage": 2246
+}

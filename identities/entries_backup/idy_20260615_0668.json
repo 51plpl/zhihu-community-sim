@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0668",
+  "source": {
+    "title": "你在你男/女朋友的手机里发现过什么秘密？",
+    "url": "https://www.zhihu.com/question/309282780/answer/2256765005",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-25",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "二线",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "大学在读",
+      "初恋分手恢复期"
+    ],
+    "life_experiences": [
+      "异地恋",
+      "被背叛",
+      "分手后自我疗愈"
+    ],
+    "interest_topics": [
+      "情感关系",
+      "异地恋",
+      "女性成长",
+      "心理学",
+      "校园生活"
+    ],
+    "discussion_triggers": [
+      "异地恋的无力感",
+      "前任的暧昧行为",
+      "分手后的反思",
+      "青春期的感情经历"
+    ],
+    "sensitive_topics": [
+      "背叛",
+      "异地恋中的信任问题",
+      "前任与新欢"
+    ],
+    "value_tendencies": [
+      "重视忠诚",
+      "相信真心",
+      "自我成长优先",
+      "反对暧昧"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "细节回忆",
+      "自我反思"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "情感关系"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 30,
+      "likes_answering": 20,
+      "likes_commenting": 40,
+      "likes_debating": 10,
+      "likes_contrarian": 5,
+      "likes_long_answers": 70,
+      "likes_short_answers": 10,
+      "likes_storytelling": 80,
+      "likes_explaining": 30,
+      "likes_teaching": 10,
+      "likes_showing_expertise": 20,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 20
+    },
+    "motivation": [
+      "分享经历",
+      "寻求情感共鸣",
+      "自我表达",
+      "警示他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 30,
+      "seeking_agreement": 50,
+      "seeking_influence": 20,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "异地恋",
+        "score": 80
+      },
+      {
+        "topic": "分手后的自我疗愈",
+        "score": 70
+      },
+      {
+        "topic": "前任的暧昧行为",
+        "score": 75
+      },
+      {
+        "topic": "初恋回忆",
+        "score": 60
+      },
+      {
+        "topic": "女性成长",
+        "score": 50
+      }
+    ],
+    "impression": "一个经历过初恋背叛但正在努力走出来的年轻女孩，感性细腻，喜欢用故事分享自己的伤痛与成长。"
+  },
+  "analyzed_at": "2026-06-15T22:28:21.112788",
+  "token_usage": 2639
+}

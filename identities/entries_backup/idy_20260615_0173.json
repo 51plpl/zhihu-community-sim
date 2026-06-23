@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0173",
+  "source": {
+    "title": "罗曼电动牙刷怎么样？罗曼电动牙刷T10S：实物测评、使用体验",
+    "url": "https://zhuanlan.zhihu.com/p/336698744",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "内容创作者/自媒体人",
+      "industry": "消费品测评/电商",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "单身",
+      "职业发展期",
+      "注重生活品质"
+    ],
+    "life_experiences": [
+      "购买过多款电动牙刷",
+      "有口腔护理经验",
+      "尝试过多种漱口水",
+      "关注小家电测评"
+    ],
+    "interest_topics": [
+      "电动牙刷",
+      "口腔护理",
+      "生活小家电",
+      "性价比产品",
+      "护肤品",
+      "个人护理"
+    ],
+    "discussion_triggers": [
+      "电动牙刷选购",
+      "刷头磨圆率",
+      "感应充电",
+      "洁面刷功能",
+      "性价比对比"
+    ],
+    "sensitive_topics": [
+      "产品质量问题",
+      "虚假宣传",
+      "价格虚高"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "性价比优先",
+      "注重细节",
+      "喜欢分享",
+      "相信口碑"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "对比分析",
+      "细节观察",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "电动牙刷",
+        "口腔护理",
+        "日常用品测评"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 50,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享实用经验",
+      "帮助他人选购",
+      "展示专业度",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "电动牙刷推荐",
+        "score": 90
+      },
+      {
+        "topic": "刷头磨圆率对比",
+        "score": 80
+      },
+      {
+        "topic": "感应充电 vs 有线充电",
+        "score": 70
+      },
+      {
+        "topic": "洁面刷好用吗",
+        "score": 75
+      },
+      {
+        "topic": "漱口水推荐",
+        "score": 60
+      }
+    ],
+    "impression": "一个热爱生活、乐于分享的实用主义者，喜欢用对比和细节说服人，有点小资但更看重性价比。"
+  },
+  "analyzed_at": "2026-06-15T22:22:48.079742",
+  "token_usage": 2989
+}

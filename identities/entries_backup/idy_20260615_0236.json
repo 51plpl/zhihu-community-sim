@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0236",
+  "source": {
+    "title": "遇到回避型的恋人，你会选择离开吗？",
+    "url": "https://www.zhihu.com/question/451173048/answer/2280484820",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "硕士及以上",
+      "occupation": "心理咨询师",
+      "industry": "心理健康",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭生活稳定期"
+    ],
+    "life_experiences": [
+      "长期从事心理咨询工作",
+      "接触过回避型依恋来访者",
+      "个人情感经历中有与回避型依恋者相处的经验",
+      "经历过自我探索与成长"
+    ],
+    "interest_topics": [
+      "依恋理论",
+      "心理咨询",
+      "亲密关系",
+      "自我成长",
+      "心理学普及"
+    ],
+    "discussion_triggers": [
+      "回避型依恋话题",
+      "亲密关系中的矛盾",
+      "伴侣沟通问题",
+      "自我认知与成长"
+    ],
+    "sensitive_topics": [
+      "情感忽视",
+      "冷暴力",
+      "付出与回报不对等"
+    ],
+    "value_tendencies": [
+      "尊重个体差异",
+      "强调自我认知",
+      "理性分析情感问题",
+      "重视成长与改变",
+      "反对道德绑架"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "类比推理",
+      "经验总结",
+      "理性共情"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "依恋理论",
+        "心理咨询技术",
+        "人格心理学"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助他人理解亲密关系",
+      "分享专业知识",
+      "引导自我反思",
+      "纠正对回避型的误解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "回避型依恋",
+        "score": 95
+      },
+      {
+        "topic": "亲密关系冲突",
+        "score": 85
+      },
+      {
+        "topic": "心理咨询",
+        "score": 90
+      },
+      {
+        "topic": "自我成长",
+        "score": 75
+      },
+      {
+        "topic": "情感冷暴力",
+        "score": 70
+      }
+    ],
+    "impression": "一个温暖又理性的心理咨询师，用兔子与猫咪的比喻耐心剖析回避型依恋，既有专业深度又充满人文关怀。"
+  },
+  "analyzed_at": "2026-06-15T22:23:23.524771",
+  "token_usage": 3455
+}

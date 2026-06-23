@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0676",
+  "source": {
+    "title": "手机CPU更重要还是GPU更重要？内行人说出答案，这三点是关键！",
+    "url": "https://zhuanlan.zhihu.com/p/441238943",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "科技媒体编辑/数码博主",
+      "industry": "科技/数码",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚或已婚无孩",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "兴趣驱动型消费"
+    ],
+    "life_experiences": [
+      "长期关注手机硬件",
+      "参与过手机评测或相关讨论",
+      "可能自己组装过电脑或折腾过手机"
+    ],
+    "interest_topics": [
+      "手机处理器",
+      "芯片性能对比",
+      "数码产品评测",
+      "科技行业动态",
+      "游戏性能"
+    ],
+    "discussion_triggers": [
+      "CPU vs GPU",
+      "跑分差异",
+      "中端芯片选择",
+      "高端手机定义"
+    ],
+    "sensitive_topics": [
+      "芯片厂商优劣",
+      "跑分造假",
+      "品牌信仰"
+    ],
+    "value_tendencies": [
+      "理性消费",
+      "性能优先",
+      "技术导向",
+      "务实主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "数据驱动",
+      "对比论证",
+      "经验总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "手机SoC",
+        "芯片架构",
+        "性能测试"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 10,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助别人理解",
+      "纠正错误认知",
+      "分享知识"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "手机芯片选择",
+        "score": 90
+      },
+      {
+        "topic": "游戏性能优化",
+        "score": 70
+      },
+      {
+        "topic": "跑分对比",
+        "score": 85
+      },
+      {
+        "topic": "中端机推荐",
+        "score": 75
+      },
+      {
+        "topic": "高端手机趋势",
+        "score": 80
+      }
+    ],
+    "impression": "一个热衷于用数据和逻辑说服别人的数码发烧友，说话像在写评测文章。"
+  },
+  "analyzed_at": "2026-06-15T22:28:24.738572",
+  "token_usage": 2674
+}

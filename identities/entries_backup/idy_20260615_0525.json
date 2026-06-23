@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0525",
+  "source": {
+    "title": "最良心的软件可以良心到什么程度？",
+    "url": "https://www.zhihu.com/question/52157612/answer/2254948153",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "IT支持或办公文员",
+      "industry": "信息技术或行政",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场打拼期",
+      "技能积累期"
+    ],
+    "life_experiences": [
+      "曾因软件广告或付费困扰",
+      "自学过办公软件技巧",
+      "可能做过论文排版"
+    ],
+    "interest_topics": [
+      "免费软件",
+      "办公效率",
+      "无代码开发",
+      "视频录制",
+      "远程办公"
+    ],
+    "discussion_triggers": [
+      "良心软件推荐",
+      "免费替代品",
+      "提高工作效率",
+      "程序员解放"
+    ],
+    "sensitive_topics": [
+      "软件收费",
+      "广告弹窗",
+      "编程门槛"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "分享精神",
+      "反商业捆绑",
+      "支持免费开源"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "列表归纳",
+      "轻松幽默",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "办公软件",
+        "无代码平台",
+        "录屏工具"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助他人",
+      "分享实用技能",
+      "获得点赞认可",
+      "展示自己懂行"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "免费软件推荐",
+        "score": 90
+      },
+      {
+        "topic": "办公效率工具",
+        "score": 85
+      },
+      {
+        "topic": "无代码开发",
+        "score": 80
+      },
+      {
+        "topic": "录屏软件",
+        "score": 75
+      },
+      {
+        "topic": "远程控制软件",
+        "score": 70
+      }
+    ],
+    "impression": "一个热情洋溢、乐于分享的软件爱好者，说话带点俏皮，喜欢用感叹号和表情，像个邻家技术小哥。"
+  },
+  "analyzed_at": "2026-06-15T22:26:37.918962",
+  "token_usage": 2605
+}

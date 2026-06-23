@@ -1,0 +1,125 @@
+{
+  "id": "idy_20260615_0033",
+  "source": {
+    "title": "12 月 26 日陕西新增本土确诊病例 152 例，其中西安 150 例，目前情况如何？",
+    "url": "https://www.zhihu.com/question/508509633/answer/2287459390",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "后勤工作人员",
+      "industry": "公共管理/抗疫相关",
+      "city_tier": "新一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "参与过大型公共事件应急工作",
+      "基层工作经历",
+      "疫情期间高强度工作"
+    ],
+    "interest_topics": [
+      "疫情防控",
+      "公共政策",
+      "基层治理",
+      "社会民生"
+    ],
+    "discussion_triggers": [
+      "疫情动态",
+      "政策执行问题",
+      "基层工作吐槽",
+      "医护人员致敬"
+    ],
+    "sensitive_topics": [
+      "政府失职",
+      "官僚主义",
+      "生命权争议"
+    ],
+    "value_tendencies": [
+      "务实",
+      "同理心强",
+      "尊重规则",
+      "对系统有批判但维护基层"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "故事叙述",
+      "情绪表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "抗疫工作流程",
+        "基层行政",
+        "社区管理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "帮助别人",
+      "反驳他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "西安疫情",
+        "score": 90
+      },
+      {
+        "topic": "基层工作",
+        "score": 85
+      },
+      {
+        "topic": "政策吐槽",
+        "score": 70
+      },
+      {
+        "topic": "医护人员致敬",
+        "score": 80
+      }
+    ],
+    "impression": "一个亲历抗疫一线的后勤人员，有苦劳也有牢骚，既理解系统无奈又忍不住吐槽，但始终对人民和基层充满敬意。"
+  },
+  "analyzed_at": "2026-06-15T22:21:18.461719",
+  "token_usage": 2428
+}

@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0610",
+  "source": {
+    "title": "作文素材 ：《人民日报》哲理语段为你文章补钙",
+    "url": "https://zhuanlan.zhihu.com/p/442861131",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-45",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "语文教师或教育类自媒体运营者",
+      "industry": "教育",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭建设期"
+    ],
+    "life_experiences": [
+      "经历过高考和应试教育",
+      "长期从事文字工作",
+      "可能经历过职场压力或生活挫折",
+      "有坚持读书和写作的习惯"
+    ],
+    "interest_topics": [
+      "教育",
+      "语文教学",
+      "作文素材",
+      "个人成长",
+      "心理学",
+      "人际关系",
+      "励志故事"
+    ],
+    "discussion_triggers": [
+      "高考作文",
+      "学生教育",
+      "自律",
+      "人际关系",
+      "情绪管理"
+    ],
+    "sensitive_topics": [
+      "教育内卷",
+      "教师待遇",
+      "家庭与工作平衡"
+    ],
+    "value_tendencies": [
+      "重视努力和坚持",
+      "相信善良和共情的力量",
+      "推崇自律和成长",
+      "注重人际关系中的分寸感",
+      "乐观积极"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "价值判断",
+      "故事叙述",
+      "经验主义",
+      "情绪表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "语文教学",
+        "作文指导",
+        "经典文学",
+        "教育心理学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 70,
+      "likes_teaching": 90,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助别人",
+      "分享经历",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "高考作文技巧",
+        "score": 90
+      },
+      {
+        "topic": "如何培养自律",
+        "score": 80
+      },
+      {
+        "topic": "人际关系处理",
+        "score": 70
+      },
+      {
+        "topic": "读书的意义",
+        "score": 85
+      },
+      {
+        "topic": "情绪管理",
+        "score": 75
+      }
+    ],
+    "impression": "一个温暖而坚定的教育者，喜欢用故事和哲理鼓励他人，自己也在努力活成一道光。"
+  },
+  "analyzed_at": "2026-06-15T22:27:39.558411",
+  "token_usage": 3159
+}

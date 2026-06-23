@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_061",
+  "source": {
+    "title": "如果你是替身文的替身，你会怎么做？",
+    "url": "https://www.zhihu.com/question/391074156/answer/2263354704",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "混合风格，日常口语为主，穿插少量书面表达，如“刀削般的面庞”“泼天富贵”等。",
+    "sentence_rhythm": "长短句交替，节奏张弛有度，对话部分短促有力，叙述部分舒缓。",
+    "favorite_expressions": [
+      "像……一样",
+      "我……",
+      "他……",
+      "……了",
+      "……呢"
+    ],
+    "punctuation_habits": "逗号使用频繁，省略号用于表示停顿或省略，感叹号用于表达强烈情绪，破折号较少。",
+    "person_perspective": "第一人称叙述，偶尔切换为第三人称（如成辉视角），但主体为“我”。",
+    "emotion_intensity": "中等偏热烈，情感表达直接，但克制不煽情。"
+  },
+  "structure": {
+    "opening_pattern": "以提问开头，直接切入主题。",
+    "paragraph_rhythm": "段落长短不一，关键对话或心理描写独立成段，节奏变化明显。",
+    "argument_logic": "归纳型，通过具体事件和对话逐步揭示人物关系和情感。",
+    "transition_style": "口语化过渡，使用“然后”“接着”“没想到”等连接，部分直接跳转。",
+    "closing_pattern": "以人物内心独白和未完成的故事结尾，留有悬念。",
+    "title_pattern": "反常识提问，引发读者好奇。"
+  },
+  "analyzed_at": "2026-06-14T22:55:32.831994",
+  "token_usage": 4764
+}

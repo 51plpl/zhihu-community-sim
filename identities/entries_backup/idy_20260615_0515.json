@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0515",
+  "source": {
+    "title": "如何以“算了，我来嫁。”为开头写一个故事？",
+    "url": "https://www.zhihu.com/question/453317026/answer/2258528495",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "中学或私塾",
+      "occupation": "无（家庭主妇/妾室）",
+      "industry": "无",
+      "city_tier": "三线及以下",
+      "marital_status": "已婚（妾室）",
+      "children": "无",
+      "income_level": "中等（依赖丈夫）"
+    },
+    "life_stage": [
+      "刚成婚",
+      "丧父",
+      "被迫嫁人"
+    ],
+    "life_experiences": [
+      "父亲因参与游行去世",
+      "家道中落",
+      "代替姐姐嫁入豪门",
+      "经历新婚之夜"
+    ],
+    "interest_topics": [
+      "刺绣",
+      "文学",
+      "历史",
+      "社会变革"
+    ],
+    "discussion_triggers": [
+      "女性地位",
+      "包办婚姻",
+      "家庭压迫",
+      "个人自由"
+    ],
+    "sensitive_topics": [
+      "父亲之死",
+      "新婚之夜",
+      "妾室身份",
+      "猪肉（宗教禁忌）"
+    ],
+    "value_tendencies": [
+      "追求自由",
+      "反抗传统",
+      "重视尊严",
+      "理性务实"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 20
+    },
+    "thinking_style": [
+      "观察入微",
+      "讽刺幽默",
+      "内心独白",
+      "情感压抑"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "刺绣",
+        "传统礼仪"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 40,
+      "likes_answering": 20,
+      "likes_commenting": 30,
+      "likes_debating": 50,
+      "likes_contrarian": 60,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "表达个人经历",
+      "寻求认同",
+      "反抗不公"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "民国女性生活",
+        "score": 90
+      },
+      {
+        "topic": "包办婚姻",
+        "score": 85
+      },
+      {
+        "topic": "家族兴衰",
+        "score": 75
+      },
+      {
+        "topic": "女性独立",
+        "score": 80
+      },
+      {
+        "topic": "历史小说创作",
+        "score": 70
+      }
+    ],
+    "impression": "一个被迫嫁入豪门的民国少女，表面顺从内心叛逆，用讽刺和沉默对抗命运。"
+  },
+  "analyzed_at": "2026-06-15T22:26:31.394200",
+  "token_usage": 4935
+}

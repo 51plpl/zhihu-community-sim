@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0203",
+  "source": {
+    "title": "参加省考都要做什么准备？",
+    "url": "https://www.zhihu.com/question/362050656/answer/2263079777",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "公务员",
+      "industry": "政府/公共部门",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业初期",
+      "备考上岸"
+    ],
+    "life_experiences": [
+      "参加过省考并成功上岸",
+      "曾为备考付出大量时间精力",
+      "对行测和申论有系统学习经验"
+    ],
+    "interest_topics": [
+      "公务员考试",
+      "行测技巧",
+      "申论写作",
+      "时政热点",
+      "学习方法"
+    ],
+    "discussion_triggers": [
+      "省考备考经验",
+      "行测提分方法",
+      "申论复习误区",
+      "资料推荐"
+    ],
+    "sensitive_topics": [
+      "公务员待遇",
+      "考试公平性",
+      "体制内工作"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "努力奋斗",
+      "尊重规则",
+      "理性务实"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向",
+      "步骤分解"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "行测",
+        "申论",
+        "公务员考试"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 50,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "分享经历",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "省考备考资料推荐",
+        "score": 90
+      },
+      {
+        "topic": "行测做题顺序",
+        "score": 85
+      },
+      {
+        "topic": "申论如何积累",
+        "score": 80
+      },
+      {
+        "topic": "数量关系如何放弃",
+        "score": 75
+      },
+      {
+        "topic": "公务员考试心态",
+        "score": 70
+      }
+    ],
+    "impression": "一个热心分享上岸经验的过来人，语气自信但接地气，喜欢用亲身经历说服别人。"
+  },
+  "analyzed_at": "2026-06-15T22:23:02.074590",
+  "token_usage": 4093
+}

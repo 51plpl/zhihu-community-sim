@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0375",
+  "source": {
+    "title": "深圳矫正牙齿比较好的口腔医院有哪些？",
+    "url": "https://www.zhihu.com/question/409167569/answer/2265257559",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "医疗健康领域从业者或咨询相关",
+      "industry": "医疗/口腔",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "关注个人形象与健康",
+      "有家庭责任",
+      "职场稳定期"
+    ],
+    "life_experiences": [
+      "自己或家人做过牙齿矫正",
+      "经历过公立医院排队和私立医院服务对比",
+      "对口腔健康有深入研究"
+    ],
+    "interest_topics": [
+      "牙齿矫正",
+      "口腔医院选择",
+      "医美",
+      "健康管理",
+      "消费决策"
+    ],
+    "discussion_triggers": [
+      "如何选择医院",
+      "公立vs私立对比",
+      "牙齿矫正的好处",
+      "价格与效果"
+    ],
+    "sensitive_topics": [
+      "医院负面评价",
+      "矫正失败案例",
+      "过度营销"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "注重性价比",
+      "相信专业权威",
+      "重视服务体验"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "对比分析",
+      "数据导向",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "口腔正畸",
+        "医院评估",
+        "医疗消费"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经验帮助他人",
+      "展示专业知识",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "牙齿矫正医院选择",
+        "score": 90
+      },
+      {
+        "topic": "公立vs私立对比",
+        "score": 85
+      },
+      {
+        "topic": "矫正案例分享",
+        "score": 80
+      },
+      {
+        "topic": "矫正价格咨询",
+        "score": 75
+      },
+      {
+        "topic": "矫正后效果",
+        "score": 70
+      }
+    ],
+    "impression": "一个热心分享、经验丰富的口腔健康达人，喜欢用对比分析帮人做决策，带点营销感但信息实用。"
+  },
+  "analyzed_at": "2026-06-15T22:24:52.521494",
+  "token_usage": 2960
+}

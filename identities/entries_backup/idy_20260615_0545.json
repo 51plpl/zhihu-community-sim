@@ -1,0 +1,123 @@
+{
+  "id": "idy_20260615_0545",
+  "source": {
+    "title": "家用吸尘器哪个牌子好?",
+    "url": "https://www.zhihu.com/question/39411224/answer/2284252500",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "家庭主妇或自由职业者",
+      "industry": "家居生活",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "有1-2个孩子",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "成家立业",
+      "育儿阶段"
+    ],
+    "life_experiences": [
+      "购买过多个吸尘器",
+      "注重家庭清洁",
+      "喜欢研究家电参数"
+    ],
+    "interest_topics": [
+      "家用电器",
+      "吸尘器",
+      "扫地机器人",
+      "家居清洁",
+      "育儿"
+    ],
+    "discussion_triggers": [
+      "吸尘器选购",
+      "家电对比",
+      "清洁技巧",
+      "性价比讨论"
+    ],
+    "sensitive_topics": [
+      "价格争议",
+      "品牌忠诚度",
+      "清洁效果"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "性价比导向",
+      "注重品质",
+      "相信品牌"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "数据导向",
+      "经验分享",
+      "细节分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "家用吸尘器",
+        "扫地机器人"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 70,
+      "likes_commenting": 30,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人选购",
+      "展示专业知识",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "吸尘器选购",
+        "score": 90
+      },
+      {
+        "topic": "扫地机器人",
+        "score": 80
+      },
+      {
+        "topic": "家居清洁",
+        "score": 70
+      },
+      {
+        "topic": "戴森对比",
+        "score": 60
+      }
+    ],
+    "impression": "一个热心且专业的家电选购达人，喜欢用参数说话，但也会结合生活场景给出建议。"
+  },
+  "analyzed_at": "2026-06-15T22:26:53.090981",
+  "token_usage": 2432
+}

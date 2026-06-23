@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0524",
+  "source": {
+    "title": "12月13日股市和基金早报！",
+    "url": "https://zhuanlan.zhihu.com/p/444538237",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "金融从业者",
+      "industry": "证券/基金",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过多次市场波动",
+      "有投资理财经验",
+      "关注宏观经济政策"
+    ],
+    "interest_topics": [
+      "股市",
+      "基金",
+      "宏观经济",
+      "科技股",
+      "新能源",
+      "元宇宙",
+      "基因测序",
+      "政策解读"
+    ],
+    "discussion_triggers": [
+      "政策变化",
+      "市场大跌",
+      "新股发行",
+      "行业热点"
+    ],
+    "sensitive_topics": [
+      "股市下跌",
+      "政策失误",
+      "经济衰退"
+    ],
+    "value_tendencies": [
+      "稳健投资",
+      "相信政策调控",
+      "重视风险控制",
+      "支持科技创新"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "理性判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "金融投资",
+        "宏观经济",
+        "行业分析"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 10,
+      "likes_explaining": 60,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享信息",
+      "展示专业能力",
+      "帮助他人理解市场",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 30,
+      "seeking_influence": 40,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "股市行情",
+        "score": 80
+      },
+      {
+        "topic": "基金投资",
+        "score": 70
+      },
+      {
+        "topic": "宏观经济政策",
+        "score": 75
+      },
+      {
+        "topic": "新能源车",
+        "score": 60
+      },
+      {
+        "topic": "元宇宙",
+        "score": 55
+      }
+    ],
+    "impression": "一个理性、数据驱动的金融信息整理者，喜欢用事实说话，但偶尔也会流露出对市场的谨慎乐观。"
+  },
+  "analyzed_at": "2026-06-15T22:26:37.705517",
+  "token_usage": 4310
+}

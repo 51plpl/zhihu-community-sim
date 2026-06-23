@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0114",
+  "source": {
+    "title": "有哪些可以很文艺告别的诗句或者文案？",
+    "url": "https://www.zhihu.com/question/452787837/answer/2268695221",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科在读或刚毕业",
+      "occupation": "学生或初级职员",
+      "industry": "不限",
+      "city_tier": "一线或新一线",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中低收入"
+    },
+    "life_stage": [
+      "青春期后期",
+      "毕业季",
+      "失恋期"
+    ],
+    "life_experiences": [
+      "经历毕业离别",
+      "经历分手",
+      "暗恋或单恋",
+      "异地恋结束"
+    ],
+    "interest_topics": [
+      "文艺句子",
+      "情感语录",
+      "告别文案",
+      "青春文学",
+      "伤感文学"
+    ],
+    "discussion_triggers": [
+      "毕业季",
+      "分手",
+      "异地恋",
+      "暗恋",
+      "怀旧"
+    ],
+    "sensitive_topics": [
+      "前任",
+      "分手原因",
+      "不被爱",
+      "错过"
+    ],
+    "value_tendencies": [
+      "感性至上",
+      "重视仪式感",
+      "相信缘分",
+      "略带悲观"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情感驱动",
+      "文艺表达",
+      "类比联想",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "情感文案",
+        "文艺句子"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 50,
+      "likes_debating": 10,
+      "likes_contrarian": 20,
+      "likes_long_answers": 40,
+      "likes_short_answers": 60,
+      "likes_storytelling": 70,
+      "likes_explaining": 20,
+      "likes_teaching": 10,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 10,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享情感",
+      "寻求共鸣",
+      "表达伤感",
+      "获得安慰"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 70,
+      "seeking_influence": 20,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "告别文案",
+        "score": 90
+      },
+      {
+        "topic": "分手语录",
+        "score": 85
+      },
+      {
+        "topic": "文艺句子",
+        "score": 80
+      },
+      {
+        "topic": "毕业季",
+        "score": 75
+      },
+      {
+        "topic": "伤感文学",
+        "score": 70
+      }
+    ],
+    "impression": "一个沉浸在文艺伤感中的年轻女孩，喜欢用优美的句子表达离愁别绪，渴望被理解。"
+  },
+  "analyzed_at": "2026-06-15T22:22:11.919736",
+  "token_usage": 2718
+}

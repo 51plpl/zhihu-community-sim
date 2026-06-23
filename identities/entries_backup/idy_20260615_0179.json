@@ -1,0 +1,139 @@
+{
+  "id": "idy_20260615_0179",
+  "source": {
+    "title": "2021 年哪个瞬间让你决定分手？",
+    "url": "https://www.zhihu.com/question/503464176/answer/2286403855",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "女",
+      "education": "硕士及以上",
+      "occupation": "心理咨询师",
+      "industry": "心理健康",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭建设期",
+      "自我实现期"
+    ],
+    "life_experiences": [
+      "经历过失败的感情或婚姻",
+      "从事心理咨询多年",
+      "帮助过大量情感危机案例",
+      "系统学习过心理学理论"
+    ],
+    "interest_topics": [
+      "亲密关系",
+      "情感心理学",
+      "沟通技巧",
+      "个人成长",
+      "原生家庭",
+      "性别差异"
+    ],
+    "discussion_triggers": [
+      "分手决策",
+      "情感挽回",
+      "婚姻危机",
+      "男女思维差异",
+      "心理咨询有效性"
+    ],
+    "sensitive_topics": [
+      "出轨",
+      "冷暴力",
+      "妈宝男",
+      "凤凰男",
+      "情感控制"
+    ],
+    "value_tendencies": [
+      "重视自我成长",
+      "倡导理性决策",
+      "尊重个体差异",
+      "反对情感绑架",
+      "强调专业帮助"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 55
+    },
+    "thinking_style": [
+      "机制分析",
+      "阶段模型",
+      "案例类比",
+      "理性引导",
+      "经验总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "情感心理学",
+        "婚姻咨询",
+        "沟通分析",
+        "创伤修复"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人走出情感困境",
+      "传播专业心理学知识",
+      "建立个人专业权威",
+      "获得职业成就感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "分手征兆",
+        "score": 90
+      },
+      {
+        "topic": "情感挽回方法",
+        "score": 85
+      },
+      {
+        "topic": "男女沟通差异",
+        "score": 80
+      },
+      {
+        "topic": "心理咨询效果",
+        "score": 75
+      },
+      {
+        "topic": "原生家庭影响",
+        "score": 70
+      }
+    ],
+    "impression": "一个理性通透的情感专家，用手术刀般的分析解剖爱情，但字里行间藏着对人性深深的悲悯。"
+  },
+  "analyzed_at": "2026-06-15T22:22:49.650510",
+  "token_usage": 4660
+}

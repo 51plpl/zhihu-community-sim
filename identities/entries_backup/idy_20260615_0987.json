@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0987",
+  "source": {
+    "title": "国内AutoDL等几款GPU租用平台使用体验如何？",
+    "url": "https://www.zhihu.com/question/488792295/answer/2286604672",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "男",
+      "education": "本科或硕士在读",
+      "occupation": "学生",
+      "industry": "计算机/人工智能",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低收入（学生）"
+    },
+    "life_stage": [
+      "在校学生",
+      "经济拮据",
+      "技术入门阶段"
+    ],
+    "life_experiences": [
+      "使用GPU租用平台进行深度学习实验",
+      "对比多家云服务商价格",
+      "与客服频繁沟通解决问题"
+    ],
+    "interest_topics": [
+      "深度学习",
+      "GPU租用",
+      "学生优惠",
+      "性价比",
+      "云服务"
+    ],
+    "discussion_triggers": [
+      "GPU价格对比",
+      "学生党省钱技巧",
+      "AutoDL使用体验",
+      "云服务客服质量"
+    ],
+    "sensitive_topics": [
+      "价格歧视",
+      "学生身份被质疑",
+      "平台服务差"
+    ],
+    "value_tendencies": [
+      "性价比优先",
+      "实用主义",
+      "支持学生优惠",
+      "重视服务体验"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据对比",
+      "经验分享",
+      "情绪表达",
+      "细节描述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "深度学习框架",
+        "GPU租用平台",
+        "Linux基础操作"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享省钱经验",
+      "展示自己作为资深用户",
+      "帮助其他学生党",
+      "获得认同和点赞"
+    ],
+    "social_needs": {
+      "seeking_recognition": 80,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "AutoDL使用体验",
+        "score": 95
+      },
+      {
+        "topic": "学生党GPU租用推荐",
+        "score": 90
+      },
+      {
+        "topic": "云服务器性价比对比",
+        "score": 85
+      },
+      {
+        "topic": "深度学习入门配置",
+        "score": 70
+      }
+    ],
+    "impression": "一个热情洋溢、精打细算的学生党，用大量截图和数据证明自己不是水军，充满分享欲和自豪感。"
+  },
+  "analyzed_at": "2026-06-15T22:32:07.588437",
+  "token_usage": 2366
+}

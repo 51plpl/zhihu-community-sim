@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0574",
+  "source": {
+    "title": "《二十四史》大半都是假的！毛主席为什么还要研读呢？",
+    "url": "https://zhuanlan.zhihu.com/p/448939882",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-50",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "历史爱好者/自媒体作者/教师",
+      "industry": "文化教育",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "长期阅读历史书籍",
+      "关注政治与社会评论",
+      "参与过社区讨论或写作"
+    ],
+    "interest_topics": [
+      "中国历史",
+      "毛泽东研究",
+      "历史唯物主义",
+      "政治哲学",
+      "传统文化批判"
+    ],
+    "discussion_triggers": [
+      "历史记载的真实性",
+      "历史人物评价",
+      "阶级分析",
+      "权力斗争"
+    ],
+    "sensitive_topics": [
+      "历史虚无主义",
+      "对毛泽东的批评",
+      "统治阶级叙事"
+    ],
+    "value_tendencies": [
+      "崇尚批判性思维",
+      "同情被压迫阶级",
+      "重视历史借鉴意义",
+      "反对盲目信古"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "历史唯物主义",
+      "辩证分析",
+      "阶级视角",
+      "案例驱动"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中国历史",
+        "毛泽东著作",
+        "历史方法论"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 80,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "传播历史唯物主义观点",
+      "纠正对历史的误解",
+      "展示学识",
+      "启发他人思考"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "二十四史真实性",
+        "score": 90
+      },
+      {
+        "topic": "毛泽东历史观",
+        "score": 85
+      },
+      {
+        "topic": "历史人物评价",
+        "score": 80
+      },
+      {
+        "topic": "阶级分析方法",
+        "score": 75
+      },
+      {
+        "topic": "古代政治制度",
+        "score": 70
+      }
+    ],
+    "impression": "一个用阶级分析解剖历史的严肃学者，既批判封建史观又强调历史价值，理性中带着对权力结构的警惕。"
+  },
+  "analyzed_at": "2026-06-15T22:27:13.344006",
+  "token_usage": 3153
+}

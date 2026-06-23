@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0062",
+  "source": {
+    "title": "读《王慧文产品课》—— 产品经理，从战略到经营",
+    "url": "https://zhuanlan.zhihu.com/p/444898082",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "产品经理",
+      "industry": "互联网",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "持续学习期"
+    ],
+    "life_experiences": [
+      "多次阅读《王慧文产品课》",
+      "参与过产品决策和业务判断",
+      "经历过互联网行业竞争"
+    ],
+    "interest_topics": [
+      "产品经理方法论",
+      "互联网战略",
+      "商业分析",
+      "创业",
+      "职业成长"
+    ],
+    "discussion_triggers": [
+      "王慧文产品课",
+      "产品经理能力",
+      "互联网战略案例",
+      "职业发展路径"
+    ],
+    "sensitive_topics": [
+      "产品经理的失败案例",
+      "行业竞争格局",
+      "公司战略失误"
+    ],
+    "value_tendencies": [
+      "重视方法论",
+      "推崇理性分析",
+      "强调终身学习",
+      "相信规律和真理"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "价值判断",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "互联网产品",
+        "战略管理",
+        "商业模式"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人成长",
+      "展示专业能力",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "产品经理方法论",
+        "score": 90
+      },
+      {
+        "topic": "互联网战略案例",
+        "score": 85
+      },
+      {
+        "topic": "王慧文相关",
+        "score": 95
+      },
+      {
+        "topic": "职业发展建议",
+        "score": 70
+      },
+      {
+        "topic": "创业讨论",
+        "score": 60
+      }
+    ],
+    "impression": "一个痴迷于方法论和战略分析的产品经理，理性务实，喜欢分享和教导，但偶尔显得有点学究气。"
+  },
+  "analyzed_at": "2026-06-15T22:21:36.940786",
+  "token_usage": 4572
+}

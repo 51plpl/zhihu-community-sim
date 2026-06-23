@@ -1,0 +1,137 @@
+{
+  "id": "idy_20260615_0338",
+  "source": {
+    "title": "我妈在广州交满了15年社保，现在每月只发1200+，广州养老金这么少的吗？",
+    "url": "https://www.zhihu.com/question/487705235/answer/2252620939",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "保险自媒体作者/理财规划师",
+      "industry": "金融/保险",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有子女",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "中年",
+      "为人父母",
+      "职业稳定期"
+    ],
+    "life_experiences": [
+      "母亲退休领取养老金",
+      "为子女配置保险",
+      "长期关注社保和商业保险"
+    ],
+    "interest_topics": [
+      "社保政策",
+      "养老金计算",
+      "商业保险",
+      "重疾险",
+      "理财规划",
+      "家庭保障"
+    ],
+    "discussion_triggers": [
+      "养老金低",
+      "社保交15年还是20年",
+      "保险产品对比",
+      "孩子保险配置",
+      "互联网保险新规"
+    ],
+    "sensitive_topics": [
+      "养老金不足",
+      "社保断缴影响",
+      "保险理赔纠纷",
+      "疾病风险"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "风险规避",
+      "家庭责任感强",
+      "理性消费",
+      "重视长期规划"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "案例教学",
+      "对比分析",
+      "风险意识"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "社保政策",
+        "养老金计算",
+        "重疾险产品",
+        "保险条款"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 50,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人规划保障",
+      "展示专业能力",
+      "推广保险理念",
+      "获得信任"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "养老金计算",
+        "score": 90
+      },
+      {
+        "topic": "社保缴费年限",
+        "score": 85
+      },
+      {
+        "topic": "重疾险对比",
+        "score": 80
+      },
+      {
+        "topic": "儿童保险配置",
+        "score": 75
+      },
+      {
+        "topic": "互联网保险新规",
+        "score": 70
+      }
+    ],
+    "impression": "一个精打细算、热爱科普的保险达人，用数据和案例说话，像邻家大姐一样耐心算账，但也不忘推销自家产品。"
+  },
+  "analyzed_at": "2026-06-15T22:24:26.923479",
+  "token_usage": 3764
+}

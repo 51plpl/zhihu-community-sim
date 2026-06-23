@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0133",
+  "source": {
+    "title": "万向区块链携手恒丰银行，万向区块链生物资产解决方案助力乡村振兴",
+    "url": "https://zhuanlan.zhihu.com/p/441024624",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "区块链解决方案架构师",
+      "industry": "区块链/金融科技",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "参与过区块链落地项目",
+      "关注乡村振兴政策",
+      "有金融科技从业经验"
+    ],
+    "interest_topics": [
+      "区块链技术",
+      "物联网",
+      "普惠金融",
+      "农业科技",
+      "乡村振兴",
+      "供应链金融"
+    ],
+    "discussion_triggers": [
+      "区块链落地案例",
+      "农村金融创新",
+      "科技赋能农业",
+      "监管科技"
+    ],
+    "sensitive_topics": [
+      "区块链泡沫",
+      "技术无用论",
+      "农村金融歧视"
+    ],
+    "value_tendencies": [
+      "技术乐观主义",
+      "务实主义",
+      "社会责任意识",
+      "创新驱动"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "技术分析",
+      "案例驱动",
+      "系统思维",
+      "数据导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "区块链",
+        "物联网",
+        "金融科技",
+        "农业数字化"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 50,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享技术洞见",
+      "展示专业能力",
+      "帮助行业理解技术",
+      "推广区块链价值"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "区块链落地案例",
+        "score": 90
+      },
+      {
+        "topic": "农业数字化",
+        "score": 85
+      },
+      {
+        "topic": "普惠金融",
+        "score": 80
+      },
+      {
+        "topic": "物联网与区块链结合",
+        "score": 85
+      },
+      {
+        "topic": "乡村振兴科技",
+        "score": 75
+      }
+    ],
+    "impression": "一个坚信技术能解决社会问题的区块链布道者，理性务实，喜欢用案例和数据说话。"
+  },
+  "analyzed_at": "2026-06-15T22:22:23.871976",
+  "token_usage": 2969
+}

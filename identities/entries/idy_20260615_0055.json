@@ -1,0 +1,124 @@
+{
+  "id": "idy_20260615_0055",
+  "source": {
+    "title": "ROG系列应该如何挑选？2021双十一入手哪款最划算？",
+    "url": "https://zhuanlan.zhihu.com/p/446546770",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "科技数码博主/游戏玩家",
+      "industry": "互联网/科技",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职场上升期",
+      "热衷数码产品",
+      "游戏发烧友"
+    ],
+    "life_experiences": [
+      "长期关注硬件市场",
+      "多次购买ROG产品",
+      "参与过双十一抢购"
+    ],
+    "interest_topics": [
+      "游戏笔记本",
+      "ROG产品",
+      "3A大作",
+      "硬件评测",
+      "双十一促销"
+    ],
+    "discussion_triggers": [
+      "新品发布",
+      "促销活动",
+      "游戏性能对比",
+      "选购咨询"
+    ],
+    "sensitive_topics": [
+      "产品定价争议",
+      "品牌信仰",
+      "性价比争论"
+    ],
+    "value_tendencies": [
+      "追求性能与品质",
+      "认可品牌价值",
+      "理性消费但愿意为信仰买单"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "经验主义",
+      "逻辑分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "游戏硬件",
+        "笔记本评测",
+        "3A游戏"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享专业知识",
+      "帮助他人选购",
+      "展示对产品的了解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "ROG笔记本推荐",
+        "score": 95
+      },
+      {
+        "topic": "双十一数码产品选购",
+        "score": 90
+      },
+      {
+        "topic": "游戏本性能对比",
+        "score": 85
+      },
+      {
+        "topic": "3A游戏配置要求",
+        "score": 75
+      }
+    ],
+    "impression": "一个热爱硬核游戏和数码产品的理性玩家，专业且乐于分享，但偶尔流露出对品牌的偏爱。"
+  },
+  "analyzed_at": "2026-06-15T22:21:31.531475",
+  "token_usage": 3235
+}

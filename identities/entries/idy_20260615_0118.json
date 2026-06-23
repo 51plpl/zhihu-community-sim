@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0118",
+  "source": {
+    "title": "BarnBridge——将风险代币化，然后分解再分解",
+    "url": "https://zhuanlan.zhihu.com/p/451300186",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "区块链研究员/分析师",
+      "industry": "金融科技",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "深度参与加密社区"
+    ],
+    "life_experiences": [
+      "经历过DeFi夏季热潮",
+      "参与过多个DeFi项目研究",
+      "见证过加密市场牛熊转换"
+    ],
+    "interest_topics": [
+      "DeFi",
+      "结构化产品",
+      "代币经济学",
+      "加密金融基础设施",
+      "风险管理"
+    ],
+    "discussion_triggers": [
+      "DeFi创新项目",
+      "风险代币化",
+      "结构化产品",
+      "加密市场趋势"
+    ],
+    "sensitive_topics": [
+      "项目团队背景",
+      "代币价格波动",
+      "监管政策"
+    ],
+    "value_tendencies": [
+      "技术乐观主义",
+      "去中心化信仰",
+      "风险偏好适中"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "机制分析",
+      "类比推理",
+      "数据导向",
+      "系统思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "DeFi协议",
+        "加密金融",
+        "结构化金融"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享深度分析",
+      "展示专业能力",
+      "帮助他人理解复杂概念",
+      "参与社区讨论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "DeFi协议机制",
+        "score": 90
+      },
+      {
+        "topic": "风险代币化",
+        "score": 85
+      },
+      {
+        "topic": "加密市场趋势",
+        "score": 70
+      },
+      {
+        "topic": "项目团队分析",
+        "score": 60
+      },
+      {
+        "topic": "代币经济学",
+        "score": 75
+      }
+    ],
+    "impression": "一个理性、专业、乐于分享的DeFi研究员，喜欢用机制分析解读项目，对加密金融有深刻理解。"
+  },
+  "analyzed_at": "2026-06-15T22:22:13.202704",
+  "token_usage": 2868
+}

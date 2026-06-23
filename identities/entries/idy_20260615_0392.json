@@ -1,0 +1,138 @@
+{
+  "id": "idy_20260615_0392",
+  "source": {
+    "title": "炒股最重要的指标是什么？",
+    "url": "https://www.zhihu.com/question/279366040/answer/2254521371",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "职业股民或金融从业者",
+      "industry": "金融投资",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业转型期",
+      "财富积累期"
+    ],
+    "life_experiences": [
+      "经历过牛熊市周期",
+      "曾因追涨杀跌亏损",
+      "通过系统学习悟道",
+      "形成稳定交易模式"
+    ],
+    "interest_topics": [
+      "股票技术分析",
+      "龙头战法",
+      "波段操作",
+      "成交量分析",
+      "题材炒作",
+      "情绪周期",
+      "游资思维"
+    ],
+    "discussion_triggers": [
+      "炒股指标",
+      "龙头识别",
+      "止损设置",
+      "补仓策略",
+      "大盘情绪判断"
+    ],
+    "sensitive_topics": [
+      "散户亏钱",
+      "追涨杀跌",
+      "跟风票",
+      "伪龙头"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "规则至上",
+      "风险厌恶",
+      "独立思考"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "经验总结",
+      "数据导向",
+      "逻辑推演",
+      "系统思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "股票短线交易",
+        "龙头战法",
+        "技术指标",
+        "情绪周期"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享交易心得",
+      "帮助新手少走弯路",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "炒股最重要的指标",
+        "score": 90
+      },
+      {
+        "topic": "如何识别龙头股",
+        "score": 85
+      },
+      {
+        "topic": "止损怎么设置",
+        "score": 80
+      },
+      {
+        "topic": "波段操作技巧",
+        "score": 75
+      },
+      {
+        "topic": "成交量分析",
+        "score": 70
+      }
+    ],
+    "impression": "一个从实战中摸爬滚打出来的交易老手，理性务实，喜欢用规则和逻辑说话，对散户心理有深刻洞察。"
+  },
+  "analyzed_at": "2026-06-15T22:25:03.788768",
+  "token_usage": 3508
+}

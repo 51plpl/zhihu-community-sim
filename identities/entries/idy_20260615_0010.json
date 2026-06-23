@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0010",
+  "source": {
+    "title": "康熙王朝与雍正王朝与史实出入究竟多大？",
+    "url": "https://www.zhihu.com/question/27979979/answer/2258675022",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "历史研究者/自媒体写手/教师",
+      "industry": "文化教育/媒体",
+      "city_tier": "一二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "长期研究清史",
+      "曾参与历史论坛讨论",
+      "阅读大量史料和学术著作"
+    ],
+    "interest_topics": [
+      "清朝历史",
+      "历史考据",
+      "影视剧与史实对比",
+      "政治博弈",
+      "边疆史"
+    ],
+    "discussion_triggers": [
+      "历史剧与史实出入",
+      "雍正评价",
+      "康熙功过",
+      "清朝对外战争"
+    ],
+    "sensitive_topics": [
+      "雍正篡位",
+      "清朝割地",
+      "民族英雄评价"
+    ],
+    "value_tendencies": [
+      "重视史实",
+      "批判影视剧虚构",
+      "推崇康熙",
+      "鄙视雍正某些决策",
+      "爱国情怀"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "批判性思维",
+      "细节考据"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "清史",
+        "边疆史",
+        "影视剧历史考据"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 10
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 80,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "纠正错误认知",
+      "展示专业能力",
+      "反驳他人",
+      "传播史实"
+    ],
+    "social_needs": {
+      "seeking_recognition": 80,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "雍正王朝与史实",
+        "score": 95
+      },
+      {
+        "topic": "康熙功绩",
+        "score": 90
+      },
+      {
+        "topic": "清朝西北战争",
+        "score": 85
+      },
+      {
+        "topic": "隆科多",
+        "score": 80
+      },
+      {
+        "topic": "准噶尔汗国",
+        "score": 75
+      }
+    ],
+    "impression": "一个考据癖历史爱好者，对清史如数家珍，喜欢用史料打脸影视剧，有点高傲但言之有物。"
+  },
+  "analyzed_at": "2026-06-15T22:21:01.485551",
+  "token_usage": 5358
+}

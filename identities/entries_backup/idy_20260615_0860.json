@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0860",
+  "source": {
+    "title": "人活着，其实有许多事情无法言说",
+    "url": "https://zhuanlan.zhihu.com/p/448599309",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "行政/文职",
+      "industry": "服务业或公共事业",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "有子女",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年",
+      "家庭稳定期",
+      "事业平淡期"
+    ],
+    "life_experiences": [
+      "经历过感情挫折",
+      "职场中受过委屈",
+      "有过被骗或失望的经历",
+      "逐渐学会放下和看淡"
+    ],
+    "interest_topics": [
+      "人生哲理",
+      "心灵鸡汤",
+      "情感关系",
+      "自我成长",
+      "生活态度"
+    ],
+    "discussion_triggers": [
+      "人际关系中的失望",
+      "职场不公平",
+      "家庭矛盾",
+      "如何保持心态平和"
+    ],
+    "sensitive_topics": [
+      "背叛",
+      "欺骗",
+      "不珍惜",
+      "不懂感恩"
+    ],
+    "value_tendencies": [
+      "重视真诚",
+      "强调善良",
+      "推崇随缘",
+      "看重内心平静",
+      "反对功利主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "价值判断",
+      "情绪表达",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "人生感悟",
+        "情感心理"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 30,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "获得认同",
+      "帮助别人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 30,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何走出失恋",
+        "score": 80
+      },
+      {
+        "topic": "职场人际关系",
+        "score": 70
+      },
+      {
+        "topic": "人生感悟",
+        "score": 90
+      },
+      {
+        "topic": "家庭矛盾",
+        "score": 60
+      }
+    ],
+    "impression": "一个经历过风浪、看透人情冷暖，却依然选择温柔待人的中年女性，喜欢用心灵鸡汤式的语言抚慰自己和他人。"
+  },
+  "analyzed_at": "2026-06-15T22:30:34.912362",
+  "token_usage": 2824
+}

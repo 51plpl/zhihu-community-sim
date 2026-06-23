@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0028",
+  "source": {
+    "title": "心底的彩虹",
+    "url": "https://zhuanlan.zhihu.com/p/449847131",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "文职或创意类工作",
+      "industry": "文化传媒或教育",
+      "city_tier": "二线",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年期",
+      "职业探索期",
+      "情感迷茫期"
+    ],
+    "life_experiences": [
+      "经历过失恋",
+      "事业受挫",
+      "感到孤独",
+      "寻求自我成长"
+    ],
+    "interest_topics": [
+      "情感心理",
+      "人生哲理",
+      "文学散文",
+      "自我疗愈",
+      "自然风景"
+    ],
+    "discussion_triggers": [
+      "失恋",
+      "职业迷茫",
+      "人生意义",
+      "孤独感",
+      "自我接纳"
+    ],
+    "sensitive_topics": [
+      "爱情失败",
+      "事业不顺",
+      "年龄焦虑",
+      "比较心理"
+    ],
+    "value_tendencies": [
+      "重视内心感受",
+      "追求精神满足",
+      "相信自我成长",
+      "接纳不完美"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "情感驱动",
+      "感性思考",
+      "经验反思",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "情感文学",
+        "心理学基础"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经历",
+      "表达情感",
+      "寻求共鸣",
+      "自我疗愈"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 60,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "失恋后的自我调整",
+        "score": 90
+      },
+      {
+        "topic": "如何走出低谷",
+        "score": 85
+      },
+      {
+        "topic": "人生意义探讨",
+        "score": 80
+      },
+      {
+        "topic": "情感文学推荐",
+        "score": 75
+      },
+      {
+        "topic": "职场挫折应对",
+        "score": 70
+      }
+    ],
+    "impression": "一个内心敏感、情感丰富，在挫折中努力寻找希望和美的文艺青年。"
+  },
+  "analyzed_at": "2026-06-15T22:21:13.483488",
+  "token_usage": 2490
+}

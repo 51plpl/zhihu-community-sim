@@ -1,0 +1,142 @@
+{
+  "id": "idy_20260615_0864",
+  "source": {
+    "title": "有哪些个人知识管理工具值得推荐？你是如何运用的？",
+    "url": "https://www.zhihu.com/question/19555712/answer/2257829068",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "软件工程师 / 技术作家",
+      "industry": "互联网 / 开源软件",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业发展期",
+      "知识体系构建期",
+      "开源社区贡献者"
+    ],
+    "life_experiences": [
+      "多年软件开发经验",
+      "构建过多个开源项目",
+      "长期使用多种知识管理工具",
+      "从混乱的知识管理转向系统化"
+    ],
+    "interest_topics": [
+      "个人知识管理",
+      "开源软件",
+      "Markdown",
+      "Git",
+      "Rust编程",
+      "Web组件",
+      "知识图谱",
+      "极客工具"
+    ],
+    "discussion_triggers": [
+      "知识管理工具推荐",
+      "开源项目经验分享",
+      "如何构建个人知识体系",
+      "技术选型讨论",
+      "效率工具"
+    ],
+    "sensitive_topics": [
+      "闭源软件",
+      "非本地化工具",
+      "缺乏版本控制的知识管理"
+    ],
+    "value_tendencies": [
+      "开源优先",
+      "本地优先",
+      "极简主义",
+      "实用主义",
+      "自由定制",
+      "数据主权"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "系统思维",
+      "机制分析",
+      "数据导向",
+      "工程思维",
+      "长期主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "知识管理",
+        "开源框架设计",
+        "Rust",
+        "前端开发",
+        "DevOps"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享技术方案",
+      "展示专业能力",
+      "帮助他人构建知识体系",
+      "推广开源项目",
+      "获得技术反馈"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "知识管理工具",
+        "score": 95
+      },
+      {
+        "topic": "开源项目",
+        "score": 90
+      },
+      {
+        "topic": "Rust",
+        "score": 80
+      },
+      {
+        "topic": "Markdown与Git工作流",
+        "score": 85
+      },
+      {
+        "topic": "个人效率系统",
+        "score": 75
+      }
+    ],
+    "impression": "一个痴迷于构建完美知识管理系统的极客，乐于分享自己的开源方案，但也不忘提醒别人这只是个开始。"
+  },
+  "analyzed_at": "2026-06-15T22:30:37.615619",
+  "token_usage": 3630
+}

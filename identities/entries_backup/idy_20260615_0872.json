@@ -1,0 +1,123 @@
+{
+  "id": "idy_20260615_0872",
+  "source": {
+    "title": "32岁想转行做数据分析，有什么建议吗？",
+    "url": "https://www.zhihu.com/question/323987332/answer/2265384228",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "数据分析师/大数据培训讲师",
+      "industry": "IT/教育",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业转型期",
+      "技能提升期"
+    ],
+    "life_experiences": [
+      "曾转行学习数据分析",
+      "参加过大数据培训班",
+      "在IT行业积累多年经验"
+    ],
+    "interest_topics": [
+      "数据分析",
+      "大数据技术",
+      "职业转型",
+      "自学与培训对比",
+      "IT培训行业"
+    ],
+    "discussion_triggers": [
+      "转行建议",
+      "自学还是培训",
+      "数据分析入门",
+      "招聘信息"
+    ],
+    "sensitive_topics": [
+      "培训机构的可靠性",
+      "年龄歧视",
+      "自学能力质疑"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "鼓励行动"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "实用导向",
+      "结构化分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "数据分析",
+        "大数据技术",
+        "职业规划"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人转行",
+      "展示专业能力",
+      "推广培训课程"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "转行数据分析",
+        "score": 90
+      },
+      {
+        "topic": "自学与培训对比",
+        "score": 85
+      },
+      {
+        "topic": "大数据培训推荐",
+        "score": 80
+      },
+      {
+        "topic": "职业规划建议",
+        "score": 70
+      }
+    ],
+    "impression": "一个成功转行的过来人，热心分享经验但夹带私货，语气务实略带推销感。"
+  },
+  "analyzed_at": "2026-06-15T22:30:43.346314",
+  "token_usage": 2356
+}

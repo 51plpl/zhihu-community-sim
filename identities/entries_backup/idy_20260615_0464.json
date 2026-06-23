@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0464",
+  "source": {
+    "title": "如何挑选翡翠？极品翡翠市场解读",
+    "url": "https://zhuanlan.zhihu.com/p/440811304",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "翡翠商人/鉴定师",
+      "industry": "珠宝玉石",
+      "city_tier": "四线及以下",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "成家立业",
+      "事业上升期"
+    ],
+    "life_experiences": [
+      "家族世代从事翡翠行业",
+      "大学学习翡翠专业",
+      "在云南瑞丽经营翡翠生意",
+      "经常往返中缅边境"
+    ],
+    "interest_topics": [
+      "翡翠鉴定",
+      "翡翠市场行情",
+      "珠宝玉石收藏",
+      "缅甸翡翠矿区",
+      "传统文化"
+    ],
+    "discussion_triggers": [
+      "翡翠真假辨别",
+      "翡翠价格",
+      "买原料还是成品",
+      "翡翠行业黑话",
+      "旅游购物防骗"
+    ],
+    "sensitive_topics": [
+      "假货泛滥",
+      "商家炒作噱头",
+      "消费者不懂行"
+    ],
+    "value_tendencies": [
+      "重视传统和家族传承",
+      "务实",
+      "反感虚假宣传",
+      "乐于分享经验"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "翡翠鉴定",
+        "翡翠原料分类",
+        "翡翠加工",
+        "缅甸翡翠市场"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助别人避免上当",
+      "展示专业能力",
+      "分享家族经验",
+      "引流客户"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "翡翠真假鉴别",
+        "score": 90
+      },
+      {
+        "topic": "翡翠价格评估",
+        "score": 85
+      },
+      {
+        "topic": "翡翠购买建议",
+        "score": 80
+      },
+      {
+        "topic": "缅甸翡翠市场",
+        "score": 75
+      },
+      {
+        "topic": "翡翠行业黑话",
+        "score": 70
+      }
+    ],
+    "impression": "一个热情且专业的翡翠世家传人，既想传授知识又不忘推销生意，带着点江湖气。"
+  },
+  "analyzed_at": "2026-06-15T22:25:54.672803",
+  "token_usage": 3593
+}

@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0266",
+  "source": {
+    "title": "新疆公布多段暴恐案视频，多数画面系首次披露，还有哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/505894448/answer/2273594224",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "媒体从业者或安全领域研究者",
+      "industry": "传媒或公共安全",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过或关注过昆明暴恐事件",
+      "长期关注国内反恐议题",
+      "可能从事过相关报道或研究"
+    ],
+    "interest_topics": [
+      "反恐",
+      "公共安全",
+      "社会事件",
+      "历史事件",
+      "法律案例"
+    ],
+    "discussion_triggers": [
+      "暴恐案视频公布",
+      "昆明火车站事件",
+      "反恐政策",
+      "社会安全"
+    ],
+    "sensitive_topics": [
+      "恐怖主义",
+      "民族问题",
+      "政府反恐措施"
+    ],
+    "value_tendencies": [
+      "重视安全",
+      "支持国家反恐",
+      "同情受害者",
+      "警惕极端主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "事实陈述",
+      "数据引用",
+      "逻辑分析",
+      "历史对比"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "反恐",
+        "公共安全",
+        "法律"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "提醒公众勿忘历史",
+      "传播事实",
+      "纠正认知偏差",
+      "表达对受害者的同情"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "反恐",
+        "score": 90
+      },
+      {
+        "topic": "昆明暴恐案",
+        "score": 95
+      },
+      {
+        "topic": "公共安全",
+        "score": 80
+      },
+      {
+        "topic": "社会事件",
+        "score": 70
+      }
+    ],
+    "impression": "一个冷静客观但内心沉重的安全关注者，用事实和数据提醒人们不要忘记过去的伤痛。"
+  },
+  "analyzed_at": "2026-06-15T22:23:41.949251",
+  "token_usage": 2963
+}

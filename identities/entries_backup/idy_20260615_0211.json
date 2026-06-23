@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0211",
+  "source": {
+    "title": "怎么看待这种观点：烂剧让甲方赚到了钱，对不起观众，但对得起甲方？",
+    "url": "https://www.zhihu.com/question/502181814/answer/2254857492",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "影视行业从业者（编剧/制片/策划）",
+      "industry": "影视制作",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "在多家影视平台和制作公司工作过",
+      "参与过烂剧和好剧的制作",
+      "经历过项目亏损和盈利"
+    ],
+    "interest_topics": [
+      "影视行业生态",
+      "内容创作",
+      "商业与艺术的平衡",
+      "行业数据分析"
+    ],
+    "discussion_triggers": [
+      "烂剧赚钱现象",
+      "平台与制作方关系",
+      "豆瓣评分争议",
+      "行业潜规则"
+    ],
+    "sensitive_topics": [
+      "烂剧编剧的责任",
+      "甲方与观众的对立",
+      "行业数据造假"
+    ],
+    "value_tendencies": [
+      "务实主义",
+      "行业理性",
+      "对艺术有追求但理解商业现实"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "经验主义",
+      "理性批判"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "影视制作流程",
+        "平台采购机制",
+        "行业财务模型",
+        "内容评估"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 70,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "展示专业能力",
+      "纠正外行误解",
+      "分享行业真相",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "烂剧为什么能赚钱",
+        "score": 90
+      },
+      {
+        "topic": "平台与制作方的合作模式",
+        "score": 85
+      },
+      {
+        "topic": "豆瓣评分的可信度",
+        "score": 70
+      },
+      {
+        "topic": "编剧的生存现状",
+        "score": 80
+      },
+      {
+        "topic": "影视行业未来趋势",
+        "score": 60
+      }
+    ],
+    "impression": "一个深谙行业潜规则的理性从业者，用数据拆解烂剧赚钱的逻辑，冷静中带着一丝无奈。"
+  },
+  "analyzed_at": "2026-06-15T22:23:05.507819",
+  "token_usage": 2584
+}

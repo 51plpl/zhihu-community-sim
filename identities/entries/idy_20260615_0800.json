@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0800",
+  "source": {
+    "title": "北京牙齿矫正医院医生哪家专业？整牙多少钱？牙套选择功课",
+    "url": "https://zhuanlan.zhihu.com/p/444033006",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "医疗健康领域内容运营或自由职业者",
+      "industry": "医疗健康/口腔美容",
+      "city_tier": "一线城市（北京）",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职业发展期",
+      "关注个人形象与健康"
+    ],
+    "life_experiences": [
+      "做过牙齿矫正",
+      "深入了解过北京口腔市场",
+      "可能从事过医美或口腔行业相关工作"
+    ],
+    "interest_topics": [
+      "牙齿矫正",
+      "口腔健康",
+      "医美整形",
+      "消费决策攻略",
+      "北京生活"
+    ],
+    "discussion_triggers": [
+      "牙齿矫正价格",
+      "医院医生选择",
+      "牙套类型对比",
+      "正畸案例分享"
+    ],
+    "sensitive_topics": [
+      "医院负面评价",
+      "矫正失败案例",
+      "价格虚高"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "重视信息透明",
+      "乐于分享",
+      "谨慎消费"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验总结",
+      "分类对比",
+      "案例驱动",
+      "数据列举"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "口腔正畸",
+        "医美消费决策"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人避坑",
+      "展示专业知识",
+      "获得认同感",
+      "引流或推广"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "北京牙齿矫正医院推荐",
+        "score": 90
+      },
+      {
+        "topic": "牙套种类选择",
+        "score": 85
+      },
+      {
+        "topic": "正畸价格",
+        "score": 80
+      },
+      {
+        "topic": "隐形牙套体验",
+        "score": 70
+      },
+      {
+        "topic": "公立vs私立口腔",
+        "score": 75
+      }
+    ],
+    "impression": "一个热心又专业的正畸过来人，喜欢用干货和案例说话，但偶尔也带点小私心（比如引流）。"
+  },
+  "analyzed_at": "2026-06-15T22:29:52.159146",
+  "token_usage": 3415
+}

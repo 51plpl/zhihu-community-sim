@@ -1,0 +1,140 @@
+{
+  "id": "idy_20260615_0066",
+  "source": {
+    "title": "普通孩子更需要超前学习！",
+    "url": "https://zhuanlan.zhihu.com/p/441634530",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "自由职业/翻译",
+      "industry": "教育/翻译",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有（儿子，初中生）",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "已为人父",
+      "事业稳定期",
+      "关注子女教育"
+    ],
+    "life_experiences": [
+      "自己曾是普通学生，通过努力逆袭",
+      "从事翻译工作，对英语有研究",
+      "亲自辅导孩子学习，取得显著成效",
+      "经历过教育不公（如孩子竞赛被压分）"
+    ],
+    "interest_topics": [
+      "家庭教育",
+      "超前学习",
+      "学习方法",
+      "英语学习",
+      "数学教育",
+      "物理教育",
+      "游戏与学习的关系"
+    ],
+    "discussion_triggers": [
+      "超前学习争议",
+      "笨鸟先飞",
+      "拔苗助长",
+      "学校禁止超前教学",
+      "孩子竞赛作弊"
+    ],
+    "sensitive_topics": [
+      "教育公平",
+      "学校老师水平",
+      "应试教育弊端",
+      "家长责任"
+    ],
+    "value_tendencies": [
+      "重视努力而非天赋",
+      "反对顺其自然",
+      "强调家长主动参与",
+      "实用主义",
+      "重视方法而非刷题",
+      "反对盲目拔高"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "案例论证",
+      "逻辑分析",
+      "类比思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "英语教学",
+        "数学辅导",
+        "物理辅导",
+        "家庭教育方法"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 50,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享成功经验",
+      "反驳错误观点",
+      "帮助其他家长",
+      "表达教育理念",
+      "展示孩子成就"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "孩子成绩差怎么办",
+        "score": 90
+      },
+      {
+        "topic": "超前学习好不好",
+        "score": 95
+      },
+      {
+        "topic": "英语学习方法",
+        "score": 85
+      },
+      {
+        "topic": "数学辅导经验",
+        "score": 80
+      },
+      {
+        "topic": "游戏与学习",
+        "score": 70
+      }
+    ],
+    "impression": "一个坚信方法比天赋重要、亲自下场辅导孩子的实干派家长，带点愤世嫉俗但充满自信。"
+  },
+  "analyzed_at": "2026-06-15T22:21:38.298641",
+  "token_usage": 4287
+}

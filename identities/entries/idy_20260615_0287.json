@@ -1,0 +1,124 @@
+{
+  "id": "idy_20260615_0287",
+  "source": {
+    "title": "在职读一个在线硕士是一种什么样的体验？",
+    "url": "https://www.zhihu.com/question/472600355/answer/2279954912",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "软件工程师",
+      "industry": "信息技术",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "学历提升期"
+    ],
+    "life_experiences": [
+      "在职读在线硕士",
+      "接触不同国籍教授",
+      "适应线上学习模式"
+    ],
+    "interest_topics": [
+      "在线教育",
+      "软件工程",
+      "留学申请",
+      "职业发展",
+      "技术提升"
+    ],
+    "discussion_triggers": [
+      "在线硕士体验",
+      "留学性价比",
+      "技术学习资源",
+      "考试诚信"
+    ],
+    "sensitive_topics": [
+      "学历含金量",
+      "留学中介",
+      "国内教育对比"
+    ],
+    "value_tendencies": [
+      "务实",
+      "重视性价比",
+      "自律",
+      "开放包容"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "细节描述",
+      "对比分析",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "软件工程",
+        "在线学习"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 60,
+      "likes_commenting": 40,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经历",
+      "帮助他人",
+      "展示专业能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 20,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "在线硕士体验",
+        "score": 90
+      },
+      {
+        "topic": "留学申请",
+        "score": 70
+      },
+      {
+        "topic": "软件工程学习",
+        "score": 80
+      },
+      {
+        "topic": "职业发展",
+        "score": 60
+      }
+    ],
+    "impression": "一个务实且自律的在职学习者，乐于分享细节经验，带着一点广告嫌疑但信息量足。"
+  },
+  "analyzed_at": "2026-06-15T22:23:54.209223",
+  "token_usage": 2569
+}

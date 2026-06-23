@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0127",
+  "source": {
+    "title": "郑州口腔医院哪家正畸做的比较好？",
+    "url": "https://www.zhihu.com/question/389887521/answer/2271954334",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "医疗健康领域从业者或自媒体运营",
+      "industry": "医疗健康/口腔护理",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭建设期"
+    ],
+    "life_experiences": [
+      "自己或家人有牙齿矫正经历",
+      "关注健康养生",
+      "经历过医疗选择的信息不对称"
+    ],
+    "interest_topics": [
+      "口腔正畸",
+      "牙齿护理",
+      "医疗科普",
+      "健康体检",
+      "医院选择攻略"
+    ],
+    "discussion_triggers": [
+      "牙齿矫正",
+      "医院推荐",
+      "医生选择",
+      "口腔问题症状"
+    ],
+    "sensitive_topics": [
+      "医疗事故",
+      "过度医疗",
+      "医患纠纷"
+    ],
+    "value_tendencies": [
+      "重视健康",
+      "理性消费",
+      "相信专业",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "口腔正畸",
+        "牙齿矫正",
+        "医疗选择"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "分享经历",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "牙齿矫正",
+        "score": 90
+      },
+      {
+        "topic": "医院选择",
+        "score": 85
+      },
+      {
+        "topic": "口腔健康",
+        "score": 80
+      },
+      {
+        "topic": "医生推荐",
+        "score": 75
+      },
+      {
+        "topic": "健康体检",
+        "score": 60
+      }
+    ],
+    "impression": "一个热心肠、爱分享的口腔健康科普者，喜欢用亲身经历和案例说服人，但偶尔显得有点啰嗦。"
+  },
+  "analyzed_at": "2026-06-15T22:22:19.104139",
+  "token_usage": 3015
+}

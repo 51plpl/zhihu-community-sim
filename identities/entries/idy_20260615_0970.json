@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0970",
+  "source": {
+    "title": "界首，皖北高质量小城",
+    "url": "https://zhuanlan.zhihu.com/p/443427662",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "自媒体作者/地方文化研究者",
+      "industry": "文化传媒",
+      "city_tier": "三线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "家庭责任感强"
+    ],
+    "life_experiences": [
+      "在皖北小城成长生活",
+      "见证过地方经济兴衰",
+      "从事过与地方文化相关的工作",
+      "可能有过外出求学或工作经历"
+    ],
+    "interest_topics": [
+      "地方经济",
+      "城市发展",
+      "历史文化",
+      "安徽地理",
+      "县域经济",
+      "工业转型",
+      "乡村振兴"
+    ],
+    "discussion_triggers": [
+      "家乡发展成就",
+      "地方历史典故",
+      "经济数据对比",
+      "城市变迁",
+      "区域竞争"
+    ],
+    "sensitive_topics": [
+      "地方发展失败教训",
+      "贫困县历史",
+      "国企改革失误"
+    ],
+    "value_tendencies": [
+      "重视家乡认同",
+      "推崇实干精神",
+      "尊重历史",
+      "乐观但务实",
+      "支持工业强市"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "历史叙事",
+      "数据支撑",
+      "经验总结",
+      "地方自豪感"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "皖北地方史",
+        "县域经济",
+        "工业发展",
+        "安徽地理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享家乡知识",
+      "传播地方文化",
+      "获得认同",
+      "展示专业积累"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "安徽哪个县市发展最好",
+        "score": 90
+      },
+      {
+        "topic": "皖北历史故事",
+        "score": 85
+      },
+      {
+        "topic": "小城市如何实现工业转型",
+        "score": 80
+      },
+      {
+        "topic": "界首有什么好玩的",
+        "score": 75
+      },
+      {
+        "topic": "如何看待县城经济",
+        "score": 70
+      }
+    ],
+    "impression": "一个深爱家乡、喜欢用数据和历史说话的地方文化布道者，带着对过去辉煌的自豪和对未来发展的务实期待。"
+  },
+  "analyzed_at": "2026-06-15T22:31:54.797842",
+  "token_usage": 3092
+}

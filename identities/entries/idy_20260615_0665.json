@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0665",
+  "source": {
+    "title": "翻译一篇海外介绍威科夫方法的文章",
+    "url": "https://zhuanlan.zhihu.com/p/443001163",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "金融分析师/交易员",
+      "industry": "证券投资",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "多年A股/美股交易经验",
+      "系统学习过威科夫理论",
+      "经历过牛熊周期",
+      "曾因技术分析获利"
+    ],
+    "interest_topics": [
+      "威科夫理论",
+      "技术分析",
+      "股票交易",
+      "大盘趋势",
+      "行业板块轮动",
+      "相对强弱",
+      "ETF",
+      "风险管理"
+    ],
+    "discussion_triggers": [
+      "威科夫方法的实战应用",
+      "大盘与个股的关系",
+      "选股步骤",
+      "价量模式",
+      "止损设置"
+    ],
+    "sensitive_topics": [
+      "基本面分析vs技术分析",
+      "量化交易",
+      "内幕消息"
+    ],
+    "value_tendencies": [
+      "重视规则和系统",
+      "推崇经验主义",
+      "相信市场行为反映一切",
+      "厌恶情绪化交易"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "规则遵循",
+      "历史类比"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "威科夫方法",
+        "技术分析",
+        "股票交易策略"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助他人学习威科夫方法",
+      "展示专业能力",
+      "分享实战经验",
+      "传播技术分析理念"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "威科夫选股步骤",
+        "score": 90
+      },
+      {
+        "topic": "相对强弱应用",
+        "score": 85
+      },
+      {
+        "topic": "价量模式识别",
+        "score": 80
+      },
+      {
+        "topic": "止损设置技巧",
+        "score": 75
+      },
+      {
+        "topic": "大盘与板块关系",
+        "score": 70
+      }
+    ],
+    "impression": "一个严谨的技术分析信徒，热衷于用威科夫理论解读市场，乐于分享但讨厌无根据的猜测。"
+  },
+  "analyzed_at": "2026-06-15T22:28:16.676551",
+  "token_usage": 4453
+}

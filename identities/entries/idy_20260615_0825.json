@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0825",
+  "source": {
+    "title": "骨传导耳机怎么样？骨传导耳机如何选购?南卡 pro3使用体验",
+    "url": "https://zhuanlan.zhihu.com/p/450921758",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网/科技行业从业者",
+      "industry": "科技",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职场稳定期",
+      "追求生活品质"
+    ],
+    "life_experiences": [
+      "运动爱好者",
+      "科技产品尝鲜者",
+      "曾因入耳式耳机不适而转向骨传导"
+    ],
+    "interest_topics": [
+      "数码产品",
+      "运动装备",
+      "骨传导耳机",
+      "蓝牙技术",
+      "音频设备"
+    ],
+    "discussion_triggers": [
+      "骨传导耳机选购",
+      "运动耳机推荐",
+      "南卡/韶音产品对比",
+      "蓝牙版本升级"
+    ],
+    "sensitive_topics": [
+      "音质对比",
+      "漏音问题",
+      "性价比争议"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "技术导向",
+      "理性消费"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "技术分析",
+      "数据导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "骨传导技术",
+        "蓝牙音频",
+        "运动耳机"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 60,
+      "likes_short_answers": 40,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享使用体验",
+      "帮助他人选购",
+      "展示产品知识"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "骨传导耳机推荐",
+        "score": 90
+      },
+      {
+        "topic": "南卡pro3使用体验",
+        "score": 95
+      },
+      {
+        "topic": "运动耳机选购",
+        "score": 80
+      },
+      {
+        "topic": "蓝牙5.2优势",
+        "score": 70
+      },
+      {
+        "topic": "中耳炎耳机选择",
+        "score": 75
+      }
+    ],
+    "impression": "一个热爱运动、注重实用体验的科技爱好者，乐于分享自己的使用心得，说话有条理，喜欢用技术细节说服别人。"
+  },
+  "analyzed_at": "2026-06-15T22:30:09.447642",
+  "token_usage": 2521
+}

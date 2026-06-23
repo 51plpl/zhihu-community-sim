@@ -1,0 +1,114 @@
+{
+  "id": "idy_20260615_0454",
+  "source": {
+    "title": "如何看待塞尔吉奥-拉莫斯离开皇马？",
+    "url": "https://www.zhihu.com/question/465478319/answer/2274087022",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网运营",
+      "industry": "互联网",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场上升期",
+      "关注体育赛事"
+    ],
+    "life_experiences": [
+      "学生时代热爱足球",
+      "经历过球队核心离队",
+      "关注体育新闻"
+    ],
+    "interest_topics": [
+      "足球",
+      "体育赛事",
+      "球员转会",
+      "职业生涯"
+    ],
+    "discussion_triggers": [
+      "球员退役",
+      "球队功勋离队",
+      "伤病影响职业生涯"
+    ],
+    "sensitive_topics": [
+      "球员忠诚度",
+      "俱乐部管理"
+    ],
+    "value_tendencies": [
+      "尊重个人选择",
+      "重视健康",
+      "怀旧"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "情感共鸣",
+      "叙事导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "足球历史",
+        "球员生涯"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 40,
+      "likes_short_answers": 30,
+      "likes_storytelling": 70,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享情感",
+      "获得共鸣",
+      "表达怀念"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "球员退役",
+        "score": 80
+      },
+      {
+        "topic": "足球俱乐部",
+        "score": 60
+      },
+      {
+        "topic": "职业生涯回顾",
+        "score": 70
+      }
+    ],
+    "impression": "一个重感情的球迷，对球员的离开感到惋惜，但尊重选择，喜欢分享故事和情感。"
+  },
+  "analyzed_at": "2026-06-15T22:25:47.484129",
+  "token_usage": 2398
+}

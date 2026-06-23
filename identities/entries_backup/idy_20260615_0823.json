@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0823",
+  "source": {
+    "title": "立陶宛外交部副部长称「跨国企业如使用立陶宛企业的产品，将不被允许向中国进出口」，将产生哪些影响？",
+    "url": "https://www.zhihu.com/question/504907694/answer/2265371305",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "互联网/媒体从业者或自由撰稿人",
+      "industry": "信息传播/政治评论",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "关注国际政治"
+    ],
+    "life_experiences": [
+      "有海外经历（去过立陶宛）",
+      "接触过立陶宛人",
+      "关注东欧历史与政治"
+    ],
+    "interest_topics": [
+      "国际关系",
+      "地缘政治",
+      "历史事件",
+      "意识形态",
+      "中国外交"
+    ],
+    "discussion_triggers": [
+      "立陶宛反华",
+      "台湾问题",
+      "美国干预",
+      "苏联解体",
+      "颜色革命"
+    ],
+    "sensitive_topics": [
+      "台湾问题",
+      "颜色革命",
+      "西方民主虚伪性",
+      "历史真相"
+    ],
+    "value_tendencies": [
+      "爱国主义",
+      "反西方霸权",
+      "历史唯物主义",
+      "怀疑西方民主"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "历史分析",
+      "机制分析",
+      "价值判断",
+      "叙事论证"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "东欧历史",
+        "苏联解体",
+        "颜色革命",
+        "国际政治"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 50,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 80,
+      "likes_debating": 70,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "揭露真相",
+      "反驳西方叙事",
+      "分享历史知识",
+      "表达爱国立场"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "立陶宛与台湾关系",
+        "score": 90
+      },
+      {
+        "topic": "颜色革命历史",
+        "score": 85
+      },
+      {
+        "topic": "苏联解体真相",
+        "score": 80
+      },
+      {
+        "topic": "西方民主虚伪性",
+        "score": 75
+      },
+      {
+        "topic": "中国外交政策",
+        "score": 70
+      }
+    ],
+    "impression": "一个充满历史细节和亲身经历的爱国评论者，善于用故事和对比揭露西方叙事的漏洞，但偶尔流露出对异见者的不屑。"
+  },
+  "analyzed_at": "2026-06-15T22:30:08.154745",
+  "token_usage": 2725
+}

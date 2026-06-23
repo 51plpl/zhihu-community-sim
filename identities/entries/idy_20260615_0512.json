@@ -1,0 +1,123 @@
+{
+  "id": "idy_20260615_0512",
+  "source": {
+    "title": "有什么让你忍不住姨母笑的小说？",
+    "url": "https://www.zhihu.com/question/443447926/answer/2269153030",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "培训教师/教育机构管理者",
+      "industry": "教育",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年期",
+      "职业上升期"
+    ],
+    "life_experiences": [
+      "小学时担任少先大队长",
+      "在异地工作生活",
+      "重逢小学同学",
+      "从事教育工作"
+    ],
+    "interest_topics": [
+      "言情小说",
+      "童年回忆",
+      "教育行业",
+      "成长故事"
+    ],
+    "discussion_triggers": [
+      "青梅竹马重逢",
+      "校园回忆",
+      "师生互动",
+      "甜蜜互动"
+    ],
+    "sensitive_topics": [
+      "童年被欺负经历",
+      "家庭暴力"
+    ],
+    "value_tendencies": [
+      "重视情感连接",
+      "怀旧",
+      "认真负责",
+      "温和善良"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情感共鸣",
+      "细节观察"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "小学教育",
+        "培训机构运营"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 40,
+      "likes_answering": 30,
+      "likes_commenting": 50,
+      "likes_debating": 10,
+      "likes_contrarian": 10,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 40,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享美好故事",
+      "寻找共鸣",
+      "回忆青春",
+      "获得情感满足"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 50,
+      "seeking_influence": 20,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "言情小说推荐",
+        "score": 90
+      },
+      {
+        "topic": "童年回忆",
+        "score": 80
+      },
+      {
+        "topic": "教育行业经历",
+        "score": 70
+      },
+      {
+        "topic": "异地生活",
+        "score": 60
+      }
+    ],
+    "impression": "一个内心柔软、喜欢甜蜜故事的文艺女青年，对童年美好记忆念念不忘，在现实中认真生活，偶尔沉浸于浪漫幻想。"
+  },
+  "analyzed_at": "2026-06-15T22:26:29.039745",
+  "token_usage": 3657
+}

@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0848",
+  "source": {
+    "title": "关于装修买厨电，目前网上能买到的性价比品牌 有哪些选择？",
+    "url": "https://www.zhihu.com/question/276620811/answer/2284370240",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-38",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "白领/中层管理",
+      "industry": "互联网或服务业",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "有1个孩子",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "家庭装修阶段",
+      "追求生活品质",
+      "注重厨房体验"
+    ],
+    "life_experiences": [
+      "经历过装修全过程",
+      "曾因油烟机风压不足而困扰",
+      "喜欢下厨做饭",
+      "注重家电与装修风格统一"
+    ],
+    "interest_topics": [
+      "装修设计",
+      "厨电选购",
+      "家居美学",
+      "性价比消费",
+      "家务效率"
+    ],
+    "discussion_triggers": [
+      "装修经验分享",
+      "厨电品牌对比",
+      "厨房布局建议",
+      "高颜值家电推荐"
+    ],
+    "sensitive_topics": [
+      "油烟倒灌",
+      "厨房清洁难题",
+      "装修踩坑经历"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "颜值即正义",
+      "注重细节",
+      "理性消费",
+      "家庭至上"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "细节导向",
+      "比较分析",
+      "情感共鸣"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "厨电参数",
+        "厨房装修",
+        "家居搭配"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 60,
+      "likes_short_answers": 30,
+      "likes_storytelling": 50,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经验帮助他人",
+      "展示自己的装修成果",
+      "获得认同和共鸣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "装修厨电推荐",
+        "score": 90
+      },
+      {
+        "topic": "厨房设计布局",
+        "score": 80
+      },
+      {
+        "topic": "高颜值家电",
+        "score": 70
+      },
+      {
+        "topic": "性价比消费",
+        "score": 60
+      },
+      {
+        "topic": "家务经验分享",
+        "score": 50
+      }
+    ],
+    "impression": "一个热爱生活、注重细节的居家达人，乐于分享自己的装修心得和好物推荐，带着一点小骄傲和满足感。"
+  },
+  "analyzed_at": "2026-06-15T22:30:26.760290",
+  "token_usage": 2492
+}

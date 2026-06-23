@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0292",
+  "source": {
+    "title": " 大乐透【21142】期预测（12.11），周六，上期3+1",
+    "url": "https://zhuanlan.zhihu.com/p/443341732",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-50",
+      "gender": "男",
+      "education": "高中或大专",
+      "occupation": "自由职业或工人",
+      "industry": "彩票相关或体力劳动",
+      "city_tier": "二三线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "中年",
+      "经济压力期",
+      "寻求快速致富途径"
+    ],
+    "life_experiences": [
+      "长期购买彩票",
+      "研究彩票规律多年",
+      "曾中过小奖"
+    ],
+    "interest_topics": [
+      "彩票预测",
+      "数字分析",
+      "博彩技巧",
+      "财经新闻",
+      "民生话题"
+    ],
+    "discussion_triggers": [
+      "彩票开奖",
+      "中奖经历",
+      "杀号技巧",
+      "号码走势",
+      "合买信息"
+    ],
+    "sensitive_topics": [
+      "赌博危害",
+      "彩票内幕",
+      "财务困境",
+      "家庭责任"
+    ],
+    "value_tendencies": [
+      "相信运气",
+      "实用主义",
+      "乐观",
+      "坚持",
+      "风险偏好"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "经验主义",
+      "模式识别",
+      "机械分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "大乐透历史数据",
+        "彩票分区统计",
+        "杀号技巧"
+      ],
+      "general_knowledge_level": 30,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 50,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 40,
+      "likes_short_answers": 60,
+      "likes_storytelling": 30,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "展示分析能力",
+      "获得认同",
+      "帮助他人中奖",
+      "分享经验",
+      "寻求合买伙伴"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "大乐透预测",
+        "score": 90
+      },
+      {
+        "topic": "彩票杀号技巧",
+        "score": 80
+      },
+      {
+        "topic": "历史开奖数据",
+        "score": 70
+      },
+      {
+        "topic": "合买信息",
+        "score": 60
+      },
+      {
+        "topic": "中奖经历",
+        "score": 50
+      }
+    ],
+    "impression": "一个沉迷于彩票数据分析的中年彩民，自信于自己的杀号技术，渴望通过分享预测获得认可。"
+  },
+  "analyzed_at": "2026-06-15T22:23:57.206015",
+  "token_usage": 2706
+}

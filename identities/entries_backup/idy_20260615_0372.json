@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0372",
+  "source": {
+    "title": "如何看待重庆一女子为 10000 元登报寻债主，寻人 17 年后偿清？你还知道哪些有关诚信的真实故事？",
+    "url": "https://www.zhihu.com/question/505009166/answer/2265455310",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "企业职员/中层管理者",
+      "industry": "制造业或服务业",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "被同事借钱不还的经历",
+      "长期追债的挫折",
+      "最终追回欠款的释然",
+      "目睹他人被老赖坑害"
+    ],
+    "interest_topics": [
+      "社会新闻",
+      "诚信话题",
+      "职场人际关系",
+      "法律维权"
+    ],
+    "discussion_triggers": [
+      "借钱不还的故事",
+      "诚信缺失现象",
+      "同事间的借贷纠纷",
+      "社会道德讨论"
+    ],
+    "sensitive_topics": [
+      "老赖",
+      "职场欺骗",
+      "信任背叛"
+    ],
+    "value_tendencies": [
+      "重视诚信",
+      "强调责任",
+      "厌恶欺骗",
+      "支持法律严惩"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "经验主义",
+      "情绪表达",
+      "价值判断",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "职场生存",
+        "人际关系处理"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 95,
+      "likes_emotional_expression": 85,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "表达情绪",
+      "警示他人",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "借钱不还",
+        "score": 95
+      },
+      {
+        "topic": "职场人际关系",
+        "score": 80
+      },
+      {
+        "topic": "诚信故事",
+        "score": 85
+      },
+      {
+        "topic": "老赖现象",
+        "score": 90
+      },
+      {
+        "topic": "社会道德",
+        "score": 70
+      }
+    ],
+    "impression": "一个被借钱不还深深伤害过、至今带着愤怒和警惕的过来人，讲述经历时情绪饱满，既想宣泄又希望别人别重蹈覆辙。"
+  },
+  "analyzed_at": "2026-06-15T22:24:50.389959",
+  "token_usage": 2790
+}

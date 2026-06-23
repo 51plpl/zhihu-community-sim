@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0527",
+  "source": {
+    "title": "德国空军志——狂风战斗机",
+    "url": "https://zhuanlan.zhihu.com/p/448728846",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "军事爱好者/自媒体作者",
+      "industry": "媒体/内容创作",
+      "city_tier": "二线及以上",
+      "marital_status": "未知",
+      "children": "未知",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "兴趣驱动创作"
+    ],
+    "life_experiences": [
+      "长期关注军事装备",
+      "可能从事过与航空或国防相关的工作或学习",
+      "有内容创作经验"
+    ],
+    "interest_topics": [
+      "军事装备",
+      "航空技术",
+      "历史",
+      "国际政治",
+      "国防工业"
+    ],
+    "discussion_triggers": [
+      "战斗机性能对比",
+      "德国空军现状",
+      "北约核武器部署",
+      "中国军工发展历史"
+    ],
+    "sensitive_topics": [
+      "中国军工技术差距",
+      "核武器",
+      "国际制裁"
+    ],
+    "value_tendencies": [
+      "技术崇拜",
+      "务实主义",
+      "民族自豪感（隐含）",
+      "对历史反思"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "历史比较",
+      "叙述性"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "战斗机技术",
+        "航空发动机",
+        "军事历史"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 10
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享知识",
+      "展示专业能力",
+      "获得认同",
+      "帮助他人了解军事"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "战斗机性能对比",
+        "score": 90
+      },
+      {
+        "topic": "德国空军现状",
+        "score": 85
+      },
+      {
+        "topic": "中国军工发展",
+        "score": 70
+      },
+      {
+        "topic": "北约核武器",
+        "score": 60
+      },
+      {
+        "topic": "航空发动机技术",
+        "score": 80
+      }
+    ],
+    "impression": "一个技术宅军事博主，数据控，喜欢长篇大论地科普，偶尔流露对历史的感慨，结尾求关注显得有点可爱。"
+  },
+  "analyzed_at": "2026-06-15T22:26:40.110567",
+  "token_usage": 2949
+}

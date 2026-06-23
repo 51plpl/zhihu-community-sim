@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0429",
+  "source": {
+    "title": "香港名校申请有多难？背景一般真的没有希望吗？",
+    "url": "https://zhuanlan.zhihu.com/p/446707309",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "留学中介/市场推广",
+      "industry": "教育/留学服务",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业上升期",
+      "创业/自由职业"
+    ],
+    "life_experiences": [
+      "留学行业从业经验",
+      "熟悉名校申请流程",
+      "接触大量背景普通但成功申请的学生案例"
+    ],
+    "interest_topics": [
+      "留学申请",
+      "名校录取",
+      "背景提升",
+      "教育焦虑",
+      "学历价值"
+    ],
+    "discussion_triggers": [
+      "香港留学",
+      "GPA低",
+      "双非背景",
+      "考研失败",
+      "学历焦虑"
+    ],
+    "sensitive_topics": [
+      "学历歧视",
+      "教育公平",
+      "留学中介价值"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "精英主义",
+      "商业敏感"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "案例驱动",
+      "解决方案导向",
+      "营销思维",
+      "简化问题"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "香港留学申请",
+        "高端留学渠道",
+        "背景优化策略"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 50,
+      "likes_short_answers": 40,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 90,
+      "likes_niche_topics": 20
+    },
+    "motivation": [
+      "推广服务",
+      "建立专业形象",
+      "吸引潜在客户",
+      "分享成功案例"
+    ],
+    "social_needs": {
+      "seeking_recognition": 80,
+      "seeking_agreement": 60,
+      "seeking_influence": 90,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "香港留学申请难度",
+        "score": 95
+      },
+      {
+        "topic": "低GPA如何逆袭名校",
+        "score": 90
+      },
+      {
+        "topic": "双非背景留学",
+        "score": 85
+      },
+      {
+        "topic": "考研失败后的选择",
+        "score": 80
+      },
+      {
+        "topic": "留学中介靠谱吗",
+        "score": 70
+      }
+    ],
+    "impression": "一个善于利用焦虑和成功案例来推销高端留学服务的营销者，语气自信且带有商业气息。"
+  },
+  "analyzed_at": "2026-06-15T22:25:30.877760",
+  "token_usage": 2881
+}

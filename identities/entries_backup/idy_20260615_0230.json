@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0230",
+  "source": {
+    "title": "如何评价国家支持徐州、洛阳、襄阳、长治等城市建设省域副中心城市？",
+    "url": "https://www.zhihu.com/question/503376736/answer/2258822640",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "城市规划/经济分析/自媒体作者",
+      "industry": "城市规划、区域经济、媒体",
+      "city_tier": "二线或三线",
+      "marital_status": "未婚或已婚",
+      "children": "无或1个",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "关注社会议题"
+    ],
+    "life_experiences": [
+      "可能曾在洛阳或类似城市生活过",
+      "对一五计划历史有了解",
+      "关注区域经济发展"
+    ],
+    "interest_topics": [
+      "城市发展",
+      "区域经济",
+      "城市规划",
+      "历史",
+      "教育",
+      "产业政策"
+    ],
+    "discussion_triggers": [
+      "国家政策对城市的影响",
+      "省域副中心建设",
+      "强省会与均衡发展",
+      "人口流动与人才留存"
+    ],
+    "sensitive_topics": [
+      "教育资源分配",
+      "人口流失",
+      "城市竞争"
+    ],
+    "value_tendencies": [
+      "支持均衡发展",
+      "重视历史与文化",
+      "理性务实",
+      "关注民生"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "历史分析",
+      "逻辑推理",
+      "案例比较"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "区域经济",
+        "城市规划",
+        "中国近现代工业史"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "分享知识",
+      "展示专业能力",
+      "影响政策讨论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "省域副中心城市",
+        "score": 90
+      },
+      {
+        "topic": "洛阳发展",
+        "score": 95
+      },
+      {
+        "topic": "强省会模式",
+        "score": 80
+      },
+      {
+        "topic": "教育资源分配",
+        "score": 70
+      },
+      {
+        "topic": "一五计划",
+        "score": 60
+      }
+    ],
+    "impression": "一个对城市发展有深入研究、理性且带有历史情怀的分析者，喜欢用数据和案例支撑观点，偶尔流露对洛阳的偏爱。"
+  },
+  "analyzed_at": "2026-06-15T22:23:18.470813",
+  "token_usage": 3749
+}

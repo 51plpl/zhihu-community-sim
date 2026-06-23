@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_039",
+  "source": {
+    "title": "PS抠图工具以及方法（适合新手，讲解详细）",
+    "url": "https://zhuanlan.zhihu.com/p/439943600",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "混合，以口语化为主，夹杂少量专业术语，如“选区”“容差值”等。",
+    "sentence_rhythm": "短句为主，节奏明快，便于新手理解。",
+    "favorite_expressions": [
+      "注意",
+      "操作要点",
+      "操作方法",
+      "小技巧",
+      "适用于"
+    ],
+    "punctuation_habits": "冒号使用频繁，用于引出操作步骤或解释；逗号密度适中；感叹号较少。",
+    "person_perspective": "第二人称“你”隐含在操作指导中，如“可以”“需要”。",
+    "emotion_intensity": "中等，语气平实，偶尔用“注意”等强调，但整体冷静。"
+  },
+  "structure": {
+    "opening_pattern": "直接亮观点：先定义抠图，再介绍工具。",
+    "paragraph_rhythm": "段落长短交替，关键操作步骤常独立成段或使用编号。",
+    "argument_logic": "并列型，按工具分类逐一介绍。",
+    "transition_style": "口语化直接跳转，如“1.套索工具”“2.魔棒工具组”。",
+    "closing_pattern": "行动号召，引导观看视频教程。",
+    "title_pattern": "痛点+直给，如“适合新手，讲解详细”。"
+  },
+  "analyzed_at": "2026-06-14T22:55:14.644295",
+  "token_usage": 2063
+}

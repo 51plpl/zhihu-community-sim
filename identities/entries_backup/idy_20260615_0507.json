@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0507",
+  "source": {
+    "title": "薇娅被封的思考：直播流量应该更公平",
+    "url": "https://zhuanlan.zhihu.com/p/449143000",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网运营/市场",
+      "industry": "互联网",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "关注社会议题"
+    ],
+    "life_experiences": [
+      "可能从事过电商或直播相关行业",
+      "关注经济政策变化",
+      "有中小商家朋友或自己尝试过副业"
+    ],
+    "interest_topics": [
+      "互联网经济",
+      "共同富裕",
+      "反垄断",
+      "直播带货",
+      "中小企业生存",
+      "社会公平"
+    ],
+    "discussion_triggers": [
+      "薇娅事件",
+      "社区团购争议",
+      "主播偷税漏税",
+      "流量分配不公"
+    ],
+    "sensitive_topics": [
+      "贫富差距",
+      "资本垄断",
+      "税收公平"
+    ],
+    "value_tendencies": [
+      "支持共同富裕",
+      "反对资本无序扩张",
+      "同情中小商家",
+      "强调社会整体利益"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "价值判断",
+      "类比推理",
+      "数据引用"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "互联网商业模式",
+        "经济政策",
+        "直播电商"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 40,
+      "likes_commenting": 80,
+      "likes_debating": 70,
+      "likes_contrarian": 50,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "反驳他人",
+      "帮助别人理解政策",
+      "展示分析能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "薇娅偷税漏税",
+        "score": 90
+      },
+      {
+        "topic": "直播带货垄断",
+        "score": 85
+      },
+      {
+        "topic": "共同富裕政策",
+        "score": 80
+      },
+      {
+        "topic": "中小企业困境",
+        "score": 75
+      },
+      {
+        "topic": "社区团购争议",
+        "score": 70
+      }
+    ],
+    "impression": "一个关心社会公平的理性分析者，喜欢用数据和政策解读热点，对资本垄断有警惕，对普通人有同理心。"
+  },
+  "analyzed_at": "2026-06-15T22:26:25.443029",
+  "token_usage": 3829
+}

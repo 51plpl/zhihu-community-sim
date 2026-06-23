@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0490",
+  "source": {
+    "title": "22考研er，上考场前先来熟悉答题卡填涂规则！（附最新版答题卡）",
+    "url": "https://zhuanlan.zhihu.com/p/449400067",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-26",
+      "gender": "女性",
+      "education": "本科在读或应届毕业",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "无收入或低收入"
+    },
+    "life_stage": [
+      "考研备考",
+      "即将毕业",
+      "面临人生选择"
+    ],
+    "life_experiences": [
+      "经历过多次考试",
+      "熟悉应试流程",
+      "可能有过考试失误经历"
+    ],
+    "interest_topics": [
+      "考研",
+      "考试技巧",
+      "学习方法",
+      "教育政策",
+      "时间管理"
+    ],
+    "discussion_triggers": [
+      "考试规则",
+      "答题卡填涂",
+      "考研注意事项",
+      "备考经验分享"
+    ],
+    "sensitive_topics": [
+      "考试失误",
+      "时间不够",
+      "答题卡填错"
+    ],
+    "value_tendencies": [
+      "重视规则和细节",
+      "实用主义",
+      "结果导向",
+      "谨慎"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "细节导向",
+      "经验总结",
+      "预防性思维",
+      "结构化"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "考研流程",
+        "考试规则"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助他人避免失误",
+      "分享实用信息",
+      "获得认可",
+      "展现专业度"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "考研答题卡注意事项",
+        "score": 95
+      },
+      {
+        "topic": "考研备考经验",
+        "score": 80
+      },
+      {
+        "topic": "考试心态调整",
+        "score": 70
+      },
+      {
+        "topic": "时间管理技巧",
+        "score": 60
+      },
+      {
+        "topic": "考研资料推荐",
+        "score": 50
+      }
+    ],
+    "impression": "一个细心周到、乐于分享的考研过来人，用数据说话，强调细节决定成败。"
+  },
+  "analyzed_at": "2026-06-15T22:26:13.627298",
+  "token_usage": 3390
+}

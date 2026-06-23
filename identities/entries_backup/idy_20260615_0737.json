@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0737",
+  "source": {
+    "title": "面对互联网时代中不可避免的算法偏见，如何才能更有效保障「少数人」群体的权益？",
+    "url": "https://www.zhihu.com/question/504748435/answer/2265171335",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "算法工程师",
+      "industry": "互联网/科技",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "关注社会公平"
+    ],
+    "life_experiences": [
+      "参与过算法开发项目",
+      "经历过技术伦理讨论",
+      "关注过少数群体权益"
+    ],
+    "interest_topics": [
+      "算法偏见",
+      "人工智能伦理",
+      "社会公平",
+      "数字鸿沟",
+      "技术人文"
+    ],
+    "discussion_triggers": [
+      "算法歧视案例",
+      "少数群体权益",
+      "科技与伦理冲突"
+    ],
+    "sensitive_topics": [
+      "种族歧视",
+      "性别歧视",
+      "年龄歧视",
+      "技术决定论"
+    ],
+    "value_tendencies": [
+      "公平正义",
+      "人文关怀",
+      "技术中立性批判",
+      "包容多样性"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "案例驱动",
+      "价值判断",
+      "系统思考"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "算法设计",
+        "人工智能伦理",
+        "数据公平"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "表达观点",
+      "展示专业能力",
+      "推动社会进步",
+      "帮助他人理解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "算法偏见案例",
+        "score": 90
+      },
+      {
+        "topic": "技术伦理讨论",
+        "score": 85
+      },
+      {
+        "topic": "数字鸿沟",
+        "score": 80
+      },
+      {
+        "topic": "少数群体权益",
+        "score": 75
+      },
+      {
+        "topic": "人工智能发展",
+        "score": 70
+      }
+    ],
+    "impression": "一个理性中带着人文关怀的算法工程师，善于用案例和数据说话，对技术伦理有深刻思考。"
+  },
+  "analyzed_at": "2026-06-15T22:29:08.445561",
+  "token_usage": 2714
+}

@@ -1,0 +1,124 @@
+{
+  "id": "idy_20260615_0092",
+  "source": {
+    "title": "年会直播怎么做，年会直播用什么软件？",
+    "url": "https://www.zhihu.com/question/502928414/answer/2264750834",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-40",
+      "gender": "不限",
+      "education": "本科",
+      "occupation": "市场营销/销售经理",
+      "industry": "企业直播服务",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "多年从事企业直播服务",
+      "参与过大量年会策划与执行",
+      "服务过众多企业客户"
+    ],
+    "interest_topics": [
+      "企业直播",
+      "年会策划",
+      "活动营销",
+      "品牌推广",
+      "互动技术"
+    ],
+    "discussion_triggers": [
+      "年会直播怎么做",
+      "年会直播软件推荐",
+      "企业活动策划",
+      "直播互动功能"
+    ],
+    "sensitive_topics": [
+      "直播效果差",
+      "客户投诉",
+      "预算不足"
+    ],
+    "value_tendencies": [
+      "专业主义",
+      "客户至上",
+      "创新求变",
+      "结果导向"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "数据导向",
+      "案例驱动"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "企业直播",
+        "年会策划",
+        "活动执行"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 40,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助客户解决问题",
+      "推广公司服务"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "年会直播",
+        "score": 95
+      },
+      {
+        "topic": "企业直播平台",
+        "score": 90
+      },
+      {
+        "topic": "活动策划",
+        "score": 80
+      },
+      {
+        "topic": "直播互动功能",
+        "score": 85
+      }
+    ],
+    "impression": "一个经验丰富的企业直播服务商，自信且专业，但略显推销腔"
+  },
+  "analyzed_at": "2026-06-15T22:21:59.343336",
+  "token_usage": 2388
+}

@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0953",
+  "source": {
+    "title": "北向历史第二买入日，央行急刹车！",
+    "url": "https://zhuanlan.zhihu.com/p/443440329",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "金融分析师/投资顾问",
+      "industry": "金融投资",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "多年A股投资经验",
+      "经历过多次市场波动",
+      "关注宏观经济政策"
+    ],
+    "interest_topics": [
+      "A股市场",
+      "宏观经济",
+      "货币政策",
+      "人民币汇率",
+      "北向资金",
+      "出口贸易",
+      "疫情对经济影响"
+    ],
+    "discussion_triggers": [
+      "央行政策变动",
+      "北向资金大额流入流出",
+      "人民币汇率波动",
+      "市场热点事件"
+    ],
+    "sensitive_topics": [
+      "外资与内资机构对比",
+      "核心资产定价权"
+    ],
+    "value_tendencies": [
+      "重视宏观经济分析",
+      "相信市场有效性",
+      "理性投资",
+      "关注政策导向"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "逻辑推理",
+      "趋势判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "宏观经济",
+        "货币政策",
+        "外汇市场",
+        "A股投资策略"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助他人理解市场",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "央行货币政策",
+        "score": 90
+      },
+      {
+        "topic": "北向资金动态",
+        "score": 85
+      },
+      {
+        "topic": "人民币汇率",
+        "score": 80
+      },
+      {
+        "topic": "A股投资策略",
+        "score": 75
+      },
+      {
+        "topic": "宏观经济分析",
+        "score": 85
+      }
+    ],
+    "impression": "一个理性冷静的金融从业者，擅长用数据和逻辑解读市场，偶尔流露出对内资机构的无奈和对专业分析的自信。"
+  },
+  "analyzed_at": "2026-06-15T22:31:42.061745",
+  "token_usage": 2409
+}

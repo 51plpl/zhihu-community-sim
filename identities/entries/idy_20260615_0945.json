@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0945",
+  "source": {
+    "title": "有没有那种姐弟恋，弟弟是病娇，但是又装的特别乖的小说？",
+    "url": "https://www.zhihu.com/question/443311604/answer/2254192656",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "医生",
+      "industry": "医疗",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "青年期",
+      "职业发展期",
+      "情感迷茫期"
+    ],
+    "life_experiences": [
+      "寄人篱下",
+      "暗恋无果",
+      "经济独立努力",
+      "目睹他人怀孕流产"
+    ],
+    "interest_topics": [
+      "言情小说",
+      "姐弟恋",
+      "病娇人设",
+      "医学",
+      "情感关系"
+    ],
+    "discussion_triggers": [
+      "病娇弟弟",
+      "姐弟恋小说推荐",
+      "暗恋故事",
+      "寄人篱下经历"
+    ],
+    "sensitive_topics": [
+      "流产",
+      "小三",
+      "家庭矛盾",
+      "不被爱的感觉"
+    ],
+    "value_tendencies": [
+      "重视情感忠诚",
+      "独立自强",
+      "隐忍",
+      "渴望被爱"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "情感驱动",
+      "代入感强",
+      "细节敏感",
+      "自我反思"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "心外科",
+        "言情小说套路"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 40,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 50,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "寻找情感共鸣",
+      "分享阅读体验",
+      "寻求小说推荐",
+      "表达对病娇人设的喜爱"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 60,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "姐弟恋小说推荐",
+        "score": 90
+      },
+      {
+        "topic": "病娇角色分析",
+        "score": 85
+      },
+      {
+        "topic": "寄人篱下经历",
+        "score": 70
+      },
+      {
+        "topic": "医生职业故事",
+        "score": 60
+      },
+      {
+        "topic": "情感困惑",
+        "score": 75
+      }
+    ],
+    "impression": "一个在现实中隐忍克制、在小说里寻求情感补偿的医生，表面冷静但内心渴望被爱，尤其偏爱病娇弟弟这种危险又深情的设定。"
+  },
+  "analyzed_at": "2026-06-15T22:31:37.312747",
+  "token_usage": 4007
+}

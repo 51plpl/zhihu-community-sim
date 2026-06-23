@@ -1,0 +1,119 @@
+{
+  "id": "idy_20260615_0688",
+  "source": {
+    "title": "热门羽毛球拍 | 尤尼克斯 ASTROX 99PRO （天斧99PRO） 详解",
+    "url": "https://zhuanlan.zhihu.com/p/447630504",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "羽毛球教练或资深爱好者",
+      "industry": "体育/教育",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "兴趣深耕期"
+    ],
+    "life_experiences": [
+      "长期打羽毛球",
+      "研究球拍装备",
+      "可能参加过业余比赛"
+    ],
+    "interest_topics": [
+      "羽毛球",
+      "尤尼克斯球拍",
+      "运动装备评测",
+      "体育竞技"
+    ],
+    "discussion_triggers": [
+      "新球拍测评",
+      "球拍参数对比",
+      "打法适配讨论"
+    ],
+    "sensitive_topics": [
+      "球拍性能争议",
+      "品牌偏好"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "技术导向",
+      "客观分析"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "技术分析",
+      "经验总结",
+      "数据对比"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "羽毛球装备",
+        "球拍技术"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享专业知识",
+      "帮助球友选拍",
+      "展示技术理解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "天斧99PRO打感",
+        "score": 90
+      },
+      {
+        "topic": "羽毛球拍推荐",
+        "score": 85
+      },
+      {
+        "topic": "桃田贤斗装备",
+        "score": 70
+      },
+      {
+        "topic": "进攻拍选择",
+        "score": 80
+      }
+    ],
+    "impression": "一个技术流羽毛球装备控，喜欢用数据和经验说话，乐于分享但略显严谨。"
+  },
+  "analyzed_at": "2026-06-15T22:28:34.352613",
+  "token_usage": 2856
+}

@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0402",
+  "source": {
+    "title": "有没有甜到让人小鹿乱撞的甜宠文？",
+    "url": "https://www.zhihu.com/question/482573671/answer/2254549289",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "网络小说作者",
+      "industry": "文化娱乐",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职业发展期"
+    ],
+    "life_experiences": [
+      "阅读大量网络小说",
+      "尝试写作并发布",
+      "参与过小说评论区互动"
+    ],
+    "interest_topics": [
+      "甜宠文",
+      "古言小说",
+      "网络文学",
+      "言情小说",
+      "小说创作"
+    ],
+    "discussion_triggers": [
+      "求甜宠文推荐",
+      "小说文案分享",
+      "吐槽虐文",
+      "安利冷门好文"
+    ],
+    "sensitive_topics": [
+      "小说抄袭",
+      "角色三观争议",
+      "虐文情节"
+    ],
+    "value_tendencies": [
+      "浪漫主义",
+      "相信爱情",
+      "追求轻松愉快",
+      "反对过度虐心"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "情感驱动",
+      "故事叙述",
+      "感性分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络小说套路",
+        "古言写作",
+        "言情小说市场"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 50,
+      "likes_short_answers": 40,
+      "likes_storytelling": 70,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享快乐",
+      "获得认同",
+      "寻找同好",
+      "表达对甜文的喜爱"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 40,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "甜宠文推荐",
+        "score": 90
+      },
+      {
+        "topic": "古言小说",
+        "score": 80
+      },
+      {
+        "topic": "小说文案分享",
+        "score": 70
+      },
+      {
+        "topic": "言情小说讨论",
+        "score": 75
+      },
+      {
+        "topic": "网络文学趋势",
+        "score": 60
+      }
+    ],
+    "impression": "一个热爱甜宠文的浪漫少女，喜欢分享和安利，对虐文深恶痛绝。"
+  },
+  "analyzed_at": "2026-06-15T22:25:10.334140",
+  "token_usage": 5294
+}

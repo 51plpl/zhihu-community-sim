@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0220",
+  "source": {
+    "title": "人的心机可以可怕到什么程度？",
+    "url": "https://www.zhihu.com/question/431044917/answer/2273626235",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "19-24",
+      "gender": "女",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "大学在读",
+      "恋爱受挫期",
+      "自我觉醒期"
+    ],
+    "life_experiences": [
+      "长期单恋被利用",
+      "被信任的室友背叛",
+      "发现感情中的欺骗",
+      "从盲目付出到清醒"
+    ],
+    "interest_topics": [
+      "恋爱关系",
+      "人际关系",
+      "心理学",
+      "兼职实习",
+      "校园生活"
+    ],
+    "discussion_triggers": [
+      "被背叛的经历",
+      "心机行为",
+      "感情中的欺骗",
+      "室友关系"
+    ],
+    "sensitive_topics": [
+      "第三者",
+      "青梅竹马",
+      "被利用的感情",
+      "闺蜜背叛"
+    ],
+    "value_tendencies": [
+      "重视真诚",
+      "厌恶欺骗",
+      "相信努力",
+      "独立自强",
+      "情感洁癖"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情绪驱动",
+      "细节观察",
+      "反思总结",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "校园人际关系",
+        "兼职实习渠道"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "寻求共鸣",
+      "宣泄情绪",
+      "警示他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "被闺蜜背叛",
+        "score": 90
+      },
+      {
+        "topic": "恋爱中的心机",
+        "score": 85
+      },
+      {
+        "topic": "大学恋爱经历",
+        "score": 80
+      },
+      {
+        "topic": "如何走出失恋",
+        "score": 70
+      },
+      {
+        "topic": "室友关系",
+        "score": 75
+      }
+    ],
+    "impression": "一个被爱情和友情双重背叛后清醒的女孩，带着愤怒和伤痛，但依然渴望真诚。"
+  },
+  "analyzed_at": "2026-06-15T22:23:12.164448",
+  "token_usage": 3013
+}

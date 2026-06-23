@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0352",
+  "source": {
+    "title": "有哪些伤感的句子？",
+    "url": "https://www.zhihu.com/question/361450770/answer/2277341683",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科在读或毕业",
+      "occupation": "学生或初级职员",
+      "industry": "文化传媒、教育或互联网",
+      "city_tier": "二线或三线城市",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "青春期后期",
+      "情感探索期",
+      "自我认同形成期"
+    ],
+    "life_experiences": [
+      "经历过暗恋或失恋",
+      "有过异地或未果的感情",
+      "感受过孤独和成长",
+      "曾在深夜听歌疗伤"
+    ],
+    "interest_topics": [
+      "网易云音乐热评",
+      "伤感文学",
+      "情感语录",
+      "青春疼痛文学",
+      "治愈系音乐"
+    ],
+    "discussion_triggers": [
+      "失恋",
+      "孤独感",
+      "暗恋",
+      "成长中的遗憾",
+      "怀旧"
+    ],
+    "sensitive_topics": [
+      "前任",
+      "被冷暴力",
+      "不被理解",
+      "离别"
+    ],
+    "value_tendencies": [
+      "重视真诚",
+      "相信爱情但悲观",
+      "渴望被理解",
+      "注重自我成长"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情绪表达",
+      "故事叙述",
+      "感性联想",
+      "文艺化表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络流行文化",
+        "情感语录",
+        "音乐评论"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 80,
+      "likes_debating": 10,
+      "likes_contrarian": 20,
+      "likes_long_answers": 40,
+      "likes_short_answers": 60,
+      "likes_storytelling": 70,
+      "likes_explaining": 20,
+      "likes_teaching": 10,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 10,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享情绪",
+      "寻求共鸣",
+      "表达内心",
+      "获得安慰"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "伤感句子",
+        "score": 90
+      },
+      {
+        "topic": "失恋心情",
+        "score": 85
+      },
+      {
+        "topic": "网易云热评",
+        "score": 80
+      },
+      {
+        "topic": "孤独感",
+        "score": 75
+      },
+      {
+        "topic": "青春回忆",
+        "score": 70
+      }
+    ],
+    "impression": "一个沉浸在青春伤感中的文艺少女，用网易云热评来安放自己的情绪，渴望被理解又习惯孤独。"
+  },
+  "analyzed_at": "2026-06-15T22:24:36.175457",
+  "token_usage": 4908
+}

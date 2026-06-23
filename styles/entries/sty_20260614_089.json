@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_089",
+  "source": {
+    "title": "Python中的模块(Module)和包(Package)",
+    "url": "https://zhuanlan.zhihu.com/p/444723140",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "混合，以书面技术术语为主，夹杂少量口语化表达如'你'、'我们'。",
+    "sentence_rhythm": "以中长句为主，节奏平稳，解释性内容较多。",
+    "favorite_expressions": [
+      "接下来",
+      "比如",
+      "也就是说",
+      "可见",
+      "最后"
+    ],
+    "punctuation_habits": "逗号使用频繁，用于列举和解释；冒号用于引出说明；引号用于强调术语。",
+    "person_perspective": "第二人称'你'为主，偶尔切换为第一人称'我们'。",
+    "emotion_intensity": "冷静克制，客观陈述。"
+  },
+  "structure": {
+    "opening_pattern": "直接亮观点，从常见场景引入主题。",
+    "paragraph_rhythm": "段落长度中等，关键概念或代码示例独立成段。",
+    "argument_logic": "归纳型，先给出具体操作示例，再总结概念。",
+    "transition_style": "使用连接词如'接下来'、'最后'，以及口语化过渡如'让我们'。",
+    "closing_pattern": "总结性陈述，并给出参考链接。",
+    "title_pattern": "直给，直接点明主题。"
+  },
+  "analyzed_at": "2026-06-14T22:55:53.822798",
+  "token_usage": 4976
+}

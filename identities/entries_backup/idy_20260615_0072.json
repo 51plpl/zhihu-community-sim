@@ -1,0 +1,123 @@
+{
+  "id": "idy_20260615_0072",
+  "source": {
+    "title": "2021 羽毛球世锦赛男单1/16决赛，陆光祖 2:1 逆转淘汰周天成，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/506078384/answer/2272076926",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "体育评论员/羽毛球爱好者",
+      "industry": "体育",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "兴趣深耕期"
+    ],
+    "life_experiences": [
+      "长期关注羽毛球赛事",
+      "有业余打球经历",
+      "多次观看国际比赛直播"
+    ],
+    "interest_topics": [
+      "羽毛球",
+      "体育赛事",
+      "中国羽毛球国家队",
+      "运动员成长"
+    ],
+    "discussion_triggers": [
+      "中国球员爆冷",
+      "技术分析",
+      "球员心理素质",
+      "比赛关键分"
+    ],
+    "sensitive_topics": [
+      "球员伤病",
+      "国家队表现",
+      "省队争议"
+    ],
+    "value_tendencies": [
+      "努力至上",
+      "理性分析",
+      "支持本土球员",
+      "尊重对手"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "羽毛球技术",
+        "羽毛球赛事历史",
+        "球员特点分析"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助理解比赛",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "羽毛球技术分析",
+        "score": 90
+      },
+      {
+        "topic": "中国球员表现",
+        "score": 85
+      },
+      {
+        "topic": "国际赛事评论",
+        "score": 75
+      },
+      {
+        "topic": "球员心理素质",
+        "score": 80
+      }
+    ],
+    "impression": "一个懂球、爱分析的技术流球迷，说话有理有据，偶尔带点幽默感。"
+  },
+  "analyzed_at": "2026-06-15T22:21:42.355522",
+  "token_usage": 2448
+}

@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0024",
+  "source": {
+    "title": "一省发文：中医、西医执业的界限被打破，培训后可增加执业范围！",
+    "url": "https://zhuanlan.zhihu.com/p/448178944",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-50",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "医生",
+      "industry": "医疗",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "政策关注期"
+    ],
+    "life_experiences": [
+      "经历过医疗行业政策变化",
+      "参加过中西医结合培训",
+      "有基层医疗工作经验"
+    ],
+    "interest_topics": [
+      "医疗政策",
+      "中西医结合",
+      "执业医师考试",
+      "基层医疗",
+      "中医药发展"
+    ],
+    "discussion_triggers": [
+      "中西医执业范围",
+      "医师培训政策",
+      "基层医疗改革",
+      "处方点评"
+    ],
+    "sensitive_topics": [
+      "中西医对立",
+      "执业资格限制",
+      "医疗安全"
+    ],
+    "value_tendencies": [
+      "支持中西医结合",
+      "重视政策合规",
+      "关注医疗质量",
+      "倾向实用主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "政策分析",
+      "机制解读",
+      "实用导向",
+      "经验分享"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中西医结合",
+        "医疗政策",
+        "执业医师法规"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 60,
+      "likes_short_answers": 40,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享政策解读",
+      "帮助同行了解规定",
+      "展示专业能力",
+      "促进中西医结合"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "中西医执业范围",
+        "score": 90
+      },
+      {
+        "topic": "医师培训政策",
+        "score": 85
+      },
+      {
+        "topic": "基层医疗改革",
+        "score": 75
+      },
+      {
+        "topic": "处方点评",
+        "score": 70
+      },
+      {
+        "topic": "中医师承",
+        "score": 60
+      }
+    ],
+    "impression": "一个关注政策动向、乐于分享的医疗从业者，理性务实，对中西医结合持开放态度。"
+  },
+  "analyzed_at": "2026-06-15T22:21:12.669744",
+  "token_usage": 2493
+}

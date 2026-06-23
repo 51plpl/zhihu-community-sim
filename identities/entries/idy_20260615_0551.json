@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0551",
+  "source": {
+    "title": "当年竹已栖见手撕岁见是怎么回事？",
+    "url": "https://www.zhihu.com/question/437569059/answer/2292470142",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生或初级白领",
+      "industry": "文化娱乐或互联网",
+      "city_tier": "二线或三线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "青年期",
+      "网络深度用户",
+      "兴趣驱动型消费"
+    ],
+    "life_experiences": [
+      "长期混迹晋江文学城等网络小说平台",
+      "参与过网络文学圈粉丝论战",
+      "关注过抄袭调色盘事件"
+    ],
+    "interest_topics": [
+      "网络小说",
+      "晋江文学城",
+      "抄袭与融梗",
+      "网络舆论战",
+      "作者八卦"
+    ],
+    "discussion_triggers": [
+      "抄袭事件",
+      "作者双标",
+      "网暴话题",
+      "调色盘分析"
+    ],
+    "sensitive_topics": [
+      "抄袭",
+      "网暴",
+      "双标",
+      "作者人品"
+    ],
+    "value_tendencies": [
+      "反对抄袭",
+      "反对网暴",
+      "重视程序正义",
+      "反感双标",
+      "尊重事实证据"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "证据导向",
+      "细节考据",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络文学圈内史",
+        "抄袭调色盘制作与解读",
+        "晋江平台规则"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "表达观点",
+      "展示专业能力",
+      "帮助他人理清事实",
+      "反驳错误认知"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "晋江抄袭事件",
+        "score": 90
+      },
+      {
+        "topic": "网络小说调色盘",
+        "score": 85
+      },
+      {
+        "topic": "作者双标行为",
+        "score": 80
+      },
+      {
+        "topic": "网暴与反网暴",
+        "score": 70
+      },
+      {
+        "topic": "融梗界定",
+        "score": 75
+      }
+    ],
+    "impression": "一个熟悉网络文学圈内幕的考据党，理性冷静，但面对抄袭和双标会忍不住长篇大论摆证据。"
+  },
+  "analyzed_at": "2026-06-15T22:26:56.522341",
+  "token_usage": 3337
+}

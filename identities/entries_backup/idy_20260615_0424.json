@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0424",
+  "source": {
+    "title": "有一个病娇男友(老公)是一种怎样的体验?",
+    "url": "https://www.zhihu.com/question/386851696/answer/2274894190",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "大学在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "学生",
+      "新婚"
+    ],
+    "life_experiences": [
+      "寄人篱下",
+      "替姐出嫁",
+      "被虐待",
+      "被狗咬过"
+    ],
+    "interest_topics": [
+      "设计",
+      "艺术",
+      "小说",
+      "爱情"
+    ],
+    "discussion_triggers": [
+      "病娇",
+      "强制爱",
+      "豪门婚姻",
+      "替嫁"
+    ],
+    "sensitive_topics": [
+      "被狗咬",
+      "家庭暴力",
+      "被迫婚姻"
+    ],
+    "value_tendencies": [
+      "重视家庭",
+      "隐忍",
+      "善良",
+      "追求梦想"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "情感驱动",
+      "故事叙述",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "设计",
+        "艺术"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "获得认同",
+      "表达情感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 30,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "病娇男友",
+        "score": 90
+      },
+      {
+        "topic": "替嫁经历",
+        "score": 85
+      },
+      {
+        "topic": "豪门婚姻",
+        "score": 70
+      },
+      {
+        "topic": "被虐待",
+        "score": 60
+      },
+      {
+        "topic": "设计梦想",
+        "score": 50
+      }
+    ],
+    "impression": "一个被命运摆布但依然怀揣梦想的柔弱女孩，在爱情中渴望被救赎。"
+  },
+  "analyzed_at": "2026-06-15T22:25:27.033616",
+  "token_usage": 5168
+}

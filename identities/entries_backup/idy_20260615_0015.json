@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0015",
+  "source": {
+    "title": "山东大学，哈威，西北工业大学，大连理工你们会如何排序？",
+    "url": "https://www.zhihu.com/question/412289868/answer/2262384142",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "男",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "三线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "本科在读",
+      "即将面临升学或就业选择"
+    ],
+    "life_experiences": [
+      "高考择校经历",
+      "在哈威就读工科",
+      "与多校学生交流"
+    ],
+    "interest_topics": [
+      "高校排名",
+      "工科教育",
+      "学科评估",
+      "高考志愿",
+      "大学资源"
+    ],
+    "discussion_triggers": [
+      "高校对比",
+      "地域对大学的影响",
+      "本科生教育质量"
+    ],
+    "sensitive_topics": [
+      "母校荣誉",
+      "地域歧视",
+      "学科实力争议"
+    ],
+    "value_tendencies": [
+      "重视教育质量",
+      "理性客观",
+      "尊重事实和数据",
+      "有母校自豪感"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "比较分析",
+      "数据导向",
+      "经验主义",
+      "谨慎表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "工科",
+        "高校学科评估",
+        "高考志愿"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 60,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经验",
+      "帮助他人择校",
+      "表达观点",
+      "维护母校声誉"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "高考志愿填报",
+        "score": 90
+      },
+      {
+        "topic": "工科院校对比",
+        "score": 85
+      },
+      {
+        "topic": "哈工大威海校区",
+        "score": 95
+      },
+      {
+        "topic": "学科评估",
+        "score": 80
+      },
+      {
+        "topic": "大学生活体验",
+        "score": 70
+      }
+    ],
+    "impression": "一个对母校充满自豪但努力保持客观的工科生，喜欢用数据和事实说话，偶尔流露一点小私心。"
+  },
+  "analyzed_at": "2026-06-15T22:21:07.045315",
+  "token_usage": 2582
+}

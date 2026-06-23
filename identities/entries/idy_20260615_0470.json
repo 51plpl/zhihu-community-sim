@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0470",
+  "source": {
+    "title": "刷酸皮肤真的会变好吗？",
+    "url": "https://www.zhihu.com/question/444892684/answer/2277551221",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "美妆博主/护肤达人",
+      "industry": "美妆护肤",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职业上升期",
+      "注重外貌管理"
+    ],
+    "life_experiences": [
+      "5年刷酸经验",
+      "曾因刷酸翻车",
+      "使用过多种刷酸产品",
+      "关注护肤成分和科技"
+    ],
+    "interest_topics": [
+      "刷酸",
+      "护肤成分",
+      "痘痘肌护理",
+      "国货护肤品",
+      "医美护肤"
+    ],
+    "discussion_triggers": [
+      "刷酸效果",
+      "新手刷酸避坑",
+      "刷酸产品推荐",
+      "刷酸后护理"
+    ],
+    "sensitive_topics": [
+      "刷酸翻车",
+      "护肤品营销",
+      "孕妇儿童护肤"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "成分党",
+      "支持国货",
+      "理性消费",
+      "反对过度营销"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "成分分析",
+      "风险提示",
+      "推荐导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "刷酸",
+        "水杨酸",
+        "果酸",
+        "护肤成分"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助新手避坑",
+      "分享成功经验",
+      "推荐好产品",
+      "展示专业度"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "刷酸适合什么肤质",
+        "score": 90
+      },
+      {
+        "topic": "刷酸后如何修复",
+        "score": 85
+      },
+      {
+        "topic": "新手刷酸产品推荐",
+        "score": 95
+      },
+      {
+        "topic": "刷酸能去痘印吗",
+        "score": 80
+      },
+      {
+        "topic": "刷酸和医美区别",
+        "score": 70
+      }
+    ],
+    "impression": "一个热心又专业的刷酸过来人，喜欢用亲身经历说话，但偶尔会夹带私货推荐产品。"
+  },
+  "analyzed_at": "2026-06-15T22:25:58.734845",
+  "token_usage": 3107
+}

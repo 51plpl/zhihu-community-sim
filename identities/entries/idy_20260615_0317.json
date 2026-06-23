@@ -1,0 +1,119 @@
+{
+  "id": "idy_20260615_0317",
+  "source": {
+    "title": "假设每天打车100块，一年打车3w多，十年打车也才30w+，相比买车划算很多，为什么还有那么多人买车？",
+    "url": "https://www.zhihu.com/question/407652302/answer/2281511251",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "上班族",
+      "industry": "互联网或服务业",
+      "city_tier": "二三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场上升期",
+      "注重生活品质"
+    ],
+    "life_experiences": [
+      "长期使用打车软件",
+      "经历过滴滴下架事件",
+      "薅羊毛经验丰富"
+    ],
+    "interest_topics": [
+      "出行方式比较",
+      "省钱技巧",
+      "网约车平台评测",
+      "女性安全"
+    ],
+    "discussion_triggers": [
+      "买车vs打车",
+      "网约车平台选择",
+      "薅羊毛优惠"
+    ],
+    "sensitive_topics": [
+      "女性出行安全",
+      "网约车事故"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "注重性价比",
+      "信任品牌背景"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "比较分析",
+      "细节观察"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网约车平台",
+        "城市出行"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经验",
+      "帮助他人决策",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "打车vs买车",
+        "score": 90
+      },
+      {
+        "topic": "网约车平台推荐",
+        "score": 85
+      },
+      {
+        "topic": "女性安全出行",
+        "score": 70
+      },
+      {
+        "topic": "薅羊毛技巧",
+        "score": 75
+      }
+    ],
+    "impression": "一个精打细算、注重体验的都市女性，喜欢分享自己的省钱心得和实用经验。"
+  },
+  "analyzed_at": "2026-06-15T22:24:13.459665",
+  "token_usage": 2676
+}

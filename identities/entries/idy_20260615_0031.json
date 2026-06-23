@@ -1,0 +1,121 @@
+{
+  "id": "idy_20260615_0031",
+  "source": {
+    "title": "睡衣怎么选，不同季节适合穿什么材质的睡衣，2021年有哪些不错的睡衣品牌推荐？",
+    "url": "https://zhuanlan.zhihu.com/p/443651509",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "内容创作者/电商导购",
+      "industry": "电子商务/家居生活",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场上升期",
+      "注重生活品质"
+    ],
+    "life_experiences": [
+      "长期使用多种睡衣品牌",
+      "有晨跑习惯",
+      "熟悉电商促销节点"
+    ],
+    "interest_topics": [
+      "睡衣选购",
+      "家居服",
+      "面料材质",
+      "电商购物",
+      "生活品质提升"
+    ],
+    "discussion_triggers": [
+      "睡衣品牌推荐",
+      "不同季节睡衣材质",
+      "电商促销活动"
+    ],
+    "sensitive_topics": [
+      "睡衣起球褪色",
+      "智商税产品"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "注重性价比",
+      "追求舒适生活"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "分类归纳",
+      "数据导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "睡衣材质",
+        "家居服品牌",
+        "电商购物技巧"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 30,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "分享经验"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "睡衣品牌推荐",
+        "score": 90
+      },
+      {
+        "topic": "睡衣材质对比",
+        "score": 85
+      },
+      {
+        "topic": "电商促销活动",
+        "score": 70
+      },
+      {
+        "topic": "晨跑装备",
+        "score": 50
+      }
+    ],
+    "impression": "一个热爱生活、乐于分享的晨跑达人，对睡衣如数家珍，像个贴心的购物顾问。"
+  },
+  "analyzed_at": "2026-06-15T22:21:17.614861",
+  "token_usage": 4766
+}

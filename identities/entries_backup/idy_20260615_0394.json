@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0394",
+  "source": {
+    "title": "你觉得这次时代少年团三公谁最亮眼？",
+    "url": "https://www.zhihu.com/question/506151151/answer/2274406171",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "16-22",
+      "gender": "女",
+      "education": "高中或大学在读",
+      "occupation": "学生",
+      "industry": "无",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低（依赖家庭）"
+    },
+    "life_stage": [
+      "青春期",
+      "追星狂热期",
+      "学业压力期"
+    ],
+    "life_experiences": [
+      "长期追星",
+      "参与粉丝社群活动",
+      "为偶像消费（如买周边、看舞台）"
+    ],
+    "interest_topics": [
+      "时代少年团",
+      "张真源",
+      "偶像舞台",
+      "粉丝文化",
+      "娱乐八卦",
+      "音乐舞蹈"
+    ],
+    "discussion_triggers": [
+      "偶像新舞台",
+      "偶像表现评价",
+      "粉丝争论",
+      "偶像资源对比"
+    ],
+    "sensitive_topics": [
+      "偶像负面评价",
+      "队友比较",
+      "公司不公平对待"
+    ],
+    "value_tendencies": [
+      "感性优先",
+      "忠诚度高",
+      "重视努力和全能",
+      "浪漫主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 85,
+      "optimistic_vs_pessimistic": 75
+    },
+    "thinking_style": [
+      "情感驱动",
+      "细节描述",
+      "夸张表达",
+      "沉浸式体验"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "偶像舞台分析",
+        "粉丝应援文化"
+      ],
+      "general_knowledge_level": 30,
+      "likes_citing_data": 5,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 70,
+      "likes_commenting": 90,
+      "likes_debating": 40,
+      "likes_contrarian": 10,
+      "likes_long_answers": 60,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 95,
+      "likes_logical_analysis": 10,
+      "likes_hot_topics": 85,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享对偶像的喜爱",
+      "获得同好认同",
+      "表达情感",
+      "安利偶像"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 80,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "张真源舞台表现",
+        "score": 95
+      },
+      {
+        "topic": "时代少年团成员对比",
+        "score": 80
+      },
+      {
+        "topic": "粉丝应援活动",
+        "score": 70
+      },
+      {
+        "topic": "偶像恋爱传闻",
+        "score": 20
+      },
+      {
+        "topic": "学业与追星平衡",
+        "score": 60
+      }
+    ],
+    "impression": "一个沉浸在偶像魅力中、情感充沛、用夸张语言表达爱意的狂热粉丝，仿佛在写情书。"
+  },
+  "analyzed_at": "2026-06-15T22:25:04.737005",
+  "token_usage": 2598
+}

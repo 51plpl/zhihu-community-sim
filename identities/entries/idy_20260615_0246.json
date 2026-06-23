@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0246",
+  "source": {
+    "title": "如何评价动画电影《雄狮少年》？",
+    "url": "https://www.zhihu.com/question/464023953/answer/2279924476",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男性",
+      "education": "本科及以上",
+      "occupation": "文化评论者/媒体从业者/公务员",
+      "industry": "文化传媒/公共管理",
+      "city_tier": "一二线城市",
+      "marital_status": "已婚",
+      "children": "有子女",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "成家立业",
+      "关注子女教育",
+      "社会责任感强"
+    ],
+    "life_experiences": [
+      "经历过文化争议事件",
+      "对意识形态渗透敏感",
+      "有观影习惯并喜欢分析"
+    ],
+    "interest_topics": [
+      "动画电影",
+      "文化批评",
+      "社会议题",
+      "意识形态安全",
+      "现实主义作品"
+    ],
+    "discussion_triggers": [
+      "电影争议",
+      "种族歧视",
+      "文化渗透",
+      "政治正确"
+    ],
+    "sensitive_topics": [
+      "种族歧视",
+      "文化渗透",
+      "政治正确",
+      "儿童教育"
+    ],
+    "value_tendencies": [
+      "爱国",
+      "警惕西方意识形态",
+      "追求真实与多元",
+      "反对刻板印象"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "证据导向",
+      "批判性思维",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "电影分析",
+        "文化研究",
+        "社会评论"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 80,
+      "likes_debating": 70,
+      "likes_contrarian": 50,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "反驳他人",
+      "展示专业能力",
+      "提醒公众警惕"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "动画电影争议",
+        "score": 90
+      },
+      {
+        "topic": "文化意识形态",
+        "score": 85
+      },
+      {
+        "topic": "种族歧视",
+        "score": 80
+      },
+      {
+        "topic": "政治正确",
+        "score": 75
+      },
+      {
+        "topic": "现实主义作品",
+        "score": 70
+      }
+    ],
+    "impression": "一个忧国忧民、逻辑严密的文化守夜人，对细节敏感，喜欢用证据说话，但偶尔流露出对主流叙事的不信任。"
+  },
+  "analyzed_at": "2026-06-15T22:23:29.941704",
+  "token_usage": 2759
+}

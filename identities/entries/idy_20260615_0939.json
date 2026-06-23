@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0939",
+  "source": {
+    "title": "有哪些品牌的小家电使用过一次后，就让你爱上这个品牌？",
+    "url": "https://www.zhihu.com/question/507734203/answer/2288756661",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领/职场人士",
+      "industry": "互联网/科技",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "独居",
+      "工作稳定",
+      "消费升级期"
+    ],
+    "life_experiences": [
+      "曾经冲动消费",
+      "开始记账理财",
+      "经历过牙痛看医生",
+      "朋友推荐影响购买决策"
+    ],
+    "interest_topics": [
+      "智能家电",
+      "品质生活",
+      "消费理财",
+      "咖啡文化",
+      "口腔护理"
+    ],
+    "discussion_triggers": [
+      "小家电推荐",
+      "提升幸福感的好物",
+      "消费降级与升级",
+      "省钱技巧",
+      "家居清洁"
+    ],
+    "sensitive_topics": [
+      "浪费钱",
+      "不注重健康",
+      "劣质产品"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "健康意识",
+      "品质追求",
+      "理性消费",
+      "社交影响"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "对比分析",
+      "实用导向",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "智能家电",
+        "生活好物"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 60,
+      "likes_commenting": 40,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享好物",
+      "帮助他人避坑",
+      "获得认同",
+      "展示生活品味"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "智能洗地机推荐",
+        "score": 80
+      },
+      {
+        "topic": "电动牙刷测评",
+        "score": 70
+      },
+      {
+        "topic": "家用咖啡机选购",
+        "score": 75
+      },
+      {
+        "topic": "记账理财心得",
+        "score": 60
+      },
+      {
+        "topic": "提升幸福感的小家电",
+        "score": 90
+      }
+    ],
+    "impression": "一个从冲动消费转向理性品质生活的都市女性，乐于分享自己的经验，有点小得意但真诚可爱。"
+  },
+  "analyzed_at": "2026-06-15T22:31:31.907744",
+  "token_usage": 2549
+}

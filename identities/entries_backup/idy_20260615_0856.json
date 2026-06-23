@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0856",
+  "source": {
+    "title": "明汯投资裘慧明：量化投资的本质属于价格发现",
+    "url": "https://zhuanlan.zhihu.com/p/450222750",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-55",
+      "gender": "男",
+      "education": "博士",
+      "occupation": "量化投资经理/创始人",
+      "industry": "金融投资",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "高收入"
+    },
+    "life_stage": [
+      "事业成熟期",
+      "行业意见领袖"
+    ],
+    "life_experiences": [
+      "海外量化从业经历",
+      "创办量化私募基金",
+      "经历A股市场量化发展历程"
+    ],
+    "interest_topics": [
+      "量化投资",
+      "金融科技",
+      "市场微观结构",
+      "资产定价",
+      "行为金融学"
+    ],
+    "discussion_triggers": [
+      "量化投资误解",
+      "市场流动性",
+      "中美市场对比",
+      "机构化趋势"
+    ],
+    "sensitive_topics": [
+      "量化交易监管",
+      "市场公平性",
+      "个人投资者保护"
+    ],
+    "value_tendencies": [
+      "市场效率优先",
+      "技术中立",
+      "专业主义",
+      "长期主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "比较分析",
+      "逻辑推演"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "量化投资策略",
+        "高频交易",
+        "基本面量化",
+        "市场微观结构"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 70,
+      "likes_contrarian": 40,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "纠正误解",
+      "展示专业能力",
+      "教育公众",
+      "维护行业声誉"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 80,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "量化投资原理",
+        "score": 95
+      },
+      {
+        "topic": "市场流动性",
+        "score": 90
+      },
+      {
+        "topic": "中美股市对比",
+        "score": 85
+      },
+      {
+        "topic": "高频交易争议",
+        "score": 80
+      },
+      {
+        "topic": "个人投资者保护",
+        "score": 60
+      }
+    ],
+    "impression": "理性专业的量化大佬，用数据和逻辑为行业正名，但偶尔流露出对市场误解的无奈。"
+  },
+  "analyzed_at": "2026-06-15T22:30:31.954901",
+  "token_usage": 2725
+}

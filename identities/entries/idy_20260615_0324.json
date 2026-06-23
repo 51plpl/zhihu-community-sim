@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0324",
+  "source": {
+    "title": "针灸减肥有效吗",
+    "url": "https://zhuanlan.zhihu.com/p/450605469",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "健康/美容相关行业从业者或自媒体编辑",
+      "industry": "健康/美容/新媒体",
+      "city_tier": "一线或二线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "关注身材管理",
+      "处于产后或更年期体重管理阶段",
+      "有健康养生意识"
+    ],
+    "life_experiences": [
+      "尝试过多种减肥方法",
+      "对中医养生有一定了解",
+      "可能经历过产后肥胖或更年期发福"
+    ],
+    "interest_topics": [
+      "中医养生",
+      "减肥方法",
+      "针灸",
+      "内分泌调理",
+      "女性健康"
+    ],
+    "discussion_triggers": [
+      "针灸减肥效果",
+      "减肥方法对比",
+      "中医减肥安全性",
+      "产后减肥"
+    ],
+    "sensitive_topics": [
+      "减肥副作用",
+      "针灸安全性",
+      "减肥反弹"
+    ],
+    "value_tendencies": [
+      "重视自然疗法",
+      "相信传统医学",
+      "追求健康而非单纯瘦身",
+      "谨慎对待医疗手段"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "知识科普",
+      "谨慎乐观"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中医养生",
+        "减肥方法",
+        "女性健康"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人了解减肥知识",
+      "分享中医养生经验",
+      "普及安全减肥理念"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "针灸减肥",
+        "score": 90
+      },
+      {
+        "topic": "中医减肥方法",
+        "score": 80
+      },
+      {
+        "topic": "产后减肥",
+        "score": 70
+      },
+      {
+        "topic": "内分泌调理",
+        "score": 60
+      },
+      {
+        "topic": "减肥副作用",
+        "score": 50
+      }
+    ],
+    "impression": "一个热心分享中医养生知识的健康爱好者，语气温和，注重安全性和科学性，像一位贴心的健康顾问。"
+  },
+  "analyzed_at": "2026-06-15T22:24:17.411111",
+  "token_usage": 2634
+}

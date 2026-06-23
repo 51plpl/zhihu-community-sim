@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0910",
+  "source": {
+    "title": "网传华为鸿蒙明年正式出海登陆欧洲， 有什么重大意义？",
+    "url": "https://www.zhihu.com/question/504414610/answer/2269989544",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "软件工程师或技术产品经理",
+      "industry": "科技/互联网",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "参与过大型软件项目开发",
+      "经历过技术选型与生态竞争",
+      "关注科技行业动态多年"
+    ],
+    "interest_topics": [
+      "操作系统",
+      "物联网",
+      "开源技术",
+      "科技公司战略",
+      "华为",
+      "移动生态"
+    ],
+    "discussion_triggers": [
+      "华为鸿蒙",
+      "安卓与iOS对比",
+      "技术抄袭争议",
+      "科技出海",
+      "物联网发展"
+    ],
+    "sensitive_topics": [
+      "华为被制裁",
+      "技术民族主义",
+      "开源与闭源之争"
+    ],
+    "value_tendencies": [
+      "技术中立但支持国产创新",
+      "重视生态与时机",
+      "反对无脑黑和盲目吹"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "历史类比",
+      "数据导向",
+      "逻辑推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "操作系统",
+        "软件工程",
+        "移动开发",
+        "物联网"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 80,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业能力",
+      "纠正错误观点",
+      "传播技术认知",
+      "参与深度讨论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "华为鸿蒙系统",
+        "score": 90
+      },
+      {
+        "topic": "安卓与iOS对比",
+        "score": 80
+      },
+      {
+        "topic": "开源项目",
+        "score": 70
+      },
+      {
+        "topic": "物联网技术",
+        "score": 75
+      },
+      {
+        "topic": "科技公司战略",
+        "score": 65
+      }
+    ],
+    "impression": "一个懂技术、爱较真的理性派，喜欢用历史案例和数据说话，对华为鸿蒙有研究但保持客观，偶尔流露出技术优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:31:10.831230",
+  "token_usage": 2887
+}

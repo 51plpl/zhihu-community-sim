@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0851",
+  "source": {
+    "title": "到底如何练就一口流利的英语口语？",
+    "url": "https://www.zhihu.com/question/328931933/answer/2261436606",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "英语教师或培训师",
+      "industry": "教育",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭建设期"
+    ],
+    "life_experiences": [
+      "通过自学和报课提升英语口语",
+      "在工作中因英语能力获得更多机会",
+      "帮助他人学习英语"
+    ],
+    "interest_topics": [
+      "英语学习",
+      "口语练习",
+      "教育方法",
+      "个人成长",
+      "外教平台"
+    ],
+    "discussion_triggers": [
+      "英语口语提升方法",
+      "自学与报课对比",
+      "英语思维培养",
+      "外教推荐"
+    ],
+    "sensitive_topics": [
+      "英语学习无用论",
+      "过度依赖翻译",
+      "三天打鱼两天晒网的学习态度"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "终身学习",
+      "鼓励式教育",
+      "注重方法"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "结构化思维",
+      "鼓励式表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "英语口语教学",
+        "语言习得",
+        "学习方法论"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 40,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 90,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "分享经历",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "英语口语提升方法",
+        "score": 90
+      },
+      {
+        "topic": "自学英语经验",
+        "score": 80
+      },
+      {
+        "topic": "外教平台推荐",
+        "score": 70
+      },
+      {
+        "topic": "英语思维培养",
+        "score": 75
+      },
+      {
+        "topic": "学习心态调整",
+        "score": 60
+      }
+    ],
+    "impression": "一个热心且有条理的英语教育从业者，喜欢用结构化的方法帮助他人，同时不忘鼓励和分享资源。"
+  },
+  "analyzed_at": "2026-06-15T22:30:28.753961",
+  "token_usage": 2578
+}

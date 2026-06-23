@@ -1,0 +1,122 @@
+{
+  "id": "idy_20260615_0837",
+  "source": {
+    "title": "如何评价小米 12 Pro 搭载首款自研芯片「澎湃 P1」，行业首次实现「120W 单电芯」充电技术？",
+    "url": "https://www.zhihu.com/question/508113361/answer/2284881259",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "科技媒体编辑或产品经理",
+      "industry": "消费电子/科技",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏高"
+    },
+    "life_stage": [
+      "职业上升期",
+      "科技爱好者"
+    ],
+    "life_experiences": [
+      "长期关注手机行业",
+      "使用过小米产品",
+      "对芯片设计有基础认知"
+    ],
+    "interest_topics": [
+      "手机快充技术",
+      "芯片设计",
+      "折叠屏手机",
+      "小米生态",
+      "消费电子评测"
+    ],
+    "discussion_triggers": [
+      "小米新品发布",
+      "自研芯片话题",
+      "快充技术对比",
+      "折叠屏体验"
+    ],
+    "sensitive_topics": [
+      "国产芯片能力质疑",
+      "小米高端化争议"
+    ],
+    "value_tendencies": [
+      "技术乐观主义",
+      "支持国产创新",
+      "理性消费观"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 35,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "技术分析",
+      "逻辑推理",
+      "行业趋势判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "手机充电技术",
+        "芯片架构",
+        "消费电子行业"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 10,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 85,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业知识",
+      "帮助他人理解技术",
+      "支持国产创新"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "小米快充技术",
+        "score": 90
+      },
+      {
+        "topic": "自研芯片进展",
+        "score": 85
+      },
+      {
+        "topic": "折叠屏手机",
+        "score": 70
+      },
+      {
+        "topic": "手机充电方案对比",
+        "score": 80
+      }
+    ],
+    "impression": "一个技术乐观的数码爱好者，喜欢用数据和逻辑分析来支持国产创新，但偶尔显得过于理想化。"
+  },
+  "analyzed_at": "2026-06-15T22:30:19.172501",
+  "token_usage": 2834
+}

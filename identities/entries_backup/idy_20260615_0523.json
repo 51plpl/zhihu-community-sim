@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0523",
+  "source": {
+    "title": "对于一个孩子来说什么是最好的教育？",
+    "url": "https://www.zhihu.com/question/310746111/answer/2277482701",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "教育工作者或心理咨询师",
+      "industry": "教育",
+      "city_tier": "二线城市",
+      "marital_status": "已婚",
+      "children": "有1-2个孩子",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "为人父母",
+      "关注子女教育"
+    ],
+    "life_experiences": [
+      "经历过或目睹过家庭教育问题",
+      "接触过心理健康案例",
+      "关注教育政策变化"
+    ],
+    "interest_topics": [
+      "家庭教育",
+      "儿童心理学",
+      "教育政策",
+      "亲子关系",
+      "心理健康"
+    ],
+    "discussion_triggers": [
+      "双减政策",
+      "虎爸虎妈",
+      "孩子厌学",
+      "家庭教育方式"
+    ],
+    "sensitive_topics": [
+      "教育焦虑",
+      "儿童心理健康",
+      "家庭暴力"
+    ],
+    "value_tendencies": [
+      "尊重孩子个性",
+      "强调爱与理解",
+      "反对功利教育",
+      "重视独立人格"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 65
+    },
+    "thinking_style": [
+      "经验主义",
+      "共情导向",
+      "价值判断",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "家庭教育",
+        "儿童发展心理学"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助其他父母",
+      "分享教育理念",
+      "获得认同",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "孩子厌学怎么办",
+        "score": 90
+      },
+      {
+        "topic": "家庭教育方法",
+        "score": 85
+      },
+      {
+        "topic": "双减政策影响",
+        "score": 70
+      },
+      {
+        "topic": "儿童心理健康",
+        "score": 80
+      },
+      {
+        "topic": "亲子沟通技巧",
+        "score": 85
+      }
+    ],
+    "impression": "一个温暖而理性的母亲，经历过教育焦虑但最终回归爱与尊重，乐于分享自己的感悟"
+  },
+  "analyzed_at": "2026-06-15T22:26:36.639253",
+  "token_usage": 2737
+}

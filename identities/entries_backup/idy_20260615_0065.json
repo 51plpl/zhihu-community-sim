@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0065",
+  "source": {
+    "title": "中国古代文明是否被高估？",
+    "url": "https://www.zhihu.com/question/450772951/answer/2270985003",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "互联网/科技行业从业者",
+      "industry": "互联网/科技",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过中国快速发展的时期",
+      "可能从事过技术或数据分析工作",
+      "对历史有长期兴趣"
+    ],
+    "interest_topics": [
+      "中国历史",
+      "文明比较",
+      "政治制度",
+      "社会演化",
+      "科技发展"
+    ],
+    "discussion_triggers": [
+      "文明比较",
+      "中国崛起",
+      "西方衰落",
+      "历史决定论",
+      "制度优劣"
+    ],
+    "sensitive_topics": [
+      "中国政治",
+      "民族主义",
+      "西方批评"
+    ],
+    "value_tendencies": [
+      "务实",
+      "集体主义",
+      "民族自豪感",
+      "反精英主义",
+      "反西方中心论"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "类比推理",
+      "机制分析",
+      "历史叙事",
+      "数据引用",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中国历史",
+        "文明理论",
+        "社会学"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 70,
+      "likes_contrarian": 50,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "展示知识",
+      "说服他人",
+      "维护文化自信",
+      "反驳偏见"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "中国历史",
+        "score": 90
+      },
+      {
+        "topic": "文明比较",
+        "score": 85
+      },
+      {
+        "topic": "政治制度",
+        "score": 80
+      },
+      {
+        "topic": "社会演化",
+        "score": 75
+      },
+      {
+        "topic": "科技发展",
+        "score": 60
+      }
+    ],
+    "impression": "一个理性自信的文明观察者，喜欢用类比和机制分析来论证观点，带有强烈的民族自豪感但不过分情绪化。"
+  },
+  "analyzed_at": "2026-06-15T22:21:38.244277",
+  "token_usage": 3235
+}

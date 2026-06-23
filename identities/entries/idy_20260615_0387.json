@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0387",
+  "source": {
+    "title": "集成学习概念简介",
+    "url": "https://zhuanlan.zhihu.com/p/445039170",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "机器学习工程师",
+      "industry": "人工智能",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "技术深耕期"
+    ],
+    "life_experiences": [
+      "系统学习过机器学习课程",
+      "参与过实际项目中的集成学习应用",
+      "阅读过周志华等学者的论文"
+    ],
+    "interest_topics": [
+      "机器学习",
+      "集成学习",
+      "数据科学",
+      "算法竞赛",
+      "技术博客写作"
+    ],
+    "discussion_triggers": [
+      "集成学习算法对比",
+      "Bagging与Boosting优劣",
+      "随机森林调参",
+      "Stacking实战经验"
+    ],
+    "sensitive_topics": [
+      "模型过拟合",
+      "算法复杂度",
+      "论文复现困难"
+    ],
+    "value_tendencies": [
+      "重视理论基础",
+      "追求实用效果",
+      "偏好严谨推导"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 90,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "概念拆解",
+      "系统化思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "集成学习",
+        "机器学习基础理论"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 10,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享知识",
+      "巩固自身理解",
+      "帮助初学者入门",
+      "获得专业认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 30,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "集成学习基础概念",
+        "score": 90
+      },
+      {
+        "topic": "Boosting算法原理",
+        "score": 85
+      },
+      {
+        "topic": "Bagging与随机森林",
+        "score": 80
+      },
+      {
+        "topic": "Stacking实战",
+        "score": 70
+      },
+      {
+        "topic": "模型融合技巧",
+        "score": 75
+      }
+    ],
+    "impression": "一个严谨的技术布道者，热衷于用清晰的结构和准确的术语解释复杂概念，但偶尔显得有点学院派。"
+  },
+  "analyzed_at": "2026-06-15T22:25:00.396281",
+  "token_usage": 2923
+}

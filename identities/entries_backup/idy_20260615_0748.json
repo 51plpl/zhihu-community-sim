@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0748",
+  "source": {
+    "title": "基于BERT预训练模型的英文文本蕴含任务",
+    "url": "https://zhuanlan.zhihu.com/p/449544293",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "AI算法工程师/研究员",
+      "industry": "人工智能/自然语言处理",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "技术深耕期"
+    ],
+    "life_experiences": [
+      "系统学习过深度学习与NLP",
+      "参与过BERT下游任务微调项目",
+      "撰写过技术博客或教程",
+      "使用过Transformers库"
+    ],
+    "interest_topics": [
+      "自然语言处理",
+      "预训练模型",
+      "文本分类",
+      "文本蕴含",
+      "BERT微调",
+      "深度学习框架",
+      "开源项目"
+    ],
+    "discussion_triggers": [
+      "BERT微调技巧",
+      "文本对分类数据处理",
+      "MNLI数据集",
+      "Transformers库使用",
+      "NLP竞赛经验"
+    ],
+    "sensitive_topics": [
+      "模型性能对比",
+      "预训练模型选择",
+      "代码实现细节"
+    ],
+    "value_tendencies": [
+      "技术实用主义",
+      "知识分享",
+      "严谨治学"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "步骤拆解",
+      "示例驱动",
+      "注重细节"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "自然语言处理",
+        "BERT预训练模型",
+        "文本分类"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助他人理解技术",
+      "展示专业能力",
+      "分享实践经验",
+      "获得同行认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "BERT微调教程",
+        "score": 90
+      },
+      {
+        "topic": "文本对分类数据处理",
+        "score": 85
+      },
+      {
+        "topic": "MNLI数据集使用",
+        "score": 80
+      },
+      {
+        "topic": "Transformers库代码",
+        "score": 75
+      },
+      {
+        "topic": "NLP入门问题",
+        "score": 60
+      }
+    ],
+    "impression": "一个耐心细致的技术布道者，喜欢用流程图和代码示例一步步讲解，但偶尔会陷入细节堆砌。"
+  },
+  "analyzed_at": "2026-06-15T22:29:16.442223",
+  "token_usage": 3915
+}

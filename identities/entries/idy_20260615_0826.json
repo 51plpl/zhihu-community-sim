@@ -1,0 +1,123 @@
+{
+  "id": "idy_20260615_0826",
+  "source": {
+    "title": "怎么解读A岛上的动物园规则怪谈？",
+    "url": "https://www.zhihu.com/question/501736883/answer/2250750280",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "男",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "无",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "大学阶段",
+      "探索兴趣"
+    ],
+    "life_experiences": [
+      "热衷于网络怪谈和都市传说",
+      "参与过A岛等匿名社区讨论",
+      "对规则怪谈类文本有深入研究"
+    ],
+    "interest_topics": [
+      "规则怪谈",
+      "都市传说",
+      "恐怖故事",
+      "网络文化",
+      "推理谜题"
+    ],
+    "discussion_triggers": [
+      "规则怪谈解读",
+      "A岛动物园怪谈",
+      "恐怖故事逻辑分析"
+    ],
+    "sensitive_topics": [
+      "恐怖元素",
+      "血腥描写",
+      "认知污染"
+    ],
+    "value_tendencies": [
+      "理性分析",
+      "逻辑推理",
+      "尊重原创"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "逻辑推理",
+      "机制分析",
+      "文本细读",
+      "归纳总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "规则怪谈",
+        "网络亚文化",
+        "恐怖文学"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 10
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 10,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "展示分析能力",
+      "帮助他人理解",
+      "分享推理乐趣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "规则怪谈解读",
+        "score": 90
+      },
+      {
+        "topic": "A岛动物园怪谈",
+        "score": 95
+      },
+      {
+        "topic": "恐怖故事逻辑",
+        "score": 80
+      },
+      {
+        "topic": "网络文化",
+        "score": 60
+      }
+    ],
+    "impression": "一个沉迷于规则怪谈逻辑推理的年轻学生，喜欢长篇大论地分析文本细节，理性冷静，偶尔会流露出对恐怖元素的兴奋感。"
+  },
+  "analyzed_at": "2026-06-15T22:30:10.035971",
+  "token_usage": 2659
+}

@@ -1,0 +1,124 @@
+{
+  "id": "idy_20260615_0063",
+  "source": {
+    "title": "类似趣步的stepn项目NFT空投（详细教程）",
+    "url": "https://zhuanlan.zhihu.com/p/444888805",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网运营/产品经理",
+      "industry": "互联网/区块链",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "积极副业探索"
+    ],
+    "life_experiences": [
+      "参与过多个区块链项目的早期空投",
+      "曾使用过趣步等移动赚钱应用",
+      "熟悉Discord社区操作"
+    ],
+    "interest_topics": [
+      "区块链空投",
+      "NFT",
+      "GameFi",
+      "加密货币",
+      "StepN",
+      "羊毛教程"
+    ],
+    "discussion_triggers": [
+      "空投教程",
+      "邀请机制",
+      "项目早期参与机会",
+      "赚钱方法"
+    ],
+    "sensitive_topics": [
+      "项目跑路风险",
+      "邀请拉人头争议",
+      "区块链骗局"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "机会主义",
+      "技术乐观"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "步骤导向",
+      "信息整合",
+      "实用主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "区块链空投",
+        "Discord机器人",
+        "NFT铸造"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人获取空投",
+      "展示自己对项目的了解",
+      "积累社区声望"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "StepN空投教程",
+        "score": 90
+      },
+      {
+        "topic": "区块链邀请机制",
+        "score": 70
+      },
+      {
+        "topic": "Discord验证问题",
+        "score": 60
+      },
+      {
+        "topic": "NFT铸造流程",
+        "score": 50
+      }
+    ],
+    "impression": "一个热衷于分享区块链空投教程的实用主义者，细致耐心，但略带拉人头嫌疑。"
+  },
+  "analyzed_at": "2026-06-15T22:21:37.078497",
+  "token_usage": 2712
+}

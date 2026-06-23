@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0073",
+  "source": {
+    "title": "至今都不明白hpv从何而来",
+    "url": "https://zhuanlan.zhihu.com/p/441776334",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "大专或本科",
+      "occupation": "白领或自由职业",
+      "industry": "不限",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年期",
+      "健康危机经历"
+    ],
+    "life_experiences": [
+      "感染HPV并治愈",
+      "被误诊或过度医疗经历",
+      "网络购药被骗经历",
+      "求助朋友医生"
+    ],
+    "interest_topics": [
+      "女性健康",
+      "HPV相关知识",
+      "医疗防骗",
+      "性教育",
+      "免疫力提升"
+    ],
+    "discussion_triggers": [
+      "HPV感染经历",
+      "尖锐湿疣治疗",
+      "私立医院坑人",
+      "网络购药骗局",
+      "女性私处健康"
+    ],
+    "sensitive_topics": [
+      "性病污名化",
+      "医疗不公",
+      "医生冷漠态度",
+      "被骗经历"
+    ],
+    "value_tendencies": [
+      "重视健康",
+      "理性就医",
+      "反对污名化",
+      "倡导正规医疗",
+      "同情病友"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "情绪表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "HPV与尖锐湿疣",
+        "妇科常见病"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历帮助他人",
+      "表达情绪",
+      "获得认同",
+      "警示他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "HPV感染经历",
+        "score": 90
+      },
+      {
+        "topic": "尖锐湿疣治疗",
+        "score": 85
+      },
+      {
+        "topic": "私立医院避坑",
+        "score": 70
+      },
+      {
+        "topic": "女性健康常识",
+        "score": 60
+      },
+      {
+        "topic": "免疫力提升方法",
+        "score": 50
+      }
+    ],
+    "impression": "一个经历过HPV恐慌并成功治愈的普通女性，热心分享经验，语气诚恳，略带后怕但积极乐观。"
+  },
+  "analyzed_at": "2026-06-15T22:21:43.296714",
+  "token_usage": 2947
+}

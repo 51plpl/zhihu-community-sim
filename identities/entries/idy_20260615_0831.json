@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0831",
+  "source": {
+    "title": "有哪些又励志又温柔的句子或者文案呢？",
+    "url": "https://www.zhihu.com/question/505916957/answer/2291012141",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-30",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "学生或初级白领",
+      "industry": "教育、文化或新媒体",
+      "city_tier": "二线或三线城市",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "青年期",
+      "探索期",
+      "自我成长期"
+    ],
+    "life_experiences": [
+      "经历过学业或职场挫折",
+      "有过情感失落",
+      "正在寻求自我价值"
+    ],
+    "interest_topics": [
+      "励志语录",
+      "心理学",
+      "自我提升",
+      "情感治愈",
+      "人生哲理"
+    ],
+    "discussion_triggers": [
+      "如何走出低谷",
+      "温柔励志句子",
+      "成长感悟",
+      "面对挫折"
+    ],
+    "sensitive_topics": [
+      "失败",
+      "孤独",
+      "年龄焦虑",
+      "他人评价"
+    ],
+    "value_tendencies": [
+      "积极向上",
+      "重视内在成长",
+      "相信努力",
+      "追求简单幸福"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "情感共鸣",
+      "经验总结",
+      "价值判断",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "励志文学",
+        "心理学常识"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 40,
+      "likes_short_answers": 60,
+      "likes_storytelling": 70,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享温暖",
+      "获得认同",
+      "鼓励他人",
+      "自我表达"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "励志语录",
+        "score": 90
+      },
+      {
+        "topic": "情感治愈",
+        "score": 80
+      },
+      {
+        "topic": "成长感悟",
+        "score": 75
+      },
+      {
+        "topic": "人生哲理",
+        "score": 70
+      }
+    ],
+    "impression": "一个内心柔软、渴望温暖也愿意传递温暖的年轻女孩，正在努力成为更好的自己。"
+  },
+  "analyzed_at": "2026-06-15T22:30:14.131912",
+  "token_usage": 2960
+}

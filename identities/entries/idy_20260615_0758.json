@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0758",
+  "source": {
+    "title": "海王终于结婚了？",
+    "url": "https://zhuanlan.zhihu.com/p/444606479",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "新媒体编辑或娱乐博主",
+      "industry": "媒体/娱乐",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场上升期",
+      "关注娱乐圈动态"
+    ],
+    "life_experiences": [
+      "追星经历",
+      "关注八卦新闻",
+      "可能有过感情经历"
+    ],
+    "interest_topics": [
+      "娱乐圈八卦",
+      "明星恋情",
+      "影视剧",
+      "情感关系",
+      "社会热点"
+    ],
+    "discussion_triggers": [
+      "明星结婚离婚",
+      "渣男渣女话题",
+      "影视剧CP",
+      "明星黑历史"
+    ],
+    "sensitive_topics": [
+      "性别不平等",
+      "PUA",
+      "感情欺骗"
+    ],
+    "value_tendencies": [
+      "反对渣男行为",
+      "支持女性独立",
+      "重视感情忠诚",
+      "关注作品而非私生活"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 65,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "价值判断",
+      "细节挖掘"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "娱乐圈八卦",
+        "明星历史",
+        "影视作品"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 40,
+      "likes_commenting": 80,
+      "likes_debating": 60,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 90,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享八卦",
+      "表达观点",
+      "获得认同",
+      "娱乐他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "明星恋情",
+        "score": 90
+      },
+      {
+        "topic": "渣男行为",
+        "score": 85
+      },
+      {
+        "topic": "影视剧评价",
+        "score": 70
+      },
+      {
+        "topic": "情感关系",
+        "score": 60
+      }
+    ],
+    "impression": "一个热衷吃瓜、爱憎分明的娱乐八卦爱好者，对渣男零容忍，但又能客观评价作品，带点幽默感。"
+  },
+  "analyzed_at": "2026-06-15T22:29:23.420643",
+  "token_usage": 3775
+}

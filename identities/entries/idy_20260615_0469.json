@@ -1,0 +1,125 @@
+{
+  "id": "idy_20260615_0469",
+  "source": {
+    "title": "ROG全能笔记本，一本搞定所有需求。",
+    "url": "https://zhuanlan.zhihu.com/p/446541063",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "IT从业者或创意设计工作者",
+      "industry": "科技/互联网",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职场上升期",
+      "租房生活",
+      "频繁出差或通勤"
+    ],
+    "life_experiences": [
+      "曾使用轻薄本但发现性能不足",
+      "体验过多款笔记本电脑",
+      "有游戏和设计需求"
+    ],
+    "interest_topics": [
+      "笔记本电脑",
+      "硬件配置",
+      "游戏",
+      "设计软件",
+      "数码产品评测"
+    ],
+    "discussion_triggers": [
+      "笔记本选购",
+      "轻薄本vs全能本",
+      "游戏性能",
+      "屏幕素质"
+    ],
+    "sensitive_topics": [
+      "轻薄本性能不足",
+      "散热问题",
+      "性价比争议"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "性能优先",
+      "注重细节",
+      "理性消费"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "体验对比",
+      "技术分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "硬件参数",
+        "笔记本散热",
+        "屏幕技术"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经验",
+      "展示专业知识",
+      "帮助他人选购"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "笔记本推荐",
+        "score": 90
+      },
+      {
+        "topic": "游戏本性能",
+        "score": 85
+      },
+      {
+        "topic": "屏幕色域",
+        "score": 80
+      },
+      {
+        "topic": "轻薄本缺点",
+        "score": 75
+      }
+    ],
+    "impression": "一个热爱数码、喜欢用数据说话的硬核玩家，分享时带着过来人的实用建议。"
+  },
+  "analyzed_at": "2026-06-15T22:25:58.540258",
+  "token_usage": 3134
+}

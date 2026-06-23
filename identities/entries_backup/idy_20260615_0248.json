@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0248",
+  "source": {
+    "title": "什么东西去痘印最有效？",
+    "url": "https://www.zhihu.com/question/318819874/answer/2258367969",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科在读或毕业",
+      "occupation": "学生或初级白领",
+      "industry": "不限",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "学生时代",
+      "职场新人",
+      "护肤焦虑期"
+    ],
+    "life_experiences": [
+      "长痘经历",
+      "尝试多种祛痘产品",
+      "被种草后成功改善皮肤"
+    ],
+    "interest_topics": [
+      "护肤",
+      "祛痘印",
+      "平价好物",
+      "国货",
+      "美妆"
+    ],
+    "discussion_triggers": [
+      "祛痘印方法",
+      "平价护肤品推荐",
+      "国货测评",
+      "双十二购物"
+    ],
+    "sensitive_topics": [
+      "皮肤差被嘲笑",
+      "痘痘反复",
+      "产品无效"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "性价比优先",
+      "支持国货",
+      "相信口碑"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "经验分享",
+      "情感驱动",
+      "种草推荐"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "护肤",
+        "祛痘印"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 60,
+      "likes_short_answers": 40,
+      "likes_storytelling": 80,
+      "likes_explaining": 50,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享成功经验",
+      "帮助同样有痘印的人",
+      "获得认同",
+      "推荐好物"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "祛痘印产品推荐",
+        "score": 90
+      },
+      {
+        "topic": "平价护肤好物",
+        "score": 85
+      },
+      {
+        "topic": "国货护肤品",
+        "score": 80
+      },
+      {
+        "topic": "油皮护肤",
+        "score": 70
+      },
+      {
+        "topic": "双十二购物清单",
+        "score": 75
+      }
+    ],
+    "impression": "一个热情洋溢、乐于分享的护肤小白鼠，用亲身经历疯狂安利平价好物，语气夸张但真诚，像极了身边那个爱种草的闺蜜。"
+  },
+  "analyzed_at": "2026-06-15T22:23:30.349548",
+  "token_usage": 2913
+}

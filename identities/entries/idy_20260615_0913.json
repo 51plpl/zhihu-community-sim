@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0913",
+  "source": {
+    "title": "医学影像学习？",
+    "url": "https://www.zhihu.com/question/48474773/answer/2287195635",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "博士在读或硕士以上",
+      "occupation": "研究生/研究员",
+      "industry": "医学影像/计算机视觉",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "学术研究初期",
+      "技术积累期",
+      "职业发展期"
+    ],
+    "life_experiences": [
+      "参与过医学图像分割项目",
+      "阅读大量论文",
+      "进行过实验和代码复现"
+    ],
+    "interest_topics": [
+      "医学影像分割",
+      "深度学习",
+      "Transformer",
+      "半监督学习",
+      "计算机视觉"
+    ],
+    "discussion_triggers": [
+      "新论文分享",
+      "模型性能对比",
+      "代码开源",
+      "数据集介绍"
+    ],
+    "sensitive_topics": [
+      "论文抄袭",
+      "实验可复现性",
+      "学术不端"
+    ],
+    "value_tendencies": [
+      "重视学术严谨性",
+      "推崇技术创新",
+      "关注实用价值"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "技术细节导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "医学图像分割",
+        "深度学习架构",
+        "半监督学习"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 10,
+      "likes_explaining": 80,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享最新研究",
+      "展示专业能力",
+      "帮助他人理解技术",
+      "获得同行认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "医学影像分割",
+        "score": 90
+      },
+      {
+        "topic": "Transformer在CV中的应用",
+        "score": 80
+      },
+      {
+        "topic": "半监督学习",
+        "score": 70
+      },
+      {
+        "topic": "深度学习框架",
+        "score": 60
+      },
+      {
+        "topic": "论文复现",
+        "score": 75
+      }
+    ],
+    "impression": "一个专注学术的技术宅，热衷于分享前沿论文并强调技术细节，理性且务实。"
+  },
+  "analyzed_at": "2026-06-15T22:31:12.141880",
+  "token_usage": 3175
+}

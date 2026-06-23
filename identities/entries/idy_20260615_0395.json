@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0395",
+  "source": {
+    "title": "印度的悲剧对中国有怎样的警示？",
+    "url": "https://www.zhihu.com/question/457104088/answer/2286304540",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "互联网/科技行业从业者",
+      "industry": "信息技术",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "事业上升期",
+      "关注国家发展"
+    ],
+    "life_experiences": [
+      "经历过中国快速发展的时期",
+      "对历史和政治有浓厚兴趣",
+      "可能参与过网络讨论或写作"
+    ],
+    "interest_topics": [
+      "国际政治",
+      "中国发展",
+      "历史",
+      "军事",
+      "经济"
+    ],
+    "discussion_triggers": [
+      "中印对比",
+      "中国崛起",
+      "抗美援朝",
+      "工业化",
+      "民主制度"
+    ],
+    "sensitive_topics": [
+      "中国政治体制",
+      "民主与威权",
+      "民族主义"
+    ],
+    "value_tendencies": [
+      "民族主义",
+      "现实主义",
+      "重视历史经验",
+      "强调国家能力"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "历史类比",
+      "机制分析",
+      "价值判断",
+      "对比论证"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中国近代史",
+        "国际关系",
+        "军事史"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 90,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "表达观点",
+      "反驳他人",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 80,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "中印对比",
+        "score": 90
+      },
+      {
+        "topic": "中国崛起",
+        "score": 85
+      },
+      {
+        "topic": "抗美援朝",
+        "score": 80
+      },
+      {
+        "topic": "工业化",
+        "score": 75
+      },
+      {
+        "topic": "民主制度",
+        "score": 70
+      }
+    ],
+    "impression": "一个充满民族自豪感、喜欢用历史类比论证的爱国者，言辞犀利，对印度等国家带有优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:25:06.027895",
+  "token_usage": 2952
+}

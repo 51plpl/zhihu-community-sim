@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0783",
+  "source": {
+    "title": "拜登的民主峰会：赐予中国的外交机遇",
+    "url": "https://zhuanlan.zhihu.com/p/441134213",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "国际政治学者/评论员",
+      "industry": "学术/媒体",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "长期研究国际关系",
+      "发表过大量时政评论",
+      "可能有过海外留学或访学经历",
+      "经历过中美关系起伏"
+    ],
+    "interest_topics": [
+      "国际政治",
+      "中美关系",
+      "外交战略",
+      "地缘政治",
+      "意识形态",
+      "历史"
+    ],
+    "discussion_triggers": [
+      "美国外交政策",
+      "中国外交机遇",
+      "民主峰会",
+      "意识形态斗争",
+      "大国博弈"
+    ],
+    "sensitive_topics": [
+      "中国外交批评",
+      "西方民主制度",
+      "意识形态对立"
+    ],
+    "value_tendencies": [
+      "现实主义",
+      "民族主义",
+      "实用主义",
+      "理性分析",
+      "反对意识形态狂热"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "机制分析",
+      "历史类比",
+      "战略思维",
+      "理性冷静"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "国际关系",
+        "地缘政治",
+        "外交史",
+        "战略学"
+      ],
+      "general_knowledge_level": 90,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 90,
+      "likes_contrarian": 70,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 85,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业分析能力",
+      "影响舆论",
+      "反驳情绪化观点",
+      "传播现实主义思想"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 80,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "中美关系",
+        "score": 90
+      },
+      {
+        "topic": "美国外交政策",
+        "score": 85
+      },
+      {
+        "topic": "中国外交战略",
+        "score": 80
+      },
+      {
+        "topic": "意识形态斗争",
+        "score": 70
+      },
+      {
+        "topic": "地缘政治",
+        "score": 75
+      }
+    ],
+    "impression": "一个冷静务实的现实主义者，善于从战略角度分析问题，对情绪化观点不屑一顾，但偶尔流露出精英主义优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:29:40.709690",
+  "token_usage": 2431
+}

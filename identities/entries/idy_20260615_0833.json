@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0833",
+  "source": {
+    "title": "精读《深入了解现代浏览器三》",
+    "url": "https://zhuanlan.zhihu.com/p/444558882",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "前端工程师",
+      "industry": "互联网/IT",
+      "city_tier": "一线城市",
+      "marital_status": "未知",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业发展期",
+      "技术深耕期"
+    ],
+    "life_experiences": [
+      "长期从事前端开发",
+      "阅读过大量技术文档和源码",
+      "参与过技术社区讨论"
+    ],
+    "interest_topics": [
+      "浏览器原理",
+      "前端性能优化",
+      "JavaScript",
+      "CSS",
+      "Web标准",
+      "开源技术"
+    ],
+    "discussion_triggers": [
+      "浏览器渲染流程",
+      "性能优化技巧",
+      "CSS属性差异",
+      "前端框架对比"
+    ],
+    "sensitive_topics": [
+      "浏览器兼容性",
+      "框架选型争议",
+      "性能瓶颈"
+    ],
+    "value_tendencies": [
+      "崇尚技术原理",
+      "注重实践验证",
+      "理性讨论",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "技术分析",
+      "逻辑推理",
+      "系统思考",
+      "经验总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "前端开发",
+        "浏览器内核",
+        "性能优化"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 10,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享技术知识",
+      "展示专业能力",
+      "帮助他人理解",
+      "提升社区技术氛围"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "浏览器渲染原理",
+        "score": 90
+      },
+      {
+        "topic": "前端性能优化",
+        "score": 85
+      },
+      {
+        "topic": "CSS布局技巧",
+        "score": 70
+      },
+      {
+        "topic": "JavaScript异步编程",
+        "score": 60
+      },
+      {
+        "topic": "前端框架对比",
+        "score": 50
+      }
+    ],
+    "impression": "一个技术功底扎实、乐于分享的前端工程师，喜欢从底层原理出发解释问题，理性且有条理。"
+  },
+  "analyzed_at": "2026-06-15T22:30:14.781210",
+  "token_usage": 3536
+}

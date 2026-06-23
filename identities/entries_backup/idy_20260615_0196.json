@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0196",
+  "source": {
+    "title": "网络推广途径有那些？",
+    "url": "https://www.zhihu.com/question/24276402/answer/2262278908",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "网络推广/营销人员",
+      "industry": "互联网/教育培训",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "从事过网络推广工作",
+      "接触过多个推广平台",
+      "经历过推广费用高、效果差的困境"
+    ],
+    "interest_topics": [
+      "网络推广",
+      "在线教育",
+      "私域流量",
+      "营销工具",
+      "低成本创业"
+    ],
+    "discussion_triggers": [
+      "推广费用",
+      "引流效果",
+      "平台抽成",
+      "免费工具"
+    ],
+    "sensitive_topics": [
+      "平台收费",
+      "推广效果差",
+      "被割韭菜"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "成本敏感",
+      "结果导向"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "数据导向",
+      "比较分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络推广",
+        "在线教育平台",
+        "营销工具"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "推广平台"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "网络推广方法",
+        "score": 90
+      },
+      {
+        "topic": "在线教育平台选择",
+        "score": 85
+      },
+      {
+        "topic": "免费营销工具",
+        "score": 80
+      },
+      {
+        "topic": "私域流量搭建",
+        "score": 75
+      },
+      {
+        "topic": "低成本创业",
+        "score": 70
+      }
+    ],
+    "impression": "一个精打细算的推广老手，热衷于推荐自己发现的免费好工具"
+  },
+  "analyzed_at": "2026-06-15T22:22:58.132985",
+  "token_usage": 2529
+}

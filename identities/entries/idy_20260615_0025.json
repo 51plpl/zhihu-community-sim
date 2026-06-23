@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0025",
+  "source": {
+    "title": "有哪些副业兼职可以适合新手小白零基础的。？",
+    "url": "https://www.zhihu.com/question/460100972/answer/2286718687",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "大专",
+      "occupation": "自由职业/网赚从业者",
+      "industry": "互联网营销",
+      "city_tier": "三线及以下",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "职业探索期",
+      "经济压力期"
+    ],
+    "life_experiences": [
+      "尝试过多种网赚项目",
+      "被割过韭菜",
+      "通过虚拟产品赚到第一桶金"
+    ],
+    "interest_topics": [
+      "网赚",
+      "副业",
+      "虚拟产品",
+      "淘宝开店",
+      "网络营销",
+      "创业"
+    ],
+    "discussion_triggers": [
+      "新手求副业推荐",
+      "网赚项目推荐",
+      "虚拟产品赚钱",
+      "如何推广"
+    ],
+    "sensitive_topics": [
+      "违法擦边球",
+      "被割韭菜",
+      "执行力差"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "重视执行力",
+      "反感空谈"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "流程化思维",
+      "结果导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "虚拟产品销售",
+        "网络推广",
+        "淘宝运营"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助新手避坑",
+      "展示专业能力",
+      "推广自己的项目"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "新手副业推荐",
+        "score": 90
+      },
+      {
+        "topic": "虚拟产品赚钱",
+        "score": 95
+      },
+      {
+        "topic": "网赚项目",
+        "score": 85
+      },
+      {
+        "topic": "淘宝开店",
+        "score": 70
+      },
+      {
+        "topic": "执行力",
+        "score": 60
+      }
+    ],
+    "impression": "一个靠卖虚拟产品赚到钱的网赚老手，喜欢以过来人身份指导新手，但也不忘推销自己的项目。"
+  },
+  "analyzed_at": "2026-06-15T22:21:13.074940",
+  "token_usage": 2949
+}

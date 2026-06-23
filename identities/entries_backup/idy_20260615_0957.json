@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0957",
+  "source": {
+    "title": "中央财经大学心理学考研经验+考研真题+考研参考书分享，助你成功上岸",
+    "url": "https://zhuanlan.zhihu.com/p/450843589",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-26",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "考研备考",
+      "应届毕业"
+    ],
+    "life_experiences": [
+      "考研成功上岸",
+      "长时间备考压力",
+      "依赖网络资料和前辈经验"
+    ],
+    "interest_topics": [
+      "心理学考研",
+      "考研经验分享",
+      "学习方法",
+      "教育心理学",
+      "考试技巧"
+    ],
+    "discussion_triggers": [
+      "考研规划",
+      "专业课复习方法",
+      "真题分析",
+      "备考心态调整"
+    ],
+    "sensitive_topics": [
+      "考研歧视",
+      "复习效率低下",
+      "考试焦虑"
+    ],
+    "value_tendencies": [
+      "勤奋努力",
+      "结果导向",
+      "重视规划",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "规划导向",
+      "细节关注"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "心理学",
+        "考研备考"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "帮助他人",
+      "分享经验",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "心理学考研经验",
+        "score": 90
+      },
+      {
+        "topic": "考研时间规划",
+        "score": 80
+      },
+      {
+        "topic": "专业课复习方法",
+        "score": 85
+      },
+      {
+        "topic": "考研心态调整",
+        "score": 70
+      },
+      {
+        "topic": "中央财经大学心理学",
+        "score": 75
+      }
+    ],
+    "impression": "一个经历过考研洗礼、热情分享经验的学姐，注重细节和规划，乐于助人。"
+  },
+  "analyzed_at": "2026-06-15T22:31:45.394346",
+  "token_usage": 3266
+}

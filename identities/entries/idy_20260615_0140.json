@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0140",
+  "source": {
+    "title": "为什么我玩不好云顶之弈？",
+    "url": "https://www.zhihu.com/question/341277252/answer/2289491949",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-30",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "学生或初级白领",
+      "industry": "互联网或游戏相关",
+      "city_tier": "二线或三线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "求学或职场初期",
+      "经济独立但有限"
+    ],
+    "life_experiences": [
+      "深度体验多款游戏",
+      "在游戏社区中学习并分享攻略",
+      "经历过游戏版本更新和阵容演变"
+    ],
+    "interest_topics": [
+      "云顶之弈",
+      "游戏攻略",
+      "电竞",
+      "游戏运营",
+      "网络直播"
+    ],
+    "discussion_triggers": [
+      "阵容强度讨论",
+      "装备分配",
+      "运营节奏",
+      "版本更新"
+    ],
+    "sensitive_topics": [
+      "游戏平衡性",
+      "运气成分",
+      "抄袭争议"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "分享精神",
+      "重视努力和策略"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向",
+      "教学导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "云顶之弈",
+        "自走棋类游戏"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "获得认同",
+      "分享经历"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "云顶之弈阵容推荐",
+        "score": 90
+      },
+      {
+        "topic": "装备合成技巧",
+        "score": 80
+      },
+      {
+        "topic": "运营思路",
+        "score": 85
+      },
+      {
+        "topic": "版本更新解析",
+        "score": 70
+      },
+      {
+        "topic": "新手入门指南",
+        "score": 75
+      }
+    ],
+    "impression": "一个热情分享游戏攻略的资深玩家，喜欢详细讲解运营细节，有点小得意自己的理解。"
+  },
+  "analyzed_at": "2026-06-15T22:22:25.632673",
+  "token_usage": 2791
+}

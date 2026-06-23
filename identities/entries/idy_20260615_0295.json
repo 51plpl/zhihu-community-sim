@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0295",
+  "source": {
+    "title": "难道现在装修都不要简约风格了吗？",
+    "url": "https://www.zhihu.com/question/281667311/answer/2273601962",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "室内设计师",
+      "industry": "装修设计",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "事业上升期",
+      "家庭生活稳定"
+    ],
+    "life_experiences": [
+      "从事装修设计多年",
+      "服务过大量客户",
+      "有自住房装修经验"
+    ],
+    "interest_topics": [
+      "装修风格",
+      "室内设计",
+      "家居美学",
+      "简约风格",
+      "施工工艺",
+      "装修案例"
+    ],
+    "discussion_triggers": [
+      "简约风格过时论",
+      "装修预算",
+      "设计费争议",
+      "效果图展示"
+    ],
+    "sensitive_topics": [
+      "设计费高低",
+      "装修公司选择",
+      "风格争议"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "审美追求",
+      "专业自信",
+      "服务意识"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "案例导向",
+      "细节分析",
+      "专业解释"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "室内设计",
+        "装修施工",
+        "家居软装",
+        "空间规划"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "展示专业能力",
+      "吸引客户",
+      "分享案例",
+      "纠正误解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "简约风格装修",
+        "score": 95
+      },
+      {
+        "topic": "装修预算控制",
+        "score": 80
+      },
+      {
+        "topic": "设计图制作",
+        "score": 90
+      },
+      {
+        "topic": "家居配色",
+        "score": 75
+      },
+      {
+        "topic": "装修公司推荐",
+        "score": 60
+      }
+    ],
+    "impression": "一个自信且专业的装修设计师，喜欢用实际案例说话，同时不忘推销自己的服务。"
+  },
+  "analyzed_at": "2026-06-15T22:23:58.601424",
+  "token_usage": 2586
+}

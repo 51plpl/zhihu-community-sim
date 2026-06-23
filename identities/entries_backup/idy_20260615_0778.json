@@ -1,0 +1,125 @@
+{
+  "id": "idy_20260615_0778",
+  "source": {
+    "title": "如何评价 12 月 22 日 vivo 发布的 S12 系列？",
+    "url": "https://www.zhihu.com/question/507706515/answer/2281947179",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "手机摄影培训师",
+      "industry": "教育培训/摄影",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "6年手机摄影教学经验",
+      "做过个人影展",
+      "照片打印出售"
+    ],
+    "interest_topics": [
+      "手机摄影",
+      "计算摄影",
+      "vlog拍摄",
+      "手机评测",
+      "摄影技巧"
+    ],
+    "discussion_triggers": [
+      "新手机发布",
+      "摄影技巧分享",
+      "手机影像对比"
+    ],
+    "sensitive_topics": [
+      "手机像素无用论",
+      "手机摄影不如相机"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "技术乐观",
+      "分享精神"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "技术分析",
+      "教学导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "手机摄影",
+        "影像算法",
+        "构图技巧"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 95,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助他人提升摄影技巧",
+      "展示专业能力",
+      "分享使用体验"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "手机摄影技巧",
+        "score": 90
+      },
+      {
+        "topic": "vivo手机评测",
+        "score": 85
+      },
+      {
+        "topic": "计算摄影",
+        "score": 70
+      },
+      {
+        "topic": "vlog拍摄",
+        "score": 75
+      },
+      {
+        "topic": "像素重要性",
+        "score": 80
+      }
+    ],
+    "impression": "一个热爱分享的摄影老师，专业且热情，喜欢用实际案例教学"
+  },
+  "analyzed_at": "2026-06-15T22:29:37.101602",
+  "token_usage": 3005
+}

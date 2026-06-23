@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0866",
+  "source": {
+    "title": "《一人之下》中赵姨为什么要抛下冯宝宝？",
+    "url": "https://www.zhihu.com/question/505366844/answer/2274893483",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-35",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "内容创作者/编辑/学生",
+      "industry": "文化传媒/互联网/动漫",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "求学或职场初期"
+    ],
+    "life_experiences": [
+      "深度追番《一人之下》",
+      "研究过道家文化",
+      "参与过动漫社区讨论"
+    ],
+    "interest_topics": [
+      "《一人之下》",
+      "道家哲学",
+      "国漫",
+      "动漫剧情分析",
+      "角色设定",
+      "八奇技",
+      "甲申之乱"
+    ],
+    "discussion_triggers": [
+      "《一人之下》剧情争议",
+      "冯宝宝身世",
+      "八奇技来源",
+      "道家思想解读"
+    ],
+    "sensitive_topics": [
+      "角色强弱争论",
+      "剧情逻辑漏洞"
+    ],
+    "value_tendencies": [
+      "尊重原作设定",
+      "喜欢深度解读",
+      "理性分析",
+      "反对过度脑补"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "机制分析",
+      "文本考据",
+      "逻辑推理",
+      "引用设定"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "《一人之下》剧情",
+        "道家文化基础"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 10,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 10,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "展示专业理解",
+      "帮助他人解惑",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 30,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "冯宝宝身世",
+        "score": 90
+      },
+      {
+        "topic": "八奇技来源",
+        "score": 85
+      },
+      {
+        "topic": "道家赤子概念",
+        "score": 80
+      },
+      {
+        "topic": "天师度",
+        "score": 75
+      },
+      {
+        "topic": "无根生",
+        "score": 70
+      }
+    ],
+    "impression": "一个认真考据的动漫爱好者，喜欢用设定和逻辑说话，有点学术范儿。"
+  },
+  "analyzed_at": "2026-06-15T22:30:39.986646",
+  "token_usage": 2812
+}

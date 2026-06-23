@@ -1,0 +1,125 @@
+{
+  "id": "idy_20260615_0367",
+  "source": {
+    "title": "广州大学心理学考研经验考研参考书考研真题的解读———上岸学姐的高分秘籍",
+    "url": "https://zhuanlan.zhihu.com/p/451331904",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-26",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "考研上岸",
+      "本科毕业"
+    ],
+    "life_experiences": [
+      "考研备考经历",
+      "成功上岸经验分享"
+    ],
+    "interest_topics": [
+      "心理学考研",
+      "考研备考方法",
+      "心理学专业书籍",
+      "教育心理学"
+    ],
+    "discussion_triggers": [
+      "考研经验分享",
+      "备考时间安排",
+      "参考书推荐",
+      "真题解析"
+    ],
+    "sensitive_topics": [
+      "考研压力",
+      "备考焦虑",
+      "跨考难度"
+    ],
+    "value_tendencies": [
+      "努力决定论",
+      "实用主义",
+      "经验主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "实用导向",
+      "细节关注"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "心理学考研",
+        "教育心理学",
+        "统计测量"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人",
+      "分享经验",
+      "获得认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "心理学考研经验",
+        "score": 90
+      },
+      {
+        "topic": "考研参考书推荐",
+        "score": 85
+      },
+      {
+        "topic": "备考时间规划",
+        "score": 80
+      },
+      {
+        "topic": "考研真题分析",
+        "score": 75
+      },
+      {
+        "topic": "心理学专业课复习",
+        "score": 85
+      }
+    ],
+    "impression": "一个热心分享、注重细节的考研成功学姐，乐于帮助后来人少走弯路。"
+  },
+  "analyzed_at": "2026-06-15T22:24:46.465892",
+  "token_usage": 3770
+}

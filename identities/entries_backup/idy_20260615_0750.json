@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0750",
+  "source": {
+    "title": "当霸道总裁文里的男主和女主都是沙雕，会是怎样的情景？",
+    "url": "https://www.zhihu.com/question/356024886/answer/2284770596",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "高中毕业，即将上大学",
+      "occupation": "学生",
+      "industry": "无",
+      "city_tier": "农村/小城镇",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "青春期",
+      "即将进入大学",
+      "刚被豪门认回"
+    ],
+    "life_experiences": [
+      "被收养长大",
+      "在农村放羊挖土豆",
+      "被豪门爷爷找回",
+      "与四个准未婚夫相亲"
+    ],
+    "interest_topics": [
+      "沙雕小说",
+      "美妆",
+      "吃播",
+      "土豆",
+      "小羊"
+    ],
+    "discussion_triggers": [
+      "霸道总裁文",
+      "豪门认亲",
+      "未婚夫",
+      "沙雕剧情"
+    ],
+    "sensitive_topics": [
+      "被抛弃",
+      "贫穷",
+      "替身",
+      "感情欺骗"
+    ],
+    "value_tendencies": [
+      "幽默乐观",
+      "重视亲情",
+      "自我中心",
+      "反套路"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "幽默夸张",
+      "反讽"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "放羊",
+        "土豆种植",
+        "农村生活"
+      ],
+      "general_knowledge_level": 30,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 50,
+      "likes_long_answers": 60,
+      "likes_short_answers": 40,
+      "likes_storytelling": 80,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "获得认同",
+      "娱乐他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "沙雕小说",
+        "score": 90
+      },
+      {
+        "topic": "豪门生活",
+        "score": 80
+      },
+      {
+        "topic": "农村趣事",
+        "score": 85
+      },
+      {
+        "topic": "土豆做法",
+        "score": 70
+      },
+      {
+        "topic": "相亲经历",
+        "score": 75
+      }
+    ],
+    "impression": "一个从农村被认回豪门的沙雕女孩，乐观自黑，脑回路清奇，用幽默化解一切尴尬。"
+  },
+  "analyzed_at": "2026-06-15T22:29:17.828740",
+  "token_usage": 5086
+}

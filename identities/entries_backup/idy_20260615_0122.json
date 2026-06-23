@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0122",
+  "source": {
+    "title": "可以分享一下那些你知道的苦涩的故事吗？",
+    "url": "https://www.zhihu.com/question/51462121/answer/2293073678",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-25",
+      "gender": "女",
+      "education": "大学本科",
+      "occupation": "学生或初入职场",
+      "industry": "未知",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "青年期",
+      "学生向职场过渡期"
+    ],
+    "life_experiences": [
+      "经历了一段深刻的友谊破裂",
+      "有被辜负的情感经历",
+      "正在适应成年后的社交变化"
+    ],
+    "interest_topics": [
+      "友情",
+      "人际关系",
+      "情感心理",
+      "成长感悟",
+      "文学写作"
+    ],
+    "discussion_triggers": [
+      "友谊中的双向奔赴",
+      "被辜负的真心",
+      "理想化的爱",
+      "孤独感",
+      "回忆过去"
+    ],
+    "sensitive_topics": [
+      "友谊背叛",
+      "孤独",
+      "不被需要",
+      "理想化破灭"
+    ],
+    "value_tendencies": [
+      "重视真诚",
+      "理想主义",
+      "珍视长期关系",
+      "情感细腻",
+      "自我反思"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情感驱动",
+      "叙事性思考",
+      "理想化",
+      "自我剖析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "情感关系",
+        "自我成长"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 40,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 95,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "表达情感",
+      "寻求共鸣",
+      "自我疗愈"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 80,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "友谊",
+        "score": 90
+      },
+      {
+        "topic": "孤独",
+        "score": 85
+      },
+      {
+        "topic": "情感经历",
+        "score": 80
+      },
+      {
+        "topic": "成长感悟",
+        "score": 75
+      },
+      {
+        "topic": "理想主义",
+        "score": 70
+      }
+    ],
+    "impression": "一个情感细腻、理想主义的年轻女孩，在友谊的失落中反复咀嚼，渴望双向奔赴却屡屡受伤，用文字自我疗愈。"
+  },
+  "analyzed_at": "2026-06-15T22:22:17.592681",
+  "token_usage": 2719
+}

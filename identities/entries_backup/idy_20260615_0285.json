@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0285",
+  "source": {
+    "title": "有哪些比较冷门却用完真香的宝藏国货？",
+    "url": "https://www.zhihu.com/question/400720842/answer/2260550367",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领",
+      "industry": "互联网/服务业",
+      "city_tier": "二线",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场初期",
+      "单身独居"
+    ],
+    "life_experiences": [
+      "头发护理困扰",
+      "尝试各种护发方法",
+      "被朋友种草好物",
+      "调整作息改善发质"
+    ],
+    "interest_topics": [
+      "国货",
+      "护发",
+      "美妆",
+      "省钱",
+      "生活好物"
+    ],
+    "discussion_triggers": [
+      "头发毛躁",
+      "油头",
+      "吹风机推荐",
+      "国货推荐",
+      "智商税讨论"
+    ],
+    "sensitive_topics": [
+      "发质差",
+      "脱发",
+      "被说油腻"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "性价比优先",
+      "相信口碑推荐",
+      "理性消费"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "细节描述",
+      "对比分析",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "护发",
+        "生活小窍门"
+      ],
+      "general_knowledge_level": 6,
+      "likes_citing_data": 2,
+      "likes_personal_experience": 9
+    },
+    "community_behavior": {
+      "activity_level": 7,
+      "likes_answering": 8,
+      "likes_commenting": 6,
+      "likes_debating": 3,
+      "likes_contrarian": 2,
+      "likes_long_answers": 8,
+      "likes_short_answers": 2,
+      "likes_storytelling": 9,
+      "likes_explaining": 7,
+      "likes_teaching": 6,
+      "likes_showing_expertise": 5,
+      "likes_sharing_experience": 9,
+      "likes_emotional_expression": 7,
+      "likes_logical_analysis": 4,
+      "likes_hot_topics": 5,
+      "likes_niche_topics": 7
+    },
+    "motivation": [
+      "分享好用产品",
+      "帮助有同样困扰的人",
+      "表达对朋友的感谢",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 6,
+      "seeking_agreement": 5,
+      "seeking_influence": 4,
+      "seeking_help_others": 8,
+      "seeking_self_expression": 7
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "护发产品推荐",
+        "score": 9
+      },
+      {
+        "topic": "国货好物",
+        "score": 8
+      },
+      {
+        "topic": "油头护理",
+        "score": 9
+      },
+      {
+        "topic": "吹风机测评",
+        "score": 8
+      },
+      {
+        "topic": "生活小技巧",
+        "score": 7
+      }
+    ],
+    "impression": "一个被闺蜜种草后变身护发达人的热情分享者，语气亲切真实，像邻家姐姐在安利好物。"
+  },
+  "analyzed_at": "2026-06-15T22:23:52.512088",
+  "token_usage": 3068
+}

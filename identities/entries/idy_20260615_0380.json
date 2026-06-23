@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0380",
+  "source": {
+    "title": "12 月 15 日起央行将上调金融机构外汇存款准备金率到 9%，这将产生哪些影响？",
+    "url": "https://www.zhihu.com/question/504912435/answer/2265050530",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "财经自媒体作者",
+      "industry": "金融投资",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "多年投资经验",
+      "经历过市场牛熊",
+      "财经内容创作经历"
+    ],
+    "interest_topics": [
+      "宏观经济",
+      "货币政策",
+      "A股市场",
+      "基金投资",
+      "行业分析"
+    ],
+    "discussion_triggers": [
+      "央行政策",
+      "通胀数据",
+      "北向资金",
+      "行业景气度",
+      "投资策略"
+    ],
+    "sensitive_topics": [
+      "监管政策",
+      "市场波动",
+      "风险提示"
+    ],
+    "value_tendencies": [
+      "长期主义",
+      "价值投资",
+      "理性分析",
+      "爱国情怀"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "逻辑推理",
+      "宏观视角",
+      "类比解读"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "宏观经济",
+        "货币政策",
+        "A股投资",
+        "基金组合"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享知识",
+      "展示专业",
+      "帮助投资者",
+      "建立个人品牌"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "央行政策",
+        "score": 90
+      },
+      {
+        "topic": "通胀数据",
+        "score": 85
+      },
+      {
+        "topic": "A股走势",
+        "score": 80
+      },
+      {
+        "topic": "基金投资",
+        "score": 75
+      },
+      {
+        "topic": "行业分析",
+        "score": 70
+      }
+    ],
+    "impression": "一个理性乐观的财经博主，喜欢用数据和逻辑解读宏观政策，同时带着点家国情怀"
+  },
+  "analyzed_at": "2026-06-15T22:24:55.897878",
+  "token_usage": 2865
+}

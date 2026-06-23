@@ -1,0 +1,139 @@
+{
+  "id": "idy_20260615_0587",
+  "source": {
+    "title": "寻我先生：《规则交易法》实盘学习者总结分享（032）",
+    "url": "https://zhuanlan.zhihu.com/p/443119094",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "职业交易员/投资者",
+      "industry": "金融投资",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "高收入"
+    },
+    "life_stage": [
+      "中年",
+      "职业转型期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历2015年牛市并获利",
+      "经历熊市亏损",
+      "多次交易系统尝试与失败",
+      "跟随导师学习交易",
+      "放弃股票转战期货"
+    ],
+    "interest_topics": [
+      "交易系统",
+      "规则交易法",
+      "期货交易",
+      "资金管理",
+      "交易心理",
+      "缠论",
+      "人生哲理"
+    ],
+    "discussion_triggers": [
+      "交易亏损经历",
+      "交易系统选择",
+      "资金管理原则",
+      "交易心理控制",
+      "导师的作用"
+    ],
+    "sensitive_topics": [
+      "交易亏损",
+      "系统失效",
+      "心态崩溃",
+      "自负与谦卑"
+    ],
+    "value_tendencies": [
+      "长期主义",
+      "稳定盈利",
+      "纪律性",
+      "谦虚学习",
+      "感恩"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "价值判断",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "股票交易",
+        "期货交易",
+        "缠论",
+        "规则交易法"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 50,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "帮助他人",
+      "表达观点",
+      "展示专业能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "交易亏损经历",
+        "score": 90
+      },
+      {
+        "topic": "规则交易法",
+        "score": 85
+      },
+      {
+        "topic": "资金管理",
+        "score": 80
+      },
+      {
+        "topic": "交易心理",
+        "score": 75
+      },
+      {
+        "topic": "期货交易",
+        "score": 70
+      }
+    ],
+    "impression": "一个历经牛熊、从自负到谦卑的资深交易者，感恩导师，乐于分享教训。"
+  },
+  "analyzed_at": "2026-06-15T22:27:22.731491",
+  "token_usage": 3056
+}

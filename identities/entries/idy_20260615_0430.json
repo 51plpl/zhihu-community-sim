@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0430",
+  "source": {
+    "title": "生活下去｜父亲住医院了",
+    "url": "https://zhuanlan.zhihu.com/p/446056742",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "上班族（白领）",
+      "industry": "未知（可能服务业或办公室工作）",
+      "city_tier": "一线城市（横滨）",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "独居工作",
+      "与父母异地",
+      "面临父母健康问题"
+    ],
+    "life_experiences": [
+      "留学中国",
+      "父亲首次住院手术",
+      "祖母曾住院手术"
+    ],
+    "interest_topics": [
+      "生活感悟",
+      "家庭关系",
+      "日本文化",
+      "中文写作",
+      "自我成长"
+    ],
+    "discussion_triggers": [
+      "父母健康",
+      "异地亲情",
+      "工作与家庭平衡",
+      "日常中的无奈"
+    ],
+    "sensitive_topics": [
+      "亲人手术",
+      "死亡焦虑",
+      "孝道与责任"
+    ],
+    "value_tendencies": [
+      "重视家庭",
+      "独立坚强",
+      "理性务实",
+      "情感细腻"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "叙事反思",
+      "情感细腻",
+      "理性分析",
+      "自我对话"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中文",
+        "日本文化",
+        "生活感悟"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 30,
+      "likes_commenting": 60,
+      "likes_debating": 10,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 20,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经历",
+      "寻求共鸣",
+      "表达情感",
+      "记录生活"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 50,
+      "seeking_influence": 20,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "家庭与亲情",
+        "score": 90
+      },
+      {
+        "topic": "日本生活",
+        "score": 80
+      },
+      {
+        "topic": "留学经历",
+        "score": 70
+      },
+      {
+        "topic": "工作与生活平衡",
+        "score": 60
+      },
+      {
+        "topic": "情绪管理",
+        "score": 50
+      }
+    ],
+    "impression": "一个在异乡打拼的温柔女儿，用细腻笔触记录生活褶皱中的坚强与柔软。"
+  },
+  "analyzed_at": "2026-06-15T22:25:31.508269",
+  "token_usage": 2507
+}

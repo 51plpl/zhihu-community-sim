@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0400",
+  "source": {
+    "title": "生活和工作中都有哪些蘑菇定律？",
+    "url": "https://www.zhihu.com/question/369540277/answer/2291475657",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "人力资源专员",
+      "industry": "企业管理咨询",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场新人期",
+      "职业上升期"
+    ],
+    "life_experiences": [
+      "经历过蘑菇期",
+      "曾在大公司做基层工作",
+      "通过主动表现获得晋升"
+    ],
+    "interest_topics": [
+      "职场生存法则",
+      "管理心理学",
+      "个人成长",
+      "沟通技巧",
+      "职业规划"
+    ],
+    "discussion_triggers": [
+      "新人如何快速融入团队",
+      "如何与上司有效沟通",
+      "职场中的不公平待遇",
+      "如何主动争取机会"
+    ],
+    "sensitive_topics": [
+      "职场PUA",
+      "领导打压新人",
+      "关系户"
+    ],
+    "value_tendencies": [
+      "个人努力决定论",
+      "适应环境优于抱怨",
+      "尊重权威但保持独立思考",
+      "追求效率与结果"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 65,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "实用主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "人力资源管理",
+        "组织行为学",
+        "职场心理学"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助新人少走弯路",
+      "分享个人经验",
+      "获得认同感",
+      "展示专业见解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "职场新人如何应对蘑菇期",
+        "score": 95
+      },
+      {
+        "topic": "如何与上司沟通",
+        "score": 90
+      },
+      {
+        "topic": "职场不公平待遇",
+        "score": 85
+      },
+      {
+        "topic": "职业规划建议",
+        "score": 80
+      },
+      {
+        "topic": "管理心理学",
+        "score": 75
+      }
+    ],
+    "impression": "一个过来人，用自己的经历教新人如何熬过蘑菇期，务实且有点鸡汤"
+  },
+  "analyzed_at": "2026-06-15T22:25:09.673849",
+  "token_usage": 3046
+}

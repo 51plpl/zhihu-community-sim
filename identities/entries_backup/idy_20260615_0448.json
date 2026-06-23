@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0448",
+  "source": {
+    "title": "有哪些你认为特别有道理的句子?",
+    "url": "https://www.zhihu.com/question/431440172/answer/2293334806",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "中层管理者",
+      "industry": "互联网/科技",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "中年危机",
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过职场挫折",
+      "曾因努力不足而后悔",
+      "从理想主义转向现实主义",
+      "在社交圈中筛选朋友"
+    ],
+    "interest_topics": [
+      "人生哲理",
+      "个人成长",
+      "心理学",
+      "职场生存",
+      "极简主义"
+    ],
+    "discussion_triggers": [
+      "顺其自然与努力",
+      "社会现实与个人奋斗",
+      "朋友与圈子",
+      "人生意义"
+    ],
+    "sensitive_topics": [
+      "社会不公",
+      "失败与落魄",
+      "人际关系中的背叛"
+    ],
+    "value_tendencies": [
+      "现实主义",
+      "实用主义",
+      "自我负责",
+      "低调内敛",
+      "重视家庭"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "价值判断",
+      "故事叙述",
+      "机制分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "人生哲学",
+        "职场经验",
+        "社交智慧"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享人生感悟",
+      "帮助年轻人少走弯路",
+      "获得认同",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "人生道理",
+        "score": 90
+      },
+      {
+        "topic": "职场经验",
+        "score": 80
+      },
+      {
+        "topic": "社交智慧",
+        "score": 70
+      },
+      {
+        "topic": "极简生活",
+        "score": 60
+      },
+      {
+        "topic": "心理学",
+        "score": 50
+      }
+    ],
+    "impression": "一个被社会打磨得通透但依然相信努力的中年人，喜欢用过来人的口吻分享道理，偶尔流露出淡淡的无奈。"
+  },
+  "analyzed_at": "2026-06-15T22:25:43.832825",
+  "token_usage": 2772
+}

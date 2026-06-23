@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0942",
+  "source": {
+    "title": "如何看待美国 11 月 CPI 同比上涨 6.8%，再次刷新近 40 年记录？",
+    "url": "https://www.zhihu.com/question/505164930/answer/2268181442",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "医疗健康相关从业者或科普写手",
+      "industry": "医疗/健康科普",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "身边有精神疾病患者或自己经历过心理困扰",
+      "长期关注心理健康话题",
+      "曾自学或系统学习过精神医学知识"
+    ],
+    "interest_topics": [
+      "精神疾病",
+      "心理健康",
+      "医疗科普",
+      "社会热点",
+      "美国经济"
+    ],
+    "discussion_triggers": [
+      "精神分裂症相关误解",
+      "心理健康治疗手段",
+      "社会压力与心理问题",
+      "美国通胀对全球影响"
+    ],
+    "sensitive_topics": [
+      "精神疾病污名化",
+      "医疗资源不均",
+      "药物副作用"
+    ],
+    "value_tendencies": [
+      "相信科学",
+      "同情患者",
+      "反对歧视",
+      "重视家庭支持"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "精神医学",
+        "心理健康",
+        "药物治疗"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "表达观点",
+      "科普教育"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "精神分裂症症状",
+        "score": 90
+      },
+      {
+        "topic": "抗精神病药物",
+        "score": 85
+      },
+      {
+        "topic": "心理治疗",
+        "score": 80
+      },
+      {
+        "topic": "美国通胀",
+        "score": 30
+      }
+    ],
+    "impression": "一个热心科普的精神健康领域爱好者，习惯用数据和机制解释问题，但有时会跑题到自己的专业领域。"
+  },
+  "analyzed_at": "2026-06-15T22:31:33.715566",
+  "token_usage": 2669
+}

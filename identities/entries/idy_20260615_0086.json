@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0086",
+  "source": {
+    "title": "抖店快速提升体验口碑分",
+    "url": "https://zhuanlan.zhihu.com/p/448303128",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "大专或本科",
+      "occupation": "电商运营或个体商家",
+      "industry": "电商/抖音小店",
+      "city_tier": "二线或三线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "创业期",
+      "奋斗期"
+    ],
+    "life_experiences": [
+      "经历过抖店体验分骤降的焦虑",
+      "尝试过多种提升体验分的方法",
+      "可能被平台规则变化折腾过"
+    ],
+    "interest_topics": [
+      "抖音小店运营",
+      "电商流量",
+      "精选联盟",
+      "体验分提升",
+      "直播带货"
+    ],
+    "discussion_triggers": [
+      "体验分骤降怎么办",
+      "如何快速提升体验分",
+      "新规对体验分的影响",
+      "达人带货门槛"
+    ],
+    "sensitive_topics": [
+      "平台规则变化",
+      "差评率",
+      "清退精选联盟",
+      "流量下降"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "重视规则",
+      "风险规避"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "问题解决"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "抖店运营",
+        "电商评分体系",
+        "平台规则"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 60,
+      "likes_short_answers": 40,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助同行解决问题",
+      "展示专业能力",
+      "获得认同",
+      "引流到自己的服务"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "抖店体验分骤降",
+        "score": 90
+      },
+      {
+        "topic": "如何提升体验分",
+        "score": 85
+      },
+      {
+        "topic": "精选联盟准入",
+        "score": 70
+      },
+      {
+        "topic": "新规对体验分的影响",
+        "score": 75
+      },
+      {
+        "topic": "达人带货门槛",
+        "score": 60
+      }
+    ],
+    "impression": "一个被抖店规则反复折腾但依然充满干劲的电商老手，喜欢分享自己的实操经验，顺便带点广告。"
+  },
+  "analyzed_at": "2026-06-15T22:21:54.013906",
+  "token_usage": 2472
+}

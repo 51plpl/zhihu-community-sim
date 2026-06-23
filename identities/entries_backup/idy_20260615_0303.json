@@ -1,0 +1,117 @@
+{
+  "id": "idy_20260615_0303",
+  "source": {
+    "title": "有哪些很虐心的短篇小说？",
+    "url": "https://www.zhihu.com/question/386856669/answer/2270740408",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "高中或大专",
+      "occupation": "超市收银员",
+      "industry": "零售",
+      "city_tier": "三线或以下",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "低收入"
+    },
+    "life_stage": [
+      "新婚期",
+      "大病初愈"
+    ],
+    "life_experiences": [
+      "植物人苏醒",
+      "失忆",
+      "经济拮据",
+      "被丈夫控制"
+    ],
+    "interest_topics": [
+      "短篇小说",
+      "悬疑故事",
+      "家庭关系",
+      "心理惊悚"
+    ],
+    "discussion_triggers": [
+      "失忆",
+      "婚姻恐惧",
+      "被欺骗",
+      "药物控制"
+    ],
+    "sensitive_topics": [
+      "夫妻信任",
+      "医疗事故",
+      "家庭暴力"
+    ],
+    "value_tendencies": [
+      "重视安全感",
+      "渴望自由",
+      "怀疑权威"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "直觉敏锐",
+      "情感驱动",
+      "细节观察"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "无"
+      ],
+      "general_knowledge_level": 40,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 20,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 50,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 90,
+      "likes_explaining": 20,
+      "likes_teaching": 10,
+      "likes_showing_expertise": 10,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经历",
+      "寻求共鸣",
+      "表达恐惧"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 60,
+      "seeking_influence": 20,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "恐怖故事",
+        "score": 80
+      },
+      {
+        "topic": "婚姻问题",
+        "score": 70
+      },
+      {
+        "topic": "失忆经历",
+        "score": 90
+      }
+    ],
+    "impression": "一个从噩梦中醒来的脆弱女人，渴望真相却害怕面对。"
+  },
+  "analyzed_at": "2026-06-15T22:24:03.478906",
+  "token_usage": 4966
+}

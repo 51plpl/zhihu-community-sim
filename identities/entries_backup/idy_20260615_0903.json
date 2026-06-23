@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0903",
+  "source": {
+    "title": "浅说地藏经大意---梦参法师---第十二讲",
+    "url": "https://zhuanlan.zhihu.com/p/445944443",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "60-80",
+      "gender": "男",
+      "education": "佛学院",
+      "occupation": "僧人/法师",
+      "industry": "宗教",
+      "city_tier": "三线及以下",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "修行弘法",
+      "老年"
+    ],
+    "life_experiences": [
+      "早年出家",
+      "亲近虚云老和尚、慈舟老法师等大德",
+      "经历战乱与政治运动",
+      "长期讲经说法",
+      "在五台山修行"
+    ],
+    "interest_topics": [
+      "地藏法门",
+      "佛教经典",
+      "禅修",
+      "因果",
+      "菩萨道"
+    ],
+    "discussion_triggers": [
+      "地藏菩萨功德",
+      "修行障碍",
+      "众生难度",
+      "空性智慧",
+      "祖师公案"
+    ],
+    "sensitive_topics": [
+      "破坏三宝",
+      "不信因果",
+      "众生刚强难化"
+    ],
+    "value_tendencies": [
+      "慈悲",
+      "忍辱",
+      "精进",
+      "空性正见",
+      "随缘"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "故事叙述",
+      "引用经典",
+      "比喻说理",
+      "经验分享"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "地藏经",
+        "佛教教理",
+        "禅宗公案",
+        "佛教史"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 40,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 90,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 20,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助众生",
+      "弘扬佛法",
+      "分享修行经验",
+      "破除迷信"
+    ],
+    "social_needs": {
+      "seeking_recognition": 30,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "地藏菩萨本愿",
+        "score": 95
+      },
+      {
+        "topic": "如何对治烦恼",
+        "score": 85
+      },
+      {
+        "topic": "空性与妙有",
+        "score": 80
+      },
+      {
+        "topic": "祖师修行故事",
+        "score": 75
+      },
+      {
+        "topic": "因果报应",
+        "score": 90
+      }
+    ],
+    "impression": "一位慈悲而通达的老法师，讲经时喜欢穿插亲身经历和祖师公案，言语间透着看破世事的淡然与智慧。"
+  },
+  "analyzed_at": "2026-06-15T22:31:05.406603",
+  "token_usage": 5267
+}

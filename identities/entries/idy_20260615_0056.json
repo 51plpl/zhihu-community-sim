@@ -1,0 +1,137 @@
+{
+  "id": "idy_20260615_0056",
+  "source": {
+    "title": "如何看待《女心理师》豆瓣开分5.1？",
+    "url": "https://www.zhihu.com/question/502820580/answer/2266665914",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女性",
+      "education": "本科在读或毕业",
+      "occupation": "学生或初入职场",
+      "industry": "不限，可能涉及心理学相关兴趣",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低收入"
+    },
+    "life_stage": [
+      "青春期后期",
+      "自我探索期",
+      "对心理健康敏感期"
+    ],
+    "life_experiences": [
+      "曾遭遇心理困扰或家庭冲突",
+      "有被亲戚误解心理问题的经历",
+      "曾因心理问题与家人关系紧张",
+      "被弟弟保护过",
+      "看过虐文后劲大"
+    ],
+    "interest_topics": [
+      "心理学",
+      "电视剧评价",
+      "社会议题",
+      "心理健康",
+      "B站UP主",
+      "网络舆论"
+    ],
+    "discussion_triggers": [
+      "《女心理师》相关争议",
+      "抑郁症患者被误解",
+      "粉丝控评行为",
+      "剧方炒作"
+    ],
+    "sensitive_topics": [
+      "抑郁症患者发声被堵",
+      "心理咨询师被妖魔化",
+      "家庭对心理问题的忽视",
+      "粉丝捂嘴行为"
+    ],
+    "value_tendencies": [
+      "反对消费心理题材",
+      "重视真实体验",
+      "反感偶像剧与职场剧混搭",
+      "支持弱势群体发声",
+      "厌恶资本控评"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情绪表达",
+      "价值判断",
+      "故事叙述",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "心理学常识（非专业）",
+        "网络舆论生态",
+        "电视剧评价"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 70,
+      "likes_contrarian": 60,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 70,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 20,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达愤怒",
+      "分享个人经历",
+      "反驳他人",
+      "寻求认同",
+      "揭露真相"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "《女心理师》评分",
+        "score": 90
+      },
+      {
+        "topic": "抑郁症患者遭遇",
+        "score": 80
+      },
+      {
+        "topic": "粉丝控评",
+        "score": 70
+      },
+      {
+        "topic": "心理咨询师形象",
+        "score": 60
+      },
+      {
+        "topic": "家庭心理问题",
+        "score": 50
+      }
+    ],
+    "impression": "一个被剧粉和粉丝激怒的普通观众，带着个人创伤经历，情绪激烈地表达对消费心理题材的不满。"
+  },
+  "analyzed_at": "2026-06-15T22:21:31.572794",
+  "token_usage": 4418
+}

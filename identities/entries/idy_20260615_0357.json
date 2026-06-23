@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0357",
+  "source": {
+    "title": "有一个外科医生男朋友是种怎样的体验？",
+    "url": "https://www.zhihu.com/question/372162390/answer/2251911430",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "23-28",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "自媒体自由撰稿人",
+      "industry": "互联网/内容创作",
+      "city_tier": "一线城市（上海）",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "初入职场",
+      "母胎单身",
+      "被催婚"
+    ],
+    "life_experiences": [
+      "拔智齿喷血",
+      "相亲遇奇葩",
+      "闺蜜助攻追爱"
+    ],
+    "interest_topics": [
+      "美食",
+      "自媒体创作",
+      "恋爱故事",
+      "生活趣事"
+    ],
+    "discussion_triggers": [
+      "相亲经历",
+      "医生男友",
+      "社死瞬间",
+      "闺蜜趣事"
+    ],
+    "sensitive_topics": [
+      "被催婚",
+      "职业不被理解"
+    ],
+    "value_tendencies": [
+      "追求自由职业",
+      "重视友情",
+      "乐观开朗",
+      "吃货属性"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情感表达",
+      "自嘲幽默"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "自媒体写作",
+        "美食探店"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "获得认同",
+      "表达观点",
+      "娱乐他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "恋爱经历",
+        "score": 90
+      },
+      {
+        "topic": "相亲奇葩事",
+        "score": 85
+      },
+      {
+        "topic": "美食推荐",
+        "score": 80
+      },
+      {
+        "topic": "自由职业生活",
+        "score": 70
+      },
+      {
+        "topic": "医生职业日常",
+        "score": 60
+      }
+    ],
+    "impression": "一个爱美食、爱自嘲、被闺蜜坑但乐观的母单女孩，擅长把社死经历讲成有趣故事。"
+  },
+  "analyzed_at": "2026-06-15T22:24:39.808319",
+  "token_usage": 4947
+}

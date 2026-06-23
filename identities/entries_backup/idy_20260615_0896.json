@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0896",
+  "source": {
+    "title": "原来，真正的送别并没有长亭古道……",
+    "url": "https://zhuanlan.zhihu.com/p/448928670",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "自媒体撰稿人/编辑",
+      "industry": "文化传媒",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "中年",
+      "事业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过事业起伏",
+      "有家庭变故或亲友离世经历",
+      "关注社会热点和人物传记"
+    ],
+    "interest_topics": [
+      "人物传记",
+      "音乐",
+      "人生感悟",
+      "社会新闻",
+      "情感故事",
+      "怀旧文化"
+    ],
+    "discussion_triggers": [
+      "名人去世",
+      "人生无常",
+      "怀旧歌曲",
+      "女性成长",
+      "税务风波"
+    ],
+    "sensitive_topics": [
+      "死亡",
+      "税务问题",
+      "婚姻背叛",
+      "抑郁症"
+    ],
+    "value_tendencies": [
+      "重视家庭",
+      "相信命运无常",
+      "推崇坚韧精神",
+      "同情弱者",
+      "尊重传统"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情感表达",
+      "价值判断",
+      "怀旧反思"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "流行音乐史",
+        "人物传记写作",
+        "中国影视音乐"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 90,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享感悟",
+      "表达情感",
+      "获得共鸣",
+      "记录思考"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "毛阿敏",
+        "score": 90
+      },
+      {
+        "topic": "人生无常",
+        "score": 85
+      },
+      {
+        "topic": "经典歌曲",
+        "score": 80
+      },
+      {
+        "topic": "女性力量",
+        "score": 75
+      },
+      {
+        "topic": "税务风波",
+        "score": 70
+      }
+    ],
+    "impression": "一个感性细腻、善于讲故事的中年女性，对人生无常有着深刻体会，喜欢通过名人故事传递情感和价值观。"
+  },
+  "analyzed_at": "2026-06-15T22:31:01.663029",
+  "token_usage": 4989
+}

@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0933",
+  "source": {
+    "title": "2021买iPhone11pro怎么样?",
+    "url": "https://www.zhihu.com/question/448222446/answer/2259802843",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "大专或本科",
+      "occupation": "二手iPhone经销商/店主",
+      "industry": "数码产品零售",
+      "city_tier": "二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "创业初期",
+      "职业上升期"
+    ],
+    "life_experiences": [
+      "经营实体店6年",
+      "长期接触数码产品",
+      "服务过大量客户"
+    ],
+    "interest_topics": [
+      "iPhone",
+      "二手手机",
+      "数码评测",
+      "手机摄影",
+      "性价比消费"
+    ],
+    "discussion_triggers": [
+      "iPhone选购建议",
+      "二手手机值不值得买",
+      "4G与5G之争",
+      "手机性价比"
+    ],
+    "sensitive_topics": [
+      "手机信号",
+      "5G普及时间",
+      "二手手机质量"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "性价比优先",
+      "信任熟人经济",
+      "长期主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "数据导向",
+      "实用分析",
+      "说服性表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "iPhone产品线",
+        "二手手机市场",
+        "手机维修与鉴别"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 90,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助别人选购",
+      "展示专业能力",
+      "引流获客",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "iPhone11pro值不值得买",
+        "score": 95
+      },
+      {
+        "topic": "二手iPhone选购指南",
+        "score": 90
+      },
+      {
+        "topic": "4G手机还能用多久",
+        "score": 80
+      },
+      {
+        "topic": "手机性价比对比",
+        "score": 85
+      },
+      {
+        "topic": "iPhone拍照技巧",
+        "score": 70
+      }
+    ],
+    "impression": "一个热情专业、善于推销自己的二手手机店主，说话接地气，喜欢用数据和经验说服人，字里行间透着对生意的自信和真诚。"
+  },
+  "analyzed_at": "2026-06-15T22:31:27.433293",
+  "token_usage": 2891
+}

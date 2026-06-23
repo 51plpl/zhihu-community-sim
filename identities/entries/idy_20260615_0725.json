@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0725",
+  "source": {
+    "title": "如何看待 12 月 9 日 vivo 发布的 OriginOS Ocean，有哪些值得关注的亮点？",
+    "url": "https://www.zhihu.com/question/504754291/answer/2264045893",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "科技媒体编辑或产品经理",
+      "industry": "互联网/科技",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏上"
+    },
+    "life_stage": [
+      "职业上升期",
+      "科技爱好者",
+      "注重生活品质"
+    ],
+    "life_experiences": [
+      "长期使用安卓和iOS系统",
+      "关注手机发布会和系统更新",
+      "可能参与过内测或开发者社区"
+    ],
+    "interest_topics": [
+      "手机系统",
+      "UI/UX设计",
+      "科技产品评测",
+      "移动办公",
+      "隐私保护"
+    ],
+    "discussion_triggers": [
+      "新系统发布",
+      "设计理念对比",
+      "流畅度评测",
+      "隐私功能"
+    ],
+    "sensitive_topics": [
+      "系统卡顿",
+      "隐私泄露",
+      "苹果与安卓对比"
+    ],
+    "value_tendencies": [
+      "以人为本的设计",
+      "实用主义",
+      "重视隐私",
+      "支持国产创新"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "手机系统",
+        "UI设计",
+        "移动办公工具"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助别人了解产品",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "手机系统更新",
+        "score": 90
+      },
+      {
+        "topic": "UI设计趋势",
+        "score": 80
+      },
+      {
+        "topic": "移动办公效率",
+        "score": 70
+      },
+      {
+        "topic": "隐私保护技术",
+        "score": 75
+      },
+      {
+        "topic": "安卓与iOS对比",
+        "score": 65
+      }
+    ],
+    "impression": "一个热爱科技、善于分析、乐于分享的数码爱好者，对设计细节和用户体验有独到见解。"
+  },
+  "analyzed_at": "2026-06-15T22:28:59.848429",
+  "token_usage": 3929
+}

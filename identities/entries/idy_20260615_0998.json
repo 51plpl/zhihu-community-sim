@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0998",
+  "source": {
+    "title": "手机相册如何管理才高效又省心？",
+    "url": "https://zhuanlan.zhihu.com/p/447919038",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "内容创作者/新媒体运营",
+      "industry": "互联网/媒体",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场新人到中层过渡期",
+      "数字生活爱好者"
+    ],
+    "life_experiences": [
+      "曾为手机相册杂乱而烦恼",
+      "尝试过多种整理方法后形成自己的体系",
+      "使用华为手机并熟悉其功能"
+    ],
+    "interest_topics": [
+      "手机摄影",
+      "效率工具",
+      "生活整理术",
+      "手机技巧",
+      "内容创作"
+    ],
+    "discussion_triggers": [
+      "手机相册管理",
+      "华为手机功能",
+      "照片整理技巧",
+      "强迫症福音"
+    ],
+    "sensitive_topics": [
+      "手机存储空间不足",
+      "照片丢失"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "效率至上",
+      "审美追求",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "步骤化思维",
+      "用户导向",
+      "经验总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "手机摄影",
+        "数字内容管理"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人解决实际问题",
+      "分享实用技巧",
+      "获得认可和感谢"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "手机相册整理",
+        "score": 90
+      },
+      {
+        "topic": "华为手机技巧",
+        "score": 85
+      },
+      {
+        "topic": "生活效率工具",
+        "score": 70
+      },
+      {
+        "topic": "摄影后期",
+        "score": 60
+      },
+      {
+        "topic": "强迫症整理术",
+        "score": 75
+      }
+    ],
+    "impression": "一个热情耐心的生活技巧分享者，像邻家大姐姐一样手把手教你整理手机相册。"
+  },
+  "analyzed_at": "2026-06-15T22:32:15.219343",
+  "token_usage": 2595
+}

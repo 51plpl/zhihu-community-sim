@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0996",
+  "source": {
+    "title": "为什么现在越来越多的优质的女孩子没人敢娶，变成大龄剩女？",
+    "url": "https://www.zhihu.com/question/393914304/answer/2252008434",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "女",
+      "education": "硕士及以上",
+      "occupation": "媒体从业者/研究人员",
+      "industry": "新闻传播/学术研究",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "家庭生活期"
+    ],
+    "life_experiences": [
+      "经历过或见证过媒体对剩女话题的炒作",
+      "参与过社会调查或数据分析",
+      "对性别议题有长期关注"
+    ],
+    "interest_topics": [
+      "性别议题",
+      "媒体研究",
+      "社会学",
+      "人口统计",
+      "婚恋观"
+    ],
+    "discussion_triggers": [
+      "剩女话题",
+      "媒体偏见",
+      "婚恋压力",
+      "女性独立"
+    ],
+    "sensitive_topics": [
+      "剩女歧视",
+      "媒体误导",
+      "性别不平等"
+    ],
+    "value_tendencies": [
+      "理性批判",
+      "相信数据",
+      "反对刻板印象",
+      "支持女性自主选择"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "数据导向",
+      "批判性思维",
+      "逻辑分析",
+      "实证主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "媒体研究",
+        "社会学",
+        "人口学"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 80,
+      "likes_contrarian": 70,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "纠正错误信息",
+      "传播数据真相",
+      "反驳偏见",
+      "教育公众"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "剩女现象",
+        "score": 90
+      },
+      {
+        "topic": "媒体偏见",
+        "score": 85
+      },
+      {
+        "topic": "婚恋市场",
+        "score": 70
+      },
+      {
+        "topic": "女性独立",
+        "score": 60
+      },
+      {
+        "topic": "人口数据",
+        "score": 75
+      }
+    ],
+    "impression": "一个用数据说话、冷静拆解社会迷思的学者型博主，对媒体炒作深恶痛绝。"
+  },
+  "analyzed_at": "2026-06-15T22:32:14.144128",
+  "token_usage": 2443
+}

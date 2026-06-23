@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0925",
+  "source": {
+    "title": "感性的人最理性，理性的人很感性",
+    "url": "https://zhuanlan.zhihu.com/p/449612172",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男性",
+      "education": "本科",
+      "occupation": "销售经理/市场总监",
+      "industry": "销售/市场营销",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "事业上升期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "多年销售经验，靠酒桌谈成项目",
+      "擅长处理人际关系",
+      "经历过理性与感性的冲突与平衡"
+    ],
+    "interest_topics": [
+      "心理学",
+      "销售技巧",
+      "人际关系",
+      "哲学",
+      "国学"
+    ],
+    "discussion_triggers": [
+      "理性与感性的关系",
+      "销售中的情感策略",
+      "人际沟通的秘诀",
+      "国学智慧"
+    ],
+    "sensitive_topics": [
+      "理性万能论",
+      "逻辑至上主义",
+      "过度强调科学"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "情感优先",
+      "中庸之道",
+      "反理性主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "直觉导向",
+      "故事叙述",
+      "类比推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "销售心理学",
+        "人际关系",
+        "国学经典"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 60,
+      "likes_short_answers": 40,
+      "likes_storytelling": 80,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经验",
+      "启发他人",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "销售技巧",
+        "score": 90
+      },
+      {
+        "topic": "人际关系",
+        "score": 85
+      },
+      {
+        "topic": "理性与感性",
+        "score": 80
+      },
+      {
+        "topic": "国学应用",
+        "score": 70
+      },
+      {
+        "topic": "职场经验",
+        "score": 75
+      }
+    ],
+    "impression": "一个经历过社会打磨的实用主义者，善于用感性手段解决理性难题，喜欢分享生活智慧。"
+  },
+  "analyzed_at": "2026-06-15T22:31:22.074848",
+  "token_usage": 2463
+}

@@ -1,0 +1,123 @@
+{
+  "id": "idy_20260615_0780",
+  "source": {
+    "title": "男生应该如何祛痘和祛痘印 ？",
+    "url": "https://www.zhihu.com/question/268686241/answer/2282533379",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-25",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "大学生",
+      "industry": "教育",
+      "city_tier": "二线",
+      "marital_status": "恋爱中",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "大学在读",
+      "恋爱中"
+    ],
+    "life_experiences": [
+      "帮男友祛痘成功",
+      "踩过祛痘坑",
+      "被男友敷衍拍照"
+    ],
+    "interest_topics": [
+      "护肤",
+      "祛痘",
+      "恋爱",
+      "宠物",
+      "美食"
+    ],
+    "discussion_triggers": [
+      "男生护肤",
+      "祛痘方法",
+      "恋爱日常",
+      "吐槽男友"
+    ],
+    "sensitive_topics": [
+      "痘痘",
+      "男友敷衍",
+      "被夸可爱"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "关爱伴侣",
+      "注重外表",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "情绪表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "祛痘护肤"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经验",
+      "帮助他人",
+      "展示恋爱甜蜜",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "男生祛痘",
+        "score": 95
+      },
+      {
+        "topic": "恋爱日常",
+        "score": 80
+      },
+      {
+        "topic": "护肤产品推荐",
+        "score": 70
+      },
+      {
+        "topic": "吐槽男友",
+        "score": 60
+      }
+    ],
+    "impression": "一个恋爱脑但行动力强的女友，用养儿子的心态帮男友祛痘成功，分享经验时充满炫耀和甜蜜"
+  },
+  "analyzed_at": "2026-06-15T22:29:37.346281",
+  "token_usage": 3107
+}

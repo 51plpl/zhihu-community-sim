@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0076",
+  "source": {
+    "title": "乐器培训机构如何招生？",
+    "url": "https://www.zhihu.com/question/24597676/answer/2280504764",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "网络营销推广人员",
+      "industry": "在线教育/互联网",
+      "city_tier": "二线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭成长期"
+    ],
+    "life_experiences": [
+      "曾从事教育培训行业招生工作",
+      "尝试过多种线上推广方式",
+      "对免费工具和低成本营销有深入研究"
+    ],
+    "interest_topics": [
+      "在线教育",
+      "网络营销",
+      "私域流量",
+      "知识付费",
+      "招生引流"
+    ],
+    "discussion_triggers": [
+      "培训机构招生难",
+      "免费推广工具推荐",
+      "在线教育平台对比"
+    ],
+    "sensitive_topics": [
+      "付费推广效果差",
+      "平台抽成过高",
+      "教育行业竞争"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "效率优先",
+      "信任免费模式",
+      "反感高成本营销"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "经验主义",
+      "结果驱动"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络营销",
+        "在线教育平台",
+        "私域流量运营"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "推广自己熟悉的平台",
+      "帮助同行低成本招生",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "培训机构招生",
+        "score": 90
+      },
+      {
+        "topic": "免费在线教育平台",
+        "score": 95
+      },
+      {
+        "topic": "网络营销工具",
+        "score": 80
+      },
+      {
+        "topic": "私域流量",
+        "score": 75
+      },
+      {
+        "topic": "知识付费",
+        "score": 70
+      }
+    ],
+    "impression": "一个热衷推广免费平台的营销人，语气像广告文案，但确实懂行，能抓住用户痛点。"
+  },
+  "analyzed_at": "2026-06-15T22:21:44.369043",
+  "token_usage": 2621
+}

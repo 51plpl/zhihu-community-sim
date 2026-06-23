@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0480",
+  "source": {
+    "title": "有哪些诡异邪性的民间故事？",
+    "url": "https://www.zhihu.com/question/348025005/answer/2267832515",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "16-18",
+      "gender": "男",
+      "education": "初中",
+      "occupation": "死尸客店掌柜",
+      "industry": "丧葬/民间法术",
+      "city_tier": "乡村",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低收入"
+    },
+    "life_stage": [
+      "青春期",
+      "继承家业",
+      "独自生活"
+    ],
+    "life_experiences": [
+      "从小在死尸客店长大",
+      "父亲去世，独自经营客栈",
+      "接触赶尸匠和各类外八门人士",
+      "被父亲要求守棺至17岁"
+    ],
+    "interest_topics": [
+      "民间故事",
+      "赶尸术",
+      "风水八卦",
+      "死尸客店经营",
+      "玄学"
+    ],
+    "discussion_triggers": [
+      "棺材里的秘密",
+      "赶尸经历",
+      "死尸客店的规矩",
+      "父亲留下的谜团"
+    ],
+    "sensitive_topics": [
+      "打开棺材的禁忌",
+      "父亲的过去",
+      "死尸客店的因果"
+    ],
+    "value_tendencies": [
+      "尊重传统",
+      "谨慎守诺",
+      "好奇但克制",
+      "重视生计"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "经验主义",
+      "直觉判断",
+      "故事叙述",
+      "谨慎推衍"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "赶尸规矩",
+        "死尸客店运营",
+        "风水基础",
+        "民间法术"
+      ],
+      "general_knowledge_level": 30,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 40,
+      "likes_answering": 60,
+      "likes_commenting": 30,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享经历",
+      "展示专业能力",
+      "获得认同",
+      "帮助别人了解民间文化"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "民间诡异故事",
+        "score": 90
+      },
+      {
+        "topic": "赶尸秘闻",
+        "score": 85
+      },
+      {
+        "topic": "死尸客店经历",
+        "score": 80
+      },
+      {
+        "topic": "风水禁忌",
+        "score": 70
+      },
+      {
+        "topic": "棺材里的秘密",
+        "score": 75
+      }
+    ],
+    "impression": "一个身世离奇、见多识广的年轻赶尸客栈掌柜，带着神秘感和一丝孤独，喜欢用亲身经历讲故事。"
+  },
+  "analyzed_at": "2026-06-15T22:26:06.902578",
+  "token_usage": 5027
+}

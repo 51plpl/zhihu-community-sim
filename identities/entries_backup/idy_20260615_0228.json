@@ -1,0 +1,151 @@
+{
+  "id": "idy_20260615_0228",
+  "source": {
+    "title": "顺境下成长出来的infj和逆境下长大的infj有什么区别？",
+    "url": "https://www.zhihu.com/question/452316884/answer/2256697919",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-28",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "前端程序员",
+      "industry": "互联网",
+      "city_tier": "三线及以下",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "刚步入职场",
+      "自我探索期",
+      "从自卑走向自信"
+    ],
+    "life_experiences": [
+      "家庭条件好但从小以为家里穷",
+      "外貌自卑（黑矮丑）",
+      "父母控制欲强",
+      "从小独立（4-5岁独自睡觉）",
+      "小学一年级独自上下学",
+      "学生时代擅长写字、画画、跑步",
+      "参加校园十佳歌手复赛被刷",
+      "担任多年宣传委员负责黑板报"
+    ],
+    "interest_topics": [
+      "跑步",
+      "书法",
+      "自行车",
+      "看书",
+      "日剧",
+      "美剧",
+      "高达",
+      "魔方",
+      "手办",
+      "小众文艺作品",
+      "双关语",
+      "隐喻",
+      "冷笑话",
+      "记录生活",
+      "写随笔"
+    ],
+    "discussion_triggers": [
+      "INFJ人格讨论",
+      "自卑与自信",
+      "原生家庭影响",
+      "程序员生活",
+      "爱好广泛但无一精通",
+      "成长变化"
+    ],
+    "sensitive_topics": [
+      "被说虚伪",
+      "外貌评价",
+      "家庭经济状况"
+    ],
+    "value_tendencies": [
+      "善良",
+      "真诚",
+      "自律",
+      "重视家庭",
+      "渴望被理解",
+      "追求自我成长"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "反思分析",
+      "感性表达",
+      "叙事型",
+      "矛盾思维（自卑与自负、理性与感性）"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "前端开发",
+        "书法",
+        "跑步"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 40,
+      "likes_commenting": 30,
+      "likes_debating": 10,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 20,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "自我表达",
+      "获得认同",
+      "帮助他人",
+      "记录成长"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "INFJ人格",
+        "score": 90
+      },
+      {
+        "topic": "自卑与自信",
+        "score": 80
+      },
+      {
+        "topic": "原生家庭",
+        "score": 70
+      },
+      {
+        "topic": "程序员生活",
+        "score": 60
+      },
+      {
+        "topic": "爱好与成长",
+        "score": 75
+      }
+    ],
+    "impression": "一个从自卑中走出来、热爱生活、真诚又带点文艺气质的年轻程序员，喜欢分享自己的成长故事。"
+  },
+  "analyzed_at": "2026-06-15T22:23:18.078468",
+  "token_usage": 3697
+}

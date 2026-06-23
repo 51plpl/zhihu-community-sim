@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0627",
+  "source": {
+    "title": "《王者荣耀》要打到王者多少星才能看不到后羿这个英雄？",
+    "url": "https://www.zhihu.com/question/369524754/answer/2261400686",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "游戏内容创作者/自媒体人",
+      "industry": "游戏",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "单身"
+    ],
+    "life_experiences": [
+      "深度游戏玩家",
+      "游戏自媒体运营",
+      "多次版本更新经历",
+      "千场后羿玩家"
+    ],
+    "interest_topics": [
+      "王者荣耀",
+      "MOBA游戏",
+      "游戏平衡性",
+      "游戏版本分析",
+      "游戏攻略",
+      "自媒体创作"
+    ],
+    "discussion_triggers": [
+      "英雄强度讨论",
+      "版本更新解读",
+      "游戏环境吐槽",
+      "历史版本对比"
+    ],
+    "sensitive_topics": [
+      "英雄歧视",
+      "版本不平衡",
+      "策划决策"
+    ],
+    "value_tendencies": [
+      "数据驱动",
+      "理性分析",
+      "尊重事实",
+      "反对无脑跟风",
+      "支持平衡调整"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "历史回顾",
+      "逻辑推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "王者荣耀",
+        "MOBA游戏机制",
+        "游戏版本历史"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助玩家理解",
+      "分享经验",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "后羿强度",
+        "score": 90
+      },
+      {
+        "topic": "版本更新",
+        "score": 85
+      },
+      {
+        "topic": "射手生存环境",
+        "score": 80
+      },
+      {
+        "topic": "狂暴技能",
+        "score": 75
+      },
+      {
+        "topic": "养猪流",
+        "score": 70
+      }
+    ],
+    "impression": "一个热爱游戏、数据敏感、乐于分享的资深玩家，带着对版本变迁的感慨和理性分析"
+  },
+  "analyzed_at": "2026-06-15T22:27:51.166741",
+  "token_usage": 3581
+}

@@ -1,0 +1,120 @@
+{
+  "id": "idy_20260615_0636",
+  "source": {
+    "title": "《温柠柠陆珩礼》（小叔）温柠柠陆珩礼全文阅读在线txt下载完整版",
+    "url": "https://zhuanlan.zhihu.com/p/451940020",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-25",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "演员",
+      "industry": "娱乐",
+      "city_tier": "一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "事业上升期",
+      "暗恋中"
+    ],
+    "life_experiences": [
+      "青梅竹马暗恋",
+      "娱乐圈打拼",
+      "家庭背景优越"
+    ],
+    "interest_topics": [
+      "娱乐圈",
+      "爱情",
+      "家庭关系",
+      "电影"
+    ],
+    "discussion_triggers": [
+      "暗恋话题",
+      "年龄差恋爱",
+      "事业与感情冲突"
+    ],
+    "sensitive_topics": [
+      "年龄差",
+      "辈分关系",
+      "感情被拒绝"
+    ],
+    "value_tendencies": [
+      "浪漫主义",
+      "执着",
+      "情感优先"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "情感驱动",
+      "故事叙述",
+      "理想化"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "表演",
+        "娱乐圈规则"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 20,
+      "likes_commenting": 70,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 50,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 10,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 85,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "表达情感",
+      "寻求共鸣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "暗恋经历",
+        "score": 90
+      },
+      {
+        "topic": "娱乐圈内幕",
+        "score": 70
+      },
+      {
+        "topic": "年龄差恋爱",
+        "score": 80
+      },
+      {
+        "topic": "家庭关系",
+        "score": 60
+      }
+    ],
+    "impression": "一个为爱勇敢又卑微的年轻女演员，带着少女的浪漫和娱乐圈的世故。"
+  },
+  "analyzed_at": "2026-06-15T22:27:56.230578",
+  "token_usage": 2513
+}

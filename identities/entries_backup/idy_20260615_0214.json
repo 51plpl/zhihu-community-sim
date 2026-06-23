@@ -1,0 +1,122 @@
+{
+  "id": "idy_20260615_0214",
+  "source": {
+    "title": "百圆大公还会开市吗",
+    "url": "https://zhidao.baidu.com/question/2125599071222837507.html",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "大专或本科",
+      "occupation": "投资顾问或自由投资者",
+      "industry": "金融投资",
+      "city_tier": "二线或三线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年",
+      "投资理财阶段"
+    ],
+    "life_experiences": [
+      "参与过艺术品投资",
+      "经历过平台停盘",
+      "对香港金融市场有一定了解"
+    ],
+    "interest_topics": [
+      "艺术品投资",
+      "香港大公文交所",
+      "股票停复牌",
+      "金融监管",
+      "投资理财"
+    ],
+    "discussion_triggers": [
+      "平台停盘",
+      "投资风险",
+      "艺术品市场",
+      "整改进展"
+    ],
+    "sensitive_topics": [
+      "平台跑路",
+      "资金安全",
+      "监管政策"
+    ],
+    "value_tendencies": [
+      "重视合规",
+      "相信官方整改",
+      "对投资回报有期待"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "事实陈述",
+      "信息整合",
+      "乐观预期"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "香港大公文交所",
+        "艺术品交易"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助他人了解平台",
+      "展示专业知识",
+      "安抚投资者情绪"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "百圆大公停盘",
+        "score": 90
+      },
+      {
+        "topic": "香港大公文交所",
+        "score": 85
+      },
+      {
+        "topic": "艺术品投资风险",
+        "score": 70
+      },
+      {
+        "topic": "金融监管",
+        "score": 60
+      }
+    ],
+    "impression": "一个对投资平台充满信心、乐于分享信息的乐观投资者，但可能过于相信官方说辞。"
+  },
+  "analyzed_at": "2026-06-15T22:23:08.277162",
+  "token_usage": 2364
+}

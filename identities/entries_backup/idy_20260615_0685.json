@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0685",
+  "source": {
+    "title": "如何看待雷军退出多家小米关联公司？有什么值得关注的信息？",
+    "url": "https://www.zhihu.com/question/505690372/answer/2270858049",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "科技行业分析师或产品经理",
+      "industry": "互联网/科技",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "关注宏观经济与产业"
+    ],
+    "life_experiences": [
+      "长期关注科技行业",
+      "经历过小米手机崛起",
+      "对新能源汽车产业链有研究"
+    ],
+    "interest_topics": [
+      "雷军",
+      "小米",
+      "新能源汽车",
+      "特斯拉",
+      "国产替代",
+      "商业战略",
+      "专利技术"
+    ],
+    "discussion_triggers": [
+      "雷军动态",
+      "小米汽车进展",
+      "国产车与特斯拉差距",
+      "企业战略调整"
+    ],
+    "sensitive_topics": [
+      "国产车技术瓶颈",
+      "政府扶持与市场关系",
+      "专利侵权"
+    ],
+    "value_tendencies": [
+      "务实",
+      "理性",
+      "支持国产但保持批判",
+      "重视技术创新"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "机制分析",
+      "经验主义",
+      "数据导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "科技产业",
+        "新能源汽车",
+        "企业战略"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 70,
+      "likes_contrarian": 50,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "表达观点",
+      "展示专业能力",
+      "反驳他人",
+      "帮助别人理解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "雷军辞职",
+        "score": 90
+      },
+      {
+        "topic": "小米汽车进展",
+        "score": 85
+      },
+      {
+        "topic": "国产车与特斯拉差距",
+        "score": 80
+      },
+      {
+        "topic": "新能源汽车技术瓶颈",
+        "score": 75
+      }
+    ],
+    "impression": "一个理性冷静的科技观察者，喜欢从产业链和战略角度分析问题，偶尔流露对国产技术的担忧，但保持建设性态度。"
+  },
+  "analyzed_at": "2026-06-15T22:28:30.934373",
+  "token_usage": 2533
+}

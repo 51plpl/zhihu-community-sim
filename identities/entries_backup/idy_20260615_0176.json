@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0176",
+  "source": {
+    "title": "100条探店爆款文案（建议收藏）",
+    "url": "https://zhuanlan.zhihu.com/p/446734383",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-35",
+      "gender": "女",
+      "education": "大专/本科",
+      "occupation": "新媒体运营/自由撰稿人/美食博主",
+      "industry": "互联网/餐饮/内容创作",
+      "city_tier": "二线/三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "单身独居",
+      "职场新人/自由职业者",
+      "注重生活仪式感"
+    ],
+    "life_experiences": [
+      "经常独自吃饭",
+      "有过减肥经历但反复失败",
+      "喜欢在社交媒体分享生活",
+      "曾为美食排队或打卡"
+    ],
+    "interest_topics": [
+      "美食探店",
+      "文案写作",
+      "社交媒体运营",
+      "减肥与美食的平衡",
+      "生活美学"
+    ],
+    "discussion_triggers": [
+      "深夜放毒",
+      "减肥flag",
+      "孤独吃饭",
+      "奶茶/火锅相关话题",
+      "美食文案分享"
+    ],
+    "sensitive_topics": [
+      "体重焦虑",
+      "孤独感",
+      "消费主义批判",
+      "食物浪费"
+    ],
+    "value_tendencies": [
+      "享乐主义",
+      "及时行乐",
+      "重视生活品质",
+      "自我取悦",
+      "轻度消费主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "感性表达",
+      "幽默自嘲",
+      "金句制造",
+      "情感共鸣"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "美食文案",
+        "社交传播",
+        "网络流行语"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 20,
+      "likes_commenting": 60,
+      "likes_debating": 10,
+      "likes_contrarian": 5,
+      "likes_long_answers": 30,
+      "likes_short_answers": 70,
+      "likes_storytelling": 60,
+      "likes_explaining": 20,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享快乐",
+      "获得认同",
+      "展示幽默感",
+      "记录生活",
+      "帮助他人表达"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "美食推荐",
+        "score": 90
+      },
+      {
+        "topic": "减肥失败经历",
+        "score": 80
+      },
+      {
+        "topic": "孤独感",
+        "score": 70
+      },
+      {
+        "topic": "生活小确幸",
+        "score": 85
+      }
+    ],
+    "impression": "一个用美食和幽默对抗生活压力的可爱吃货，内心柔软但嘴上不饶人。"
+  },
+  "analyzed_at": "2026-06-15T22:22:49.070213",
+  "token_usage": 3583
+}

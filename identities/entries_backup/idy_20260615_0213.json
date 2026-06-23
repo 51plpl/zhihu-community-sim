@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0213",
+  "source": {
+    "title": "圣诞外贸邮件！外贸人查收！",
+    "url": "https://zhuanlan.zhihu.com/p/443240646",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-40",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "外贸业务员/外贸经理",
+      "industry": "国际贸易/跨境电商",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "多年外贸从业经验",
+      "经历过客户流失",
+      "参加过外贸培训或自学营销技巧",
+      "处理过各种客户类型"
+    ],
+    "interest_topics": [
+      "外贸技巧",
+      "客户关系维护",
+      "邮件营销",
+      "跨境电商",
+      "职场成长"
+    ],
+    "discussion_triggers": [
+      "节日邮件模板",
+      "客户维护",
+      "外贸新人困惑",
+      "客户流失案例"
+    ],
+    "sensitive_topics": [
+      "客户被抢单",
+      "外贸行业竞争内卷",
+      "低价竞争"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "重视客户关系",
+      "强调差异化服务",
+      "认可情感营销"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "类比思维",
+      "故事叙述",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "外贸邮件写作",
+        "客户关系管理",
+        "外贸开发信"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助新人",
+      "展示专业能力",
+      "分享经验",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何写外贸邮件",
+        "score": 90
+      },
+      {
+        "topic": "客户维护技巧",
+        "score": 85
+      },
+      {
+        "topic": "外贸新人常见问题",
+        "score": 80
+      },
+      {
+        "topic": "节日营销",
+        "score": 75
+      },
+      {
+        "topic": "客户流失怎么办",
+        "score": 70
+      }
+    ],
+    "impression": "一个热心肠的外贸老鸟，喜欢用生活化的比喻分享实战经验，有点大姐大的范儿。"
+  },
+  "analyzed_at": "2026-06-15T22:23:08.144349",
+  "token_usage": 2525
+}

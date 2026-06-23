@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0680",
+  "source": {
+    "title": "安住当下是一种力量，更是一种幸福。",
+    "url": "https://zhuanlan.zhihu.com/p/440656470",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "中层管理者或自由职业者",
+      "industry": "教育培训或咨询",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年转型期",
+      "上有老下有小"
+    ],
+    "life_experiences": [
+      "经历过职业或生活挫折",
+      "通过自我反思获得成长",
+      "接触过哲学或心理学"
+    ],
+    "interest_topics": [
+      "心理学",
+      "哲学",
+      "自我成长",
+      "禅修",
+      "教育"
+    ],
+    "discussion_triggers": [
+      "焦虑",
+      "内卷",
+      "子女教育",
+      "职场压力"
+    ],
+    "sensitive_topics": [
+      "失败",
+      "死亡",
+      "心理疾病"
+    ],
+    "value_tendencies": [
+      "注重内在平静",
+      "反对过度功利",
+      "推崇专注与简单"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "哲理思辨",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "心理学",
+        "哲学",
+        "自我管理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助他人",
+      "分享感悟",
+      "寻求认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何克服焦虑",
+        "score": 90
+      },
+      {
+        "topic": "内卷时代的自我调节",
+        "score": 85
+      },
+      {
+        "topic": "子女教育中的心态",
+        "score": 80
+      },
+      {
+        "topic": "哲学与生活",
+        "score": 75
+      },
+      {
+        "topic": "职场倦怠",
+        "score": 70
+      }
+    ],
+    "impression": "一个经历过生活打磨、追求内心平静的禅意中年，喜欢用故事和哲理开导他人。"
+  },
+  "analyzed_at": "2026-06-15T22:28:28.519830",
+  "token_usage": 2969
+}

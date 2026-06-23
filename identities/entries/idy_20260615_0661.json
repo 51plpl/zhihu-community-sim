@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0661",
+  "source": {
+    "title": "2021 年有哪些值得选购的高性价比手机？",
+    "url": "https://www.zhihu.com/question/445602881/answer/2292884567",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "科技媒体编辑或数码产品爱好者",
+      "industry": "科技/互联网",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "单身"
+    ],
+    "life_experiences": [
+      "深度体验过多款旗舰手机",
+      "经常参与数码产品评测",
+      "有在机场延误等旅途经历"
+    ],
+    "interest_topics": [
+      "手机评测",
+      "数码产品",
+      "性价比",
+      "科技新闻",
+      "摩托罗拉",
+      "骁龙芯片"
+    ],
+    "discussion_triggers": [
+      "新机发布",
+      "性价比讨论",
+      "系统体验对比",
+      "快充续航"
+    ],
+    "sensitive_topics": [
+      "手机品牌争议",
+      "系统UI优劣",
+      "芯片功耗"
+    ],
+    "value_tendencies": [
+      "务实",
+      "注重性价比",
+      "理性消费",
+      "开放包容"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "经验主义",
+      "对比分析",
+      "注重实用"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "手机硬件",
+        "系统UI",
+        "芯片性能",
+        "快充技术"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经验",
+      "帮助他人选购",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "手机性价比",
+        "score": 90
+      },
+      {
+        "topic": "摩托罗拉手机",
+        "score": 85
+      },
+      {
+        "topic": "骁龙8Gen1",
+        "score": 80
+      },
+      {
+        "topic": "手机快充",
+        "score": 70
+      },
+      {
+        "topic": "系统UI体验",
+        "score": 65
+      }
+    ],
+    "impression": "一个务实、理性的数码爱好者，喜欢用实际体验说话，乐于分享，但偶尔有点啰嗦。"
+  },
+  "analyzed_at": "2026-06-15T22:28:14.750417",
+  "token_usage": 3797
+}

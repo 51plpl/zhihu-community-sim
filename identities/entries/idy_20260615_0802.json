@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0802",
+  "source": {
+    "title": "想买个蒸烤一体机，但品牌型号非常多，买什么牌子的好？",
+    "url": "https://www.zhihu.com/question/440294071/answer/2280622141",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领",
+      "industry": "互联网或服务业",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚或已婚无孩",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "独居或二人世界",
+      "烹饪新手期",
+      "追求生活品质"
+    ],
+    "life_experiences": [
+      "从恐惧做饭到爱上烹饪",
+      "尝试过黑暗料理",
+      "购买过多余的厨房小家电"
+    ],
+    "interest_topics": [
+      "美食",
+      "烹饪",
+      "厨房家电",
+      "健康饮食",
+      "收纳整理"
+    ],
+    "discussion_triggers": [
+      "蒸烤一体机推荐",
+      "厨房小白进阶",
+      "一机多用",
+      "品牌对比"
+    ],
+    "sensitive_topics": [
+      "价格过高",
+      "清洁麻烦",
+      "功能鸡肋"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "注重性价比",
+      "追求便捷",
+      "健康意识"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "产品对比",
+      "实用导向",
+      "个人体验"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "烹饪入门",
+        "厨房家电"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 60,
+      "likes_short_answers": 30,
+      "likes_storytelling": 40,
+      "likes_explaining": 50,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经验",
+      "帮助他人",
+      "获得认同",
+      "展示成果"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "蒸烤一体机推荐",
+        "score": 90
+      },
+      {
+        "topic": "厨房小白烹饪技巧",
+        "score": 80
+      },
+      {
+        "topic": "品牌对比",
+        "score": 70
+      },
+      {
+        "topic": "健康饮食",
+        "score": 60
+      },
+      {
+        "topic": "收纳整理",
+        "score": 50
+      }
+    ],
+    "impression": "一个从厨房小白进化而来的热情分享者，喜欢用亲身经历安利好物，带点小幽默。"
+  },
+  "analyzed_at": "2026-06-15T22:29:53.385965",
+  "token_usage": 2519
+}

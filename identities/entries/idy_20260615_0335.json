@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0335",
+  "source": {
+    "title": "你身边出轨的事情多吗？",
+    "url": "https://www.zhihu.com/question/334300128/answer/2284784809",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-25",
+      "gender": "男",
+      "education": "大专在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低（靠勤工俭学和奖学金）"
+    },
+    "life_stage": [
+      "青年学生",
+      "经济拮据",
+      "面临毕业压力"
+    ],
+    "life_experiences": [
+      "农村出身",
+      "在校外租房备考",
+      "遭遇女友校园贷危机",
+      "被班花冤枉并扇耳光"
+    ],
+    "interest_topics": [
+      "专升本考试",
+      "校园贷",
+      "社会阶层",
+      "男女关系",
+      "偷窥与道德"
+    ],
+    "discussion_triggers": [
+      "校园贷",
+      "贫富差距",
+      "女友物质化",
+      "被冤枉",
+      "偷窥经历"
+    ],
+    "sensitive_topics": [
+      "贫穷",
+      "女友背叛",
+      "尊严受辱",
+      "校园贷"
+    ],
+    "value_tendencies": [
+      "传统道德观",
+      "自尊心强",
+      "对堕落行为不齿",
+      "重视教育改变命运"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 10,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "获得认同",
+      "宣泄情绪"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "校园贷",
+        "score": 90
+      },
+      {
+        "topic": "出轨",
+        "score": 80
+      },
+      {
+        "topic": "贫穷经历",
+        "score": 85
+      },
+      {
+        "topic": "专升本",
+        "score": 70
+      },
+      {
+        "topic": "男女关系",
+        "score": 75
+      }
+    ],
+    "impression": "一个被现实毒打但内心仍有傲骨的穷学生，爱讲故事，情绪饱满，有点自怜但也有点愤世嫉俗。"
+  },
+  "analyzed_at": "2026-06-15T22:24:24.510985",
+  "token_usage": 5069
+}

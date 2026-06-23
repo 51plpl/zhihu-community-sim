@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0257",
+  "source": {
+    "title": "如何看待作业帮新出的小鹿素养课，可以培养孩子的哪些方面？",
+    "url": "https://www.zhihu.com/question/502698117/answer/2269095449",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领或全职妈妈",
+      "industry": "教育或互联网",
+      "city_tier": "一二线城市",
+      "marital_status": "已婚",
+      "children": "有一个儿子，小学阶段",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "孩子上小学",
+      "关注孩子教育",
+      "面临暑期托管难题"
+    ],
+    "life_experiences": [
+      "孩子学习习惯差",
+      "尝试过多种教育方式",
+      "通过编程课改善亲子关系"
+    ],
+    "interest_topics": [
+      "少儿编程",
+      "素质教育",
+      "学习习惯培养",
+      "专注力提升",
+      "亲子教育"
+    ],
+    "discussion_triggers": [
+      "孩子学习问题",
+      "暑假安排",
+      "编程课程推荐",
+      "专注力培养方法"
+    ],
+    "sensitive_topics": [
+      "孩子成绩",
+      "教育内卷",
+      "视力保护"
+    ],
+    "value_tendencies": [
+      "重视素质教育",
+      "注重培养逻辑思维",
+      "反对过度内卷",
+      "相信科技教育"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "问题解决导向",
+      "实用主义",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "少儿编程教育",
+        "学习习惯培养"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享成功经验",
+      "帮助其他家长",
+      "获得认同",
+      "展示孩子进步"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "少儿编程课程推荐",
+        "score": 90
+      },
+      {
+        "topic": "如何提升孩子专注力",
+        "score": 80
+      },
+      {
+        "topic": "素质教育 vs 应试教育",
+        "score": 60
+      },
+      {
+        "topic": "暑假安排",
+        "score": 70
+      },
+      {
+        "topic": "亲子关系",
+        "score": 50
+      }
+    ],
+    "impression": "一个从焦虑妈妈转变为温柔妈妈的实践派，乐于分享自家孩子的成长故事，相信编程能改变学习习惯。"
+  },
+  "analyzed_at": "2026-06-15T22:23:36.371611",
+  "token_usage": 3292
+}

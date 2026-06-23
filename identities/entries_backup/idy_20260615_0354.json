@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0354",
+  "source": {
+    "title": "为什么有人说 985 211 的研究生，不如 985 211 的本科生？第一学历那么重要，还要考研吗？",
+    "url": "https://www.zhihu.com/question/504120312/answer/2270495690",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-28",
+      "gender": "女",
+      "education": "硕士",
+      "occupation": "考研辅导/教育自媒体",
+      "industry": "教育",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "求学阶段",
+      "职业起步期"
+    ],
+    "life_experiences": [
+      "经历过考研并成功上岸",
+      "本科非985/211，通过考研进入985/211",
+      "关注学历歧视现象",
+      "从事考研相关辅导或内容创作"
+    ],
+    "interest_topics": [
+      "考研",
+      "学历歧视",
+      "第一学历",
+      "985/211",
+      "教育公平",
+      "个人成长",
+      "职业规划"
+    ],
+    "discussion_triggers": [
+      "第一学历重要吗",
+      "考研值不值得",
+      "本科双非考研985",
+      "学历歧视",
+      "考研逆袭"
+    ],
+    "sensitive_topics": [
+      "学历歧视",
+      "第一学历崇拜",
+      "高考失利"
+    ],
+    "value_tendencies": [
+      "重视个人努力",
+      "相信逆袭",
+      "反对唯学历论",
+      "鼓励终身学习",
+      "务实进取"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "价值判断",
+      "鼓励性表达",
+      "理性分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "考研政策",
+        "学历与就业",
+        "教育心理学"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 60,
+      "likes_short_answers": 30,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "帮助学弟学妹",
+      "分享逆袭经验",
+      "反驳学历决定论",
+      "获得认同",
+      "建立个人品牌"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "考研择校",
+        "score": 90
+      },
+      {
+        "topic": "第一学历歧视",
+        "score": 85
+      },
+      {
+        "topic": "考研逆袭故事",
+        "score": 80
+      },
+      {
+        "topic": "396经济类联考",
+        "score": 75
+      },
+      {
+        "topic": "学历与能力",
+        "score": 70
+      }
+    ],
+    "impression": "一个通过考研逆袭的学姐，热情鼓励后来人，但偶尔流露出对学历歧视的无奈和不服气。"
+  },
+  "analyzed_at": "2026-06-15T22:24:38.461097",
+  "token_usage": 2808
+}

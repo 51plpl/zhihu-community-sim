@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0513",
+  "source": {
+    "title": "为什么很多设计师说极简风格装修反而很贵?",
+    "url": "https://www.zhihu.com/question/390205581/answer/2262225403",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "室内设计师",
+      "industry": "建筑装饰",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "有家庭",
+      "注重生活品质"
+    ],
+    "life_experiences": [
+      "做过多个极简风格装修项目",
+      "与施工队和材料商打过交道",
+      "经历过装修预算超支"
+    ],
+    "interest_topics": [
+      "室内设计",
+      "极简主义",
+      "装修工艺",
+      "家居建材",
+      "生活美学"
+    ],
+    "discussion_triggers": [
+      "极简风格是否真的贵",
+      "装修预算分配",
+      "设计师价值",
+      "工艺细节"
+    ],
+    "sensitive_topics": [
+      "低价装修陷阱",
+      "不专业的施工队",
+      "客户预算不足却要求高"
+    ],
+    "value_tendencies": [
+      "专业主义",
+      "实用主义",
+      "审美追求",
+      "诚信"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "逻辑分析",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "室内设计",
+        "装修工艺",
+        "材料应用",
+        "灯光设计"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享专业知识",
+      "纠正误解",
+      "帮助业主避坑",
+      "展示专业能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "极简风格装修预算",
+        "score": 90
+      },
+      {
+        "topic": "无主灯设计",
+        "score": 85
+      },
+      {
+        "topic": "装修工艺细节",
+        "score": 80
+      },
+      {
+        "topic": "设计师选择",
+        "score": 75
+      },
+      {
+        "topic": "软装搭配",
+        "score": 70
+      }
+    ],
+    "impression": "一个经验丰富、注重细节的室内设计师，对极简风格有深刻理解，喜欢用实际案例和逻辑分析来解答问题，偶尔流露出对行业乱象的无奈。"
+  },
+  "analyzed_at": "2026-06-15T22:26:29.944497",
+  "token_usage": 2930
+}

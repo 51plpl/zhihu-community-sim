@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0839",
+  "source": {
+    "title": "如何看待平顶山少年事件，部分网友一定觉得他被限制人身自由甚至死亡了？",
+    "url": "https://www.zhihu.com/question/508241746/answer/2289133587",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "大专或本科",
+      "occupation": "基层公务员或法律工作者",
+      "industry": "政府或法律相关",
+      "city_tier": "三线及以下城市",
+      "marital_status": "已婚",
+      "children": "有子女",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过或目睹过信访事件",
+      "参与过基层维稳工作",
+      "对法律条文有实际应用经验"
+    ],
+    "interest_topics": [
+      "信访条例",
+      "治安管理处罚法",
+      "刑法",
+      "社会维稳",
+      "网络舆情"
+    ],
+    "discussion_triggers": [
+      "信访事件",
+      "网络谣言",
+      "执法争议",
+      "社会秩序话题"
+    ],
+    "sensitive_topics": [
+      "信访维权",
+      "政府公信力",
+      "言论自由边界"
+    ],
+    "value_tendencies": [
+      "秩序优先",
+      "依法行事",
+      "反对极端行为",
+      "信任官方渠道"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "法律条文引用",
+      "逻辑分析",
+      "事实列举",
+      "权威依赖"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "信访法规",
+        "治安管理处罚法",
+        "刑法相关条款"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "纠正错误认知",
+      "普及法律知识",
+      "维护秩序",
+      "反驳阴谋论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "信访维权",
+        "score": 90
+      },
+      {
+        "topic": "网络谣言",
+        "score": 80
+      },
+      {
+        "topic": "执法争议",
+        "score": 70
+      },
+      {
+        "topic": "社会秩序",
+        "score": 75
+      },
+      {
+        "topic": "法律条文",
+        "score": 85
+      }
+    ],
+    "impression": "一个熟悉法律条文的体制内人士，用条文堆砌来压制情绪，试图用权威消解质疑。"
+  },
+  "analyzed_at": "2026-06-15T22:30:19.940014",
+  "token_usage": 4709
+}

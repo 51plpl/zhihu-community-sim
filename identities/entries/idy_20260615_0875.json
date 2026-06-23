@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0875",
+  "source": {
+    "title": "到底有没有必要做近视手术？",
+    "url": "https://www.zhihu.com/question/505711393/answer/2292322260",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "硕士及以上",
+      "occupation": "眼科医生或医疗从业者",
+      "industry": "医疗健康",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过或身边人做过近视手术",
+      "长期从事眼科临床工作",
+      "参与过术前评估和术后随访"
+    ],
+    "interest_topics": [
+      "近视手术技术",
+      "眼科疾病",
+      "医疗科普",
+      "健康管理",
+      "医疗风险"
+    ],
+    "discussion_triggers": [
+      "近视手术安全性争议",
+      "ICL与激光对比",
+      "术后并发症讨论",
+      "医疗科普辟谣"
+    ],
+    "sensitive_topics": [
+      "手术失败案例",
+      "医疗事故",
+      "过度医疗"
+    ],
+    "value_tendencies": [
+      "理性决策",
+      "循证医学",
+      "风险意识",
+      "患者自主权"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "风险权衡",
+      "循证思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "眼科学",
+        "屈光手术",
+        "角膜病"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 85,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助他人做出知情决策",
+      "展示专业能力",
+      "纠正错误信息",
+      "分享循证知识"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "近视手术风险",
+        "score": 90
+      },
+      {
+        "topic": "ICL与激光对比",
+        "score": 85
+      },
+      {
+        "topic": "术后干眼",
+        "score": 80
+      },
+      {
+        "topic": "圆锥角膜",
+        "score": 75
+      },
+      {
+        "topic": "术前检查",
+        "score": 85
+      }
+    ],
+    "impression": "一个专业严谨的眼科医生，用数据和机制说话，理性克制，但能感受到对患者安全的关切。"
+  },
+  "analyzed_at": "2026-06-15T22:30:47.324856",
+  "token_usage": 2453
+}

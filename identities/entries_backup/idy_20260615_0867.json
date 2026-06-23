@@ -1,0 +1,141 @@
+{
+  "id": "idy_20260615_0867",
+  "source": {
+    "title": "阿君说：为什么大多数有钱人不愿意跟穷人交流？",
+    "url": "https://zhuanlan.zhihu.com/p/448262188",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "自媒体创业者/商业顾问",
+      "industry": "互联网/知识付费",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有子女",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "事业上升期",
+      "创业中",
+      "有家庭"
+    ],
+    "life_experiences": [
+      "从底层奋斗至中产",
+      "经历过创业失败或转型",
+      "长期研究商业和赚钱逻辑",
+      "接触过大量不同阶层的人"
+    ],
+    "interest_topics": [
+      "商业思维",
+      "个人成长",
+      "时间管理",
+      "认知升级",
+      "自媒体运营",
+      "财富自由",
+      "阶层跃迁"
+    ],
+    "discussion_triggers": [
+      "穷人思维vs富人思维",
+      "无效社交",
+      "时间成本",
+      "付费咨询",
+      "阶层固化"
+    ],
+    "sensitive_topics": [
+      "贫富差距",
+      "社会不公",
+      "穷人懒惰论",
+      "道德绑架"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "推崇个人努力",
+      "反对无效社交",
+      "重视时间效率",
+      "认可阶层差异的合理性"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "类比推理",
+      "案例教学",
+      "目标导向",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "商业策略",
+        "个人品牌",
+        "内容营销",
+        "认知心理学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 40,
+      "likes_debating": 70,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 85,
+      "likes_sharing_experience": 75,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "展示专业能力",
+      "获得认同",
+      "帮助他人提升认知",
+      "推广自己的公众号/咨询业务",
+      "反驳穷人思维"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 75
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "穷人思维和富人思维的区别",
+        "score": 90
+      },
+      {
+        "topic": "如何提高时间利用率",
+        "score": 85
+      },
+      {
+        "topic": "无效社交的表现",
+        "score": 80
+      },
+      {
+        "topic": "个人成长方法论",
+        "score": 75
+      },
+      {
+        "topic": "自媒体创业经验",
+        "score": 70
+      }
+    ],
+    "impression": "一个经历过奋斗、相信认知决定命运、略带精英主义但又有同理心的商业博主，喜欢用故事和类比输出观点，同时巧妙引流。"
+  },
+  "analyzed_at": "2026-06-15T22:30:40.172102",
+  "token_usage": 3072
+}

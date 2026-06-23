@@ -1,0 +1,137 @@
+{
+  "id": "idy_20260615_0999",
+  "source": {
+    "title": "李靓蕾的长篇发文让你明白多少道理？",
+    "url": "https://www.zhihu.com/question/506916713/answer/2279960708",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "女",
+      "education": "本科及以上",
+      "occupation": "创业者/公司创始人",
+      "industry": "奢侈品二手/电商",
+      "city_tier": "一线城市",
+      "marital_status": "未婚或离异",
+      "children": "无",
+      "income_level": "高收入"
+    },
+    "life_stage": [
+      "事业上升期",
+      "自我实现期"
+    ],
+    "life_experiences": [
+      "日本留学",
+      "创业7年",
+      "经历过经济独立的过程",
+      "曾有过恋爱脑阶段",
+      "从依赖到独立的转变"
+    ],
+    "interest_topics": [
+      "女性独立",
+      "创业",
+      "经济独立",
+      "婚姻与豪门",
+      "自我成长",
+      "奢侈品行业"
+    ],
+    "discussion_triggers": [
+      "嫁豪门与创业对比",
+      "全职主妇价值",
+      "女性安全感",
+      "创业孤独",
+      "婆媳关系"
+    ],
+    "sensitive_topics": [
+      "性别不平等",
+      "婚姻中的权力关系",
+      "女性被物化"
+    ],
+    "value_tendencies": [
+      "独立自主",
+      "经济自由",
+      "尊重专业",
+      "反对捷径",
+      "推崇奋斗"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "价值判断",
+      "故事叙述",
+      "对比分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "创业",
+        "奢侈品行业",
+        "日本留学",
+        "女性成长"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "展示专业能力",
+      "帮助他人",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "女性经济独立",
+        "score": 90
+      },
+      {
+        "topic": "创业经历",
+        "score": 85
+      },
+      {
+        "topic": "婚姻与豪门",
+        "score": 80
+      },
+      {
+        "topic": "日本留学",
+        "score": 70
+      },
+      {
+        "topic": "全职主妇价值",
+        "score": 75
+      }
+    ],
+    "impression": "一个靠自己打拼成功的创业女性，经历过恋爱脑到独立的蜕变，对豪门婚姻有清醒的批判，但也不贬低全职主妇，言语中透着过来人的通透和孤独感。"
+  },
+  "analyzed_at": "2026-06-15T22:32:15.488916",
+  "token_usage": 3517
+}

@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0251",
+  "source": {
+    "title": "“西”望你我，“安”然无恙，西安加油！",
+    "url": "https://zhuanlan.zhihu.com/p/450417207",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "企业员工/中层管理",
+      "industry": "企业服务/集团行政",
+      "city_tier": "二线（西安）",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "成家立业",
+      "城市归属感强",
+      "经历重大公共事件"
+    ],
+    "life_experiences": [
+      "在西安长期生活",
+      "经历2021年底西安疫情封城",
+      "参与或见证企业抗疫动员"
+    ],
+    "interest_topics": [
+      "城市发展",
+      "疫情动态",
+      "本地生活",
+      "历史文化",
+      "企业社会责任"
+    ],
+    "discussion_triggers": [
+      "西安疫情",
+      "城市荣誉",
+      "集体行动",
+      "家乡情怀"
+    ],
+    "sensitive_topics": [
+      "疫情管控措施",
+      "地域歧视",
+      "城市形象受损"
+    ],
+    "value_tendencies": [
+      "集体主义",
+      "家国情怀",
+      "乐观坚韧",
+      "服从大局"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 85
+    },
+    "thinking_style": [
+      "情感驱动",
+      "故事叙述",
+      "价值判断",
+      "集体叙事"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "西安历史",
+        "本地民生",
+        "企业行政"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 85,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "表达情感",
+      "鼓舞他人",
+      "彰显集体认同",
+      "分享经历"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 80,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "西安疫情",
+        "score": 90
+      },
+      {
+        "topic": "城市文化",
+        "score": 70
+      },
+      {
+        "topic": "抗疫故事",
+        "score": 85
+      },
+      {
+        "topic": "企业责任",
+        "score": 60
+      },
+      {
+        "topic": "家乡情怀",
+        "score": 80
+      }
+    ],
+    "impression": "一个深爱家乡、热血又感性的西安人，用排比句和感叹号给城市打气，像朋友圈里最会写小作文的那位"
+  },
+  "analyzed_at": "2026-06-15T22:23:31.153582",
+  "token_usage": 2562
+}

@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0883",
+  "source": {
+    "title": "读研的痛苦本质是什么？",
+    "url": "https://www.zhihu.com/question/441072611/answer/2287940807",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-26",
+      "gender": "未明确",
+      "education": "硕士在读",
+      "occupation": "研究生",
+      "industry": "教育/科研",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低收入（学生）"
+    },
+    "life_stage": [
+      "研究生在读",
+      "面临毕业压力",
+      "求职或读博过渡期"
+    ],
+    "life_experiences": [
+      "经历过考研或保研竞争",
+      "被导师push",
+      "同辈压力",
+      "论文写作困难"
+    ],
+    "interest_topics": [
+      "研究生生活",
+      "心理健康",
+      "庄子哲学",
+      "教育体制",
+      "个人成长"
+    ],
+    "discussion_triggers": [
+      "导师push",
+      "同辈压力",
+      "毕业要求",
+      "理想与现实的差距"
+    ],
+    "sensitive_topics": [
+      "导师压榨",
+      "抑郁情绪",
+      "学术不公",
+      "内卷"
+    ],
+    "value_tendencies": [
+      "追求自由与平衡",
+      "反对过度竞争",
+      "重视心理健康",
+      "接受平凡"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验反思",
+      "哲学思辨",
+      "自我剖析",
+      "情绪表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "新传类",
+        "研究生教育"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "寻求共鸣",
+      "帮助他人",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 60,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "研究生压力",
+        "score": 90
+      },
+      {
+        "topic": "导师关系",
+        "score": 85
+      },
+      {
+        "topic": "论文写作",
+        "score": 80
+      },
+      {
+        "topic": "内卷与竞争",
+        "score": 70
+      },
+      {
+        "topic": "人生哲学",
+        "score": 60
+      }
+    ],
+    "impression": "一个在学术压力中挣扎但努力自我和解的文科研究生，善于反思，带点佛系"
+  },
+  "analyzed_at": "2026-06-15T22:30:50.552857",
+  "token_usage": 2481
+}

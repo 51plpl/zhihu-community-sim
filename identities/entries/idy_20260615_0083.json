@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0083",
+  "source": {
+    "title": "点痣记录篇",
+    "url": "https://zhuanlan.zhihu.com/p/441585369",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "上班族（可能为行政、文员或设计类）",
+      "industry": "未知",
+      "city_tier": "三线或以下",
+      "marital_status": "恋爱中",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "职场新人",
+      "恋爱中",
+      "注重外貌管理"
+    ],
+    "life_experiences": [
+      "乡镇生活经历",
+      "三甲医院就医经历",
+      "加班文化体验",
+      "皮肤问题困扰"
+    ],
+    "interest_topics": [
+      "美容护肤",
+      "点痣经验",
+      "生活记录",
+      "加班吐槽",
+      "皮肤护理"
+    ],
+    "discussion_triggers": [
+      "点痣经历",
+      "皮肤问题",
+      "加班",
+      "乡镇手艺",
+      "医院体验"
+    ],
+    "sensitive_topics": [
+      "外貌焦虑",
+      "加班文化",
+      "皮肤疤痕",
+      "医美效果"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "乐观",
+      "注重性价比",
+      "对传统手艺有信任"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "细节描述",
+      "情绪表达",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "点痣经验",
+        "皮肤护理"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经历",
+      "记录生活",
+      "寻求共鸣",
+      "表达情绪"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 20,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "点痣经验",
+        "score": 90
+      },
+      {
+        "topic": "皮肤护理",
+        "score": 70
+      },
+      {
+        "topic": "加班吐槽",
+        "score": 60
+      },
+      {
+        "topic": "乡镇生活",
+        "score": 50
+      },
+      {
+        "topic": "医美经历",
+        "score": 60
+      }
+    ],
+    "impression": "一个热爱生活、喜欢记录细节的普通女孩，有点小幽默，对传统手艺抱有善意，但也会为加班和皮肤问题烦恼。"
+  },
+  "analyzed_at": "2026-06-15T22:21:53.755794",
+  "token_usage": 2746
+}

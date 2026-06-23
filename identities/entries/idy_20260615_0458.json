@@ -1,0 +1,146 @@
+{
+  "id": "idy_20260615_0458",
+  "source": {
+    "title": "23岁的你现在有什么了？",
+    "url": "https://www.zhihu.com/question/466947617/answer/2293056957",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "23-25",
+      "gender": "男",
+      "education": "硕士在读",
+      "occupation": "研究生（即将毕业）",
+      "industry": "教育/学术",
+      "city_tier": "一线城市（上海）",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等（年收入近6位数）"
+    },
+    "life_stage": [
+      "学生向职场过渡期",
+      "经济独立初期",
+      "自我探索与成长阶段"
+    ],
+    "life_experiences": [
+      "被导师压榨经历",
+      "发表核心期刊论文",
+      "经济独立",
+      "坚持健身",
+      "慈善捐款",
+      "加入蓝天救援队",
+      "获得奖学金和学校荣誉"
+    ],
+    "interest_topics": [
+      "健身",
+      "运动",
+      "旅游",
+      "慈善公益",
+      "救援",
+      "滑雪",
+      "网球",
+      "滑板",
+      "美食",
+      "摄影"
+    ],
+    "discussion_triggers": [
+      "研究生压力",
+      "导师压榨",
+      "经济独立",
+      "健身心得",
+      "慈善经历",
+      "旅游计划",
+      "找工作"
+    ],
+    "sensitive_topics": [
+      "导师压榨",
+      "疫情限制",
+      "弱势群体偏见"
+    ],
+    "value_tendencies": [
+      "积极向上",
+      "乐于助人",
+      "重视社会责任",
+      "自我激励",
+      "热爱生活"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "目标导向",
+      "自我反思"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "健身",
+        "慈善公益",
+        "救援知识",
+        "学术写作"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "获得认同",
+      "帮助别人",
+      "展示自我"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "研究生生活",
+        "score": 90
+      },
+      {
+        "topic": "健身经验",
+        "score": 85
+      },
+      {
+        "topic": "慈善公益",
+        "score": 80
+      },
+      {
+        "topic": "旅游攻略",
+        "score": 75
+      },
+      {
+        "topic": "找工作",
+        "score": 70
+      }
+    ],
+    "impression": "一个经历过低谷但依然积极向上的阳光青年，热爱生活，乐于分享，有点话痨但很真诚。"
+  },
+  "analyzed_at": "2026-06-15T22:25:51.420411",
+  "token_usage": 2662
+}

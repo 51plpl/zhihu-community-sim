@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0182",
+  "source": {
+    "title": "被尾随是一种什么样的体验?",
+    "url": "https://www.zhihu.com/question/344690001/answer/2276558079",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "办公室职员",
+      "industry": "服务业或互联网",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "独居青年",
+      "职场打拼期"
+    ],
+    "life_experiences": [
+      "城中村租房经历",
+      "深夜独自回家",
+      "遭遇尾随",
+      "备有防身工具"
+    ],
+    "interest_topics": [
+      "女性安全",
+      "防身技巧",
+      "社会新闻",
+      "职场生活"
+    ],
+    "discussion_triggers": [
+      "女性夜间出行安全",
+      "尾随经历",
+      "防身工具推荐",
+      "社会阴暗面"
+    ],
+    "sensitive_topics": [
+      "女性受害事件",
+      "治安问题",
+      "性别暴力"
+    ],
+    "value_tendencies": [
+      "重视安全",
+      "独立自强",
+      "对危险敏感",
+      "有反抗精神"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "经验主义",
+      "情绪表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "女性安全防范"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 60,
+      "likes_short_answers": 40,
+      "likes_storytelling": 80,
+      "likes_explaining": 50,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "警示他人",
+      "表达愤怒",
+      "寻求认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "女性夜间安全",
+        "score": 90
+      },
+      {
+        "topic": "防身工具",
+        "score": 80
+      },
+      {
+        "topic": "城中村租房",
+        "score": 60
+      },
+      {
+        "topic": "职场社交",
+        "score": 40
+      },
+      {
+        "topic": "社会阴暗面",
+        "score": 70
+      }
+    ],
+    "impression": "一个被生活压得喘不过气但绝不认输的硬核女性，愤怒中带着悲壮，像一只随时准备炸毛的猫。"
+  },
+  "analyzed_at": "2026-06-15T22:22:53.675121",
+  "token_usage": 2415
+}

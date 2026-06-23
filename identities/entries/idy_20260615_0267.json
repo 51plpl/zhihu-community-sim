@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0267",
+  "source": {
+    "title": "高善文的演讲，关于房地产、经济与A股",
+    "url": "https://zhuanlan.zhihu.com/p/446371096",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "金融从业者/投资分析师/财经自媒体",
+      "industry": "金融/投资",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过2015年股市波动",
+      "关注房地产周期",
+      "有投资经验",
+      "可能从事过金融相关工作"
+    ],
+    "interest_topics": [
+      "宏观经济",
+      "房地产",
+      "A股",
+      "经济结构转型",
+      "产业政策",
+      "投资策略"
+    ],
+    "discussion_triggers": [
+      "高善文演讲",
+      "房地产见顶",
+      "经济转型",
+      "A股未来",
+      "民企发展"
+    ],
+    "sensitive_topics": [
+      "所有制歧视",
+      "房地产调控",
+      "经济下行"
+    ],
+    "value_tendencies": [
+      "支持市场化",
+      "重视民企",
+      "理性投资",
+      "长期主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "数据导向",
+      "归纳总结",
+      "趋势判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "宏观经济",
+        "房地产",
+        "资本市场"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 10,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享知识",
+      "展示专业能力",
+      "帮助理解复杂问题",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "高善文演讲解读",
+        "score": 90
+      },
+      {
+        "topic": "房地产未来走势",
+        "score": 80
+      },
+      {
+        "topic": "A股投资机会",
+        "score": 75
+      },
+      {
+        "topic": "经济转型",
+        "score": 70
+      },
+      {
+        "topic": "民企融资",
+        "score": 60
+      }
+    ],
+    "impression": "一个善于解读宏观经济、乐于分享的金融从业者，理性乐观，对市场有深刻见解。"
+  },
+  "analyzed_at": "2026-06-15T22:23:42.356858",
+  "token_usage": 3826
+}

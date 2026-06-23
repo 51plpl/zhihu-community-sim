@@ -1,0 +1,124 @@
+{
+  "id": "idy_20260615_0136",
+  "source": {
+    "title": "【考研英语作文】结尾段怎么写？",
+    "url": "https://zhuanlan.zhihu.com/p/438837226",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女",
+      "education": "硕士在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低收入"
+    },
+    "life_stage": [
+      "考研备考",
+      "学生时代"
+    ],
+    "life_experiences": [
+      "考研英语备考",
+      "学习英语写作",
+      "查阅外刊资料"
+    ],
+    "interest_topics": [
+      "考研英语",
+      "英语写作",
+      "外刊阅读",
+      "教育",
+      "学习方法"
+    ],
+    "discussion_triggers": [
+      "考研英语作文",
+      "模板句型",
+      "英语学习技巧"
+    ],
+    "sensitive_topics": [
+      "考研压力",
+      "英语学习困难"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "勤奋",
+      "注重细节"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "结构化思维",
+      "经验总结",
+      "注重证据"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "考研英语",
+        "英语写作"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人备考",
+      "展示专业能力",
+      "分享学习资源"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "考研英语作文",
+        "score": 90
+      },
+      {
+        "topic": "英语学习技巧",
+        "score": 80
+      },
+      {
+        "topic": "外刊阅读",
+        "score": 70
+      },
+      {
+        "topic": "考研备考经验",
+        "score": 75
+      },
+      {
+        "topic": "英语语法",
+        "score": 60
+      }
+    ],
+    "impression": "一个认真备考、乐于分享的考研学姐，注重实用细节，喜欢用模板和例子帮助他人。"
+  },
+  "analyzed_at": "2026-06-15T22:22:25.175448",
+  "token_usage": 2458
+}

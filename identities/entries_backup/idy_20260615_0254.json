@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0254",
+  "source": {
+    "title": "靶向药耐药后，肺癌病人该何去何从？",
+    "url": "https://zhuanlan.zhihu.com/p/450032495",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-55",
+      "gender": "男",
+      "education": "硕士及以上",
+      "occupation": "肿瘤科医生",
+      "industry": "医疗健康",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "多年临床肿瘤治疗经验",
+      "处理过大量靶向药耐药案例",
+      "参与过肿瘤学术会议"
+    ],
+    "interest_topics": [
+      "肺癌靶向治疗",
+      "肿瘤耐药机制",
+      "基因检测",
+      "肿瘤免疫治疗",
+      "临床指南更新"
+    ],
+    "discussion_triggers": [
+      "靶向药耐药后治疗",
+      "基因检测必要性",
+      "化疗与靶向药选择",
+      "患者家属咨询"
+    ],
+    "sensitive_topics": [
+      "治疗失败案例",
+      "医患纠纷",
+      "过度医疗"
+    ],
+    "value_tendencies": [
+      "科学循证",
+      "患者利益优先",
+      "谨慎乐观",
+      "尊重生命"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "经验总结",
+      "逻辑推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "肺癌靶向治疗",
+        "肿瘤耐药机制",
+        "基因检测解读",
+        "临床治疗方案设计"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 90,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助患者家属",
+      "展示专业能力",
+      "传播正确医学知识",
+      "纠正错误认知"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 30,
+      "seeking_influence": 60,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "靶向药耐药",
+        "score": 95
+      },
+      {
+        "topic": "肺癌治疗方案",
+        "score": 90
+      },
+      {
+        "topic": "基因检测",
+        "score": 85
+      },
+      {
+        "topic": "免疫治疗",
+        "score": 70
+      },
+      {
+        "topic": "患者心理支持",
+        "score": 50
+      }
+    ],
+    "impression": "一位专业、严谨、有同理心的肿瘤科医生，喜欢用数据和指南说话，但也不失人文关怀。"
+  },
+  "analyzed_at": "2026-06-15T22:23:33.034006",
+  "token_usage": 2444
+}

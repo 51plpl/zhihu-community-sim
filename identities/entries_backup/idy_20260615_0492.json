@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0492",
+  "source": {
+    "title": "深度分析双鱼座",
+    "url": "https://zhuanlan.zhihu.com/p/443425458",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生或新媒体运营",
+      "industry": "文化娱乐",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "青春期",
+      "探索自我",
+      "情感迷茫期"
+    ],
+    "life_experiences": [
+      "多次暗恋或暧昧经历",
+      "失恋后自我反思",
+      "对星座心理学产生兴趣"
+    ],
+    "interest_topics": [
+      "星座解析",
+      "心理学",
+      "情感关系",
+      "文艺创作",
+      "自我成长"
+    ],
+    "discussion_triggers": [
+      "双鱼座性格分析",
+      "恋爱中的暧昧阶段",
+      "失恋后的心理变化",
+      "星座配对"
+    ],
+    "sensitive_topics": [
+      "被背叛",
+      "安全感缺失",
+      "自我怀疑",
+      "情感中的被动"
+    ],
+    "value_tendencies": [
+      "重视情感深度",
+      "崇尚浪漫主义",
+      "相信命运",
+      "善良宽容"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "情感驱动",
+      "直觉导向",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "星座学",
+        "情感心理学"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 85,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "获得认同",
+      "帮助他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "双鱼座性格",
+        "score": 90
+      },
+      {
+        "topic": "暧昧期心理",
+        "score": 85
+      },
+      {
+        "topic": "失恋疗伤",
+        "score": 80
+      },
+      {
+        "topic": "星座配对",
+        "score": 75
+      },
+      {
+        "topic": "自我成长",
+        "score": 60
+      }
+    ],
+    "impression": "一个情感丰富、善于自我剖析的文艺青年，喜欢用星座解释世界，对爱情既向往又恐惧。"
+  },
+  "analyzed_at": "2026-06-15T22:26:15.078862",
+  "token_usage": 4834
+}

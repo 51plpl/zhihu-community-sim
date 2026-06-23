@@ -1,0 +1,120 @@
+{
+  "id": "idy_20260615_0888",
+  "source": {
+    "title": "如何以「我嫁给了青梅竹马，但他的心上人不是我」为开头写一个故事？",
+    "url": "https://www.zhihu.com/question/404865038/answer/2274611444",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "私塾教育",
+      "occupation": "太子妃",
+      "industry": "皇室",
+      "city_tier": "一线",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "高"
+    },
+    "life_stage": [
+      "刚及第",
+      "新婚"
+    ],
+    "life_experiences": [
+      "青梅竹马误会多年",
+      "被哥哥戏弄",
+      "被赐婚",
+      "发现真相后和解"
+    ],
+    "interest_topics": [
+      "言情小说",
+      "八卦",
+      "美食",
+      "恶作剧"
+    ],
+    "discussion_triggers": [
+      "误会澄清",
+      "感情纠葛",
+      "家庭闹剧"
+    ],
+    "sensitive_topics": [
+      "断袖之癖",
+      "被欺骗"
+    ],
+    "value_tendencies": [
+      "重视感情",
+      "重视家庭",
+      "重视真相"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "情绪化",
+      "直觉型",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "古代礼仪",
+        "皇室生活"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 30,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 40,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "表达情感",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "古代爱情故事",
+        "score": 90
+      },
+      {
+        "topic": "家庭关系",
+        "score": 80
+      },
+      {
+        "topic": "皇室八卦",
+        "score": 70
+      },
+      {
+        "topic": "误会与和解",
+        "score": 85
+      }
+    ],
+    "impression": "一个被哥哥坑惨但最终收获真爱的活泼少女，爱讲故事，情绪丰富。"
+  },
+  "analyzed_at": "2026-06-15T22:30:55.114278",
+  "token_usage": 5159
+}

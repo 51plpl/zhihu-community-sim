@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0648",
+  "source": {
+    "title": "2022年股市行情会比2021年好吗？",
+    "url": "https://www.zhihu.com/question/504980013/answer/2269188601",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "金融从业者或资深股民",
+      "industry": "金融/投资",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "中年",
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过2007年和2015年牛熊市",
+      "长期关注A股市场",
+      "有投资亏损和盈利经历"
+    ],
+    "interest_topics": [
+      "A股市场",
+      "宏观经济",
+      "货币政策",
+      "行业分析",
+      "投资策略",
+      "历史周期"
+    ],
+    "discussion_triggers": [
+      "牛市预测",
+      "周期规律",
+      "货币政策变化",
+      "结构性行情"
+    ],
+    "sensitive_topics": [
+      "股灾",
+      "政策失误",
+      "市场操纵"
+    ],
+    "value_tendencies": [
+      "理性务实",
+      "相信规律",
+      "长期主义",
+      "风险意识强"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑推理",
+      "历史类比",
+      "机制分析",
+      "数据引用"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "股市周期",
+        "技术分析",
+        "宏观经济",
+        "金融政策"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 60,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业分析能力",
+      "分享投资见解",
+      "帮助他人理解市场",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "A股牛市预测",
+        "score": 90
+      },
+      {
+        "topic": "货币政策对股市影响",
+        "score": 85
+      },
+      {
+        "topic": "结构性行情机会",
+        "score": 80
+      },
+      {
+        "topic": "周期理论",
+        "score": 75
+      },
+      {
+        "topic": "投资策略",
+        "score": 70
+      }
+    ],
+    "impression": "一个相信历史规律、喜欢用逻辑和比喻解释市场的资深股民，理性中带点乐观，乐于分享但有点好为人师。"
+  },
+  "analyzed_at": "2026-06-15T22:28:06.528480",
+  "token_usage": 3493
+}

@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_017",
+  "source": {
+    "title": "幼儿园里的美女老师",
+    "url": "https://zhuanlan.zhihu.com/p/444987326",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "口语化为主，用词偏日常，夹杂少量书面语和成语。",
+    "sentence_rhythm": "短句为主，节奏舒缓，对话和叙述交替。",
+    "favorite_expressions": [
+      "吗",
+      "了",
+      "呢",
+      "就是",
+      "呵呵"
+    ],
+    "punctuation_habits": "逗号密度高，感叹号用于情感表达，省略号用于停顿。",
+    "person_perspective": "第一人称（我）贯穿全文，偶尔切换为对话中的第二人称。",
+    "emotion_intensity": "中等，情感自然流露，不过度煽情。"
+  },
+  "structure": {
+    "opening_pattern": "以标题重复开头，直接进入内心疑问。",
+    "paragraph_rhythm": "段落长短交替，关键对话和内心独白独立成段。",
+    "argument_logic": "归纳型，通过具体事件和对话逐步揭示答案。",
+    "transition_style": "口语化过渡，使用“这时”“接着”“后来”等连接词。",
+    "closing_pattern": "以对话和场景描写收尾，留下余韵。",
+    "title_pattern": "直给型，直接点明核心人物。"
+  },
+  "analyzed_at": "2026-06-14T22:54:57.134963",
+  "token_usage": 2197
+}

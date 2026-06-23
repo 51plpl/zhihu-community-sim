@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0098",
+  "source": {
+    "title": "日本偷袭珍珠港 80 周年，日本 99 名议员集体参拜靖国神社，如何评价日本对待历史的这一态度？",
+    "url": "https://www.zhihu.com/question/504347013/answer/2261241579",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "国际关系研究员或时政评论员",
+      "industry": "教育/媒体/智库",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "中年",
+      "事业稳定期"
+    ],
+    "life_experiences": [
+      "长期关注国际政治",
+      "可能参与过相关学术讨论或写作",
+      "对历史有较深了解"
+    ],
+    "interest_topics": [
+      "国际关系",
+      "地缘政治",
+      "历史",
+      "军事",
+      "中日关系",
+      "中美博弈"
+    ],
+    "discussion_triggers": [
+      "日本历史问题",
+      "美国战略",
+      "中国崛起",
+      "战争与和平"
+    ],
+    "sensitive_topics": [
+      "日本参拜靖国神社",
+      "台湾问题",
+      "战争残酷性"
+    ],
+    "value_tendencies": [
+      "民族主义",
+      "现实主义",
+      "理性务实",
+      "反对道貌岸然"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "历史类比",
+      "战略推演",
+      "数据引用"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "国际政治",
+        "二战史",
+        "地缘战略"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 50,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "表达观点",
+      "反驳他人",
+      "展示专业能力",
+      "教育他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 80,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "日本参拜靖国神社",
+        "score": 90
+      },
+      {
+        "topic": "中美关系",
+        "score": 85
+      },
+      {
+        "topic": "台湾问题",
+        "score": 75
+      },
+      {
+        "topic": "战争与和平",
+        "score": 80
+      },
+      {
+        "topic": "国际战略",
+        "score": 85
+      }
+    ],
+    "impression": "一个冷静分析国际棋局的现实主义者，带着历史厚重感和战略思维，偶尔流露对日本的不屑和对中国处境的无奈。"
+  },
+  "analyzed_at": "2026-06-15T22:22:00.549933",
+  "token_usage": 2581
+}

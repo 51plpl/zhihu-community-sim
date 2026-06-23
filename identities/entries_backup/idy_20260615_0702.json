@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0702",
+  "source": {
+    "title": "棋高弈招：成型=吃大分，7D圣杯拼多多，永恩克星吃分稳到爆",
+    "url": "https://zhuanlan.zhihu.com/p/442382241",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "游戏内容创作者/自媒体运营",
+      "industry": "游戏/电竞",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "单身"
+    ],
+    "life_experiences": [
+      "深度游戏玩家",
+      "云顶之弈高分段玩家",
+      "内容创作者",
+      "社区活跃分子"
+    ],
+    "interest_topics": [
+      "云顶之弈",
+      "游戏攻略",
+      "阵容搭配",
+      "版本更新",
+      "游戏运营"
+    ],
+    "discussion_triggers": [
+      "新版本阵容",
+      "毒瘤阵容克制",
+      "装备合成",
+      "海克斯选择",
+      "运营节奏"
+    ],
+    "sensitive_topics": [
+      "版本平衡性",
+      "抄袭争议",
+      "低分段玩家"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "分享精神",
+      "尊重原创",
+      "注重细节"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "经验总结",
+      "逻辑推演"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "云顶之弈",
+        "自走棋策略",
+        "游戏平衡"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 60,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 85,
+      "likes_sharing_experience": 75,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 85,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享攻略帮助他人",
+      "展示专业能力",
+      "获得认同",
+      "交流技术"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 80,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "云顶之弈阵容推荐",
+        "score": 95
+      },
+      {
+        "topic": "版本毒瘤克制",
+        "score": 90
+      },
+      {
+        "topic": "装备合成优先级",
+        "score": 85
+      },
+      {
+        "topic": "运营节奏",
+        "score": 80
+      },
+      {
+        "topic": "海克斯选择",
+        "score": 75
+      }
+    ],
+    "impression": "一个热爱钻研游戏、乐于分享攻略的硬核玩家，说话有条理，注重细节，有点技术宅的执着。"
+  },
+  "analyzed_at": "2026-06-15T22:28:43.260914",
+  "token_usage": 3112
+}

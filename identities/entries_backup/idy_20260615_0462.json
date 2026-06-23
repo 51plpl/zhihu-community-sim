@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0462",
+  "source": {
+    "title": "与薇娅相伴18年，打造薇娅90亿身价，董海锋到底什么来历？",
+    "url": "https://zhuanlan.zhihu.com/p/449066551",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "自媒体写手/编辑",
+      "industry": "媒体/娱乐",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "家庭生活为主"
+    ],
+    "life_experiences": [
+      "关注网红经济与商业案例",
+      "对夫妻创业故事感兴趣",
+      "经历过行业变化"
+    ],
+    "interest_topics": [
+      "网红经济",
+      "电商直播",
+      "夫妻创业",
+      "商业案例",
+      "娱乐圈八卦",
+      "税务法律"
+    ],
+    "discussion_triggers": [
+      "薇娅偷税事件",
+      "夫妻共同创业",
+      "商业嗅觉",
+      "网红翻车"
+    ],
+    "sensitive_topics": [
+      "偷税漏税",
+      "网红高收入",
+      "夫妻利益分配"
+    ],
+    "value_tendencies": [
+      "重视法律合规",
+      "欣赏商业嗅觉",
+      "同情创业者艰辛",
+      "对夫妻共同奋斗持正面态度"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "故事叙述",
+      "价值判断",
+      "经验总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网红经济",
+        "电商运营",
+        "娱乐产业"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享故事",
+      "表达观点",
+      "获得认同",
+      "展示知识"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "薇娅事件",
+        "score": 90
+      },
+      {
+        "topic": "夫妻创业",
+        "score": 80
+      },
+      {
+        "topic": "电商直播",
+        "score": 70
+      },
+      {
+        "topic": "网红税务",
+        "score": 60
+      },
+      {
+        "topic": "商业案例",
+        "score": 50
+      }
+    ],
+    "impression": "一个喜欢讲述商业故事、对夫妻创业充满好感的媒体人，带点八卦和鸡汤味。"
+  },
+  "analyzed_at": "2026-06-15T22:25:54.170791",
+  "token_usage": 3301
+}

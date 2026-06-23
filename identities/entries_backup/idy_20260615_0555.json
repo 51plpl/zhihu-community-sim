@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0555",
+  "source": {
+    "title": "一个人被两个病娇同时盯上，会发生什么?",
+    "url": "https://www.zhihu.com/question/372168103/answer/2292578149",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生或自由职业者",
+      "industry": "文化娱乐",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "青年期",
+      "探索期"
+    ],
+    "life_experiences": [
+      "阅读大量网络小说",
+      "对二次元文化有深入了解",
+      "可能有过创作经历"
+    ],
+    "interest_topics": [
+      "病娇",
+      "重生",
+      "师徒恋",
+      "虐文",
+      "言情小说",
+      "仙侠"
+    ],
+    "discussion_triggers": [
+      "病娇角色",
+      "重生剧情",
+      "师徒关系",
+      "虐心情节"
+    ],
+    "sensitive_topics": [
+      "角色争议",
+      "文笔批评",
+      "剧情逻辑"
+    ],
+    "value_tendencies": [
+      "浪漫主义",
+      "情感至上",
+      "偏好戏剧冲突"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络小说套路",
+        "病娇人设",
+        "仙侠设定"
+      ],
+      "general_knowledge_level": 40,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 20,
+      "likes_commenting": 70,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 50,
+      "likes_short_answers": 40,
+      "likes_storytelling": 80,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "表达观点",
+      "获得认同",
+      "分享创作"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "病娇角色推荐",
+        "score": 90
+      },
+      {
+        "topic": "重生文套路",
+        "score": 85
+      },
+      {
+        "topic": "师徒恋虐文",
+        "score": 80
+      },
+      {
+        "topic": "小说创作心得",
+        "score": 70
+      },
+      {
+        "topic": "仙侠设定讨论",
+        "score": 60
+      }
+    ],
+    "impression": "一个沉迷病娇和虐恋的网文爱好者，喜欢分享自己创作的故事，情感丰富，有点小傲娇。"
+  },
+  "analyzed_at": "2026-06-15T22:26:59.687776",
+  "token_usage": 5238
+}

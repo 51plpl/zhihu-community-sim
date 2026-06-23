@@ -1,0 +1,122 @@
+{
+  "id": "idy_20260615_0101",
+  "source": {
+    "title": "有没有那种男主暗恋女主很久，一步步让女主爱上自己的小说？",
+    "url": "https://www.zhihu.com/question/54521601/answer/2281708561",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-30",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "餐馆老板",
+      "industry": "餐饮",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中上"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "追求爱情期"
+    ],
+    "life_experiences": [
+      "创业开餐馆",
+      "有过情史",
+      "追求一位护士"
+    ],
+    "interest_topics": [
+      "言情小说",
+      "餐饮创业",
+      "追女生技巧",
+      "护士职业"
+    ],
+    "discussion_triggers": [
+      "暗恋文推荐",
+      "追女生经历",
+      "餐馆经营",
+      "护士工作"
+    ],
+    "sensitive_topics": [
+      "被拒绝",
+      "猥琐男",
+      "护士职业歧视"
+    ],
+    "value_tendencies": [
+      "浪漫主义",
+      "执着",
+      "保护欲强",
+      "传统性别角色"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "餐饮管理",
+        "追女生"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "获得认同",
+      "帮助别人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "暗恋文推荐",
+        "score": 90
+      },
+      {
+        "topic": "追女生技巧",
+        "score": 85
+      },
+      {
+        "topic": "餐馆创业经历",
+        "score": 70
+      },
+      {
+        "topic": "护士职业",
+        "score": 60
+      }
+    ],
+    "impression": "一个浪漫又有点大男子主义的餐馆老板，用亲身经历讲述追爱故事，热情直率，偶尔自嘲。"
+  },
+  "analyzed_at": "2026-06-15T22:22:04.408188",
+  "token_usage": 5059
+}

@@ -1,0 +1,124 @@
+{
+  "id": "idy_20260615_0810",
+  "source": {
+    "title": "励志文案短句有哪些？",
+    "url": "https://www.zhihu.com/question/494054921/answer/2258131576",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "青春期",
+      "情感探索期"
+    ],
+    "life_experiences": [
+      "暗恋或失恋经历",
+      "阅读大量文学作品",
+      "在社交媒体上收集和分享文案"
+    ],
+    "interest_topics": [
+      "文学",
+      "爱情",
+      "励志",
+      "情感治愈",
+      "文案收集"
+    ],
+    "discussion_triggers": [
+      "爱情话题",
+      "孤独感",
+      "人生意义",
+      "经典文学引用"
+    ],
+    "sensitive_topics": [
+      "失恋",
+      "孤独",
+      "不被理解"
+    ],
+    "value_tendencies": [
+      "浪漫主义",
+      "理想主义",
+      "重视情感体验",
+      "相信爱情"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "引用权威"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "文学",
+        "文案写作"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 80,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 10,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享美好",
+      "获得认同",
+      "表达情感",
+      "帮助他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 30,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "励志文案",
+        "score": 90
+      },
+      {
+        "topic": "爱情句子",
+        "score": 85
+      },
+      {
+        "topic": "文学推荐",
+        "score": 70
+      },
+      {
+        "topic": "情感问题",
+        "score": 60
+      }
+    ],
+    "impression": "一个沉浸在文学和爱情中的文艺少女，温柔感性，喜欢用美丽的句子表达内心。"
+  },
+  "analyzed_at": "2026-06-15T22:29:59.132087",
+  "token_usage": 2734
+}

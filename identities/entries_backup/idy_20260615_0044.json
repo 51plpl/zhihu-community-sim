@@ -1,0 +1,122 @@
+{
+  "id": "idy_20260615_0044",
+  "source": {
+    "title": "平均年收入26万人民币，毕业后得绿卡？高端留学圆你加拿大移民梦",
+    "url": "https://zhuanlan.zhihu.com/p/445701910",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "留学顾问或移民中介",
+      "industry": "教育/移民服务",
+      "city_tier": "一线城市",
+      "marital_status": "未知",
+      "children": "未知",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业发展期",
+      "可能已婚或有家庭规划"
+    ],
+    "life_experiences": [
+      "曾留学加拿大或从事留学移民工作",
+      "熟悉加拿大教育体系和移民政策"
+    ],
+    "interest_topics": [
+      "加拿大留学",
+      "移民政策",
+      "海外就业",
+      "教育投资",
+      "生活品质"
+    ],
+    "discussion_triggers": [
+      "留学移民优势",
+      "加拿大福利",
+      "低门槛录取",
+      "高薪就业"
+    ],
+    "sensitive_topics": [
+      "移民政策变化",
+      "留学中介收费",
+      "学历造假"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "机会导向",
+      "推崇西方教育"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "数据导向",
+      "结果导向",
+      "案例叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "加拿大留学申请",
+        "移民法律",
+        "教育体系"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 40,
+      "likes_debating": 30,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "推广服务",
+      "展示专业能力",
+      "吸引潜在客户"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "加拿大留学优势",
+        "score": 90
+      },
+      {
+        "topic": "移民途径",
+        "score": 85
+      },
+      {
+        "topic": "海外工作收入",
+        "score": 80
+      },
+      {
+        "topic": "低GPA申请名校",
+        "score": 95
+      }
+    ],
+    "impression": "一个精心包装的留学移民推广者，用数据和福利吸引客户，但底层是商业动机。"
+  },
+  "analyzed_at": "2026-06-15T22:21:24.517246",
+  "token_usage": 3063
+}

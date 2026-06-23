@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0766",
+  "source": {
+    "title": "王力宏发文道歉、交出 1 亿豪宅后，李靓蕾宣布休战「不会告了」，对此你怎么看？",
+    "url": "https://www.zhihu.com/question/507339210/answer/2291247246",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "互联网/媒体/法律相关从业者",
+      "industry": "互联网/媒体/法律",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "已婚有子女",
+      "事业稳定期"
+    ],
+    "life_experiences": [
+      "经历过或目睹过婚姻纠纷",
+      "关注娱乐八卦和社会事件",
+      "有一定法律常识"
+    ],
+    "interest_topics": [
+      "娱乐八卦",
+      "婚姻家庭",
+      "法律",
+      "社会道德",
+      "舆论操控"
+    ],
+    "discussion_triggers": [
+      "明星离婚",
+      "小作文",
+      "舆论反转",
+      "道德绑架"
+    ],
+    "sensitive_topics": [
+      "出轨",
+      "离婚财产分割",
+      "舆论操控",
+      "女权"
+    ],
+    "value_tendencies": [
+      "理性务实",
+      "反对道德绑架",
+      "重视逻辑证据",
+      "对舆论操纵敏感"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "细节推理",
+      "质疑权威",
+      "反讽"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "娱乐八卦内幕",
+        "婚姻法律",
+        "舆论传播"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 80,
+      "likes_debating": 70,
+      "likes_contrarian": 80,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 80,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "反驳主流观点",
+      "展示分析能力",
+      "揭露真相",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "明星离婚",
+        "score": 90
+      },
+      {
+        "topic": "小作文",
+        "score": 85
+      },
+      {
+        "topic": "舆论反转",
+        "score": 80
+      },
+      {
+        "topic": "道德绑架",
+        "score": 75
+      }
+    ],
+    "impression": "一个冷静犀利的分析者，擅长拆解舆论套路，但偶尔流露出对“小作文”的厌恶和对女性的刻板印象。"
+  },
+  "analyzed_at": "2026-06-15T22:29:28.448508",
+  "token_usage": 3465
+}

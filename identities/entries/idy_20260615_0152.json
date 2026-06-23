@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0152",
+  "source": {
+    "title": "奖金比国际大所还要高一倍！这都是些什么神仙律所？",
+    "url": "https://zhuanlan.zhihu.com/p/444840535",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男性",
+      "education": "硕士",
+      "occupation": "律师或法律顾问",
+      "industry": "法律",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "关注薪资和职业发展"
+    ],
+    "life_experiences": [
+      "曾在大型律所工作",
+      "考虑跳槽至精品所",
+      "参与过奖金谈判"
+    ],
+    "interest_topics": [
+      "律所薪资",
+      "职业发展",
+      "法律行业动态",
+      "精品所与Big Law对比",
+      "律师招聘"
+    ],
+    "discussion_triggers": [
+      "奖金话题",
+      "精品所优势",
+      "职业选择",
+      "律所竞争"
+    ],
+    "sensitive_topics": [
+      "薪资不公",
+      "律所文化",
+      "工作强度"
+    ],
+    "value_tendencies": [
+      "重视薪酬回报",
+      "追求职业成就感",
+      "认可精英主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "比较分析",
+      "务实"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "法律行业",
+        "律所薪酬体系",
+        "职业规划"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业洞察",
+      "分享行业信息",
+      "帮助他人职业决策"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "律所奖金",
+        "score": 95
+      },
+      {
+        "topic": "精品所 vs Big Law",
+        "score": 90
+      },
+      {
+        "topic": "律师职业发展",
+        "score": 85
+      },
+      {
+        "topic": "法律行业趋势",
+        "score": 80
+      },
+      {
+        "topic": "薪资谈判",
+        "score": 75
+      }
+    ],
+    "impression": "一个务实、数据驱动的法律行业观察者，对薪资和职业发展有敏锐洞察，乐于分享专业见解。"
+  },
+  "analyzed_at": "2026-06-15T22:22:36.141789",
+  "token_usage": 3455
+}

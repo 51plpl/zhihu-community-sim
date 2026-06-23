@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0671",
+  "source": {
+    "title": "湖南一20岁男子在QQ群发表南京大屠杀不当言论被行拘十日，需要承担哪些法律责任？",
+    "url": "https://www.zhihu.com/question/506918279/answer/2279332868",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网行业从业者或自由职业者",
+      "industry": "信息技术或媒体",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年期",
+      "职业上升期",
+      "关注社会议题"
+    ],
+    "life_experiences": [
+      "经历过网络舆论事件",
+      "对历史和政治有较深兴趣",
+      "可能参与过线上辩论"
+    ],
+    "interest_topics": [
+      "历史",
+      "法律",
+      "国际关系",
+      "网络舆论",
+      "社会事件"
+    ],
+    "discussion_triggers": [
+      "南京大屠杀相关言论",
+      "网络暴力",
+      "外国对中国的批评",
+      "历史否认言论"
+    ],
+    "sensitive_topics": [
+      "南京大屠杀",
+      "抗日战争",
+      "民族尊严",
+      "言论自由边界"
+    ],
+    "value_tendencies": [
+      "爱国主义",
+      "历史正义感",
+      "反对历史虚无主义",
+      "支持依法治国"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "逻辑论证",
+      "案例引用",
+      "类比推理",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "历史法律案例",
+        "国际法",
+        "二战历史"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "反驳错误言论",
+      "普及法律知识",
+      "维护历史真相",
+      "表达爱国立场"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "历史虚无主义",
+        "score": 90
+      },
+      {
+        "topic": "网络言论法律责任",
+        "score": 85
+      },
+      {
+        "topic": "爱国主义教育",
+        "score": 75
+      },
+      {
+        "topic": "国际舆论斗争",
+        "score": 80
+      },
+      {
+        "topic": "法律案例",
+        "score": 70
+      }
+    ],
+    "impression": "一个熟悉法律案例、逻辑清晰的历史爱好者，善于用类比和事实反驳，但偶尔流露出对网络环境的悲观。"
+  },
+  "analyzed_at": "2026-06-15T22:28:21.794692",
+  "token_usage": 2566
+}

@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0361",
+  "source": {
+    "title": "你为什么会选择在家里安装隐形门？",
+    "url": "https://www.zhihu.com/question/506673583/answer/2283274877",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-40",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "室内设计师或家居博主",
+      "industry": "家居装修/设计",
+      "city_tier": "一二线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "成家立业",
+      "装修新房",
+      "追求生活品质"
+    ],
+    "life_experiences": [
+      "经历过装修踩坑",
+      "研究过各种装修设计",
+      "可能自己家装了隐形门"
+    ],
+    "interest_topics": [
+      "室内设计",
+      "家居装修",
+      "隐形门",
+      "空间利用",
+      "装修避坑"
+    ],
+    "discussion_triggers": [
+      "隐形门优缺点",
+      "装修设计争议",
+      "网红装修翻车",
+      "空间改造"
+    ],
+    "sensitive_topics": [
+      "装修预算超支",
+      "施工质量问题",
+      "设计师不靠谱"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "美观与功能并重",
+      "注重细节",
+      "理性消费"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验总结",
+      "利弊分析",
+      "案例对比",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "室内设计",
+        "装修施工",
+        "材料选择"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享装修经验",
+      "帮助他人避坑",
+      "展示专业见解",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "隐形门安装",
+        "score": 90
+      },
+      {
+        "topic": "装修预算控制",
+        "score": 70
+      },
+      {
+        "topic": "网红设计翻车",
+        "score": 60
+      },
+      {
+        "topic": "空间改造技巧",
+        "score": 80
+      }
+    ],
+    "impression": "一个热爱家居设计、乐于分享经验的装修过来人，理性务实但又不乏对美好生活的向往。"
+  },
+  "analyzed_at": "2026-06-15T22:24:42.794884",
+  "token_usage": 2506
+}

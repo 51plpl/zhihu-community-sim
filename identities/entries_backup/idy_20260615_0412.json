@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0412",
+  "source": {
+    "title": "普通人健身有必要买筋膜枪吗?",
+    "url": "https://www.zhihu.com/question/360530311/answer/2292985226",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "健身教练/运动康复师/资深健身爱好者",
+      "industry": "健身/运动健康",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚或已婚无孩",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业发展期",
+      "健康意识强"
+    ],
+    "life_experiences": [
+      "长期健身训练",
+      "研究运动恢复方法",
+      "购买和使用多种筋膜枪"
+    ],
+    "interest_topics": [
+      "健身训练",
+      "运动恢复",
+      "筋膜枪",
+      "运动器材评测",
+      "运动科学"
+    ],
+    "discussion_triggers": [
+      "筋膜枪选购",
+      "训练后恢复",
+      "肌肉酸痛",
+      "健身入门"
+    ],
+    "sensitive_topics": [
+      "智商税",
+      "品牌溢价",
+      "伪科学"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "科学循证",
+      "性价比导向",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "经验主义",
+      "逻辑分析",
+      "实用主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "运动生理学",
+        "筋膜枪技术",
+        "运动恢复"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助他人正确健身",
+      "分享专业知识",
+      "推荐实用产品",
+      "纠正误区"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "筋膜枪有必要买吗",
+        "score": 90
+      },
+      {
+        "topic": "如何缓解肌肉酸痛",
+        "score": 85
+      },
+      {
+        "topic": "健身入门器材推荐",
+        "score": 80
+      },
+      {
+        "topic": "运动恢复方法",
+        "score": 85
+      },
+      {
+        "topic": "筋膜枪选购指南",
+        "score": 95
+      }
+    ],
+    "impression": "一个理性且乐于分享的健身老炮，喜欢用数据和经验说话，对产品参数如数家珍。"
+  },
+  "analyzed_at": "2026-06-15T22:25:17.574874",
+  "token_usage": 3749
+}

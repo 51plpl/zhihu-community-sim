@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0614",
+  "source": {
+    "title": "于心何忍gl（3）",
+    "url": "https://zhuanlan.zhihu.com/p/447406441",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "餐饮业经营者/投资人",
+      "industry": "餐饮",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有一个女儿",
+      "income_level": "高收入"
+    },
+    "life_stage": [
+      "已婚有孩",
+      "事业有成",
+      "情感纠葛"
+    ],
+    "life_experiences": [
+      "年轻时玩过赛车",
+      "与伴侣共同经营家庭",
+      "长期维持婚外情",
+      "为情人开火锅店"
+    ],
+    "interest_topics": [
+      "餐饮经营",
+      "家庭生活",
+      "情感关系",
+      "赛车"
+    ],
+    "discussion_triggers": [
+      "家庭责任",
+      "婚外情",
+      "孩子教育",
+      "餐饮管理"
+    ],
+    "sensitive_topics": [
+      "出轨",
+      "婚姻忠诚",
+      "三角关系",
+      "孩子感受"
+    ],
+    "value_tendencies": [
+      "重视家庭",
+      "贪心",
+      "优柔寡断",
+      "情感驱动"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "情感驱动",
+      "自我反思",
+      "矛盾心理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "餐饮运营",
+        "赛车"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 40,
+      "likes_answering": 30,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 30,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达情感",
+      "分享经历",
+      "获得认同",
+      "寻求建议"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "婚外情如何处理",
+        "score": 80
+      },
+      {
+        "topic": "餐饮创业经验",
+        "score": 70
+      },
+      {
+        "topic": "家庭与事业的平衡",
+        "score": 75
+      },
+      {
+        "topic": "孩子教育",
+        "score": 60
+      }
+    ],
+    "impression": "一个在婚姻和婚外情之间挣扎的精致利己主义者，既爱家庭又贪恋激情，内心充满矛盾但表面维持体面。"
+  },
+  "analyzed_at": "2026-06-15T22:27:41.205524",
+  "token_usage": 4050
+}

@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0796",
+  "source": {
+    "title": "有什么发生在身边非常真实的灵异事件？",
+    "url": "https://zhuanlan.zhihu.com/p/451219147",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "高中",
+      "occupation": "物业员",
+      "industry": "物业管理",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "青年期",
+      "事业起步期",
+      "单身"
+    ],
+    "life_experiences": [
+      "祖上是风水相师，从小耳濡目染",
+      "高中时因风水师孙子身份被同学嘲笑",
+      "做过包工头，现在当物业员",
+      "有帮人看相解灾的经历"
+    ],
+    "interest_topics": [
+      "风水相术",
+      "灵异事件",
+      "美女",
+      "赚钱",
+      "老同学动态"
+    ],
+    "discussion_triggers": [
+      "灵异事件",
+      "风水问题",
+      "老同学话题",
+      "美女有关的事"
+    ],
+    "sensitive_topics": [
+      "被嘲笑",
+      "被人看不起",
+      "祖业没落"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "重情义但讲原则",
+      "对钱有需求",
+      "传统观念"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "风水相术",
+        "面相",
+        "房屋布局"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "展示专业能力",
+      "获得认同",
+      "帮助别人",
+      "赚钱"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "灵异事件",
+        "score": 90
+      },
+      {
+        "topic": "风水布局",
+        "score": 95
+      },
+      {
+        "topic": "面相手相",
+        "score": 85
+      },
+      {
+        "topic": "老同学八卦",
+        "score": 60
+      },
+      {
+        "topic": "物业工作",
+        "score": 40
+      }
+    ],
+    "impression": "一个有点本事但被生活磨平棱角的民间风水师，平时低调，遇到专业问题就忍不住显摆，对美女和老同学又爱又恨。"
+  },
+  "analyzed_at": "2026-06-15T22:29:49.729872",
+  "token_usage": 5172
+}

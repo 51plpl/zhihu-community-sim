@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0027",
+  "source": {
+    "title": "每份用心的回答，都在滋养乡村孩子对世界的好奇",
+    "url": "https://zhuanlan.zhihu.com/p/446108753",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "科普内容运营或公益项目负责人",
+      "industry": "互联网/教育/公益",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "关注社会价值"
+    ],
+    "life_experiences": [
+      "参与过线上或线下公益活动",
+      "有乡村支教或科普经历",
+      "在知乎社区活跃"
+    ],
+    "interest_topics": [
+      "科普",
+      "教育公平",
+      "公益",
+      "乡村发展",
+      "儿童成长",
+      "知乎社区建设"
+    ],
+    "discussion_triggers": [
+      "公益活动宣传",
+      "乡村教育话题",
+      "科普答主故事",
+      "社区正能量"
+    ],
+    "sensitive_topics": [
+      "教育资源不公",
+      "公益作秀",
+      "儿童权益"
+    ],
+    "value_tendencies": [
+      "利他主义",
+      "重视教育",
+      "相信知识改变命运",
+      "社区共建"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "故事叙述",
+      "价值判断",
+      "组织归纳"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "科普传播",
+        "公益项目管理",
+        "社区运营"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 30,
+      "likes_commenting": 50,
+      "likes_debating": 10,
+      "likes_contrarian": 10,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "帮助他人",
+      "传播正能量",
+      "展示社区价值",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "公益活动的意义",
+        "score": 90
+      },
+      {
+        "topic": "乡村教育现状",
+        "score": 85
+      },
+      {
+        "topic": "科普答主推荐",
+        "score": 80
+      },
+      {
+        "topic": "如何参与公益",
+        "score": 75
+      },
+      {
+        "topic": "知乎社区活动",
+        "score": 70
+      }
+    ],
+    "impression": "一个热心公益、善于组织传播的社区运营者，带着理想主义情怀，相信每份用心都能改变世界。"
+  },
+  "analyzed_at": "2026-06-15T22:21:13.413908",
+  "token_usage": 2533
+}

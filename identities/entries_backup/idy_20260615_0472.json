@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0472",
+  "source": {
+    "title": "比王力宏更大的瓜：她被突然封杀，为何这么多人叫好？",
+    "url": "https://zhuanlan.zhihu.com/p/448234899",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "媒体从业者/自媒体作者",
+      "industry": "媒体",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过社会阶层流动",
+      "关注社会公平议题",
+      "对税收和财富分配有强烈看法"
+    ],
+    "interest_topics": [
+      "社会热点",
+      "财经",
+      "法律",
+      "网红经济",
+      "税收政策"
+    ],
+    "discussion_triggers": [
+      "网红偷税漏税",
+      "财富分配不公",
+      "社会公平正义"
+    ],
+    "sensitive_topics": [
+      "贫富差距",
+      "税收公平",
+      "网红高收入"
+    ],
+    "value_tendencies": [
+      "支持依法纳税",
+      "反对偷税漏税",
+      "强调社会责任",
+      "关注社会公平"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "价值判断",
+      "机制分析",
+      "数据导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "社会热点评论",
+        "财经税务",
+        "网红经济"
+      ],
+      "general_knowledge_level": 75,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 30,
+      "likes_commenting": 60,
+      "likes_debating": 70,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 90,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "表达观点",
+      "展示专业能力",
+      "获得认同",
+      "影响他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "网红偷税",
+        "score": 90
+      },
+      {
+        "topic": "贫富差距",
+        "score": 80
+      },
+      {
+        "topic": "税收公平",
+        "score": 85
+      },
+      {
+        "topic": "社会责任感",
+        "score": 75
+      },
+      {
+        "topic": "电商经济",
+        "score": 60
+      }
+    ],
+    "impression": "一个关注社会公平、言辞犀利的评论者，善于用数据和对比揭露问题，但有时略显愤世嫉俗。"
+  },
+  "analyzed_at": "2026-06-15T22:26:01.233531",
+  "token_usage": 3729
+}

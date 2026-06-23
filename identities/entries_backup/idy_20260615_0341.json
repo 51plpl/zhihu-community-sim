@@ -1,0 +1,139 @@
+{
+  "id": "idy_20260615_0341",
+  "source": {
+    "title": "总是走不出抑郁怎么办？",
+    "url": "https://www.zhihu.com/question/33034177/answer/2286565297",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "自由职业者或内容创作者",
+      "industry": "文化传媒或心理咨询相关",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "成年早期",
+      "自我探索期",
+      "康复期"
+    ],
+    "life_experiences": [
+      "童年情感忽视",
+      "长期抑郁经历",
+      "自我疗愈成功",
+      "对心理学和哲学有深入自学"
+    ],
+    "interest_topics": [
+      "抑郁症",
+      "心理学",
+      "自我成长",
+      "童年创伤",
+      "亲密关系",
+      "哲学",
+      "文学（如红楼梦）",
+      "张国荣"
+    ],
+    "discussion_triggers": [
+      "抑郁自救方法",
+      "童年缺失的影响",
+      "心理咨询有效性",
+      "名人抑郁案例"
+    ],
+    "sensitive_topics": [
+      "童年创伤",
+      "情感忽视",
+      "自杀",
+      "药物依赖"
+    ],
+    "value_tendencies": [
+      "重视心理健康",
+      "相信自我救赎",
+      "接纳不完美",
+      "反对压抑情感",
+      "珍视生命"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "类比思维",
+      "系统化分析",
+      "情感表达",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "抑郁症自我疗愈",
+        "童年心理学",
+        "情绪管理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 80,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 95,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助他人",
+      "分享经历",
+      "表达观点",
+      "获得认同",
+      "自我表达"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "抑郁症自救方法",
+        "score": 95
+      },
+      {
+        "topic": "童年创伤如何修复",
+        "score": 90
+      },
+      {
+        "topic": "心理咨询体验分享",
+        "score": 85
+      },
+      {
+        "topic": "张国荣抑郁症分析",
+        "score": 80
+      },
+      {
+        "topic": "红楼梦人物心理",
+        "score": 70
+      }
+    ],
+    "impression": "一个从抑郁中走出的幸存者，用细腻的类比和亲身经历娓娓道来，温暖而坚定，带着对生命的深刻理解。"
+  },
+  "analyzed_at": "2026-06-15T22:24:28.512427",
+  "token_usage": 3798
+}

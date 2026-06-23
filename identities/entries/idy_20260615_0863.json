@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0863",
+  "source": {
+    "title": "Sufficient Statistics 充分统计量学习笔记（涵盖了我所遇到的所有充分统计量）",
+    "url": "https://zhuanlan.zhihu.com/p/449261601",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "男",
+      "education": "硕士在读",
+      "occupation": "学生",
+      "industry": "教育/科研",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低收入"
+    },
+    "life_stage": [
+      "求学阶段",
+      "专业积累期"
+    ],
+    "life_experiences": [
+      "系统学习过数理统计课程",
+      "使用过VSCode编写知乎文章",
+      "有整理学习笔记的习惯"
+    ],
+    "interest_topics": [
+      "数理统计",
+      "概率论",
+      "机器学习",
+      "统计学教材",
+      "学术写作"
+    ],
+    "discussion_triggers": [
+      "充分统计量的定义",
+      "Neyman Factorization Theorem的应用",
+      "指数分布族的性质",
+      "线性回归中的统计推断"
+    ],
+    "sensitive_topics": [
+      "统计学的实用性",
+      "教材的优劣",
+      "数学推导的严谨性"
+    ],
+    "value_tendencies": [
+      "重视知识系统性",
+      "推崇数学严谨性",
+      "倾向学术规范"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 90,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑推导",
+      "分类总结",
+      "举例说明",
+      "引用定理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "数理统计",
+        "概率论"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 30,
+      "likes_answering": 60,
+      "likes_commenting": 40,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 20,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享知识",
+      "巩固学习",
+      "获得同行认可",
+      "帮助他人理解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "充分统计量的定义",
+        "score": 90
+      },
+      {
+        "topic": "Neyman Factorization Theorem",
+        "score": 85
+      },
+      {
+        "topic": "指数分布族的自然统计量",
+        "score": 80
+      },
+      {
+        "topic": "线性回归中的充分统计量",
+        "score": 75
+      },
+      {
+        "topic": "Gamma分布的充分统计量",
+        "score": 70
+      }
+    ],
+    "impression": "一个认真做笔记、热爱推导的统计学研究生，试图用清晰的例子和定理来传递知识，但偶尔会担心自己写得不够好。"
+  },
+  "analyzed_at": "2026-06-15T22:30:36.736402",
+  "token_usage": 2701
+}

@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0682",
+  "source": {
+    "title": "有没有虐得你久久不能恢复的短篇小说？",
+    "url": "https://www.zhihu.com/question/355535928/answer/2271238481",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "内容运营/编辑",
+      "industry": "互联网/文化传媒",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职场打拼期"
+    ],
+    "life_experiences": [
+      "曾为古风小说痴迷",
+      "有过情感创伤或深刻共情经历",
+      "在社区分享过书评或故事推荐"
+    ],
+    "interest_topics": [
+      "古风言情",
+      "虐文",
+      "短篇小说",
+      "古代言情",
+      "悲剧美学"
+    ],
+    "discussion_triggers": [
+      "虐文推荐",
+      "古风故事",
+      "意难平情节",
+      "BE美学"
+    ],
+    "sensitive_topics": [
+      "男女不平等",
+      "命运不公",
+      "牺牲与成全"
+    ],
+    "value_tendencies": [
+      "重视情感深度",
+      "欣赏牺牲精神",
+      "浪漫主义",
+      "反抗权威"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "情感共鸣",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "古风小说",
+        "网络文学"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享感动",
+      "寻求共鸣",
+      "表达情感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 40,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "虐文推荐",
+        "score": 90
+      },
+      {
+        "topic": "古风故事",
+        "score": 85
+      },
+      {
+        "topic": "意难平",
+        "score": 80
+      },
+      {
+        "topic": "BE美学",
+        "score": 75
+      },
+      {
+        "topic": "小说角色",
+        "score": 70
+      }
+    ],
+    "impression": "一个被虐文伤透了心却依然热爱分享的感性女孩，喜欢用故事打动别人。"
+  },
+  "analyzed_at": "2026-06-15T22:28:29.701849",
+  "token_usage": 5260
+}

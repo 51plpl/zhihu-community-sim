@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0660",
+  "source": {
+    "title": "目前最好用的JAVA开发工具是哪一个？",
+    "url": "https://www.zhihu.com/question/317758486/answer/2268978490",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "Java开发工程师",
+      "industry": "互联网/软件",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "技术深耕期"
+    ],
+    "life_experiences": [
+      "多年Java开发经验",
+      "使用过多种IDE和工具",
+      "关注技术社区和最新工具"
+    ],
+    "interest_topics": [
+      "Java开发",
+      "IDE工具",
+      "代码质量",
+      "开发效率",
+      "插件生态"
+    ],
+    "discussion_triggers": [
+      "IDE对比",
+      "插件推荐",
+      "代码规范",
+      "开发效率提升"
+    ],
+    "sensitive_topics": [
+      "IDE之争",
+      "代码风格"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "效率优先",
+      "技术中立"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "工具导向",
+      "细节分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "Java开发",
+        "IDE使用",
+        "插件开发"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "帮助他人",
+      "展示专业能力",
+      "分享经验"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "Java开发工具",
+        "score": 90
+      },
+      {
+        "topic": "IDE插件",
+        "score": 85
+      },
+      {
+        "topic": "代码规范",
+        "score": 70
+      },
+      {
+        "topic": "开发效率",
+        "score": 80
+      },
+      {
+        "topic": "MyBatis",
+        "score": 75
+      }
+    ],
+    "impression": "一个经验丰富、乐于分享的Java老手，对工具和效率有深入研究，说话有条理，但偶尔有点技术优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:28:14.295663",
+  "token_usage": 2478
+}

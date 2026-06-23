@@ -1,0 +1,124 @@
+{
+  "id": "idy_20260615_0804",
+  "source": {
+    "title": "崩坏三在原神成功以后，游戏的骗氪节奏是否有放缓？入坑崩三是否有必要？",
+    "url": "https://www.zhihu.com/question/504017993/answer/2260232444",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网/游戏行业从业者",
+      "industry": "游戏",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职场稳定期",
+      "游戏深度爱好者"
+    ],
+    "life_experiences": [
+      "长期玩崩坏三和原神",
+      "经历过游戏内PVP竞争",
+      "从重氪转向佛系"
+    ],
+    "interest_topics": [
+      "崩坏三",
+      "原神",
+      "游戏数值策划",
+      "二次元手游",
+      "游戏运营策略"
+    ],
+    "discussion_triggers": [
+      "游戏骗氪对比",
+      "新玩家入坑建议",
+      "角色强度与抽取策略"
+    ],
+    "sensitive_topics": [
+      "游戏逼氪",
+      "PVP内卷",
+      "厂商良心"
+    ],
+    "value_tendencies": [
+      "理性消费",
+      "反对过度竞争",
+      "重视游戏体验而非排名"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "经验分享",
+      "对比论证"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "崩坏三",
+        "原神",
+        "手游抽卡机制",
+        "游戏数值"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助新人决策",
+      "展示游戏理解",
+      "纠正错误认知"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "崩坏三入坑建议",
+        "score": 90
+      },
+      {
+        "topic": "原神与崩坏三对比",
+        "score": 85
+      },
+      {
+        "topic": "游戏抽卡性价比",
+        "score": 80
+      },
+      {
+        "topic": "佛系玩家体验",
+        "score": 70
+      }
+    ],
+    "impression": "一个从数据出发、理性分析的老玩家，虽然佛系但依然热爱游戏，乐于分享经验帮助新人"
+  },
+  "analyzed_at": "2026-06-15T22:29:54.603561",
+  "token_usage": 2891
+}

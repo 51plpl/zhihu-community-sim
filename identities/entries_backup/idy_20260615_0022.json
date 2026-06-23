@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0022",
+  "source": {
+    "title": "以做最好的自己为主题 演讲稿？",
+    "url": "https://www.zhihu.com/question/67141456/answer/2262377424",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "16-22",
+      "gender": "女",
+      "education": "高中或大学在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "无收入或低收入"
+    },
+    "life_stage": [
+      "青春期",
+      "求学阶段",
+      "自我认同探索期"
+    ],
+    "life_experiences": [
+      "曾因成绩或外貌自卑",
+      "被同学或老师鼓励过",
+      "经历过自我怀疑后重新振作"
+    ],
+    "interest_topics": [
+      "自我成长",
+      "心理学",
+      "励志文学",
+      "演讲技巧",
+      "学生生活"
+    ],
+    "discussion_triggers": [
+      "如何克服自卑",
+      "如何欣赏自己",
+      "面对挫折的态度",
+      "学生时代的困惑"
+    ],
+    "sensitive_topics": [
+      "外貌焦虑",
+      "成绩排名",
+      "家庭期望",
+      "人际比较"
+    ],
+    "value_tendencies": [
+      "重视自我接纳",
+      "崇尚努力与坚持",
+      "反对盲目比较",
+      "相信每个人都有独特价值"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "情感驱动",
+      "经验反思",
+      "价值判断",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "励志演讲",
+        "学生心理"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 20,
+      "likes_sharing_experience": 95,
+      "likes_emotional_expression": 85,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享经历帮助他人",
+      "获得认同与鼓励",
+      "自我表达与宣泄",
+      "寻找同类"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 30,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何克服自卑",
+        "score": 90
+      },
+      {
+        "topic": "学生时代最受鼓舞的一句话",
+        "score": 85
+      },
+      {
+        "topic": "怎样才算最好的自己",
+        "score": 80
+      },
+      {
+        "topic": "分享一段走出低谷的经历",
+        "score": 95
+      },
+      {
+        "topic": "推荐一本励志书",
+        "score": 70
+      }
+    ],
+    "impression": "一个从自卑中走出来的阳光少女，喜欢用亲身经历鼓励同龄人，真诚而温暖。"
+  },
+  "analyzed_at": "2026-06-15T22:21:12.021288",
+  "token_usage": 3653
+}

@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0049",
+  "source": {
+    "title": "拿地强排方案应该如何管控？看完清晰多了！",
+    "url": "https://zhuanlan.zhihu.com/p/447910991",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "房地产设计管理/建筑设计师",
+      "industry": "房地产",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "参与过多个住宅项目强排方案",
+      "熟悉拿地到方案设计全流程",
+      "经历过项目因方案问题被否的教训",
+      "与投发、营销、设计院等多部门协作"
+    ],
+    "interest_topics": [
+      "房地产政策",
+      "建筑设计规范",
+      "项目管控流程",
+      "户型标准化",
+      "成本控制"
+    ],
+    "discussion_triggers": [
+      "拿地强排方案",
+      "容积率与建筑密度",
+      "日照分析",
+      "地下室面积控制",
+      "车位配比"
+    ],
+    "sensitive_topics": [
+      "设计院不配合",
+      "投发部门指标不合理",
+      "营销需求与设计冲突",
+      "规范解读争议"
+    ],
+    "value_tendencies": [
+      "专业主义",
+      "效率优先",
+      "务实",
+      "注重细节",
+      "风险规避"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向",
+      "流程化思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "建筑设计",
+        "房地产项目管控",
+        "规划规范",
+        "强排方案"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享专业经验",
+      "帮助同行避坑",
+      "展示专业能力",
+      "梳理知识体系"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "拿地强排方案管控要点",
+        "score": 90
+      },
+      {
+        "topic": "日照分析参数设置",
+        "score": 80
+      },
+      {
+        "topic": "地下室面积控制技巧",
+        "score": 85
+      },
+      {
+        "topic": "户型标准化与当地适配",
+        "score": 75
+      },
+      {
+        "topic": "项目指标复核方法",
+        "score": 80
+      }
+    ],
+    "impression": "一个经验丰富、条理清晰的房地产设计管理者，善于总结方法论，乐于分享干货，但偶尔显得有点教条。"
+  },
+  "analyzed_at": "2026-06-15T22:21:26.540049",
+  "token_usage": 2802
+}

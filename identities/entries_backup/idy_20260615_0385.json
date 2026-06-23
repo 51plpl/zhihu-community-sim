@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0385",
+  "source": {
+    "title": "请问法学考研选择中国政法大学还是武汉大学呢?",
+    "url": "https://www.zhihu.com/question/425921957/answer/2282555737",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-25",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "无收入"
+    },
+    "life_stage": [
+      "考研上岸",
+      "本科毕业"
+    ],
+    "life_experiences": [
+      "成功考研中国政法大学知识产权专业",
+      "本科就读于天津大学法学专业",
+      "备考时间10个月，有系统复习方法"
+    ],
+    "interest_topics": [
+      "法学考研",
+      "知识产权法",
+      "考研备考方法",
+      "法律职业发展",
+      "教育"
+    ],
+    "discussion_triggers": [
+      "择校建议",
+      "考研经验分享",
+      "学硕与专硕选择",
+      "备考时间安排",
+      "专业课复习方法"
+    ],
+    "sensitive_topics": [
+      "考研失败",
+      "备考焦虑",
+      "学历歧视"
+    ],
+    "value_tendencies": [
+      "勤奋努力",
+      "重视规划",
+      "实用主义",
+      "认可辅导班价值"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "法学",
+        "知识产权法",
+        "考研备考"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "分享经历",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "法学考研择校",
+        "score": 90
+      },
+      {
+        "topic": "考研备考方法",
+        "score": 85
+      },
+      {
+        "topic": "知识产权法学习",
+        "score": 80
+      },
+      {
+        "topic": "学硕与专硕区别",
+        "score": 75
+      },
+      {
+        "topic": "考研辅导班推荐",
+        "score": 70
+      }
+    ],
+    "impression": "一个成功上岸、乐于分享经验的法学学姐，细致认真，有点辅导班软文味但内容扎实。"
+  },
+  "analyzed_at": "2026-06-15T22:24:59.367665",
+  "token_usage": 3505
+}

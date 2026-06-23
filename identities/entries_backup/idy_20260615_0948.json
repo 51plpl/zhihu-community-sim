@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0948",
+  "source": {
+    "title": "GetX — Flutter 开发的百宝箱",
+    "url": "https://zhuanlan.zhihu.com/p/442078388",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "Flutter开发者",
+      "industry": "移动互联网",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "技术深耕期"
+    ],
+    "life_experiences": [
+      "从原生开发转向跨平台开发",
+      "经历过Flutter状态管理选型纠结",
+      "参与过开源项目或社区贡献"
+    ],
+    "interest_topics": [
+      "Flutter",
+      "跨平台开发",
+      "状态管理",
+      "依赖注入",
+      "路由管理",
+      "开源工具",
+      "移动端性能优化"
+    ],
+    "discussion_triggers": [
+      "Flutter状态管理方案对比",
+      "GetX vs Provider vs Bloc",
+      "Flutter路由方案",
+      "跨平台开发效率"
+    ],
+    "sensitive_topics": [
+      "Flutter与React Native对比",
+      "GetX性能争议",
+      "Flutter官方态度"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "效率优先",
+      "社区共建",
+      "技术开放"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 25,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "技术分析",
+      "工具导向",
+      "实践验证",
+      "归纳总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "Flutter开发",
+        "GetX框架",
+        "移动端架构"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 60,
+      "likes_short_answers": 30,
+      "likes_storytelling": 20,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享技术知识",
+      "帮助新手开发者",
+      "推广自己认可的工具",
+      "获得专业认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 30,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "Flutter状态管理",
+        "score": 90
+      },
+      {
+        "topic": "GetX使用技巧",
+        "score": 95
+      },
+      {
+        "topic": "跨平台开发选型",
+        "score": 70
+      },
+      {
+        "topic": "Flutter性能优化",
+        "score": 60
+      },
+      {
+        "topic": "移动端架构设计",
+        "score": 50
+      }
+    ],
+    "impression": "一个热衷于推广GetX的Flutter开发者，技术热情高，乐于分享，但有时会过于推崇自己使用的工具。"
+  },
+  "analyzed_at": "2026-06-15T22:31:39.182121",
+  "token_usage": 3279
+}

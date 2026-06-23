@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0578",
+  "source": {
+    "title": "第一次送男朋友礼物应该送什么呢？",
+    "url": "https://www.zhihu.com/question/320207842/answer/2278261867",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "内容营销/电商运营",
+      "industry": "消费品/电商",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "新婚",
+      "事业上升期"
+    ],
+    "life_experiences": [
+      "有过送礼焦虑经历",
+      "关注生活品质",
+      "喜欢研究产品"
+    ],
+    "interest_topics": [
+      "礼物推荐",
+      "护肤",
+      "家电",
+      "健康",
+      "国潮",
+      "情侣关系"
+    ],
+    "discussion_triggers": [
+      "送礼求助",
+      "节日礼物",
+      "男朋友礼物"
+    ],
+    "sensitive_topics": [
+      "礼物价格攀比",
+      "直男审美"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "浪漫主义",
+      "注重仪式感",
+      "支持国货"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "产品对比",
+      "情感渲染"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "男士护肤",
+        "加湿器",
+        "颈椎按摩仪",
+        "果酒"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "获得认同",
+      "分享好物"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "送男朋友什么礼物",
+        "score": 90
+      },
+      {
+        "topic": "男士护肤品推荐",
+        "score": 85
+      },
+      {
+        "topic": "加湿器选购",
+        "score": 80
+      },
+      {
+        "topic": "颈椎按摩仪",
+        "score": 75
+      },
+      {
+        "topic": "果酒推荐",
+        "score": 70
+      }
+    ],
+    "impression": "一个热心又懂生活的带货达人，喜欢用温暖语气推荐实用好物，但偶尔显得像软文写手。"
+  },
+  "analyzed_at": "2026-06-15T22:27:15.612779",
+  "token_usage": 2820
+}

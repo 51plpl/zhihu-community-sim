@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0683",
+  "source": {
+    "title": "12 月 7 日，普京与拜登举行视频会晤，他们都谈了啥？能解决乌克兰危机吗？",
+    "url": "https://www.zhihu.com/question/504439529/answer/2261453251",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "金融/投资相关从业者",
+      "industry": "金融",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "经历过2013年乌克兰危机",
+      "长期关注国际政治经济",
+      "有投资经历"
+    ],
+    "interest_topics": [
+      "国际政治",
+      "地缘政治",
+      "金融经济",
+      "美元霸权",
+      "A股市场",
+      "能源经济"
+    ],
+    "discussion_triggers": [
+      "美国制裁",
+      "乌克兰危机",
+      "美元霸权",
+      "A股走势",
+      "巴菲特指标"
+    ],
+    "sensitive_topics": [
+      "美国霸权",
+      "中国崛起",
+      "制裁与反制裁"
+    ],
+    "value_tendencies": [
+      "民族主义",
+      "反美情绪",
+      "支持国家立场",
+      "理性分析"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "历史类比",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "国际金融",
+        "地缘政治",
+        "宏观经济"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "表达观点",
+      "展示专业能力",
+      "反驳他人",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "美国制裁",
+        "score": 90
+      },
+      {
+        "topic": "乌克兰危机",
+        "score": 85
+      },
+      {
+        "topic": "美元霸权",
+        "score": 80
+      },
+      {
+        "topic": "A股市场",
+        "score": 70
+      },
+      {
+        "topic": "巴菲特指标",
+        "score": 75
+      }
+    ],
+    "impression": "一个懂金融的爱国分析者，喜欢用数据和历史分析国际局势，偶尔流露出对美国的厌恶和对中国未来的乐观。"
+  },
+  "analyzed_at": "2026-06-15T22:28:29.741610",
+  "token_usage": 2870
+}

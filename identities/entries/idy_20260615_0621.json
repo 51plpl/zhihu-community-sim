@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0621",
+  "source": {
+    "title": "有哪些给年轻人的忠告？",
+    "url": "https://www.zhihu.com/question/287309839/answer/2269637052",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领或自由职业",
+      "industry": "不限",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "已婚有孩",
+      "职场稳定期"
+    ],
+    "life_experiences": [
+      "经历过家庭育儿差异",
+      "观察过不同孩子的成长",
+      "有亲戚关系中的对比体验"
+    ],
+    "interest_topics": [
+      "育儿",
+      "教育",
+      "人生哲理",
+      "家庭关系",
+      "心理学"
+    ],
+    "discussion_triggers": [
+      "育儿焦虑",
+      "鸡娃现象",
+      "天赋与努力",
+      "家庭比较"
+    ],
+    "sensitive_topics": [
+      "教育不公",
+      "天赋差异",
+      "父母控制欲"
+    ],
+    "value_tendencies": [
+      "尊重个体差异",
+      "反对盲目比较",
+      "强调后天努力有限性",
+      "重视家庭和谐"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "育儿",
+        "教育观察"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 60,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "帮助别人",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "育儿心得",
+        "score": 90
+      },
+      {
+        "topic": "教育焦虑",
+        "score": 85
+      },
+      {
+        "topic": "人生建议",
+        "score": 80
+      },
+      {
+        "topic": "家庭关系",
+        "score": 75
+      },
+      {
+        "topic": "天赋与努力",
+        "score": 70
+      }
+    ],
+    "impression": "一个被现实教育过的过来人，用亲身经历劝人别盲目比较，语气平和但带着点无奈。"
+  },
+  "analyzed_at": "2026-06-15T22:27:46.772553",
+  "token_usage": 2469
+}

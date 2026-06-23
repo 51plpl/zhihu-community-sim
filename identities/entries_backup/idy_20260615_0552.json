@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0552",
+  "source": {
+    "title": "054A护卫舰是否已经落伍?中国是否应该发展更加先进的护卫舰而不是继续建造054A?",
+    "url": "https://www.zhihu.com/question/63100630/answer/2288330374",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-50",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "军事爱好者/工程师/分析师",
+      "industry": "国防科技、军事研究或相关",
+      "city_tier": "一线或新一线",
+      "marital_status": "未知",
+      "children": "未知",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "持续学习期"
+    ],
+    "life_experiences": [
+      "长期关注军事装备发展",
+      "可能参与过相关技术讨论或工作"
+    ],
+    "interest_topics": [
+      "海军舰艇",
+      "军事技术",
+      "国防战略",
+      "国际关系",
+      "科技发展"
+    ],
+    "discussion_triggers": [
+      "军舰性能对比",
+      "中国海军发展",
+      "反潜作战",
+      "舰船动力系统"
+    ],
+    "sensitive_topics": [
+      "中美军事对比",
+      "国防预算分配",
+      "装备国产化"
+    ],
+    "value_tendencies": [
+      "务实",
+      "技术导向",
+      "国家利益优先",
+      "理性分析"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "技术细节",
+      "历史比较",
+      "成本效益分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "海军舰艇设计",
+        "反潜作战",
+        "舰船动力系统",
+        "军事战略"
+      ],
+      "general_knowledge_level": 8,
+      "likes_citing_data": 7,
+      "likes_personal_experience": 3
+    },
+    "community_behavior": {
+      "activity_level": 7,
+      "likes_answering": 8,
+      "likes_commenting": 6,
+      "likes_debating": 7,
+      "likes_contrarian": 4,
+      "likes_long_answers": 9,
+      "likes_short_answers": 2,
+      "likes_storytelling": 3,
+      "likes_explaining": 9,
+      "likes_teaching": 7,
+      "likes_showing_expertise": 8,
+      "likes_sharing_experience": 4,
+      "likes_emotional_expression": 2,
+      "likes_logical_analysis": 9,
+      "likes_hot_topics": 6,
+      "likes_niche_topics": 8
+    },
+    "motivation": [
+      "分享专业知识",
+      "纠正错误观点",
+      "参与深度讨论",
+      "展示分析能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 6,
+      "seeking_agreement": 4,
+      "seeking_influence": 7,
+      "seeking_help_others": 5,
+      "seeking_self_expression": 8
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "054A护卫舰性能",
+        "score": 9
+      },
+      {
+        "topic": "中国海军反潜能力",
+        "score": 8
+      },
+      {
+        "topic": "舰船动力系统选择",
+        "score": 7
+      },
+      {
+        "topic": "中美海军对比",
+        "score": 6
+      },
+      {
+        "topic": "未来护卫舰设计",
+        "score": 8
+      }
+    ],
+    "impression": "一个技术流军事发烧友，逻辑清晰，喜欢用数据和战略分析说话，略带专家式的自信。"
+  },
+  "analyzed_at": "2026-06-15T22:26:58.101909",
+  "token_usage": 2782
+}

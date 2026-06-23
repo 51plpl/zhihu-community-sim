@@ -1,0 +1,137 @@
+{
+  "id": "idy_20260615_0495",
+  "source": {
+    "title": "美国疯狂印钞引发通胀时代，这给全球经济带来了多大的影响？该如何应对？",
+    "url": "https://www.zhihu.com/question/503758639/answer/2256899737",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "金融从业者或经济学者",
+      "industry": "金融/经济",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "关注宏观经济"
+    ],
+    "life_experiences": [
+      "经历过多次经济周期",
+      "可能从事过投资或金融分析工作",
+      "对中美经济关系有长期观察"
+    ],
+    "interest_topics": [
+      "宏观经济",
+      "货币政策",
+      "国债",
+      "中美关系",
+      "金融知识普及",
+      "批判民粹主义"
+    ],
+    "discussion_triggers": [
+      "美国印钞",
+      "通胀",
+      "抛售美债",
+      "稀土出口",
+      "民粹言论",
+      "企业家工资"
+    ],
+    "sensitive_topics": [
+      "民粹主义",
+      "国企腐败",
+      "司马南",
+      "联想事件",
+      "仇富心理"
+    ],
+    "value_tendencies": [
+      "崇尚市场经济",
+      "反对民粹",
+      "支持全球化",
+      "理性务实",
+      "批判权威"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "数据导向",
+      "批判性思维",
+      "历史对比"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "货币银行学",
+        "国债市场",
+        "国际经济",
+        "金融史"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 10
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 80,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "纠正错误观念",
+      "普及经济学常识",
+      "反驳民粹观点",
+      "展示专业能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "美国通胀",
+        "score": 90
+      },
+      {
+        "topic": "国债抛售",
+        "score": 85
+      },
+      {
+        "topic": "人民币国际化",
+        "score": 80
+      },
+      {
+        "topic": "民粹经济观点",
+        "score": 95
+      },
+      {
+        "topic": "企业家薪酬",
+        "score": 75
+      }
+    ],
+    "impression": "一个理性冷静的经济学普及者，对民粹言论深恶痛绝，喜欢用数据和逻辑拆解谬误，但偶尔流露出对现状的悲观。"
+  },
+  "analyzed_at": "2026-06-15T22:26:17.728892",
+  "token_usage": 4463
+}

@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0342",
+  "source": {
+    "title": "我花了1个小时改了4页研究报告PPT，设计思路请您收好！",
+    "url": "https://zhuanlan.zhihu.com/p/447884033",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "PPT设计师/培训师",
+      "industry": "设计/咨询",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "技能变现期"
+    ],
+    "life_experiences": [
+      "长期从事PPT设计工作",
+      "运营个人公众号",
+      "多次公开分享设计经验",
+      "接触过咨询行业报告"
+    ],
+    "interest_topics": [
+      "PPT设计",
+      "信息可视化",
+      "排版美学",
+      "咨询报告",
+      "个人品牌运营",
+      "效率工具"
+    ],
+    "discussion_triggers": [
+      "PPT美化技巧",
+      "设计思路分享",
+      "咨询报告制作",
+      "排版问题求助"
+    ],
+    "sensitive_topics": [
+      "版权字体使用",
+      "设计抄袭",
+      "客户审美冲突"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "专业主义",
+      "分享精神",
+      "注重细节"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "结构化思考",
+      "视觉化表达",
+      "复盘总结",
+      "用户导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "PPT设计",
+        "信息图表",
+        "排版原则",
+        "色彩搭配"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人提升设计能力",
+      "展示专业水平",
+      "建立个人品牌",
+      "获得认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "PPT排版技巧",
+        "score": 90
+      },
+      {
+        "topic": "咨询报告设计",
+        "score": 85
+      },
+      {
+        "topic": "色彩搭配建议",
+        "score": 80
+      },
+      {
+        "topic": "字体选择",
+        "score": 75
+      },
+      {
+        "topic": "设计工具推荐",
+        "score": 70
+      }
+    ],
+    "impression": "一个乐于分享、注重细节的PPT设计师，喜欢用结构化思路教人做设计，有点完美主义但很接地气。"
+  },
+  "analyzed_at": "2026-06-15T22:24:28.973183",
+  "token_usage": 3188
+}

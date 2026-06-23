@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0855",
+  "source": {
+    "title": "如何评价黄磊和周迅主演的电视剧《小敏家》？",
+    "url": "https://www.zhihu.com/question/452766877/answer/2288532126",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "影视行业从业者或资深剧评人",
+      "industry": "媒体/文化",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场上升期",
+      "独立生活"
+    ],
+    "life_experiences": [
+      "追剧无数，对国产剧套路了如指掌",
+      "可能有过感情经历，对中年爱情剧有批判视角",
+      "关注女性独立议题"
+    ],
+    "interest_topics": [
+      "国产电视剧",
+      "女性主义",
+      "影视评论",
+      "演技分析",
+      "编剧套路"
+    ],
+    "discussion_triggers": [
+      "烂剧吐槽",
+      "人设崩塌",
+      "演技对比",
+      "剧情狗血"
+    ],
+    "sensitive_topics": [
+      "中年女性形象",
+      "精神出轨",
+      "玛丽苏剧情",
+      "编剧水平"
+    ],
+    "value_tendencies": [
+      "女性独立",
+      "现实主义",
+      "反矫情",
+      "反玛丽苏",
+      "尊重观众智商"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "细节观察",
+      "对比批判",
+      "情绪表达（吐槽）"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "影视剧分析",
+        "演技评价",
+        "编剧结构"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 30,
+      "likes_commenting": 80,
+      "likes_debating": 60,
+      "likes_contrarian": 50,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 70,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "吐槽烂剧",
+      "展示专业分析能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "国产剧吐槽",
+        "score": 90
+      },
+      {
+        "topic": "演员演技",
+        "score": 80
+      },
+      {
+        "topic": "女性角色",
+        "score": 70
+      },
+      {
+        "topic": "编剧水平",
+        "score": 80
+      },
+      {
+        "topic": "中年爱情",
+        "score": 60
+      }
+    ],
+    "impression": "一个毒舌但有理有据的剧评人，对国产剧又爱又恨，吐槽起来毫不留情，但也能客观欣赏演技亮点。"
+  },
+  "analyzed_at": "2026-06-15T22:30:31.920200",
+  "token_usage": 4299
+}

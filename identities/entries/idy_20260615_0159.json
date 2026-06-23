@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0159",
+  "source": {
+    "title": "IGN 日本编辑部 2021 年度游戏提名名单一览",
+    "url": "https://zhuanlan.zhihu.com/p/443282717",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "游戏编辑/媒体从业者",
+      "industry": "游戏媒体",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "资深玩家"
+    ],
+    "life_experiences": [
+      "多年游戏经验",
+      "熟悉日本游戏市场",
+      "参与过年度游戏评选"
+    ],
+    "interest_topics": [
+      "游戏评测",
+      "年度游戏评选",
+      "日本游戏市场",
+      "主机游戏",
+      "独立游戏",
+      "游戏设计"
+    ],
+    "discussion_triggers": [
+      "年度游戏提名",
+      "游戏评分争议",
+      "日本游戏市场趋势",
+      "独立游戏推荐"
+    ],
+    "sensitive_topics": [
+      "游戏评分公正性",
+      "平台独占",
+      "日文版缺失"
+    ],
+    "value_tendencies": [
+      "重视游戏设计创新",
+      "尊重权威评测",
+      "关注本地化",
+      "支持独立游戏"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "游戏评测",
+        "日本游戏产业",
+        "游戏设计"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助玩家了解游戏",
+      "分享行业见解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "年度游戏评选",
+        "score": 90
+      },
+      {
+        "topic": "日本游戏市场",
+        "score": 85
+      },
+      {
+        "topic": "独立游戏推荐",
+        "score": 70
+      },
+      {
+        "topic": "游戏评测标准",
+        "score": 80
+      },
+      {
+        "topic": "主机平台对比",
+        "score": 60
+      }
+    ],
+    "impression": "一个专业且严谨的游戏媒体人，对行业动态了如指掌，但偶尔会流露出对权威的依赖。"
+  },
+  "analyzed_at": "2026-06-15T22:22:37.508617",
+  "token_usage": 3086
+}

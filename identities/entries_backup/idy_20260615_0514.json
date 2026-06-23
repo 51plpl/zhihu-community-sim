@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0514",
+  "source": {
+    "title": "不要成为合肥楼市的韭菜，房价上涨的逻辑已经改变",
+    "url": "https://zhuanlan.zhihu.com/p/449225374",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "房地产开发/投资分析师",
+      "industry": "房地产",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业转型期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "亲身经历房地产行业周期",
+      "见证过房价暴涨和调控",
+      "参与过土地规划与项目开发"
+    ],
+    "interest_topics": [
+      "房地产政策",
+      "宏观经济",
+      "城市发展",
+      "投资理财",
+      "行业趋势"
+    ],
+    "discussion_triggers": [
+      "房价走势",
+      "调控政策",
+      "购房建议",
+      "行业黑幕",
+      "经济泡沫"
+    ],
+    "sensitive_topics": [
+      "房价泡沫",
+      "政府调控",
+      "炒房客",
+      "刚需购房"
+    ],
+    "value_tendencies": [
+      "理性务实",
+      "风险厌恶",
+      "反对投机",
+      "支持调控"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "经验主义",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "房地产开发流程",
+        "土地政策",
+        "融资监管",
+        "市场分析"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 70,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "警示他人",
+      "分享专业见解",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "合肥房价",
+        "score": 90
+      },
+      {
+        "topic": "房地产调控政策",
+        "score": 85
+      },
+      {
+        "topic": "买房建议",
+        "score": 80
+      },
+      {
+        "topic": "行业趋势",
+        "score": 75
+      },
+      {
+        "topic": "经济泡沫",
+        "score": 70
+      }
+    ],
+    "impression": "一个看透行业本质、忧心忡忡的资深地产人，用数据和经验劝人别买房。"
+  },
+  "analyzed_at": "2026-06-15T22:26:30.790152",
+  "token_usage": 2773
+}

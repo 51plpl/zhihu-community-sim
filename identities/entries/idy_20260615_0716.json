@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0716",
+  "source": {
+    "title": "有没有男主是权臣，女主是后妃的小说?",
+    "url": "https://www.zhihu.com/question/393112377/answer/2251956424",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "自由职业者/写作者",
+      "industry": "文化传媒",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "追求自我实现",
+      "情感探索期"
+    ],
+    "life_experiences": [
+      "曾经历情感背叛或失望",
+      "对古风言情有深度沉迷",
+      "可能尝试过写作或创作"
+    ],
+    "interest_topics": [
+      "古风言情小说",
+      "权臣与后妃题材",
+      "虐恋情深故事",
+      "网络文学创作",
+      "古代历史"
+    ],
+    "discussion_triggers": [
+      "求书推荐",
+      "分享虐心片段",
+      "讨论角色命运",
+      "吐槽情节不合理"
+    ],
+    "sensitive_topics": [
+      "情感背叛",
+      "政治联姻",
+      "女性被迫牺牲"
+    ],
+    "value_tendencies": [
+      "重视情感体验",
+      "崇尚爱情自由",
+      "反对封建压迫"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情感驱动",
+      "故事叙述",
+      "代入式共情"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "古风言情小说",
+        "网络文学套路"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 50,
+      "likes_short_answers": 40,
+      "likes_storytelling": 90,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "寻找情感共鸣",
+      "分享阅读体验",
+      "获得推荐",
+      "表达对故事的热爱"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 30,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "求古风言情小说推荐",
+        "score": 90
+      },
+      {
+        "topic": "权臣与后妃虐恋",
+        "score": 95
+      },
+      {
+        "topic": "小说情节讨论",
+        "score": 80
+      },
+      {
+        "topic": "古代女性命运",
+        "score": 70
+      },
+      {
+        "topic": "网络文学创作技巧",
+        "score": 60
+      }
+    ],
+    "impression": "一个沉浸在古风虐恋中的感性读者，渴望在故事中体验极致情感，对悲剧美有执着偏好。"
+  },
+  "analyzed_at": "2026-06-15T22:28:53.118336",
+  "token_usage": 5485
+}

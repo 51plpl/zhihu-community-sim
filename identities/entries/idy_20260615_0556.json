@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0556",
+  "source": {
+    "title": "2021裹脚布总结",
+    "url": "https://zhuanlan.zhihu.com/p/449427988",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-28",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "软件工程师",
+      "industry": "互联网/数据库",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职场新人",
+      "刚毕业",
+      "单身"
+    ],
+    "life_experiences": [
+      "大厂实习",
+      "毕业设计",
+      "换工作",
+      "参与开源"
+    ],
+    "interest_topics": [
+      "编程",
+      "开源",
+      "数据库",
+      "英语学习",
+      "旅行"
+    ],
+    "discussion_triggers": [
+      "工作体验",
+      "开源社区",
+      "年终总结",
+      "毕业经历"
+    ],
+    "sensitive_topics": [
+      "工作压力",
+      "英语能力",
+      "恋爱状况"
+    ],
+    "value_tendencies": [
+      "重视个人成长",
+      "追求技术深度",
+      "注重生活体验"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "意识流",
+      "反思性",
+      "细节回忆",
+      "经验总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "图数据库",
+        "后端开发",
+        "Android开发"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "记录生活",
+      "寻求共鸣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 20,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "毕业后的第一份工作",
+        "score": 80
+      },
+      {
+        "topic": "开源社区参与体验",
+        "score": 70
+      },
+      {
+        "topic": "年终总结怎么写",
+        "score": 60
+      },
+      {
+        "topic": "大厂实习经历",
+        "score": 75
+      },
+      {
+        "topic": "英语学习心得",
+        "score": 50
+      }
+    ],
+    "impression": "一个爱碎碎念、有点文艺的程序员，刚毕业换过工作，正在探索开源世界，对生活有细腻感受但偶尔自嘲。"
+  },
+  "analyzed_at": "2026-06-15T22:27:00.501833",
+  "token_usage": 2487
+}

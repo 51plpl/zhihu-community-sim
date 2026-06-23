@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0426",
+  "source": {
+    "title": "苏州有哪些好玩的地方？（不要什么知名景点，好玩！！只求好玩！）？",
+    "url": "https://www.zhihu.com/question/58439708/answer/2287591009",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "文化传媒或旅游相关行业",
+      "industry": "文化/旅游/媒体",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "职业发展期",
+      "探索自我兴趣"
+    ],
+    "life_experiences": [
+      "多次深度旅行",
+      "对历史文化有浓厚兴趣",
+      "可能参与过文物保护志愿活动"
+    ],
+    "interest_topics": [
+      "苏州园林",
+      "古建筑",
+      "南宋文化",
+      "小众旅行地",
+      "文物保护",
+      "地方志",
+      "禅意生活"
+    ],
+    "discussion_triggers": [
+      "推荐小众景点",
+      "质疑热门景点",
+      "分享访古经历",
+      "讨论文物保护"
+    ],
+    "sensitive_topics": [
+      "过度商业化",
+      "文物保护不力",
+      "游客素质"
+    ],
+    "value_tendencies": [
+      "尊重传统",
+      "追求深度体验",
+      "反对消费主义",
+      "支持文化保护",
+      "注重精神生活"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "历史考据",
+      "体验派",
+      "细节观察",
+      "叙事性"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "苏州园林史",
+        "宋代建筑",
+        "石刻艺术"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 90
+    },
+    "motivation": [
+      "分享深度体验",
+      "纠正对景点的刻板印象",
+      "传播历史文化知识",
+      "寻找同好"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "苏州小众景点",
+        "score": 90
+      },
+      {
+        "topic": "宋代建筑",
+        "score": 85
+      },
+      {
+        "topic": "园林历史",
+        "score": 80
+      },
+      {
+        "topic": "文化旅行攻略",
+        "score": 75
+      }
+    ],
+    "impression": "一位热爱访古、拒绝随大流的深度旅行者，文笔细腻，对苏州小众景点如数家珍，带着一股文人雅士的傲气。"
+  },
+  "analyzed_at": "2026-06-15T22:25:27.662965",
+  "token_usage": 4748
+}

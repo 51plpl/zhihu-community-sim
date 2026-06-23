@@ -1,0 +1,139 @@
+{
+  "id": "idy_20260615_0139",
+  "source": {
+    "title": "哪些心态是你刻意练习的？",
+    "url": "https://www.zhihu.com/question/62661818/answer/2264707310",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "自媒体创作者/自由职业者",
+      "industry": "内容创作、个人成长",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "中年转型",
+      "自我探索",
+      "事业上升期"
+    ],
+    "life_experiences": [
+      "经历过职业低谷",
+      "曾陷入消费主义陷阱",
+      "通过自我训练改变心态",
+      "健身爱好者"
+    ],
+    "interest_topics": [
+      "个人成长",
+      "心理学",
+      "极简主义",
+      "健身",
+      "投资理财",
+      "哲学",
+      "历史人物"
+    ],
+    "discussion_triggers": [
+      "心态调整方法",
+      "消费主义批判",
+      "自卑与自信",
+      "人生困境",
+      "成功学"
+    ],
+    "sensitive_topics": [
+      "穷人思维",
+      "社会不公",
+      "消费主义",
+      "自卑"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "个人主义",
+      "自我提升",
+      "理性消费",
+      "长期主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "心态修炼",
+        "个人成长",
+        "极简生活",
+        "健身"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 90,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "表达观点",
+      "获得认同",
+      "分享经历"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何克服自卑",
+        "score": 90
+      },
+      {
+        "topic": "消费主义陷阱",
+        "score": 85
+      },
+      {
+        "topic": "人生低谷如何走出",
+        "score": 80
+      },
+      {
+        "topic": "健身心态",
+        "score": 75
+      },
+      {
+        "topic": "极简生活",
+        "score": 70
+      }
+    ],
+    "impression": "一个经历过坎坷但积极向上的自我成长布道者，喜欢用故事和亲身经历感染他人，略带江湖气。"
+  },
+  "analyzed_at": "2026-06-15T22:22:25.345146",
+  "token_usage": 4116
+}

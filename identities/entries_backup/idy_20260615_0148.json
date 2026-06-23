@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0148",
+  "source": {
+    "title": "【世界民族文明史系列】布尔人与布尔人共和国2",
+    "url": "https://zhuanlan.zhihu.com/p/443496315",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-55",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "历史爱好者/自媒体作者/教师",
+      "industry": "教育/文化传播",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "知识输出期"
+    ],
+    "life_experiences": [
+      "长期关注世界历史与民族文明",
+      "可能从事过历史相关教育工作",
+      "有撰写长文或运营自媒体的经历"
+    ],
+    "interest_topics": [
+      "世界历史",
+      "民族文明史",
+      "军事史",
+      "殖民史",
+      "布尔战争",
+      "南非历史"
+    ],
+    "discussion_triggers": [
+      "英布战争细节",
+      "殖民主义评价",
+      "民族独立运动",
+      "军事战术分析"
+    ],
+    "sensitive_topics": [
+      "殖民主义",
+      "种族冲突",
+      "民族主义"
+    ],
+    "value_tendencies": [
+      "尊重历史事实",
+      "同情弱小民族",
+      "反对殖民侵略",
+      "推崇理性分析"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "历史分析",
+      "机制分析",
+      "数据导向",
+      "叙事性"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "世界民族史",
+        "军事史",
+        "南非历史"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 50,
+      "likes_debating": 60,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享历史知识",
+      "展示专业积累",
+      "引发深度讨论",
+      "纠正错误认知"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "布尔战争细节",
+        "score": 90
+      },
+      {
+        "topic": "殖民主义历史",
+        "score": 80
+      },
+      {
+        "topic": "民族独立运动",
+        "score": 70
+      },
+      {
+        "topic": "军事战术演变",
+        "score": 75
+      },
+      {
+        "topic": "南非种族问题",
+        "score": 60
+      }
+    ],
+    "impression": "一个严谨的历史叙述者，冷静客观，但字里行间透露出对布尔人的同情和对殖民扩张的批判。"
+  },
+  "analyzed_at": "2026-06-15T22:22:31.574700",
+  "token_usage": 5103
+}

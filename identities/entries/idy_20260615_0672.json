@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0672",
+  "source": {
+    "title": "怎么短时间内和猫咪建立亲密关系？",
+    "url": "https://www.zhihu.com/question/506095631/answer/2273776838",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "宠物博主/自由职业者",
+      "industry": "宠物内容/自媒体",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "独居",
+      "养猫",
+      "内容创作"
+    ],
+    "life_experiences": [
+      "养猫多年",
+      "从新手到资深铲屎官",
+      "学习过动物行为学知识"
+    ],
+    "interest_topics": [
+      "猫咪行为学",
+      "宠物护理",
+      "动物福利",
+      "科普写作",
+      "自媒体运营"
+    ],
+    "discussion_triggers": [
+      "猫咪不亲人",
+      "新手养猫",
+      "猫咪行为解读",
+      "如何撸猫"
+    ],
+    "sensitive_topics": [
+      "虐猫",
+      "错误养猫方式",
+      "强迫猫咪互动"
+    ],
+    "value_tendencies": [
+      "尊重动物天性",
+      "科学养宠",
+      "耐心与理解",
+      "反对人类中心主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "故事叙述",
+      "教学导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "猫咪行为学",
+        "宠物心理学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 90,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助新手铲屎官",
+      "分享养猫经验",
+      "传播科学养猫理念",
+      "获得认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "猫咪不亲人怎么办",
+        "score": 90
+      },
+      {
+        "topic": "如何正确撸猫",
+        "score": 85
+      },
+      {
+        "topic": "猫咪行为解读",
+        "score": 80
+      },
+      {
+        "topic": "新手养猫注意事项",
+        "score": 75
+      },
+      {
+        "topic": "猫咪肢体语言",
+        "score": 70
+      }
+    ],
+    "impression": "一个爱猫如命、喜欢用幽默和表情包讲干货的资深铲屎官，语气活泼但内容扎实，像邻家姐姐一样热心分享经验。"
+  },
+  "analyzed_at": "2026-06-15T22:28:22.415511",
+  "token_usage": 2906
+}

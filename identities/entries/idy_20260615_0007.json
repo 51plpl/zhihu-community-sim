@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0007",
+  "source": {
+    "title": "PS+ 即将带上订阅制、云游戏服务升级？都准备好了吗",
+    "url": "https://zhuanlan.zhihu.com/p/443300015",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "游戏编辑/自媒体作者",
+      "industry": "游戏媒体",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "深度游戏玩家"
+    ],
+    "life_experiences": [
+      "长期关注游戏行业动态",
+      "使用过PS Now和XGP服务",
+      "体验过云游戏",
+      "撰写游戏评测和分析"
+    ],
+    "interest_topics": [
+      "PlayStation",
+      "Xbox",
+      "云游戏",
+      "游戏订阅制",
+      "游戏行业动态",
+      "经典游戏",
+      "向下兼容"
+    ],
+    "discussion_triggers": [
+      "索尼订阅制服务升级",
+      "XGP vs PS+",
+      "云游戏体验",
+      "经典游戏复刻"
+    ],
+    "sensitive_topics": [
+      "主机战争",
+      "游戏独占策略",
+      "网络延迟与云游戏体验"
+    ],
+    "value_tendencies": [
+      "技术乐观主义",
+      "支持订阅制",
+      "重视游戏历史保护",
+      "偏好索尼生态"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "经验主义",
+      "技术细节关注"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "PlayStation生态",
+        "云游戏技术",
+        "游戏订阅服务",
+        "游戏行业历史"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 50,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享专业知识",
+      "帮助玩家了解服务",
+      "表达对索尼策略的支持",
+      "展示行业洞察"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "PS+升级",
+        "score": 90
+      },
+      {
+        "topic": "云游戏体验",
+        "score": 85
+      },
+      {
+        "topic": "向下兼容",
+        "score": 80
+      },
+      {
+        "topic": "XGP对比",
+        "score": 75
+      },
+      {
+        "topic": "经典游戏",
+        "score": 70
+      }
+    ],
+    "impression": "一个技术向的索尼粉丝，冷静分析但暗含自豪，乐于分享自己的体验和见解。"
+  },
+  "analyzed_at": "2026-06-15T22:21:00.896162",
+  "token_usage": 3875
+}

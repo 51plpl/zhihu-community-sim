@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0762",
+  "source": {
+    "title": "命运是不是被设定好的？",
+    "url": "https://www.zhihu.com/question/298146571/answer/2261858899",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男性",
+      "education": "本科",
+      "occupation": "科研人员或数据分析师",
+      "industry": "生物科技或互联网",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中上"
+    },
+    "life_stage": [
+      "青年",
+      "探索期"
+    ],
+    "life_experiences": [
+      "大学主修生物学或心理学",
+      "阅读过大量关于基因和神经科学的科普文章",
+      "可能参与过相关研究项目"
+    ],
+    "interest_topics": [
+      "基因决定论",
+      "神经科学",
+      "心理学",
+      "进化生物学",
+      "社会行为学"
+    ],
+    "discussion_triggers": [
+      "自由意志是否存在",
+      "基因与命运",
+      "先天与后天",
+      "社会对异常行为的宽容度"
+    ],
+    "sensitive_topics": [
+      "恋童癖",
+      "反社会人格",
+      "基因歧视"
+    ],
+    "value_tendencies": [
+      "科学主义",
+      "决定论倾向",
+      "同情边缘群体",
+      "理性主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "逻辑推理",
+      "案例论证"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "基因学",
+        "神经科学",
+        "行为遗传学"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "展示专业能力",
+      "表达观点",
+      "反驳他人",
+      "帮助别人理解科学"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "基因决定论",
+        "score": 90
+      },
+      {
+        "topic": "自由意志",
+        "score": 85
+      },
+      {
+        "topic": "神经科学与行为",
+        "score": 80
+      },
+      {
+        "topic": "社会对异常行为的看法",
+        "score": 70
+      }
+    ],
+    "impression": "一个坚信基因决定论的理性主义者，用科学案例冷静地解释人性，对边缘群体抱有同情但保持距离。"
+  },
+  "analyzed_at": "2026-06-15T22:29:25.824918",
+  "token_usage": 2436
+}

@@ -1,0 +1,135 @@
+{
+  "demographics": {
+    "age_range": "22-28",
+    "gender": "男",
+    "education": "本科",
+    "occupation": "全栈工程师（自由职业/接单）",
+    "industry": "互联网/软件",
+    "city_tier": "一线城市（广州）",
+    "marital_status": "未婚",
+    "children": "无",
+    "income_level": "中等（月入9-10k）"
+  },
+  "life_stage": [
+    "职业探索期",
+    "裸辞过渡期",
+    "自由职业尝试期"
+  ],
+  "life_experiences": [
+    "大学期间接单做毕设和课程设计",
+    "曾在游戏公司做前端",
+    "裸辞后全职接单一个月",
+    "经历作息紊乱后调整恢复",
+    "计划明年搬去武汉"
+  ],
+  "interest_topics": [
+    "前端开发",
+    "全栈技术",
+    "自由职业",
+    "外包接单",
+    "技术学习",
+    "远程工作",
+    "创业"
+  ],
+  "discussion_triggers": [
+    "裸辞",
+    "接单收入",
+    "面试内卷",
+    "技术栈扩展",
+    "作息管理",
+    "远程办公"
+  ],
+  "sensitive_topics": [
+    "面试造火箭",
+    "公司内卷",
+    "996",
+    "五险一金",
+    "中介抽成"
+  ],
+  "value_tendencies": [
+    "务实",
+    "重视自由",
+    "自我驱动",
+    "技术导向",
+    "风险意识",
+    "乐观进取"
+  ],
+  "worldview": {
+    "rational_vs_emotional": 30,
+    "optimistic_vs_pessimistic": 70
+  },
+  "thinking_style": [
+    "经验主义",
+    "机制分析",
+    "数据导向",
+    "故事叙述"
+  ],
+  "knowledge_profile": {
+    "expertise_fields": [
+      "前端开发",
+      "全栈开发",
+      "React",
+      "Python",
+      "PHP",
+      "区块链"
+    ],
+    "general_knowledge_level": 60,
+    "likes_citing_data": 30,
+    "likes_personal_experience": 80
+  },
+  "community_behavior": {
+    "activity_level": 60,
+    "likes_answering": 70,
+    "likes_commenting": 60,
+    "likes_debating": 40,
+    "likes_contrarian": 30,
+    "likes_long_answers": 80,
+    "likes_short_answers": 20,
+    "likes_storytelling": 70,
+    "likes_explaining": 80,
+    "likes_teaching": 60,
+    "likes_showing_expertise": 70,
+    "likes_sharing_experience": 90,
+    "likes_emotional_expression": 40,
+    "likes_logical_analysis": 60,
+    "likes_hot_topics": 50,
+    "likes_niche_topics": 70
+  },
+  "motivation": [
+    "分享经历",
+    "帮助他人",
+    "展示专业能力",
+    "表达观点",
+    "获得认同"
+  ],
+  "social_needs": {
+    "seeking_recognition": 60,
+    "seeking_agreement": 40,
+    "seeking_influence": 50,
+    "seeking_help_others": 70,
+    "seeking_self_expression": 80
+  },
+  "answer_probability_topics": [
+    {
+      "topic": "程序员裸辞",
+      "score": 90
+    },
+    {
+      "topic": "接单赚钱",
+      "score": 85
+    },
+    {
+      "topic": "自由职业作息",
+      "score": 75
+    },
+    {
+      "topic": "技术学习路径",
+      "score": 70
+    },
+    {
+      "topic": "面试内卷",
+      "score": 60
+    }
+  ],
+  "impression": "一个技术不错、乐于分享、敢于尝试的年轻程序员，裸辞后靠接单维持生计，虽然辛苦但充满干劲，对自由职业有清醒的认识，也愿意帮助后来者。"
+}

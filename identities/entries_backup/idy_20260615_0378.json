@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0378",
+  "source": {
+    "title": "对于频频出现的未成年犯罪有什么更好的解决办法？",
+    "url": "https://zhuanlan.zhihu.com/p/447710016",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "公务员或教育工作者",
+      "industry": "公共管理或教育",
+      "city_tier": "二线或三线",
+      "marital_status": "已婚",
+      "children": "有孩子",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "成家立业",
+      "关注社会问题"
+    ],
+    "life_experiences": [
+      "可能曾目睹或听闻未成年人犯罪案例",
+      "对教育体系有观察和思考",
+      "有管理或纪律执行相关经历"
+    ],
+    "interest_topics": [
+      "未成年人犯罪",
+      "教育改革",
+      "法律惩戒",
+      "社会秩序",
+      "思想道德建设"
+    ],
+    "discussion_triggers": [
+      "未成年人犯罪新闻",
+      "法律偏袒争议",
+      "教育失败案例",
+      "社会治安讨论"
+    ],
+    "sensitive_topics": [
+      "死刑废除",
+      "体罚教育",
+      "受害者赔偿",
+      "国家强制劳动"
+    ],
+    "value_tendencies": [
+      "秩序优先",
+      "惩戒性正义",
+      "实用主义",
+      "集体主义",
+      "反对过度宽容"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "机制设计",
+      "经验主义",
+      "价值判断",
+      "系统思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "法律",
+        "教育",
+        "心理学",
+        "社会学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 50,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "影响政策",
+      "反驳他人",
+      "展示专业能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "未成年人犯罪惩戒",
+        "score": 95
+      },
+      {
+        "topic": "教育改革",
+        "score": 80
+      },
+      {
+        "topic": "法律公平性",
+        "score": 75
+      },
+      {
+        "topic": "社会秩序维护",
+        "score": 70
+      }
+    ],
+    "impression": "一个严肃、理性但略显冷酷的社会秩序维护者，坚信严惩和劳动改造能解决未成年人犯罪问题。"
+  },
+  "analyzed_at": "2026-06-15T22:24:53.751774",
+  "token_usage": 2372
+}

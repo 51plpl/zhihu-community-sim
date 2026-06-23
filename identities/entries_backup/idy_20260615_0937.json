@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0937",
+  "source": {
+    "title": "中国和日本怎样才能在保持平等的同时消弭百年来的宿怨？",
+    "url": "https://www.zhihu.com/question/20734909/answer/2272058412",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "企业管理者或专业人士",
+      "industry": "商业或科技",
+      "city_tier": "一二线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "事业有成",
+      "家庭稳定"
+    ],
+    "life_experiences": [
+      "从小在农村长大，目睹或经历过欺凌",
+      "通过教育改变命运",
+      "有朋友或熟人遭遇不公",
+      "对权力和报复有深刻理解"
+    ],
+    "interest_topics": [
+      "历史",
+      "国际关系",
+      "社会公平",
+      "人性",
+      "权力动态"
+    ],
+    "discussion_triggers": [
+      "中日关系",
+      "历史恩怨",
+      "公平与平等",
+      "复仇与和解"
+    ],
+    "sensitive_topics": [
+      "历史不公",
+      "民族仇恨",
+      "权力滥用",
+      "虚伪的和解"
+    ],
+    "value_tendencies": [
+      "重视公平",
+      "怀疑表面和解",
+      "相信实力决定话语权",
+      "警惕道德绑架"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "故事叙述",
+      "类比推理",
+      "讽刺",
+      "现实主义者"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "历史",
+        "社会心理学",
+        "权力关系"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 80,
+      "likes_contrarian": 70,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "反驳他人",
+      "表达观点",
+      "分享经历",
+      "展示洞察"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "中日关系",
+        "score": 90
+      },
+      {
+        "topic": "历史恩怨",
+        "score": 85
+      },
+      {
+        "topic": "社会公平",
+        "score": 70
+      },
+      {
+        "topic": "权力与复仇",
+        "score": 80
+      },
+      {
+        "topic": "道德绑架",
+        "score": 75
+      }
+    ],
+    "impression": "一个用故事戳破虚伪的清醒者，带着被欺负过的孩子的愤怒和成年人的克制。"
+  },
+  "analyzed_at": "2026-06-15T22:31:30.974059",
+  "token_usage": 2506
+}

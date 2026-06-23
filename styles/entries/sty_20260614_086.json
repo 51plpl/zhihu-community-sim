@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_086",
+  "source": {
+    "title": "27岁中科大校友研发亚10nm级晶体管，可直接检测固液界面上单个氢离子行为，有望检测人体内数千种分子和离子",
+    "url": "https://zhuanlan.zhihu.com/p/451798328",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "混合，专业术语与日常表达结合，如“亚10nm级晶体管”与“他叫胡奇涛”",
+    "sentence_rhythm": "长短句交替，节奏适中，既有技术描述的长句，也有简短的人物介绍",
+    "favorite_expressions": [
+      "图 |",
+      "（来源：",
+      "此外，",
+      "简单来说，",
+      "他表示：“"
+    ],
+    "punctuation_habits": "多用括号和引号补充信息，逗号密度高，感叹号极少",
+    "person_perspective": "第三人称为主，偶尔切换至第一人称（“他表示”）",
+    "emotion_intensity": "冷静克制，客观陈述事实"
+  },
+  "structure": {
+    "opening_pattern": "直接亮观点，以标题重复开头强调成果",
+    "paragraph_rhythm": "段落长短不一，关键句如“他叫胡奇涛”独立成段",
+    "argument_logic": "归纳型，先介绍人物和成果，再展开技术细节和意义",
+    "transition_style": "口语化连接词，如“简单来说”、“此外”、“最后”",
+    "closing_pattern": "展望未来，以“有望”结尾",
+    "title_pattern": "数字+痛点，如“27岁”和“亚10nm级”吸引注意"
+  },
+  "analyzed_at": "2026-06-14T22:55:51.427255",
+  "token_usage": 2468
+}

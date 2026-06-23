@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_056",
+  "source": {
+    "title": "FMCW学习笔记【1】 — 基本概念与常用波形",
+    "url": "https://zhuanlan.zhihu.com/p/439820295",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "混合，专业术语与日常用词结合，偏书面但清晰易懂",
+    "sentence_rhythm": "以中长句为主，节奏平稳，解释性内容较多",
+    "favorite_expressions": [
+      "即",
+      "其中",
+      "可以",
+      "为",
+      "注意到"
+    ],
+    "punctuation_habits": "逗号使用频繁，括号用于补充说明，分号用于并列，感叹号极少",
+    "person_perspective": "第三人称客观叙述，偶尔使用第一人称复数“我们”",
+    "emotion_intensity": "冷静克制，保持学术客观"
+  },
+  "structure": {
+    "opening_pattern": "直接亮观点，先给出标题和章节结构",
+    "paragraph_rhythm": "段落长度中等，关键公式和定义独立成段，图文结合",
+    "argument_logic": "演绎型，先给出概念定义，再展开具体波形和应用",
+    "transition_style": "使用连接词如“另外”、“由于”、“但是”进行逻辑过渡",
+    "closing_pattern": "以分段线性调频信号的示意图收尾，未做总结或升华",
+    "title_pattern": "数字+主题，清晰直接"
+  },
+  "analyzed_at": "2026-06-14T22:55:28.962535",
+  "token_usage": 1692
+}

@@ -1,0 +1,138 @@
+{
+  "id": "idy_20260615_0353",
+  "source": {
+    "title": "如何以「皇帝的白月光回来了」为开头写一篇宫斗文？",
+    "url": "https://www.zhihu.com/question/493131684/answer/2282716122",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "私塾教育，精通骑射与武艺",
+      "occupation": "秀女（即将入宫）",
+      "industry": "宫廷",
+      "city_tier": "一线（京城）",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高（前朝皇室后裔，家道中落但仍有底蕴）"
+    },
+    "life_stage": [
+      "青年期",
+      "人生转折期",
+      "初入社会"
+    ],
+    "life_experiences": [
+      "家族从皇室沦为臣子",
+      "姐姐入宫后惨死",
+      "在关外避世一年",
+      "被选为秀女入宫",
+      "遭遇山匪袭击"
+    ],
+    "interest_topics": [
+      "宫斗",
+      "家族复仇",
+      "历史权谋",
+      "武侠",
+      "女性成长"
+    ],
+    "discussion_triggers": [
+      "皇帝白月光",
+      "宫斗阴谋",
+      "姐妹情深",
+      "家族荣耀",
+      "女性命运"
+    ],
+    "sensitive_topics": [
+      "姐姐之死",
+      "家族覆灭",
+      "宫廷黑暗",
+      "权力压迫"
+    ],
+    "value_tendencies": [
+      "重视家族",
+      "重情重义",
+      "坚韧不屈",
+      "独立自主",
+      "追求真相"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "故事叙述",
+      "情绪表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "骑射",
+        "武术",
+        "宫廷礼仪",
+        "历史典故"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 50,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "分享经历",
+      "获得认同",
+      "帮助别人",
+      "展示专业能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "宫斗文写作技巧",
+        "score": 80
+      },
+      {
+        "topic": "古代女性命运",
+        "score": 70
+      },
+      {
+        "topic": "家族复仇故事",
+        "score": 60
+      },
+      {
+        "topic": "武侠与权谋结合",
+        "score": 50
+      },
+      {
+        "topic": "历史架空设定",
+        "score": 40
+      }
+    ],
+    "impression": "一个背负家族血仇、坚韧果敢的前朝公主，在宫斗中步步为营，既有侠女风骨，又有深宫心计。"
+  },
+  "analyzed_at": "2026-06-15T22:24:36.705807",
+  "token_usage": 5397
+}

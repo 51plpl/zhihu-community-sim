@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0409",
+  "source": {
+    "title": "恶逆无道通冥府移花接木归青天【剑盾双打S24结算224位伊裴尔塔尔阵容保姆级攻略】",
+    "url": "https://zhuanlan.zhihu.com/p/447234841",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "游戏行业从业者或资深玩家",
+      "industry": "游戏/电竞",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "单身独居"
+    ],
+    "life_experiences": [
+      "长期参与宝可梦对战排位赛",
+      "多次参加线上或线下比赛",
+      "在社区分享攻略并获得认可",
+      "经历过阵容调整和失败"
+    ],
+    "interest_topics": [
+      "宝可梦对战",
+      "游戏攻略",
+      "竞技游戏",
+      "数据计算",
+      "策略分析"
+    ],
+    "discussion_triggers": [
+      "宝可梦排位赛",
+      "阵容配置",
+      "对战数据",
+      "环境分析",
+      "道具选择"
+    ],
+    "sensitive_topics": [
+      "游戏平衡性",
+      "版本强势阵容",
+      "运气因素"
+    ],
+    "value_tendencies": [
+      "追求技术精进",
+      "重视数据与逻辑",
+      "乐于分享",
+      "认可努力而非天赋"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "经验主义",
+      "逻辑推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "宝可梦对战",
+        "游戏策略",
+        "数据计算"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享专业知识",
+      "帮助他人提升",
+      "展示自身实力",
+      "获得社区认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "宝可梦对战阵容",
+        "score": 90
+      },
+      {
+        "topic": "游戏数据计算",
+        "score": 85
+      },
+      {
+        "topic": "排位赛经验",
+        "score": 80
+      },
+      {
+        "topic": "道具选择",
+        "score": 75
+      },
+      {
+        "topic": "环境分析",
+        "score": 70
+      }
+    ],
+    "impression": "一个严谨的数据党，热爱宝可梦对战，乐于分享详尽攻略，但偶尔因过于执着而显得有点轴。"
+  },
+  "analyzed_at": "2026-06-15T22:25:15.851390",
+  "token_usage": 4908
+}

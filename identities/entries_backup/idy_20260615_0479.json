@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0479",
+  "source": {
+    "title": "通俗西藏史（三十四）——吐蕃的盟誓制度（上）",
+    "url": "https://zhuanlan.zhihu.com/p/441642894",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "历史爱好者/自媒体作者",
+      "industry": "文化传媒",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年",
+      "事业稳定期",
+      "知识输出期"
+    ],
+    "life_experiences": [
+      "长期研究西藏历史",
+      "运营自媒体账号",
+      "在喜马拉雅平台做播客",
+      "参与过历史类社群讨论"
+    ],
+    "interest_topics": [
+      "西藏历史",
+      "吐蕃王朝",
+      "古代政治制度",
+      "敦煌文献",
+      "民族学",
+      "文化人类学"
+    ],
+    "discussion_triggers": [
+      "吐蕃盟誓制度",
+      "松赞干布",
+      "西藏历史事件",
+      "古代政治权谋"
+    ],
+    "sensitive_topics": [
+      "西藏政治",
+      "民族关系",
+      "历史争议人物"
+    ],
+    "value_tendencies": [
+      "尊重历史事实",
+      "强调制度分析",
+      "反对简单化历史评价",
+      "重视文化传承"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "文献考据",
+      "机制分析",
+      "故事叙述",
+      "历史比较"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "西藏史",
+        "吐蕃史",
+        "敦煌学"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享专业知识",
+      "传播历史知识",
+      "获得认同",
+      "建立学术声誉"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "吐蕃盟誓制度",
+        "score": 90
+      },
+      {
+        "topic": "松赞干布",
+        "score": 85
+      },
+      {
+        "topic": "敦煌文献",
+        "score": 80
+      },
+      {
+        "topic": "古代政治制度",
+        "score": 75
+      },
+      {
+        "topic": "西藏历史",
+        "score": 85
+      }
+    ],
+    "impression": "一个严谨又风趣的历史讲述者，喜欢用故事串起枯燥的制度，偶尔流露学者的自豪感。"
+  },
+  "analyzed_at": "2026-06-15T22:26:05.822470",
+  "token_usage": 5458
+}

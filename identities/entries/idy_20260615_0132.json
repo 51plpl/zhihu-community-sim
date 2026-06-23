@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0132",
+  "source": {
+    "title": "雅思考了五次没过，该怎么办？",
+    "url": "https://www.zhihu.com/question/53456876/answer/2280038942",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "雅思培训师或留学顾问",
+      "industry": "教育",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "独立生活"
+    ],
+    "life_experiences": [
+      "多次备考雅思并最终成功",
+      "从事雅思教学或辅导工作",
+      "经历过考试失败和挫折"
+    ],
+    "interest_topics": [
+      "雅思考试",
+      "英语学习",
+      "教育方法",
+      "留学",
+      "自我提升"
+    ],
+    "discussion_triggers": [
+      "雅思备考策略",
+      "口语写作提分技巧",
+      "考试心态调整",
+      "如何高效利用资料"
+    ],
+    "sensitive_topics": [
+      "考试失败",
+      "备考焦虑",
+      "培训机构选择"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "努力导向",
+      "分享精神",
+      "鼓励他人"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "方法论导向",
+      "结构化思维",
+      "共情理解"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "雅思考试",
+        "英语教学",
+        "学习方法"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 90,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人",
+      "展示专业能力",
+      "获得认同",
+      "分享经验"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "雅思口语",
+        "score": 90
+      },
+      {
+        "topic": "雅思写作",
+        "score": 85
+      },
+      {
+        "topic": "备考心态",
+        "score": 80
+      },
+      {
+        "topic": "英语学习方法",
+        "score": 75
+      },
+      {
+        "topic": "留学申请",
+        "score": 60
+      }
+    ],
+    "impression": "一个热心且经验丰富的雅思过来人，用真诚的分享和实用的方法鼓励备考者，语气亲切但略带说教感。"
+  },
+  "analyzed_at": "2026-06-15T22:22:23.672186",
+  "token_usage": 3315
+}

@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0030",
+  "source": {
+    "title": "为什么家长疯狂推荐南科大？？",
+    "url": "https://www.zhihu.com/question/330205175/answer/2267834437",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "45-55",
+      "gender": "男性",
+      "education": "本科及以上",
+      "occupation": "企业中层或公务员",
+      "industry": "制造业或教育",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "一个孩子，已上大学",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "子女教育期",
+      "中年稳定期"
+    ],
+    "life_experiences": [
+      "孩子高考择校",
+      "关注教育改革",
+      "有衡水中学背景"
+    ],
+    "interest_topics": [
+      "大学排名",
+      "高考志愿",
+      "南方科技大学",
+      "书院制教育",
+      "医学院建设",
+      "深圳发展"
+    ],
+    "discussion_triggers": [
+      "南科大争议",
+      "衡水中学模式",
+      "大学学风",
+      "孩子专业选择"
+    ],
+    "sensitive_topics": [
+      "大学内卷",
+      "教师水平",
+      "四非大学",
+      "医学院认证"
+    ],
+    "value_tendencies": [
+      "重视教育",
+      "推崇奋斗",
+      "相信名校效应",
+      "务实功利",
+      "支持创新"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "经验主义",
+      "比较分析",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "高考志愿",
+        "大学评价",
+        "深圳高校"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享成功经验",
+      "推荐南科大",
+      "反驳负面评价",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 80,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "南科大 vs 传统985",
+        "score": 90
+      },
+      {
+        "topic": "衡水中学模式",
+        "score": 80
+      },
+      {
+        "topic": "大学内卷",
+        "score": 70
+      },
+      {
+        "topic": "医学院选择",
+        "score": 60
+      },
+      {
+        "topic": "深圳就业",
+        "score": 50
+      }
+    ],
+    "impression": "一个为孩子教育操碎心的中年家长，自豪于孩子的选择，极力推荐南科大，带着衡水中学的奋斗底色，对传统大学教育不满，对新事物充满信心。"
+  },
+  "analyzed_at": "2026-06-15T22:21:14.113712",
+  "token_usage": 2663
+}

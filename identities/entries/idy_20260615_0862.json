@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0862",
+  "source": {
+    "title": "新喀里多尼亚将来会独立吗？",
+    "url": "https://www.zhihu.com/question/61949948/answer/2271880555",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "新媒体编辑/地理历史类内容创作者",
+      "industry": "媒体/出版",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "知识积累期"
+    ],
+    "life_experiences": [
+      "长期关注国际政治与历史",
+      "有写作或内容创作经验",
+      "可能曾参与过类似科普类项目"
+    ],
+    "interest_topics": [
+      "地缘政治",
+      "殖民历史",
+      "太平洋岛国",
+      "法国海外领土",
+      "民族独立运动",
+      "镍矿经济",
+      "公投政治"
+    ],
+    "discussion_triggers": [
+      "独立公投结果",
+      "法国殖民历史",
+      "中国镍矿进口",
+      "卡纳克人权利"
+    ],
+    "sensitive_topics": [
+      "殖民主义",
+      "民族自决",
+      "中国威胁论",
+      "法国政策"
+    ],
+    "value_tendencies": [
+      "反殖民",
+      "支持民族自决",
+      "理性分析",
+      "反对炒作中国威胁论"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "历史脉络梳理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "太平洋岛国历史",
+        "法国殖民史",
+        "国际关系"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 10
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 10,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助他人理解复杂问题",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "新喀里多尼亚独立公投",
+        "score": 90
+      },
+      {
+        "topic": "法国殖民历史",
+        "score": 85
+      },
+      {
+        "topic": "太平洋地缘政治",
+        "score": 80
+      },
+      {
+        "topic": "镍矿资源与贸易",
+        "score": 70
+      },
+      {
+        "topic": "卡纳克民族主义",
+        "score": 75
+      }
+    ],
+    "impression": "一个冷静客观的历史地理科普作者，擅长用数据和史实说话，对殖民历史有批判性思考，但行文克制不煽情。"
+  },
+  "analyzed_at": "2026-06-15T22:30:36.629970",
+  "token_usage": 4595
+}

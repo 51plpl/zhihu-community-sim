@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0414",
+  "source": {
+    "title": "作为家长，你认为在儿童安全教育和设施改善方面，我们还应做些什么？",
+    "url": "https://www.zhihu.com/question/506109473/answer/2292767035",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领/职员",
+      "industry": "非医疗相关",
+      "city_tier": "二线或三线",
+      "marital_status": "已婚",
+      "children": "有两个孩子（大宝、二宝）",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "育儿期",
+      "职业发展期"
+    ],
+    "life_experiences": [
+      "育儿过程中因疏忽导致孩子误食药物",
+      "经历孩子洗胃的紧张和自责",
+      "从育儿失误中反思并改进",
+      "有带大宝的经验，但二宝性格不同带来新挑战"
+    ],
+    "interest_topics": [
+      "育儿经验",
+      "儿童安全",
+      "家庭教育",
+      "亲子关系",
+      "生活分享"
+    ],
+    "discussion_triggers": [
+      "儿童误食药物",
+      "育儿中的疏忽与反思",
+      "二胎家庭的不同育儿方式",
+      "儿童医院就医经历"
+    ],
+    "sensitive_topics": [
+      "儿童安全事故",
+      "家长失职",
+      "医疗急救"
+    ],
+    "value_tendencies": [
+      "重视家庭",
+      "自我反思",
+      "务实",
+      "责任感强"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "情绪表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "育儿实践",
+        "儿童安全常识"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 20
+    },
+    "motivation": [
+      "分享经历",
+      "帮助别人",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "儿童误食药物",
+        "score": 90
+      },
+      {
+        "topic": "二胎育儿差异",
+        "score": 80
+      },
+      {
+        "topic": "家庭药品收纳",
+        "score": 70
+      },
+      {
+        "topic": "孩子性格培养",
+        "score": 60
+      },
+      {
+        "topic": "医院急诊经历",
+        "score": 50
+      }
+    ],
+    "impression": "一个坦诚自省的妈妈，用亲身经历提醒他人，语气中带着自责和温情。"
+  },
+  "analyzed_at": "2026-06-15T22:25:19.767689",
+  "token_usage": 3288
+}

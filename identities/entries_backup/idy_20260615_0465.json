@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0465",
+  "source": {
+    "title": "并购同性恋网站的昆仑万维，去非洲做页游了",
+    "url": "https://zhuanlan.zhihu.com/p/446387151",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "财经分析师/投资经理",
+      "industry": "金融投资",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "长期从事财经分析工作",
+      "经历过多次市场波动",
+      "对互联网行业有深入研究"
+    ],
+    "interest_topics": [
+      "上市公司财报分析",
+      "互联网商业模式",
+      "海外投资",
+      "科技金融",
+      "游戏行业"
+    ],
+    "discussion_triggers": [
+      "公司并购案例",
+      "财报数据异常",
+      "大股东减持",
+      "商誉风险",
+      "新兴市场机会"
+    ],
+    "sensitive_topics": [
+      "大股东套现",
+      "财务造假",
+      "监管漏洞",
+      "数据真实性"
+    ],
+    "value_tendencies": [
+      "理性投资",
+      "风险厌恶",
+      "重视财务透明度",
+      "批判性思维"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "批判性思维",
+      "逻辑推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "财务分析",
+        "投资策略",
+        "互联网行业"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 70,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "展示专业能力",
+      "表达观点",
+      "帮助投资者避坑",
+      "反驳错误观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "上市公司财报",
+        "score": 90
+      },
+      {
+        "topic": "互联网并购",
+        "score": 85
+      },
+      {
+        "topic": "非洲市场",
+        "score": 70
+      },
+      {
+        "topic": "游戏行业",
+        "score": 60
+      },
+      {
+        "topic": "金融科技",
+        "score": 75
+      }
+    ],
+    "impression": "一个冷静犀利的财务分析老手，用数据说话，对资本运作的猫腻门儿清。"
+  },
+  "analyzed_at": "2026-06-15T22:25:54.709800",
+  "token_usage": 2970
+}

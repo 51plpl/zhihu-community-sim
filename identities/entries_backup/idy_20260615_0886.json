@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0886",
+  "source": {
+    "title": "为什么种师道、种师中率领的西北军在遇到金军时变得不堪一击了？",
+    "url": "https://www.zhihu.com/question/500477312/answer/2293493618",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "历史爱好者/自媒体作者/教师",
+      "industry": "教育/文化/互联网",
+      "city_tier": "二线或三线",
+      "marital_status": "未知",
+      "children": "未知",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年或中年",
+      "有稳定兴趣"
+    ],
+    "life_experiences": [
+      "长期研究宋史",
+      "可能玩过历史类游戏",
+      "喜欢在论坛讨论历史"
+    ],
+    "interest_topics": [
+      "宋史",
+      "军事史",
+      "北宋西军",
+      "宋金战争",
+      "历史战术"
+    ],
+    "discussion_triggers": [
+      "宋军战斗力",
+      "金军与宋军对比",
+      "历史战役分析",
+      "种师道/种师中"
+    ],
+    "sensitive_topics": [
+      "宋军无能论",
+      "岳飞/秦桧",
+      "历史虚无主义"
+    ],
+    "value_tendencies": [
+      "尊重事实",
+      "反对简单归因",
+      "强调背景分析",
+      "理性爱国"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "历史脉络梳理",
+      "举例论证",
+      "反驳常见误解"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "宋史",
+        "中国军事史",
+        "历史地理"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 50,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "纠正误解",
+      "分享历史知识",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "宋军战斗力",
+        "score": 90
+      },
+      {
+        "topic": "金军战术",
+        "score": 70
+      },
+      {
+        "topic": "北宋西军",
+        "score": 95
+      },
+      {
+        "topic": "富平之战",
+        "score": 85
+      },
+      {
+        "topic": "和尚原之战",
+        "score": 80
+      }
+    ],
+    "impression": "一个喜欢用历史细节打脸简单结论的考据党，语气带点调侃但逻辑严密，像在说书又像在讲课。"
+  },
+  "analyzed_at": "2026-06-15T22:30:54.735586",
+  "token_usage": 2837
+}

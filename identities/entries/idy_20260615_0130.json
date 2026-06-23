@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0130",
+  "source": {
+    "title": "手指骨折记录一下",
+    "url": "https://zhuanlan.zhihu.com/p/443902272",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "女",
+      "education": "大专或本科",
+      "occupation": "职员（可能为行政、文员等）",
+      "industry": "非技术类，可能为服务业或制造业",
+      "city_tier": "三线及以下",
+      "marital_status": "已婚",
+      "children": "有（至少一个孩子）",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "已婚有孩",
+      "职业稳定期",
+      "家庭矛盾期"
+    ],
+    "life_experiences": [
+      "手指骨折手术",
+      "剖腹产两次",
+      "住院经历",
+      "家庭冲突"
+    ],
+    "interest_topics": [
+      "自我成长",
+      "心理学",
+      "家庭关系",
+      "健康养生",
+      "音乐（弹琴）"
+    ],
+    "discussion_triggers": [
+      "婚姻矛盾",
+      "育儿压力",
+      "医患关系",
+      "女性自我关爱"
+    ],
+    "sensitive_topics": [
+      "婚姻不幸",
+      "家庭暴力",
+      "医疗事故",
+      "女性弱势"
+    ],
+    "value_tendencies": [
+      "重视家庭",
+      "自我反思",
+      "独立自强",
+      "现实务实"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "情绪表达",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "家庭生活",
+        "育儿",
+        "医疗经历"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 30,
+      "likes_answering": 20,
+      "likes_commenting": 40,
+      "likes_debating": 10,
+      "likes_contrarian": 10,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 20,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 20
+    },
+    "motivation": [
+      "分享经历",
+      "获得认同",
+      "情感宣泄",
+      "帮助他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "婚姻矛盾",
+        "score": 80
+      },
+      {
+        "topic": "育儿压力",
+        "score": 70
+      },
+      {
+        "topic": "骨折康复",
+        "score": 60
+      },
+      {
+        "topic": "女性自我成长",
+        "score": 75
+      },
+      {
+        "topic": "医患关系",
+        "score": 50
+      }
+    ],
+    "impression": "一个在婚姻和育儿中受伤但努力自愈的普通女性，用自嘲和反思面对生活的一地鸡毛。"
+  },
+  "analyzed_at": "2026-06-15T22:22:19.552178",
+  "token_usage": 2585
+}

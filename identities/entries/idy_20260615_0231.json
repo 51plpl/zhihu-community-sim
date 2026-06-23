@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0231",
+  "source": {
+    "title": "12 月 22 日 0 时-23 日 13 时，西安新增 91 例本土确诊病例，目前防疫情况如何？",
+    "url": "https://www.zhihu.com/question/507902582/answer/2283410637",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "数据分析师/流行病学研究员",
+      "industry": "公共卫生/信息技术",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业发展期",
+      "关注家庭健康"
+    ],
+    "life_experiences": [
+      "经历过重大疫情",
+      "从事过数据或流行病学相关工作",
+      "长期关注公共卫生事件"
+    ],
+    "interest_topics": [
+      "新冠疫情",
+      "流行病学",
+      "数据分析",
+      "公共卫生政策",
+      "物流供应链"
+    ],
+    "discussion_triggers": [
+      "疫情数据解读",
+      "防控措施效果",
+      "病例轨迹分析",
+      "市场传播风险"
+    ],
+    "sensitive_topics": [
+      "疫情数据造假",
+      "防控不力",
+      "瞒报漏报"
+    ],
+    "value_tendencies": [
+      "科学理性",
+      "重视数据",
+      "支持科学防控",
+      "关注弱势群体"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "逻辑推理",
+      "细节关注"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "流行病学",
+        "数据分析",
+        "公共卫生"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 10
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人理解疫情",
+      "展示专业能力",
+      "纠正错误信息",
+      "促进科学防控"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "疫情数据解读",
+        "score": 95
+      },
+      {
+        "topic": "病例轨迹分析",
+        "score": 90
+      },
+      {
+        "topic": "防控措施效果",
+        "score": 85
+      },
+      {
+        "topic": "物流与供应链风险",
+        "score": 70
+      },
+      {
+        "topic": "疫苗接种",
+        "score": 60
+      }
+    ],
+    "impression": "一个冷静理性的数据控，用流调数字拼出疫情地图，试图在混乱中寻找秩序。"
+  },
+  "analyzed_at": "2026-06-15T22:23:18.510368",
+  "token_usage": 4781
+}

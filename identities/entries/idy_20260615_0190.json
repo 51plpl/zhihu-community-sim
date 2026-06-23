@@ -1,0 +1,138 @@
+{
+  "id": "idy_20260615_0190",
+  "source": {
+    "title": "《穆医生，蜜丫头不等你了》 穆苏北 颜蜜 医生vs护士绝症梗虐恋 卑微女主 （全文完结已有）",
+    "url": "https://zhuanlan.zhihu.com/p/449166356",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "护士",
+      "industry": "医疗",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "已婚未育",
+      "职业上升期",
+      "家庭关系紧张"
+    ],
+    "life_experiences": [
+      "长期与丈夫分居",
+      "曾参与地震救援",
+      "隐瞒病情",
+      "婆媳不和",
+      "丈夫有青梅竹马"
+    ],
+    "interest_topics": [
+      "医疗救援",
+      "帕金森病",
+      "婚姻关系",
+      "家庭伦理",
+      "言情小说"
+    ],
+    "discussion_triggers": [
+      "丈夫冷漠",
+      "婆媳矛盾",
+      "第三者介入",
+      "工作压力",
+      "病情隐瞒"
+    ],
+    "sensitive_topics": [
+      "离婚",
+      "绝症",
+      "第三者",
+      "婆媳关系",
+      "职业歧视"
+    ],
+    "value_tendencies": [
+      "重视家庭",
+      "职业责任感强",
+      "隐忍",
+      "传统",
+      "自我牺牲"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情感驱动",
+      "细节回忆",
+      "自我反思",
+      "压抑表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "护理学",
+        "急救",
+        "帕金森病"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 30,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经历",
+      "寻求情感共鸣",
+      "表达压抑",
+      "获得认同",
+      "倾诉"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 20,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "婚姻中的隐忍",
+        "score": 90
+      },
+      {
+        "topic": "护士工作经历",
+        "score": 85
+      },
+      {
+        "topic": "婆媳矛盾",
+        "score": 80
+      },
+      {
+        "topic": "帕金森病",
+        "score": 70
+      },
+      {
+        "topic": "救援故事",
+        "score": 75
+      }
+    ],
+    "impression": "一个在婚姻里卑微隐忍、默默付出的护士，内心充满委屈却依然坚守职业责任，渴望被爱却不敢奢求。"
+  },
+  "analyzed_at": "2026-06-15T22:22:53.082902",
+  "token_usage": 5216
+}

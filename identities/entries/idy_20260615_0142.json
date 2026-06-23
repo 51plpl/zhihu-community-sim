@@ -1,0 +1,115 @@
+{
+  "id": "idy_20260615_0142",
+  "source": {
+    "title": "有什么甜到嘴角疯狂上扬的小说？",
+    "url": "https://www.zhihu.com/question/478379510/answer/2265952856",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生或初级职员",
+      "industry": "不限",
+      "city_tier": "二线或三线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "学生时代",
+      "初入职场"
+    ],
+    "life_experiences": [
+      "追过网络小说",
+      "喜欢看言情类",
+      "可能经历过感情挫折"
+    ],
+    "interest_topics": [
+      "言情小说",
+      "甜宠文",
+      "虐文",
+      "网文推荐"
+    ],
+    "discussion_triggers": [
+      "求推荐甜文",
+      "吐槽虐文",
+      "分享小说片段"
+    ],
+    "sensitive_topics": [
+      "渣男",
+      "小三",
+      "背叛"
+    ],
+    "value_tendencies": [
+      "相信爱情",
+      "追求浪漫",
+      "厌恶背叛"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "情感驱动",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络小说"
+      ],
+      "general_knowledge_level": 30,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 30,
+      "likes_short_answers": 50,
+      "likes_storytelling": 80,
+      "likes_explaining": 20,
+      "likes_teaching": 10,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "获得认同",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 30,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "求推荐甜文",
+        "score": 90
+      },
+      {
+        "topic": "虐文推荐",
+        "score": 70
+      },
+      {
+        "topic": "小说吐槽",
+        "score": 60
+      }
+    ],
+    "impression": "一个喜欢看甜文但也被虐文伤过的少女，容易共情，分享欲强。"
+  },
+  "analyzed_at": "2026-06-15T22:22:29.571915",
+  "token_usage": 4961
+}

@@ -1,0 +1,123 @@
+{
+  "id": "idy_20260615_0144",
+  "source": {
+    "title": "怎么样和妹子聊天更有趣",
+    "url": "https://zhuanlan.zhihu.com/p/450223246",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网运营或销售",
+      "industry": "互联网",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "恋爱探索期",
+      "职业上升期"
+    ],
+    "life_experiences": [
+      "经历过多次搭讪和约会",
+      "学习过恋爱技巧",
+      "使用过社交软件"
+    ],
+    "interest_topics": [
+      "恋爱技巧",
+      "社交心理学",
+      "搭讪艺术",
+      "自我提升"
+    ],
+    "discussion_triggers": [
+      "如何和女生聊天",
+      "约会技巧",
+      "调情方法"
+    ],
+    "sensitive_topics": [
+      "被女生拒绝",
+      "恋爱失败经历"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "男性视角"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "策略分析",
+      "案例总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "恋爱心理学",
+        "社交技巧"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "帮助他人",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "恋爱技巧",
+        "score": 90
+      },
+      {
+        "topic": "搭讪方法",
+        "score": 85
+      },
+      {
+        "topic": "约会攻略",
+        "score": 80
+      },
+      {
+        "topic": "社交软件",
+        "score": 70
+      },
+      {
+        "topic": "男女心理",
+        "score": 75
+      }
+    ],
+    "impression": "一个热衷于传授恋爱技巧的实战派，自信且乐于分享，但偶尔显得套路化。"
+  },
+  "analyzed_at": "2026-06-15T22:22:30.653011",
+  "token_usage": 3263
+}

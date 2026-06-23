@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0845",
+  "source": {
+    "title": "中西方神话不一样的天人关系",
+    "url": "https://zhuanlan.zhihu.com/p/440115529",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "学生或文化行业从业者",
+      "industry": "教育、文化传播",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "求学阶段",
+      "探索自我认同期"
+    ],
+    "life_experiences": [
+      "学习过中外文学或文化比较课程",
+      "对神话学有自学兴趣",
+      "尝试过绘画或创作"
+    ],
+    "interest_topics": [
+      "神话学",
+      "中西文化比较",
+      "古希腊神话",
+      "中国上古神话",
+      "宗教与哲学",
+      "人类学"
+    ],
+    "discussion_triggers": [
+      "中西方文化差异",
+      "神话中的道德观",
+      "神人关系",
+      "女娲造人vs普罗米修斯造人"
+    ],
+    "sensitive_topics": [
+      "文化优越性争论",
+      "宗教敏感话题",
+      "性别议题（如神性中的性别角色）"
+    ],
+    "value_tendencies": [
+      "尊重传统",
+      "崇尚理性与道德",
+      "欣赏个性解放",
+      "反对绝对权威"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "比较分析",
+      "历史溯源",
+      "文化阐释",
+      "故事叙述",
+      "自我反思"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中国神话",
+        "希腊神话",
+        "文化比较"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享知识",
+      "展示分析能力",
+      "表达观点",
+      "获得认同",
+      "引导讨论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "中西方神话对比",
+        "score": 90
+      },
+      {
+        "topic": "古希腊神祇故事",
+        "score": 85
+      },
+      {
+        "topic": "中国上古神话",
+        "score": 80
+      },
+      {
+        "topic": "文化差异根源",
+        "score": 75
+      },
+      {
+        "topic": "神话中的道德教化",
+        "score": 70
+      }
+    ],
+    "impression": "一个热爱文化比较、喜欢用故事和逻辑分析来阐述观点的年轻知识分享者，偶尔带点幽默和自嘲。"
+  },
+  "analyzed_at": "2026-06-15T22:30:24.814416",
+  "token_usage": 4971
+}

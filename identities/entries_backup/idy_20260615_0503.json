@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0503",
+  "source": {
+    "title": "中国史学硕考研难度分析！",
+    "url": "https://zhuanlan.zhihu.com/p/445975875",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-28",
+      "gender": "女",
+      "education": "本科及以上",
+      "occupation": "考研辅导老师/研究生",
+      "industry": "教育",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "求学阶段",
+      "职业起步期"
+    ],
+    "life_experiences": [
+      "经历过考研",
+      "从事考研辅导工作",
+      "熟悉历史学考研信息"
+    ],
+    "interest_topics": [
+      "考研",
+      "历史学",
+      "教育",
+      "择校",
+      "就业前景"
+    ],
+    "discussion_triggers": [
+      "考研难度分析",
+      "院校推荐",
+      "跨考建议",
+      "就业方向"
+    ],
+    "sensitive_topics": [
+      "考研内卷",
+      "学历贬值",
+      "历史学就业难"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "重视教育投资回报"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "数据导向",
+      "结构化分析",
+      "经验总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中国史考研",
+        "院校招生数据",
+        "历史学学科评估"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 80,
+      "likes_teaching": 90,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助考研学生",
+      "展示专业能力",
+      "推广辅导服务"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "中国史考研择校",
+        "score": 90
+      },
+      {
+        "topic": "历史学就业前景",
+        "score": 80
+      },
+      {
+        "topic": "考研复习方法",
+        "score": 85
+      },
+      {
+        "topic": "跨考历史学",
+        "score": 75
+      },
+      {
+        "topic": "院校报录比",
+        "score": 85
+      }
+    ],
+    "impression": "一个热心且专业的考研辅导学姐，用数据和结构化的方式帮学生分析择校，偶尔夹带私货推广服务。"
+  },
+  "analyzed_at": "2026-06-15T22:26:22.708867",
+  "token_usage": 4303
+}

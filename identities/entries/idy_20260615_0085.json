@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0085",
+  "source": {
+    "title": "大部分人都说托福难，雅思容易。为什么身边人雅思5.5可以托福100？",
+    "url": "https://www.zhihu.com/question/346657264/answer/2290841547",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科在读或刚毕业",
+      "occupation": "学生或刚入职场的留学申请者",
+      "industry": "教育/留学",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "留学准备期",
+      "语言考试备考"
+    ],
+    "life_experiences": [
+      "多次托福考试失败",
+      "转考雅思并成功",
+      "使用过口语串题技巧",
+      "适应机考口语"
+    ],
+    "interest_topics": [
+      "托福",
+      "雅思",
+      "留学申请",
+      "英语学习",
+      "考试技巧"
+    ],
+    "discussion_triggers": [
+      "托福雅思难度对比",
+      "机考与笔试差异",
+      "口语备考方法",
+      "留学国家选择"
+    ],
+    "sensitive_topics": [
+      "考试失败经历",
+      "被误导的备考建议",
+      "语言考试公平性"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "经验主义",
+      "反对夸大宣传",
+      "重视个人体验"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "对比分析",
+      "情绪表达",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "托福",
+        "雅思",
+        "留学申请"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "纠正误解",
+      "帮助他人",
+      "表达情绪"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "托福雅思对比",
+        "score": 90
+      },
+      {
+        "topic": "口语备考技巧",
+        "score": 80
+      },
+      {
+        "topic": "机考体验",
+        "score": 70
+      },
+      {
+        "topic": "留学国家选择",
+        "score": 60
+      },
+      {
+        "topic": "考试失败经历",
+        "score": 75
+      }
+    ],
+    "impression": "一个被托福折磨过、转战雅思后成功上岸的活泼学姐，爱吐槽爱分享，说话带点夸张但真实。"
+  },
+  "analyzed_at": "2026-06-15T22:21:53.985760",
+  "token_usage": 2863
+}

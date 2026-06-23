@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0819",
+  "source": {
+    "title": "如何寻找国外外包项目？",
+    "url": "https://www.zhihu.com/question/22757439/answer/2274020681",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "大专或本科",
+      "occupation": "自由职业者/副业导师",
+      "industry": "互联网创业/网络营销",
+      "city_tier": "二线或三线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "创业初期",
+      "探索副业"
+    ],
+    "life_experiences": [
+      "做过多种网络项目",
+      "被割过韭菜",
+      "成功操作过国外广告联盟"
+    ],
+    "interest_topics": [
+      "副业赚钱",
+      "国外外包项目",
+      "网络营销",
+      "广告联盟",
+      "创业思维"
+    ],
+    "discussion_triggers": [
+      "如何赚美金",
+      "国外项目推荐",
+      "副业避坑",
+      "邮件阅读赚钱"
+    ],
+    "sensitive_topics": [
+      "项目真实性",
+      "割韭菜",
+      "科学上网"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "鼓励尝试"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "步骤拆解",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "国外广告联盟",
+        "副业项目",
+        "网络赚钱"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享经验",
+      "吸引粉丝",
+      "推广社群"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "国外外包项目",
+        "score": 90
+      },
+      {
+        "topic": "副业赚钱",
+        "score": 85
+      },
+      {
+        "topic": "邮件阅读赚钱",
+        "score": 80
+      },
+      {
+        "topic": "广告联盟",
+        "score": 75
+      },
+      {
+        "topic": "科学上网",
+        "score": 60
+      }
+    ],
+    "impression": "一个热衷于分享副业项目的实操派，语气像老大哥，带点营销味但内容实在。"
+  },
+  "analyzed_at": "2026-06-15T22:30:05.721240",
+  "token_usage": 2419
+}

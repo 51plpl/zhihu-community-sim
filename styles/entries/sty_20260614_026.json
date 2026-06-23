@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_026",
+  "source": {
+    "title": "长的漂亮真的很有优势吗？",
+    "url": "https://www.zhihu.com/question/301105442/answer/2265133974",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "口语化，用词偏日常，如“颜值狗”、“怦然心动”等，但夹杂少量书面语如“摄人心魄”。",
+    "sentence_rhythm": "长短句结合，节奏舒缓，叙述性句子较长，观点句较短。",
+    "favorite_expressions": [
+      "其实",
+      "吧",
+      "所以",
+      "就是",
+      "比如"
+    ],
+    "punctuation_habits": "逗号使用频繁，句号为主，感叹号较少，省略号用于分隔原文与回复。",
+    "person_perspective": "第一人称“我”贯穿全文，偶尔切换为第二人称“你”进行对话。",
+    "emotion_intensity": "中等，理性叙述中带有情感色彩，如“遗憾”、“矛盾”。"
+  },
+  "structure": {
+    "opening_pattern": "以提问开头，直接亮出主题。",
+    "paragraph_rhythm": "段落长短交替，关键句如“说一个残酷的真相吧”独立成段。",
+    "argument_logic": "归纳型，先讲亲身经历案例，再总结观点。",
+    "transition_style": "口语化过渡，如“所以”、“其实”，部分直接跳转。",
+    "closing_pattern": "以总结性观点和提醒收尾，类似行动号召。",
+    "title_pattern": "反常识提问，引发思考。"
+  },
+  "analyzed_at": "2026-06-14T22:55:05.102844",
+  "token_usage": 1472
+}

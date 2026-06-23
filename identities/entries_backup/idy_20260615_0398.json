@@ -1,0 +1,139 @@
+{
+  "id": "idy_20260615_0398",
+  "source": {
+    "title": "911对美国、中国、世界产生了哪些影响？",
+    "url": "https://www.zhihu.com/question/20847234/answer/2266586677",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "历史/国际关系爱好者，可能从事媒体、教育或互联网行业",
+      "industry": "文化传媒或互联网",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过2000年代初的互联网时代",
+      "对中美关系有持续关注",
+      "可能经历过或了解中国驻南联盟大使馆被炸和南海撞机事件"
+    ],
+    "interest_topics": [
+      "国际关系",
+      "历史",
+      "军事",
+      "政治",
+      "中美博弈",
+      "中东局势",
+      "反恐战争",
+      "中国发展"
+    ],
+    "discussion_triggers": [
+      "911事件",
+      "中美关系",
+      "中国崛起",
+      "美国衰落",
+      "中东乱局",
+      "库尔德问题",
+      "恐怖主义"
+    ],
+    "sensitive_topics": [
+      "中国政治",
+      "民族主义",
+      "西方价值观",
+      "宗教极端主义"
+    ],
+    "value_tendencies": [
+      "民族主义",
+      "现实主义",
+      "反美倾向",
+      "支持中国发展道路",
+      "对西方持批判态度"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "历史分析",
+      "因果推理",
+      "宏观叙事",
+      "批判性思考",
+      "数据引用"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "国际关系",
+        "现代史",
+        "地缘政治"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 40,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 50,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享知识",
+      "表达观点",
+      "影响他人",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "中美关系",
+        "score": 90
+      },
+      {
+        "topic": "911事件影响",
+        "score": 100
+      },
+      {
+        "topic": "中国崛起",
+        "score": 80
+      },
+      {
+        "topic": "中东局势",
+        "score": 70
+      },
+      {
+        "topic": "反恐战争",
+        "score": 60
+      }
+    ],
+    "impression": "一个对国际政治有深刻见解的理性分析者，带着强烈的民族自豪感和对美国的批判态度。"
+  },
+  "analyzed_at": "2026-06-15T22:25:07.757273",
+  "token_usage": 3605
+}

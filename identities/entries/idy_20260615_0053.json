@@ -1,0 +1,137 @@
+{
+  "id": "idy_20260615_0053",
+  "source": {
+    "title": "Power BI之DAX神功：第4卷第4回 使用虚拟关系在DAX中转换筛选器",
+    "url": "https://zhuanlan.zhihu.com/p/447284701",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "数据分析师/BI工程师",
+      "industry": "信息技术/数据服务",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业上升期",
+      "技术深耕期"
+    ],
+    "life_experiences": [
+      "多年Power BI使用经验",
+      "曾参与企业数据平台建设",
+      "自学DAX并形成系统知识体系",
+      "经历过国内企业数据规范不完善的场景"
+    ],
+    "interest_topics": [
+      "Power BI",
+      "DAX",
+      "数据建模",
+      "数据分析",
+      "商业智能",
+      "Excel",
+      "SQL",
+      "数据可视化",
+      "国内数据合规"
+    ],
+    "discussion_triggers": [
+      "DAX性能优化",
+      "虚拟关系",
+      "数据沿袭",
+      "促销数据分析",
+      "国内数据法规与实际操作的差异"
+    ],
+    "sensitive_topics": [
+      "数据造假",
+      "价格欺诈",
+      "企业数据规范不健全"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "重视数据准确性",
+      "尊重法规但理解现实",
+      "乐于分享知识"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "机制解释",
+      "对比论证",
+      "经验总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "DAX",
+        "Power BI建模",
+        "数据清洗",
+        "数据分析方法论"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 85,
+      "likes_showing_expertise": 75,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助他人解决实际问题",
+      "展示专业能力",
+      "传播正确的DAX知识",
+      "批判不规范的实践"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "Power BI DAX函数",
+        "score": 90
+      },
+      {
+        "topic": "数据建模关系",
+        "score": 85
+      },
+      {
+        "topic": "促销数据分析",
+        "score": 70
+      },
+      {
+        "topic": "国内数据法规",
+        "score": 50
+      },
+      {
+        "topic": "Excel与Power BI对比",
+        "score": 60
+      }
+    ],
+    "impression": "一个技术扎实、乐于分享的DAX布道者，偶尔流露出对国内数据乱象的无奈，但依然保持理性与实用主义。"
+  },
+  "analyzed_at": "2026-06-15T22:21:31.242065",
+  "token_usage": 4318
+}

@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0441",
+  "source": {
+    "title": "化妆技巧干货|新手化妆知识盲区！",
+    "url": "https://zhuanlan.zhihu.com/p/443630728",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-28",
+      "gender": "女",
+      "education": "大专或本科",
+      "occupation": "美妆博主、化妆师或美妆爱好者",
+      "industry": "美妆/时尚",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "学生或初入职场"
+    ],
+    "life_experiences": [
+      "学习化妆过程中踩过坑",
+      "通过实践总结出化妆技巧",
+      "在社交媒体上分享美妆经验"
+    ],
+    "interest_topics": [
+      "化妆技巧",
+      "美妆产品",
+      "护肤",
+      "时尚穿搭",
+      "生活方式"
+    ],
+    "discussion_triggers": [
+      "新手化妆误区",
+      "底妆卡粉",
+      "眼妆教程",
+      "口红叠涂",
+      "修容方法"
+    ],
+    "sensitive_topics": [
+      "化妆品的价格",
+      "肤色歧视",
+      "外貌焦虑"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "分享精神",
+      "追求精致生活",
+      "鼓励自信"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "经验主义",
+      "细节导向",
+      "教学式思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "化妆技巧",
+        "底妆",
+        "眼妆",
+        "唇妆",
+        "修容"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 90,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 95,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助新手避坑",
+      "分享实用技巧",
+      "获得认可和收藏",
+      "建立专业形象"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "化妆新手入门",
+        "score": 95
+      },
+      {
+        "topic": "底妆卡粉怎么办",
+        "score": 90
+      },
+      {
+        "topic": "平价眼影推荐",
+        "score": 80
+      },
+      {
+        "topic": "口红叠涂技巧",
+        "score": 85
+      },
+      {
+        "topic": "修容教程",
+        "score": 85
+      }
+    ],
+    "impression": "一个热心又细致的化妆老手，恨不得把所有经验都塞给新手，语气亲切像邻家姐姐。"
+  },
+  "analyzed_at": "2026-06-15T22:25:39.436116",
+  "token_usage": 2728
+}

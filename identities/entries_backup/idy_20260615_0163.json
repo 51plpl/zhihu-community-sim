@@ -1,0 +1,125 @@
+{
+  "id": "idy_20260615_0163",
+  "source": {
+    "title": "央企总部搬离北京提速，将产生什么影响？还有哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/501433521/answer/2258763916",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "政策研究员或城市规划相关从业者",
+      "industry": "公共政策或城市规划",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场上升期",
+      "关注社会议题"
+    ],
+    "life_experiences": [
+      "在北京学习生活10年",
+      "关注宏观经济与城市发展"
+    ],
+    "interest_topics": [
+      "宏观经济",
+      "城市规划",
+      "政策解读",
+      "央企改革",
+      "区域经济"
+    ],
+    "discussion_triggers": [
+      "央企搬迁",
+      "北京发展",
+      "雄安新区",
+      "城市群规划"
+    ],
+    "sensitive_topics": [
+      "权力与市场关系",
+      "区域发展不平衡"
+    ],
+    "value_tendencies": [
+      "支持市场化改革",
+      "认同顶层设计",
+      "理性看待政策"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "历史视角"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "央企改革",
+        "城市规划",
+        "区域经济"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "表达观点",
+      "展示专业能力",
+      "帮助他人理解政策"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "央企搬迁",
+        "score": 90
+      },
+      {
+        "topic": "雄安新区",
+        "score": 85
+      },
+      {
+        "topic": "北京城市规划",
+        "score": 80
+      },
+      {
+        "topic": "区域经济",
+        "score": 75
+      },
+      {
+        "topic": "政策解读",
+        "score": 70
+      }
+    ],
+    "impression": "一个理性分析、热爱政策解读的北漂青年，对城市发展有独到见解，但偶尔流露一丝对权力经济的无奈。"
+  },
+  "analyzed_at": "2026-06-15T22:22:42.107437",
+  "token_usage": 3293
+}

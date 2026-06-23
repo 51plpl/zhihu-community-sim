@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0807",
+  "source": {
+    "title": "写小说每个月大约能赚多少钱？",
+    "url": "https://www.zhihu.com/question/405905166/answer/2281360507",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "网络写手",
+      "industry": "文化传媒",
+      "city_tier": "二线或三线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低收入，不稳定"
+    },
+    "life_stage": [
+      "职业探索期",
+      "经济独立初期"
+    ],
+    "life_experiences": [
+      "写作多年未成大神",
+      "经历过改稿退稿",
+      "身边朋友靠写作买房",
+      "参加写手群交流"
+    ],
+    "interest_topics": [
+      "小说写作",
+      "写作技巧",
+      "网文市场",
+      "影视改编",
+      "知乎盐选",
+      "副业赚钱"
+    ],
+    "discussion_triggers": [
+      "写小说收入",
+      "写作赚钱方法",
+      "场景人设情节",
+      "写作群趣事",
+      "买房经历"
+    ],
+    "sensitive_topics": [
+      "写作收入不稳定",
+      "平台分成不公",
+      "写作竞争激烈"
+    ],
+    "value_tendencies": [
+      "务实",
+      "坚持",
+      "相信努力会有回报",
+      "重视经济独立"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "案例驱动",
+      "故事叙述",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "小说写作",
+        "场景描写",
+        "人设打造",
+        "情节设计"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享经验",
+      "帮助新手",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "写作收入",
+        "score": 90
+      },
+      {
+        "topic": "写作技巧",
+        "score": 85
+      },
+      {
+        "topic": "网文市场",
+        "score": 70
+      },
+      {
+        "topic": "副业",
+        "score": 60
+      },
+      {
+        "topic": "买房",
+        "score": 50
+      }
+    ],
+    "impression": "一个在写作路上摸爬滚打、靠分享经验获得存在感的过来人，务实又带点理想主义。"
+  },
+  "analyzed_at": "2026-06-15T22:29:57.327401",
+  "token_usage": 3134
+}

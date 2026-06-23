@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0607",
+  "source": {
+    "title": "男朋友这个条件 我该和他结婚吗？",
+    "url": "https://www.zhihu.com/question/502728707/answer/2265869749",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-30",
+      "gender": "女",
+      "education": "硕士",
+      "occupation": "应届毕业生/实习生",
+      "industry": "待定",
+      "city_tier": "一线城市（北京）",
+      "marital_status": "恋爱中",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "即将毕业",
+      "面临婚姻抉择",
+      "与原生家庭紧密联系"
+    ],
+    "life_experiences": [
+      "留学经历",
+      "985本科",
+      "体制内家庭背景",
+      "恋爱中遭遇家庭矛盾"
+    ],
+    "interest_topics": [
+      "婚恋关系",
+      "家庭矛盾",
+      "个人成长",
+      "职业发展",
+      "情感咨询"
+    ],
+    "discussion_triggers": [
+      "对方家庭不尊重自己",
+      "彩礼争议",
+      "对方画饼不兑现",
+      "父母反对的感情"
+    ],
+    "sensitive_topics": [
+      "对方家庭背景",
+      "彩礼",
+      "对方父母评价自己",
+      "姐弟关系"
+    ],
+    "value_tendencies": [
+      "重视家庭意见",
+      "自尊心强",
+      "追求公平",
+      "理性务实",
+      "重视个人成长"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "情绪表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "留学",
+        "公务员考试",
+        "家庭关系"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "寻求建议",
+      "情绪宣泄",
+      "获得认同",
+      "分享经历"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "婚恋关系",
+        "score": 80
+      },
+      {
+        "topic": "家庭矛盾",
+        "score": 70
+      },
+      {
+        "topic": "留学经历",
+        "score": 50
+      },
+      {
+        "topic": "公务员考试",
+        "score": 40
+      },
+      {
+        "topic": "个人成长",
+        "score": 60
+      }
+    ],
+    "impression": "一个被现实打醒但依然清醒的独立女性，带着委屈和反思，努力从感情泥潭中抽身。"
+  },
+  "analyzed_at": "2026-06-15T22:27:37.207183",
+  "token_usage": 4833
+}

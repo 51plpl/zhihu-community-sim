@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0427",
+  "source": {
+    "title": "逼新疆“剖腹取粉”？！“有罪推定”的涉疆恶法出台预示着什么？",
+    "url": "https://zhuanlan.zhihu.com/p/450958811",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "自由撰稿人/评论员",
+      "industry": "媒体/自媒体",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年",
+      "职业稳定",
+      "关注社会议题"
+    ],
+    "life_experiences": [
+      "长期关注新疆问题",
+      "参与过舆论战",
+      "对西方双标有深刻体会"
+    ],
+    "interest_topics": [
+      "国际政治",
+      "新疆问题",
+      "法律与社会",
+      "中美关系",
+      "舆论战"
+    ],
+    "discussion_triggers": [
+      "涉疆法案",
+      "西方双标",
+      "法律与政治",
+      "舆论斗争"
+    ],
+    "sensitive_topics": [
+      "新疆问题",
+      "西方对华制裁",
+      "法律公正性"
+    ],
+    "value_tendencies": [
+      "爱国主义",
+      "反西方霸权",
+      "支持国家立场",
+      "务实斗争"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "类比论证",
+      "价值判断",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "国际政治",
+        "法律常识",
+        "新疆问题"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 50,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 70,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 90,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "表达观点",
+      "反驳西方叙事",
+      "传播正能量",
+      "呼吁行动"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "新疆问题",
+        "score": 95
+      },
+      {
+        "topic": "美国对华政策",
+        "score": 90
+      },
+      {
+        "topic": "法律与政治",
+        "score": 80
+      },
+      {
+        "topic": "舆论战",
+        "score": 85
+      },
+      {
+        "topic": "爱国主义",
+        "score": 75
+      }
+    ],
+    "impression": "一个充满战斗精神的爱国评论员，逻辑清晰，善于用类比揭露西方双标，呼吁实际行动。"
+  },
+  "analyzed_at": "2026-06-15T22:25:29.609032",
+  "token_usage": 2640
+}

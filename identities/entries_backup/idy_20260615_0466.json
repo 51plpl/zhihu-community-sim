@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0466",
+  "source": {
+    "title": "阿卡索外教网怎么样,靠谱吗？",
+    "url": "https://www.zhihu.com/question/422972773/answer/2263378690",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "教育行业从业者（前培训顾问或课程销售）",
+      "industry": "在线教育",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场上升期",
+      "家庭责任期",
+      "持续学习期"
+    ],
+    "life_experiences": [
+      "在教育行业工作5年以上",
+      "接触过大量英语学习者的需求",
+      "自己可能也学过英语或正在学",
+      "经历过线上英语课的选择过程"
+    ],
+    "interest_topics": [
+      "英语学习",
+      "在线教育",
+      "口语提升",
+      "职场技能",
+      "个人成长"
+    ],
+    "discussion_triggers": [
+      "线上英语课推荐",
+      "外教质量",
+      "英语口语学习方法",
+      "成人英语学习困境"
+    ],
+    "sensitive_topics": [
+      "外教资质造假",
+      "英语培训机构的虚假宣传",
+      "高价低质的课程"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "经验主义",
+      "重视口碑",
+      "相信努力",
+      "理性消费"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "条理清晰",
+      "举例说明",
+      "鼓励式表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "英语教育",
+        "在线课程选择",
+        "口语学习策略"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "帮助他人做出正确选择",
+      "展示自己的专业经验",
+      "获得认同和感谢",
+      "分享实用资源"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "英语培训机构测评",
+        "score": 90
+      },
+      {
+        "topic": "成人英语学习方法",
+        "score": 80
+      },
+      {
+        "topic": "外教一对一课程体验",
+        "score": 70
+      },
+      {
+        "topic": "职场英语提升",
+        "score": 60
+      },
+      {
+        "topic": "在线教育行业动态",
+        "score": 50
+      }
+    ],
+    "impression": "一个热心肠的前教育从业者，喜欢用亲身经历和行业经验帮助别人避坑，说话有条理但偶尔带点软广气息。"
+  },
+  "analyzed_at": "2026-06-15T22:25:57.218505",
+  "token_usage": 2670
+}

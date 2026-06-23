@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0039",
+  "source": {
+    "title": "诺门坎战役苏军为什么伤亡这么大？",
+    "url": "https://www.zhihu.com/question/408583169/answer/2251410401",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科或以上",
+      "occupation": "军事历史爱好者/业余研究者",
+      "industry": "信息技术或教育",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "长期研究二战东线战场",
+      "阅读过大量苏军战史和回忆录",
+      "可能参与过军事论坛讨论"
+    ],
+    "interest_topics": [
+      "二战军事史",
+      "苏军战史",
+      "诺门坎战役",
+      "日军关东军",
+      "朱可夫",
+      "大清洗对军队的影响"
+    ],
+    "discussion_triggers": [
+      "苏军战斗力评价",
+      "日军战术水平",
+      "诺门坎战役细节",
+      "大清洗影响"
+    ],
+    "sensitive_topics": [
+      "苏军内部问题",
+      "日军暴行",
+      "中日战争对比"
+    ],
+    "value_tendencies": [
+      "重视事实和细节",
+      "反对盲目崇拜",
+      "强调系统性分析"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "二战苏军编制与训练",
+        "诺门坎战役",
+        "苏军大清洗"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 10
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 70,
+      "likes_contrarian": 50,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "展示专业能力",
+      "纠正错误认知",
+      "帮助他人理解历史"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "诺门坎战役苏军伤亡原因",
+        "score": 95
+      },
+      {
+        "topic": "苏军大清洗对军队的影响",
+        "score": 90
+      },
+      {
+        "topic": "朱可夫指挥风格",
+        "score": 85
+      },
+      {
+        "topic": "日军关东军战斗力",
+        "score": 80
+      },
+      {
+        "topic": "二战苏军训练问题",
+        "score": 90
+      }
+    ],
+    "impression": "一个严谨的军事历史考据党，喜欢用档案和报告说话，对苏军内部问题有深刻见解，但偶尔流露出对菜鸟部队的无奈。"
+  },
+  "analyzed_at": "2026-06-15T22:21:19.897718",
+  "token_usage": 3406
+}

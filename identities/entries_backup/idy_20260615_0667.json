@@ -1,0 +1,124 @@
+{
+  "id": "idy_20260615_0667",
+  "source": {
+    "title": "娱乐圈里有真正的友情吗 ？",
+    "url": "https://www.zhihu.com/question/31189060/answer/2291717203",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "新媒体编辑",
+      "industry": "文化传媒",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场上升期",
+      "情感探索期"
+    ],
+    "life_experiences": [
+      "长期关注欧美娱乐圈",
+      "有过异地友情经历",
+      "经历过疫情导致的社交隔离"
+    ],
+    "interest_topics": [
+      "欧美娱乐圈",
+      "明星八卦",
+      "友情与情感关系",
+      "电影文化",
+      "人物故事"
+    ],
+    "discussion_triggers": [
+      "明星间的真挚友情",
+      "疫情对人际关系的影响",
+      "泰坦尼克号相关话题",
+      "小李子与凯特的互动"
+    ],
+    "sensitive_topics": [
+      "娱乐圈虚伪论",
+      "男女之间是否有纯友谊"
+    ],
+    "value_tendencies": [
+      "重视情感连接",
+      "相信长期关系",
+      "欣赏纯粹友情",
+      "反对性别刻板印象"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "情感共情",
+      "故事叙述",
+      "细节观察",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "欧美影视",
+        "明星生平"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 40,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享感动",
+      "表达观点",
+      "获得认同",
+      "寻找共鸣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 30,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "欧美明星友情",
+        "score": 90
+      },
+      {
+        "topic": "疫情对人际关系的影响",
+        "score": 70
+      },
+      {
+        "topic": "泰坦尼克号幕后故事",
+        "score": 80
+      },
+      {
+        "topic": "男女纯友谊",
+        "score": 60
+      }
+    ],
+    "impression": "一个感性细腻的娱乐八卦爱好者，喜欢用温暖的故事打动人心，偶尔流露出对理想化感情的向往。"
+  },
+  "analyzed_at": "2026-06-15T22:28:19.677152",
+  "token_usage": 3189
+}

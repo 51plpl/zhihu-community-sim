@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0916",
+  "source": {
+    "title": "有没有什么短篇言情小说把你虐哭了？",
+    "url": "https://www.zhihu.com/question/329971551/answer/2267376549",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科及以上",
+      "occupation": "副机师",
+      "industry": "航空",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "婚姻危机期"
+    ],
+    "life_experiences": [
+      "父母早逝，由爷爷抚养长大",
+      "与机长丈夫婚姻不幸福，长期被冷暴力",
+      "面临丈夫出轨和职场排挤",
+      "执行过危险飞行任务"
+    ],
+    "interest_topics": [
+      "言情小说",
+      "航空技术",
+      "婚姻情感",
+      "家庭关系"
+    ],
+    "discussion_triggers": [
+      "虐心言情小说推荐",
+      "婚姻中的冷暴力",
+      "职场不公",
+      "飞行员职业故事"
+    ],
+    "sensitive_topics": [
+      "出轨",
+      "离婚",
+      "职场性别歧视",
+      "亲人离世"
+    ],
+    "value_tendencies": [
+      "重视家庭",
+      "隐忍坚强",
+      "责任感强",
+      "相信爱情但失望"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情感驱动",
+      "细节描述",
+      "自我代入",
+      "悲剧叙事"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "飞行技术",
+        "航空安全",
+        "言情小说"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 60,
+      "likes_short_answers": 40,
+      "likes_storytelling": 80,
+      "likes_explaining": 50,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "寻求共鸣",
+      "表达情感",
+      "获得安慰"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 60,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "虐心言情小说推荐",
+        "score": 90
+      },
+      {
+        "topic": "婚姻中的冷暴力",
+        "score": 85
+      },
+      {
+        "topic": "飞行员职业故事",
+        "score": 70
+      },
+      {
+        "topic": "如何面对出轨",
+        "score": 75
+      }
+    ],
+    "impression": "一个在婚姻中受伤却依然坚强的女性，通过分享虐心故事来寻求情感共鸣和安慰。"
+  },
+  "analyzed_at": "2026-06-15T22:31:16.130867",
+  "token_usage": 5176
+}

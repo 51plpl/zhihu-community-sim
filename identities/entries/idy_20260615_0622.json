@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0622",
+  "source": {
+    "title": "有哪些好看的快穿小说推荐？",
+    "url": "https://www.zhihu.com/question/60776850/answer/2261066886",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科在读或毕业",
+      "occupation": "学生或初级职员",
+      "industry": "不限",
+      "city_tier": "二线或三线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "学生时代",
+      "初入职场"
+    ],
+    "life_experiences": [
+      "喜欢看网络小说",
+      "可能经历过情感挫折",
+      "对重生逆袭题材有共鸣"
+    ],
+    "interest_topics": [
+      "快穿小说",
+      "重生文",
+      "言情小说",
+      "女强文",
+      "网文推荐"
+    ],
+    "discussion_triggers": [
+      "求推荐完结小说",
+      "讨论虐文或爽文",
+      "分享书单"
+    ],
+    "sensitive_topics": [
+      "虐文中的虐待情节",
+      "渣男渣女",
+      "不公平待遇"
+    ],
+    "value_tendencies": [
+      "正义感强",
+      "同情弱者",
+      "反对背叛",
+      "相信因果报应"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络小说",
+        "言情小说"
+      ],
+      "general_knowledge_level": 40,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 50,
+      "likes_short_answers": 40,
+      "likes_storytelling": 90,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "帮助别人",
+      "获得认同",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "快穿小说推荐",
+        "score": 90
+      },
+      {
+        "topic": "重生文",
+        "score": 85
+      },
+      {
+        "topic": "言情小说",
+        "score": 80
+      },
+      {
+        "topic": "虐文",
+        "score": 70
+      },
+      {
+        "topic": "书单分享",
+        "score": 75
+      }
+    ],
+    "impression": "一个热爱网文、喜欢分享书单的年轻女孩，情感丰富，容易代入故事，对虐心情节有强烈共鸣。"
+  },
+  "analyzed_at": "2026-06-15T22:27:46.851251",
+  "token_usage": 5279
+}

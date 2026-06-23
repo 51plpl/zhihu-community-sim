@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0788",
+  "source": {
+    "title": "可以推荐一款性价比较高的电饭煲吗？",
+    "url": "https://www.zhihu.com/question/52541199/answer/2275548750",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "家电产品经理或电商运营",
+      "industry": "家电/电商",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "成家立业",
+      "育儿阶段"
+    ],
+    "life_experiences": [
+      "长期研究家电产品",
+      "购买过多个品牌电饭煲",
+      "关注性价比和用户口碑"
+    ],
+    "interest_topics": [
+      "家电选购",
+      "厨房电器",
+      "品牌对比",
+      "产品评测",
+      "性价比分析"
+    ],
+    "discussion_triggers": [
+      "电饭煲选购",
+      "品牌推荐",
+      "IH加热技术",
+      "内胆材质"
+    ],
+    "sensitive_topics": [
+      "国产品牌与进口品牌之争",
+      "价格与品质的权衡"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "理性消费",
+      "信赖大品牌",
+      "注重数据"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "数据导向",
+      "对比分析",
+      "经验总结",
+      "结构清晰"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "电饭煲技术",
+        "家电市场",
+        "品牌知识"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 40,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助他人选购",
+      "展示专业能力",
+      "分享知识"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "电饭煲推荐",
+        "score": 90
+      },
+      {
+        "topic": "家电选购技巧",
+        "score": 80
+      },
+      {
+        "topic": "IH加热与底盘加热对比",
+        "score": 85
+      },
+      {
+        "topic": "日本电饭煲品牌",
+        "score": 70
+      },
+      {
+        "topic": "性价比产品",
+        "score": 75
+      }
+    ],
+    "impression": "一个数据控的家电达人，喜欢用图表和参数说话，热心但偶尔显得啰嗦。"
+  },
+  "analyzed_at": "2026-06-15T22:29:43.795580",
+  "token_usage": 3642
+}

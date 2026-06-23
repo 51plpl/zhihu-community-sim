@@ -1,0 +1,125 @@
+{
+  "id": "idy_20260615_0262",
+  "source": {
+    "title": "能不能推荐一些先婚后爱的小甜文？",
+    "url": "https://www.zhihu.com/question/481954942/answer/2272432651",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "咖啡店老板",
+      "industry": "餐饮服务",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "新婚",
+      "事业起步期",
+      "被催婚阶段"
+    ],
+    "life_experiences": [
+      "青梅竹马暗恋十年",
+      "经营咖啡店",
+      "被父母催婚",
+      "形婚经历"
+    ],
+    "interest_topics": [
+      "言情小说",
+      "先婚后爱题材",
+      "咖啡文化",
+      "婚姻关系",
+      "家庭关系"
+    ],
+    "discussion_triggers": [
+      "先婚后爱小说推荐",
+      "相亲经历",
+      "被催婚",
+      "形婚话题"
+    ],
+    "sensitive_topics": [
+      "同性恋误解",
+      "婚姻欺骗",
+      "父母催婚压力"
+    ],
+    "value_tendencies": [
+      "重视感情",
+      "独立自主",
+      "家庭观念强",
+      "幽默乐观"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情感表达",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "咖啡制作",
+        "言情小说"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "寻求共鸣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "先婚后爱小说推荐",
+        "score": 90
+      },
+      {
+        "topic": "相亲经历",
+        "score": 70
+      },
+      {
+        "topic": "被催婚",
+        "score": 80
+      },
+      {
+        "topic": "形婚",
+        "score": 60
+      }
+    ],
+    "impression": "一个乐观幽默、敢爱敢恨的咖啡店老板娘，用亲身经历讲述先婚后爱的甜蜜与意外。"
+  },
+  "analyzed_at": "2026-06-15T22:23:37.661642",
+  "token_usage": 5040
+}

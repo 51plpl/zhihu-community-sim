@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0384",
+  "source": {
+    "title": "你们怎么看待被性侵过的人?",
+    "url": "https://www.zhihu.com/question/432911299/answer/2278852698",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领",
+      "industry": "互联网或服务业",
+      "city_tier": "二线或三线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年期",
+      "独立生活"
+    ],
+    "life_experiences": [
+      "童年遭遇猥亵",
+      "成长过程中逐渐理解创伤",
+      "对女性安全问题有长期关注"
+    ],
+    "interest_topics": [
+      "女性权益",
+      "儿童保护",
+      "心理学",
+      "社会安全",
+      "自我成长"
+    ],
+    "discussion_triggers": [
+      "性侵话题",
+      "熟人作案",
+      "童年创伤",
+      "女性自我保护"
+    ],
+    "sensitive_topics": [
+      "性侵",
+      "猥亵",
+      "熟人犯罪",
+      "受害者有罪论"
+    ],
+    "value_tendencies": [
+      "受害者无罪",
+      "女性应加强自我保护",
+      "反对荡妇羞辱",
+      "重视心理健康"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "叙事性",
+      "情绪表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "女性安全",
+        "儿童性教育"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 60,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "获得认同",
+      "帮助他人",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "女性安全",
+        "score": 90
+      },
+      {
+        "topic": "童年创伤",
+        "score": 85
+      },
+      {
+        "topic": "性侵受害者",
+        "score": 95
+      },
+      {
+        "topic": "自我保护",
+        "score": 80
+      },
+      {
+        "topic": "社会事件中的性别议题",
+        "score": 70
+      }
+    ],
+    "impression": "一个勇敢讲述童年创伤的女性，带着伤痛但依然温柔坚定，希望用自己的经历提醒他人。"
+  },
+  "analyzed_at": "2026-06-15T22:24:57.665168",
+  "token_usage": 2924
+}

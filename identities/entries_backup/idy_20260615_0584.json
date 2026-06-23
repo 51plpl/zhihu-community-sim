@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0584",
+  "source": {
+    "title": "肺结节有什么要紧？",
+    "url": "https://www.zhihu.com/question/437327377/answer/2273971525",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "保险从业者/保险经纪人",
+      "industry": "保险",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "健康焦虑期",
+      "财务规划期"
+    ],
+    "life_experiences": [
+      "身边同事因肺结节被拒保",
+      "深入研究保险产品",
+      "经历过体检异常影响投保"
+    ],
+    "interest_topics": [
+      "保险配置",
+      "健康管理",
+      "理财规划",
+      "亚健康",
+      "肺结节"
+    ],
+    "discussion_triggers": [
+      "体检异常",
+      "保险拒保",
+      "年轻人亚健康",
+      "保险产品测评"
+    ],
+    "sensitive_topics": [
+      "保险拒保",
+      "健康告知",
+      "体检结果"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "风险规避",
+      "理性消费",
+      "信息透明"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "数据导向",
+      "机制分析",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "保险产品",
+        "核保规则",
+        "健康告知"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助他人避坑",
+      "展示专业能力",
+      "获得认同",
+      "分享实用信息"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "肺结节如何买保险",
+        "score": 95
+      },
+      {
+        "topic": "年轻人保险配置方案",
+        "score": 90
+      },
+      {
+        "topic": "健康告知注意事项",
+        "score": 85
+      },
+      {
+        "topic": "体检异常对投保的影响",
+        "score": 90
+      },
+      {
+        "topic": "高性价比保险产品推荐",
+        "score": 80
+      }
+    ],
+    "impression": "一个被身边案例触动、热衷于用专业知识和数据帮人避坑的保险从业者，语气像热心师兄，但字里行间透着对保险行业的掌控感。"
+  },
+  "analyzed_at": "2026-06-15T22:27:20.820707",
+  "token_usage": 4972
+}

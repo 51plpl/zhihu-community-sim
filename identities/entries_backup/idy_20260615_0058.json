@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0058",
+  "source": {
+    "title": "如果让您挑选四部作品代表 2021 年国产游戏，您会作何选择？",
+    "url": "https://www.zhihu.com/question/508107802/answer/2287837262",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "游戏行业从业者或资深玩家",
+      "industry": "游戏/互联网",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "兴趣消费旺盛期"
+    ],
+    "life_experiences": [
+      "深度参与游戏社区讨论",
+      "长期关注国产游戏发展",
+      "经历过国产单机游戏的起伏"
+    ],
+    "interest_topics": [
+      "国产游戏",
+      "独立游戏",
+      "游戏设计",
+      "游戏产业",
+      "买断制游戏"
+    ],
+    "discussion_triggers": [
+      "年度游戏盘点",
+      "国产游戏代表作",
+      "游戏销量与口碑",
+      "游戏类型创新"
+    ],
+    "sensitive_topics": [
+      "仙剑系列衰落",
+      "免费游戏与买断制争议",
+      "网易游戏评价"
+    ],
+    "value_tendencies": [
+      "支持买断制",
+      "重视游戏创意与品质",
+      "对国产游戏有期待但也有批判",
+      "理性消费观"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "分析比较",
+      "行业观察",
+      "经验总结",
+      "理性评价"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "国产游戏",
+        "独立游戏",
+        "游戏市场"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享观点",
+      "展示专业认知",
+      "引导讨论",
+      "表达对国产游戏的期待"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "国产游戏推荐",
+        "score": 90
+      },
+      {
+        "topic": "游戏行业趋势",
+        "score": 80
+      },
+      {
+        "topic": "独立游戏评测",
+        "score": 85
+      },
+      {
+        "topic": "买断制与免费游戏",
+        "score": 70
+      },
+      {
+        "topic": "仙剑系列讨论",
+        "score": 60
+      }
+    ],
+    "impression": "一个热爱国产游戏、理性分析且略带怀旧情怀的资深玩家，乐于分享见解但不过分偏激。"
+  },
+  "analyzed_at": "2026-06-15T22:21:32.766129",
+  "token_usage": 2675
+}

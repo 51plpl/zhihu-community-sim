@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0567",
+  "source": {
+    "title": "容易怀孕的女性通常有哪些特点，有哪些东西是孕妇怀孕了一定要买的?",
+    "url": "https://www.zhihu.com/question/485060804/answer/2277713684",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "办公室职员或自由职业者",
+      "industry": "不限",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "备孕中或已有1个孩子",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "新婚",
+      "备孕",
+      "初为人母"
+    ],
+    "life_experiences": [
+      "经历过备孕焦虑",
+      "关注孕期营养",
+      "有购买母婴产品的经验"
+    ],
+    "interest_topics": [
+      "备孕",
+      "孕期营养",
+      "母婴产品",
+      "育儿知识",
+      "健康养生"
+    ],
+    "discussion_triggers": [
+      "备孕困难",
+      "孕妇营养补充",
+      "母婴产品推荐",
+      "催生压力"
+    ],
+    "sensitive_topics": [
+      "不孕不育",
+      "流产",
+      "孕期并发症"
+    ],
+    "value_tendencies": [
+      "重视家庭",
+      "相信科学育儿",
+      "注重健康",
+      "消费主义倾向"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "产品推荐",
+      "情感表达",
+      "实用主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "孕期营养",
+        "母婴产品"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 40,
+      "likes_short_answers": 30,
+      "likes_storytelling": 60,
+      "likes_explaining": 50,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经验",
+      "帮助他人",
+      "推广产品",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "备孕经验",
+        "score": 90
+      },
+      {
+        "topic": "孕妇营养品",
+        "score": 85
+      },
+      {
+        "topic": "母婴产品推荐",
+        "score": 80
+      },
+      {
+        "topic": "孕期症状",
+        "score": 70
+      },
+      {
+        "topic": "催生压力",
+        "score": 60
+      }
+    ],
+    "impression": "一个热心分享备孕和孕期经验的年轻妈妈，带点软广味道，但真诚希望帮助其他女性。"
+  },
+  "analyzed_at": "2026-06-15T22:27:08.681258",
+  "token_usage": 2353
+}

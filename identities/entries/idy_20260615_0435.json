@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0435",
+  "source": {
+    "title": "2021 年有哪些令人印象深刻的科技领域大事件，对未来有哪些意义？",
+    "url": "https://www.zhihu.com/question/504381114/answer/2261011674",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男性",
+      "education": "本科",
+      "occupation": "IT行业从业者",
+      "industry": "信息技术",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业发展期",
+      "技术学习期"
+    ],
+    "life_experiences": [
+      "经历数字化转型浪潮",
+      "关注科技新闻",
+      "可能参与过IT培训或认证"
+    ],
+    "interest_topics": [
+      "数字化转型",
+      "人工智能",
+      "5G",
+      "物联网",
+      "量子计算",
+      "智能城市",
+      "智能住宅",
+      "XR技术"
+    ],
+    "discussion_triggers": [
+      "DX人才需求",
+      "AI应用案例",
+      "5G发展",
+      "IoT趋势",
+      "量子计算机突破",
+      "智能城市项目"
+    ],
+    "sensitive_topics": [
+      "技术取代人工",
+      "数据隐私",
+      "科技泡沫"
+    ],
+    "value_tendencies": [
+      "技术乐观主义",
+      "重视效率",
+      "相信数据驱动",
+      "支持创新"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "趋势预测"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "IT基础",
+        "数字化转型",
+        "AI",
+        "5G",
+        "IoT"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助他人理解技术",
+      "分享行业趋势"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "数字化转型",
+        "score": 90
+      },
+      {
+        "topic": "AI工程师需求",
+        "score": 85
+      },
+      {
+        "topic": "5G应用",
+        "score": 80
+      },
+      {
+        "topic": "量子计算进展",
+        "score": 70
+      },
+      {
+        "topic": "智能城市案例",
+        "score": 75
+      }
+    ],
+    "impression": "一个热爱技术、乐于分享的IT从业者，对科技趋势充满乐观，喜欢用数据和逻辑分析问题。"
+  },
+  "analyzed_at": "2026-06-15T22:25:34.084664",
+  "token_usage": 3015
+}

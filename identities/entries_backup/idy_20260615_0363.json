@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0363",
+  "source": {
+    "title": "如何买到真正的「工厂家具」？",
+    "url": "https://www.zhihu.com/question/504498564/answer/2273075331",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "家具行业创业者/工厂主",
+      "industry": "家具制造与零售",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "事业上升期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "多年家具行业从业经验",
+      "从代工转型品牌直营",
+      "经历过工厂数字化改造",
+      "与渠道商和代工厂有深度合作"
+    ],
+    "interest_topics": [
+      "家具制造工艺",
+      "商业模式分析",
+      "供应链管理",
+      "数字化生产",
+      "消费者行为"
+    ],
+    "discussion_triggers": [
+      "工厂直营与渠道代理对比",
+      "定制家具痛点",
+      "行业黑幕揭秘",
+      "消费者如何避坑"
+    ],
+    "sensitive_topics": [
+      "中间商赚差价",
+      "代工厂违约",
+      "行业潜规则",
+      "价格不透明"
+    ],
+    "value_tendencies": [
+      "务实",
+      "诚信经营",
+      "反对信息不对称",
+      "重视长期合作"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向",
+      "逻辑推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "家具制造",
+        "商业模式",
+        "供应链管理",
+        "数字化生产"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 70,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 85,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享行业经验",
+      "帮助消费者避坑",
+      "展示专业能力",
+      "推广自家品牌"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "家具选购",
+        "score": 90
+      },
+      {
+        "topic": "工厂直营",
+        "score": 95
+      },
+      {
+        "topic": "定制家具",
+        "score": 85
+      },
+      {
+        "topic": "行业黑幕",
+        "score": 80
+      },
+      {
+        "topic": "商业模式",
+        "score": 75
+      }
+    ],
+    "impression": "一个深耕家具行业多年的实干家，喜欢用亲身经历和行业洞察来教育消费者，说话实在，不装逼，但偶尔会流露出对自己专业能力的自豪。"
+  },
+  "analyzed_at": "2026-06-15T22:24:43.624995",
+  "token_usage": 3644
+}

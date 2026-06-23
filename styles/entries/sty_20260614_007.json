@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_007",
+  "source": {
+    "title": "有没有表示自己孤独的文案呢？",
+    "url": "https://www.zhihu.com/question/502267269/answer/2279259398",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "混合，用词偏日常但带有文学化表达，如“心如刀割”“一触即溃”。",
+    "sentence_rhythm": "短句为主，节奏舒缓，带有抒情性。",
+    "favorite_expressions": [
+      "有时候",
+      "明明",
+      "却",
+      "一个人",
+      "孤独"
+    ],
+    "punctuation_habits": "逗号使用频繁，句号为主，感叹号较少，省略号偶有出现。",
+    "person_perspective": "第一人称和第三人称混合，以第一人称“我”为主。",
+    "emotion_intensity": "中等偏热烈，情感表达直接但不过度煽情。"
+  },
+  "structure": {
+    "opening_pattern": "直接提问，以标题问题开头。",
+    "paragraph_rhythm": "段落短小，多为单句或两三句一段，关键句独立成段。",
+    "argument_logic": "并列型，列举多个孤独相关的句子，无明确论证逻辑。",
+    "transition_style": "直接跳转，无连接词，以数字序号分隔。",
+    "closing_pattern": "以一句总结性话语收尾，如“最终我成了你的过去，你却成了我的回忆”。",
+    "title_pattern": "痛点提问，直接点出用户需求。"
+  },
+  "analyzed_at": "2026-06-14T22:54:49.621360",
+  "token_usage": 1772
+}

@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0829",
+  "source": {
+    "title": "想听听甜甜的les故事，期待的搓搓手❤？",
+    "url": "https://www.zhihu.com/question/406904976/answer/2264322311",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-22",
+      "gender": "女",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "二线城市",
+      "marital_status": "恋爱中",
+      "children": "无",
+      "income_level": "无收入"
+    },
+    "life_stage": [
+      "大学恋爱期",
+      "自我探索期"
+    ],
+    "life_experiences": [
+      "经历分手",
+      "与抑郁症患者交往",
+      "公开出柜或半公开"
+    ],
+    "interest_topics": [
+      "les情感",
+      "恋爱日常",
+      "心理健康",
+      "校园生活"
+    ],
+    "discussion_triggers": [
+      "les故事分享",
+      "被追求经历",
+      "抑郁症伴侣相处"
+    ],
+    "sensitive_topics": [
+      "抑郁症",
+      "自杀倾向",
+      "同性恋歧视"
+    ],
+    "value_tendencies": [
+      "浪漫主义",
+      "情感至上",
+      "开放包容",
+      "重视亲密关系"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "细节描写",
+      "幽默自嘲"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "les文化",
+        "恋爱心理学"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 90,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 20,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "获得认同",
+      "寻找共鸣",
+      "表达情感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "les恋爱经历",
+        "score": 90
+      },
+      {
+        "topic": "抑郁症伴侣",
+        "score": 70
+      },
+      {
+        "topic": "校园恋爱",
+        "score": 80
+      },
+      {
+        "topic": "初吻经历",
+        "score": 85
+      },
+      {
+        "topic": "出柜故事",
+        "score": 60
+      }
+    ],
+    "impression": "一个活泼爱分享的恋爱脑大学生，用细节和颜文字撒糖，有点憨但很真诚。"
+  },
+  "analyzed_at": "2026-06-15T22:30:12.487150",
+  "token_usage": 2742
+}

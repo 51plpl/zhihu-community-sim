@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0183",
+  "source": {
+    "title": "媒体评「中国农发行河南分行回应女子实名举报」称「有玩文字游戏之意，需公布细节回击」，事件或将如何发展？",
+    "url": "https://www.zhihu.com/question/506284980/answer/2275506686",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "自媒体作者/评论员",
+      "industry": "媒体",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年",
+      "职业稳定期"
+    ],
+    "life_experiences": [
+      "经历过或目睹过社会不公",
+      "对体制内腐败有强烈反感",
+      "关注社会热点事件"
+    ],
+    "interest_topics": [
+      "社会公平正义",
+      "反腐",
+      "金融腐败",
+      "房地产",
+      "国企改革",
+      "女性权益",
+      "法律维权"
+    ],
+    "discussion_triggers": [
+      "实名举报事件",
+      "国企腐败",
+      "假离婚骗局",
+      "婆媳矛盾",
+      "权力滥用"
+    ],
+    "sensitive_topics": [
+      "官商勾结",
+      "司法不公",
+      "贫富差距",
+      "性别歧视"
+    ],
+    "value_tendencies": [
+      "反对特权",
+      "支持公平正义",
+      "同情弱势群体",
+      "批判官僚主义",
+      "强调法治"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "价值判断",
+      "机制分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "社会评论",
+        "法律常识",
+        "金融腐败"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 30,
+      "likes_commenting": 80,
+      "likes_debating": 60,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 90,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "表达观点",
+      "帮助别人",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "实名举报",
+        "score": 90
+      },
+      {
+        "topic": "国企腐败",
+        "score": 85
+      },
+      {
+        "topic": "假离婚",
+        "score": 80
+      },
+      {
+        "topic": "婆媳矛盾",
+        "score": 70
+      },
+      {
+        "topic": "司法公正",
+        "score": 75
+      }
+    ],
+    "impression": "一个愤世嫉俗、爱讲故事的社会评论者，对不公现象充满愤怒，但依然相信正义会到来。"
+  },
+  "analyzed_at": "2026-06-15T22:22:54.264183",
+  "token_usage": 3980
+}

@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0732",
+  "source": {
+    "title": "请问患有抑郁症的人的思维方式和正常人的思维方式有什么不同？",
+    "url": "https://www.zhihu.com/question/31550266/answer/2288465242",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "创意工作者（如设计师、文案、策划）",
+      "industry": "广告/传媒/互联网",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场早期",
+      "自我探索期",
+      "心理健康恢复期"
+    ],
+    "life_experiences": [
+      "经历过抑郁症并康复",
+      "自学认知心理学",
+      "使用三联法记录思维情绪",
+      "在职场中因自我否定影响工作表现"
+    ],
+    "interest_topics": [
+      "抑郁症与心理健康",
+      "认知行为疗法",
+      "自我成长",
+      "创意工作",
+      "职场人际关系"
+    ],
+    "discussion_triggers": [
+      "抑郁症思维差异",
+      "精神内耗",
+      "自我否定",
+      "职场讨好型人格",
+      "认知扭曲"
+    ],
+    "sensitive_topics": [
+      "抑郁症被误解",
+      "职场PUA",
+      "自我价值感低",
+      "他人评价"
+    ],
+    "value_tendencies": [
+      "重视心理健康",
+      "认同科学疗法",
+      "追求自我认知",
+      "反对简单归因",
+      "强调个体差异"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "自我反思",
+      "情绪表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "认知心理学（抑郁症相关）",
+        "创意工作方法论"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 40,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "帮助他人",
+      "寻求理解",
+      "自我表达",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "抑郁症康复经历",
+        "score": 90
+      },
+      {
+        "topic": "认知扭曲与精神内耗",
+        "score": 85
+      },
+      {
+        "topic": "职场自我否定",
+        "score": 80
+      },
+      {
+        "topic": "讨好型人格",
+        "score": 70
+      },
+      {
+        "topic": "创意工作困境",
+        "score": 75
+      }
+    ],
+    "impression": "一个从抑郁症中走出的创意工作者，理性分析自己的思维陷阱，但依然在自我否定和鼓励间挣扎，真诚分享，渴望被理解。"
+  },
+  "analyzed_at": "2026-06-15T22:29:05.350063",
+  "token_usage": 2444
+}

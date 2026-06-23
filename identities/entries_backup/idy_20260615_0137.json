@@ -1,0 +1,140 @@
+{
+  "id": "idy_20260615_0137",
+  "source": {
+    "title": "中组部笔杆子徐文秀的12篇经典文章，一键收藏！",
+    "url": "https://zhuanlan.zhihu.com/p/441256300",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "45-55",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "公务员/政策研究员",
+      "industry": "政府/公共管理",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "中年",
+      "事业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "长期在体制内工作",
+      "参与过重大政策制定或宣传",
+      "经历过多次社会动员事件",
+      "有基层调研或挂职经历"
+    ],
+    "interest_topics": [
+      "党建",
+      "青年教育",
+      "政策解读",
+      "社会动员",
+      "领导力",
+      "形式主义批判",
+      "公务员考试"
+    ],
+    "discussion_triggers": [
+      "青年奋斗",
+      "形式主义",
+      "疫情应对",
+      "干部作风",
+      "国家贡献"
+    ],
+    "sensitive_topics": [
+      "腐败",
+      "官僚主义",
+      "青年颓废",
+      "社会不公"
+    ],
+    "value_tendencies": [
+      "集体主义",
+      "奋斗主义",
+      "家国情怀",
+      "务实主义",
+      "权威认同"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 75
+    },
+    "thinking_style": [
+      "价值判断",
+      "案例论证",
+      "引经据典",
+      "逻辑分析",
+      "说教式"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "公共管理",
+        "党建理论",
+        "政策研究",
+        "青年工作"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 20
+    },
+    "motivation": [
+      "教育青年",
+      "传播正能量",
+      "批判形式主义",
+      "展示专业素养",
+      "维护体制形象"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 80,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "青年奋斗",
+        "score": 90
+      },
+      {
+        "topic": "形式主义",
+        "score": 85
+      },
+      {
+        "topic": "疫情应对",
+        "score": 80
+      },
+      {
+        "topic": "公务员考试",
+        "score": 70
+      },
+      {
+        "topic": "党建",
+        "score": 85
+      }
+    ],
+    "impression": "一个充满正能量的体制内笔杆子，喜欢用排比和典故教育年轻人，对形式主义深恶痛绝，但始终维护大局。"
+  },
+  "analyzed_at": "2026-06-15T22:22:25.239772",
+  "token_usage": 5041
+}

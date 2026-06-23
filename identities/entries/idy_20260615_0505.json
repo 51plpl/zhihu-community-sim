@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0505",
+  "source": {
+    "title": "宇通荣获2021金旗奖社交媒体运营类金奖会产生哪些影响？",
+    "url": "https://zhuanlan.zhihu.com/p/449011344",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "品牌公关经理",
+      "industry": "汽车制造/公关传播",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "在大型企业从事品牌传播工作多年",
+      "参与过多个获奖营销案例",
+      "经历过传统媒体向新媒体转型"
+    ],
+    "interest_topics": [
+      "品牌营销",
+      "社交媒体运营",
+      "公关案例",
+      "汽车行业",
+      "新媒体趋势",
+      "获奖案例"
+    ],
+    "discussion_triggers": [
+      "企业获奖",
+      "营销案例复盘",
+      "新媒体矩阵运营",
+      "品牌传播效果"
+    ],
+    "sensitive_topics": [
+      "公关行业负面事件",
+      "品牌危机",
+      "营销造假"
+    ],
+    "value_tendencies": [
+      "专业主义",
+      "结果导向",
+      "企业荣誉感",
+      "创新求变"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "案例驱动",
+      "策略分析",
+      "行业对比"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "品牌传播",
+        "社交媒体营销",
+        "公关策略",
+        "新媒体矩阵"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 40,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业能力",
+      "分享成功案例",
+      "获得行业认可",
+      "帮助同行提升"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "品牌营销案例",
+        "score": 90
+      },
+      {
+        "topic": "社交媒体运营技巧",
+        "score": 85
+      },
+      {
+        "topic": "汽车行业公关",
+        "score": 80
+      },
+      {
+        "topic": "新媒体矩阵搭建",
+        "score": 75
+      },
+      {
+        "topic": "公关行业奖项",
+        "score": 70
+      }
+    ],
+    "impression": "一个专业自信的品牌公关人，擅长用数据和案例说话，对企业荣誉有强烈自豪感。"
+  },
+  "analyzed_at": "2026-06-15T22:26:24.006206",
+  "token_usage": 2639
+}

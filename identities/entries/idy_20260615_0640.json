@@ -1,0 +1,125 @@
+{
+  "id": "idy_20260615_0640",
+  "source": {
+    "title": "有没有真假嫡女文推荐？最好是女主又美又飒的那种！",
+    "url": "https://zhuanlan.zhihu.com/p/442146554",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生或自由职业者",
+      "industry": "文化娱乐",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "求学阶段",
+      "探索自我"
+    ],
+    "life_experiences": [
+      "喜欢阅读网络小说",
+      "可能追星或混迹同人圈",
+      "对娱乐圈有一定了解"
+    ],
+    "interest_topics": [
+      "古言小说",
+      "真假千金文",
+      "女强文",
+      "娱乐圈",
+      "穿越重生"
+    ],
+    "discussion_triggers": [
+      "推荐小说",
+      "讨论剧情",
+      "分享书单"
+    ],
+    "sensitive_topics": [
+      "小说抄袭",
+      "角色争议",
+      "性别对立"
+    ],
+    "value_tendencies": [
+      "喜欢独立自主的女主",
+      "偏好爽文风格",
+      "重视情节逻辑"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络小说",
+        "古言套路"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 30,
+      "likes_short_answers": 60,
+      "likes_storytelling": 50,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "获得认同",
+      "分享兴趣",
+      "寻找同好"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "古言小说推荐",
+        "score": 90
+      },
+      {
+        "topic": "真假千金文",
+        "score": 85
+      },
+      {
+        "topic": "女强文",
+        "score": 80
+      },
+      {
+        "topic": "穿越重生",
+        "score": 70
+      },
+      {
+        "topic": "娱乐圈八卦",
+        "score": 60
+      }
+    ],
+    "impression": "一个热爱古言爽文的可爱书虫，喜欢又美又飒的女主，乐于分享和讨论。"
+  },
+  "analyzed_at": "2026-06-15T22:27:59.318721",
+  "token_usage": 5281
+}

@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0985",
+  "source": {
+    "title": "你手机里有哪些堪称神器的 App？",
+    "url": "https://www.zhihu.com/question/52060765/answer/2292911441",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "大专或本科",
+      "occupation": "服装店主/买手",
+      "industry": "服装零售/电商",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚或已婚",
+      "children": "无或1个",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "创业初期",
+      "事业上升期"
+    ],
+    "life_experiences": [
+      "曾在线下服装档口拿货被坑",
+      "经历过压货和快递乱收费",
+      "通过线上拿货APP降低成本",
+      "参与过服装店主社区交流"
+    ],
+    "interest_topics": [
+      "服装拿货",
+      "服装批发市场",
+      "电商运营",
+      "创业经验",
+      "服装款式趋势"
+    ],
+    "discussion_triggers": [
+      "推荐好用的拿货APP",
+      "分享拿货省钱技巧",
+      "吐槽线下档口小妹",
+      "讨论新款爆款"
+    ],
+    "sensitive_topics": [
+      "档口坑人",
+      "快递乱收费",
+      "压货风险"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "效率优先",
+      "支持创业",
+      "重视保障"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "实用导向",
+      "细节关注"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "服装拿货",
+        "批发市场",
+        "电商运营"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 40,
+      "likes_short_answers": 30,
+      "likes_storytelling": 60,
+      "likes_explaining": 50,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享经验",
+      "推广自己的APP",
+      "帮助新手店主",
+      "获得同行认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "服装拿货APP推荐",
+        "score": 90
+      },
+      {
+        "topic": "新手开店避坑",
+        "score": 85
+      },
+      {
+        "topic": "服装批发市场攻略",
+        "score": 75
+      },
+      {
+        "topic": "电商运营技巧",
+        "score": 60
+      },
+      {
+        "topic": "创业经历分享",
+        "score": 70
+      }
+    ],
+    "impression": "一个热情又精明的服装店主，一边分享干货一边安利自己的APP，透着过来人的真诚和一点点生意人的精明。"
+  },
+  "analyzed_at": "2026-06-15T22:32:04.959750",
+  "token_usage": 2695
+}

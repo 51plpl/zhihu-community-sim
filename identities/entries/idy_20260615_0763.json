@@ -1,0 +1,120 @@
+{
+  "id": "idy_20260615_0763",
+  "source": {
+    "title": "有没有什么校园甜文?",
+    "url": "https://www.zhihu.com/question/312221593/answer/2252934551",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生（刚毕业）",
+      "industry": "无",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "大学毕业",
+      "刚进入社会"
+    ],
+    "life_experiences": [
+      "毕业聚餐",
+      "被下药",
+      "失身",
+      "被未婚夫抛弃"
+    ],
+    "interest_topics": [
+      "校园甜文",
+      "言情小说",
+      "霸道总裁文"
+    ],
+    "discussion_triggers": [
+      "求推荐甜文",
+      "分享小说情节",
+      "讨论男女主互动"
+    ],
+    "sensitive_topics": [
+      "强奸",
+      "背叛",
+      "家庭矛盾"
+    ],
+    "value_tendencies": [
+      "浪漫主义",
+      "相信爱情",
+      "重视家庭"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "情感驱动",
+      "故事叙述",
+      "代入感强"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "言情小说",
+        "校园文学"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 40,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 20,
+      "likes_teaching": 10,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "寻找共鸣",
+      "分享快乐",
+      "逃避现实"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 70,
+      "seeking_influence": 20,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "校园甜文推荐",
+        "score": 90
+      },
+      {
+        "topic": "言情小说情节讨论",
+        "score": 80
+      },
+      {
+        "topic": "毕业季",
+        "score": 60
+      },
+      {
+        "topic": "家庭矛盾",
+        "score": 50
+      }
+    ],
+    "impression": "一个喜欢看甜文、内心浪漫但现实遭遇不幸的年轻女孩"
+  },
+  "analyzed_at": "2026-06-15T22:29:26.659541",
+  "token_usage": 5076
+}

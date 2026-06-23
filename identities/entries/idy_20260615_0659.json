@@ -1,0 +1,140 @@
+{
+  "id": "idy_20260615_0659",
+  "source": {
+    "title": "有没有让你觉得三观很炸裂的事情？",
+    "url": "https://www.zhihu.com/question/57301878/answer/2257148862",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科及以上",
+      "occupation": "文字工作者/自由职业",
+      "industry": "文化传媒",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "独立生活",
+      "职业探索期"
+    ],
+    "life_experiences": [
+      "家庭破裂",
+      "亲人离世",
+      "情感背叛",
+      "学业压力",
+      "寄宿生活",
+      "写作疗愈"
+    ],
+    "interest_topics": [
+      "原生家庭",
+      "心理学",
+      "文学创作",
+      "情感关系",
+      "社会议题"
+    ],
+    "discussion_triggers": [
+      "家庭矛盾",
+      "重男轻女",
+      "出轨",
+      "教育压力",
+      "姐妹情谊"
+    ],
+    "sensitive_topics": [
+      "家庭暴力",
+      "自杀",
+      "背叛",
+      "性别歧视",
+      "父母偏心"
+    ],
+    "value_tendencies": [
+      "重视情感真实",
+      "反对虚伪",
+      "同情弱者",
+      "追求自由",
+      "珍视亲情"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "细节回忆",
+      "因果分析",
+      "自我反思"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "文学",
+        "心理学",
+        "教育"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经历",
+      "寻求共鸣",
+      "表达情感",
+      "反思过去",
+      "帮助他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "原生家庭创伤",
+        "score": 90
+      },
+      {
+        "topic": "重男轻女经历",
+        "score": 85
+      },
+      {
+        "topic": "情感背叛",
+        "score": 80
+      },
+      {
+        "topic": "姐妹关系",
+        "score": 75
+      },
+      {
+        "topic": "教育压力",
+        "score": 70
+      }
+    ],
+    "impression": "一个从破碎家庭中幸存、用文字疗愈自己的敏感讲述者"
+  },
+  "analyzed_at": "2026-06-15T22:28:14.266575",
+  "token_usage": 5039
+}

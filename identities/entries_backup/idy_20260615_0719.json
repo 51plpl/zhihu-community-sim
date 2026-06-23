@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0719",
+  "source": {
+    "title": "如何看待《中华人民共和国教师法（修订草案）（征求意见稿）》？对现在的教师可能有哪些影响？",
+    "url": "https://www.zhihu.com/question/502535254/answer/2251175983",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "女",
+      "education": "硕士",
+      "occupation": "中小学教师",
+      "industry": "教育",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过教师招聘和聘任过程",
+      "接触过临聘教师问题",
+      "参与过家校沟通"
+    ],
+    "interest_topics": [
+      "教育政策",
+      "教师权益",
+      "教师法修订",
+      "教师招聘",
+      "家校合作"
+    ],
+    "discussion_triggers": [
+      "教师法修订",
+      "教师学历要求提升",
+      "教师聘任自主权",
+      "临聘教师待遇"
+    ],
+    "sensitive_topics": [
+      "教师待遇",
+      "教师考核",
+      "家校矛盾"
+    ],
+    "value_tendencies": [
+      "重视教育公平",
+      "关注教师职业发展",
+      "支持改革但谨慎乐观"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 55
+    },
+    "thinking_style": [
+      "机制分析",
+      "经验主义",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "教育政策",
+        "教师法",
+        "学校管理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "帮助他人理解政策"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "教师法修订",
+        "score": 90
+      },
+      {
+        "topic": "教师招聘",
+        "score": 80
+      },
+      {
+        "topic": "临聘教师",
+        "score": 75
+      },
+      {
+        "topic": "家校合作",
+        "score": 70
+      },
+      {
+        "topic": "教师学历要求",
+        "score": 85
+      }
+    ],
+    "impression": "一位关注政策细节的理性教师，善于结合自身经验分析问题，语气平和但隐含对现实的关切。"
+  },
+  "analyzed_at": "2026-06-15T22:28:55.984014",
+  "token_usage": 4349
+}

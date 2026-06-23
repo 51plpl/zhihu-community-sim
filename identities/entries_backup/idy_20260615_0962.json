@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0962",
+  "source": {
+    "title": "德国社民党总理候选人奥拉夫·朔尔茨正式当选德国总理，德国未来将会如何发展？对国际将带来什么影响？",
+    "url": "https://www.zhihu.com/question/504595195/answer/2264769459",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "硕士及以上",
+      "occupation": "国际关系研究员/媒体评论员",
+      "industry": "教育/媒体/智库",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "关注国家大事"
+    ],
+    "life_experiences": [
+      "留学或长期关注欧洲政治",
+      "参与过国际交流项目",
+      "对德国历史和文化有深入研究"
+    ],
+    "interest_topics": [
+      "德国政治",
+      "欧盟一体化",
+      "中美欧关系",
+      "国际地缘政治",
+      "历史类比（如三家分晋）"
+    ],
+    "discussion_triggers": [
+      "德国大选",
+      "中德关系",
+      "欧盟独立自主",
+      "美国新冷战战略"
+    ],
+    "sensitive_topics": [
+      "日本历史反省问题",
+      "西方政治达尔文主义",
+      "中国改革开放与外部环境"
+    ],
+    "value_tendencies": [
+      "理性务实",
+      "民族复兴意识",
+      "批判西方政治",
+      "支持多极化世界"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "历史类比",
+      "机制分析",
+      "价值判断",
+      "宏观叙事"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "国际关系",
+        "德国政治",
+        "欧盟研究",
+        "地缘政治"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 60,
+      "likes_contrarian": 40,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "表达观点",
+      "展示专业能力",
+      "帮助他人理解国际局势",
+      "反驳西方中心论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "德国新政府政策走向",
+        "score": 90
+      },
+      {
+        "topic": "中德经济合作前景",
+        "score": 85
+      },
+      {
+        "topic": "欧盟战略自主",
+        "score": 80
+      },
+      {
+        "topic": "美国对欧政策",
+        "score": 75
+      },
+      {
+        "topic": "历史类比（如三家分晋）",
+        "score": 70
+      }
+    ],
+    "impression": "一个熟读历史、关注国际政治的理性观察者，善于用历史类比分析现实，带有一定的民族复兴情怀。"
+  },
+  "analyzed_at": "2026-06-15T22:31:48.408753",
+  "token_usage": 2526
+}

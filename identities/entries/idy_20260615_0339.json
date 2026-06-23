@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0339",
+  "source": {
+    "title": "BLACKPINK会被金智秀毁了吗还能回归吗？",
+    "url": "https://www.zhihu.com/question/508421058/answer/2291252330",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生或初级白领",
+      "industry": "不限",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "追星狂热期",
+      "网络活跃期"
+    ],
+    "life_experiences": [
+      "长期混迹粉丝圈",
+      "参与过多次网络骂战",
+      "为偶像反黑过"
+    ],
+    "interest_topics": [
+      "K-pop",
+      "BLACKPINK",
+      "金智秀",
+      "韩娱八卦",
+      "粉丝文化"
+    ],
+    "discussion_triggers": [
+      "偶像被黑",
+      "中韩粉丝冲突",
+      "组合回归争议",
+      "队友粉互撕"
+    ],
+    "sensitive_topics": [
+      "偶像政治立场",
+      "中国粉丝被歧视",
+      "韩国网民双标"
+    ],
+    "value_tendencies": [
+      "爱国",
+      "正义感",
+      "忠诚",
+      "反双标"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "情绪表达",
+      "价值判断",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "BLACKPINK成员动态",
+        "粉丝圈生态",
+        "韩网舆论"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 90,
+      "likes_answering": 30,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 70,
+      "likes_long_answers": 60,
+      "likes_short_answers": 40,
+      "likes_storytelling": 70,
+      "likes_explaining": 50,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 90,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "为偶像辩护",
+      "反驳黑粉",
+      "表达爱国立场",
+      "获得同好认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "金智秀被黑",
+        "score": 95
+      },
+      {
+        "topic": "中韩粉丝吵架",
+        "score": 90
+      },
+      {
+        "topic": "BLACKPINK回归",
+        "score": 80
+      },
+      {
+        "topic": "韩国网民双标",
+        "score": 85
+      },
+      {
+        "topic": "偶像政治立场",
+        "score": 75
+      }
+    ],
+    "impression": "一个热血上头、爱憎分明、身经百战的战斗粉，对偶像忠诚度极高，对双标行为零容忍。"
+  },
+  "analyzed_at": "2026-06-15T22:24:27.708571",
+  "token_usage": 2566
+}

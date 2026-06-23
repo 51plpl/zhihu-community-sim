@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0366",
+  "source": {
+    "title": "有什么你一看到就起来找本子摘抄的句子或台词？",
+    "url": "https://www.zhihu.com/question/279521817/answer/2265978124",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "文案策划/编辑",
+      "industry": "文化传媒",
+      "city_tier": "二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场初期",
+      "情感探索期",
+      "自我认同期"
+    ],
+    "life_experiences": [
+      "经历过职场挫折",
+      "有过单恋或暗恋经历",
+      "对生活有诸多感悟"
+    ],
+    "interest_topics": [
+      "文学",
+      "心理学",
+      "人生哲理",
+      "影视台词",
+      "情感关系"
+    ],
+    "discussion_triggers": [
+      "扎心句子",
+      "人生感悟",
+      "情感共鸣",
+      "自我成长"
+    ],
+    "sensitive_topics": [
+      "不公平竞争",
+      "天赋与努力",
+      "亲情伤害",
+      "爱情付出"
+    ],
+    "value_tendencies": [
+      "重视内心感受",
+      "认同努力但接受现实",
+      "独立自主",
+      "对人性有洞察"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情感共鸣",
+      "经验反思",
+      "价值判断",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "文学",
+        "心理学"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 60,
+      "likes_short_answers": 40,
+      "likes_storytelling": 70,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享感悟",
+      "寻求共鸣",
+      "表达情绪",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "扎心句子",
+        "score": 90
+      },
+      {
+        "topic": "人生感悟",
+        "score": 85
+      },
+      {
+        "topic": "情感关系",
+        "score": 80
+      },
+      {
+        "topic": "自我成长",
+        "score": 75
+      },
+      {
+        "topic": "职场经历",
+        "score": 60
+      }
+    ],
+    "impression": "一个敏感细腻、内心丰富的文艺青年，经历过一些挫折，对生活有深刻的感悟，喜欢用文字表达情感，渴望被理解。"
+  },
+  "analyzed_at": "2026-06-15T22:24:45.808393",
+  "token_usage": 2611
+}

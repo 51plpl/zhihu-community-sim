@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0530",
+  "source": {
+    "title": "截至12 月 27 日单日确诊新冠病例首超 50 万，美国失败的不止抗疫，目前美国疫情情况如何？",
+    "url": "https://www.zhihu.com/question/508826764/answer/2290046659",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "数据分析师/研究员",
+      "industry": "公共卫生或数据分析",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "关注家庭健康"
+    ],
+    "life_experiences": [
+      "经历过疫情初期",
+      "有亲友感染或隔离经历",
+      "长期关注疫情数据变化"
+    ],
+    "interest_topics": [
+      "新冠疫情",
+      "流行病学",
+      "数据分析",
+      "全球公共卫生政策",
+      "疫苗研发"
+    ],
+    "discussion_triggers": [
+      "美国疫情数据",
+      "奥密克戎传播",
+      "防疫政策对比",
+      "群体免疫可能性"
+    ],
+    "sensitive_topics": [
+      "疫苗有效性争议",
+      "防疫措施过度",
+      "政府抗疫失败"
+    ],
+    "value_tendencies": [
+      "科学主义",
+      "理性务实",
+      "重视数据",
+      "对政府持批判态度"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "趋势预测",
+      "理性客观"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "流行病学",
+        "统计学",
+        "公共卫生"
+      ],
+      "general_knowledge_level": 8,
+      "likes_citing_data": 9,
+      "likes_personal_experience": 2
+    },
+    "community_behavior": {
+      "activity_level": 7,
+      "likes_answering": 6,
+      "likes_commenting": 8,
+      "likes_debating": 7,
+      "likes_contrarian": 5,
+      "likes_long_answers": 8,
+      "likes_short_answers": 2,
+      "likes_storytelling": 3,
+      "likes_explaining": 9,
+      "likes_teaching": 6,
+      "likes_showing_expertise": 8,
+      "likes_sharing_experience": 4,
+      "likes_emotional_expression": 2,
+      "likes_logical_analysis": 9,
+      "likes_hot_topics": 8,
+      "likes_niche_topics": 6
+    },
+    "motivation": [
+      "分享分析见解",
+      "纠正错误认知",
+      "展示专业能力",
+      "推动理性讨论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 7,
+      "seeking_agreement": 4,
+      "seeking_influence": 6,
+      "seeking_help_others": 5,
+      "seeking_self_expression": 8
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "美国疫情数据解读",
+        "score": 9
+      },
+      {
+        "topic": "奥密克戎传播模型",
+        "score": 8
+      },
+      {
+        "topic": "疫苗有效性分析",
+        "score": 7
+      },
+      {
+        "topic": "各国防疫政策对比",
+        "score": 6
+      },
+      {
+        "topic": "群体免疫可行性",
+        "score": 7
+      }
+    ],
+    "impression": "一个冷静的数据控，用数字说话，但偶尔流露出对政府抗疫不力的无奈。"
+  },
+  "analyzed_at": "2026-06-15T22:26:41.521848",
+  "token_usage": 2520
+}

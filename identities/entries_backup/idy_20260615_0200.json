@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0200",
+  "source": {
+    "title": "扫地机器人到底实不实用？",
+    "url": "https://www.zhihu.com/question/406121381/answer/2252800611",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "科技博主/产品评测师",
+      "industry": "消费电子/家电",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "成家立业期",
+      "职业上升期"
+    ],
+    "life_experiences": [
+      "照顾腰伤的母亲",
+      "使用过多款扫地机器人",
+      "从早期产品到旗舰产品的迭代体验"
+    ],
+    "interest_topics": [
+      "扫地机器人",
+      "智能家居",
+      "家电评测",
+      "性价比消费",
+      "科技产品"
+    ],
+    "discussion_triggers": [
+      "扫地机器人实用性",
+      "科沃斯产品对比",
+      "优惠购买渠道",
+      "家庭清洁痛点"
+    ],
+    "sensitive_topics": [
+      "产品智商税",
+      "国货vs进口",
+      "价格争议"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "性价比导向",
+      "技术乐观",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "数据导向",
+      "对比分析",
+      "实用建议"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "扫地机器人",
+        "清洁家电",
+        "电商优惠"
+      ],
+      "general_knowledge_level": 7,
+      "likes_citing_data": 6,
+      "likes_personal_experience": 8
+    },
+    "community_behavior": {
+      "activity_level": 8,
+      "likes_answering": 9,
+      "likes_commenting": 7,
+      "likes_debating": 4,
+      "likes_contrarian": 2,
+      "likes_long_answers": 8,
+      "likes_short_answers": 2,
+      "likes_storytelling": 6,
+      "likes_explaining": 9,
+      "likes_teaching": 7,
+      "likes_showing_expertise": 9,
+      "likes_sharing_experience": 8,
+      "likes_emotional_expression": 3,
+      "likes_logical_analysis": 8,
+      "likes_hot_topics": 5,
+      "likes_niche_topics": 7
+    },
+    "motivation": [
+      "帮助别人选购",
+      "展示专业能力",
+      "分享优惠信息",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 7,
+      "seeking_agreement": 5,
+      "seeking_influence": 6,
+      "seeking_help_others": 9,
+      "seeking_self_expression": 4
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "扫地机器人推荐",
+        "score": 10
+      },
+      {
+        "topic": "科沃斯T9评测",
+        "score": 10
+      },
+      {
+        "topic": "扫地机器人优惠",
+        "score": 9
+      },
+      {
+        "topic": "家庭清洁工具",
+        "score": 8
+      },
+      {
+        "topic": "智能家居体验",
+        "score": 7
+      }
+    ],
+    "impression": "一个热心肠的科技爱好者，喜欢用亲身经历和详细数据说服别人，偶尔夹带私货推广优惠，但总体真诚可信。"
+  },
+  "analyzed_at": "2026-06-15T22:22:58.982139",
+  "token_usage": 2767
+}

@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0526",
+  "source": {
+    "title": "你有哪些坚持了多年的养生习惯？",
+    "url": "https://www.zhihu.com/question/23273323/answer/2253231111",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-25",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "程序员",
+      "industry": "互联网/IT",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场新人",
+      "脱发焦虑期"
+    ],
+    "life_experiences": [
+      "熬夜加班导致脱发",
+      "尝试多种防脱产品失败",
+      "通过食疗成功改善发量",
+      "被植发价格劝退"
+    ],
+    "interest_topics": [
+      "养生",
+      "防脱发",
+      "食疗",
+      "美妆",
+      "购物"
+    ],
+    "discussion_triggers": [
+      "脱发困扰",
+      "防脱产品测评",
+      "食疗经验",
+      "李佳琦推荐"
+    ],
+    "sensitive_topics": [
+      "脱发",
+      "外貌焦虑",
+      "植发价格",
+      "加班文化"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "相信传统经验",
+      "追求性价比",
+      "重视外貌"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "个人经验叙述",
+      "情感表达",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "防脱发食疗",
+        "头皮护理"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享成功经验",
+      "帮助有同样困扰的人",
+      "获得认同",
+      "推荐产品"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "脱发怎么办",
+        "score": 90
+      },
+      {
+        "topic": "防脱产品推荐",
+        "score": 85
+      },
+      {
+        "topic": "食疗养生",
+        "score": 80
+      },
+      {
+        "topic": "程序员健康",
+        "score": 60
+      }
+    ],
+    "impression": "一个被脱发困扰过的年轻女程序员，通过食疗成功自救，热情分享经验顺便带货的实用主义者。"
+  },
+  "analyzed_at": "2026-06-15T22:26:39.677488",
+  "token_usage": 2932
+}

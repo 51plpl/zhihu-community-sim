@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0978",
+  "source": {
+    "title": "体制内残酷真相（写给年轻的你）",
+    "url": "https://zhuanlan.zhihu.com/p/448512674",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "公务员/机关干部",
+      "industry": "政府/公共管理",
+      "city_tier": "一二线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "多年机关工作经验",
+      "经历过岗位轮换",
+      "参与过干部选拔",
+      "处理过复杂人际关系"
+    ],
+    "interest_topics": [
+      "体制内生存法则",
+      "公务员考试",
+      "公文写作",
+      "职场人际关系",
+      "政治敏锐性"
+    ],
+    "discussion_triggers": [
+      "新人如何适应机关",
+      "领导批评应对",
+      "岗位选择与调动",
+      "送礼与请客技巧"
+    ],
+    "sensitive_topics": [
+      "人事权",
+      "领导隐私",
+      "单位内部矛盾",
+      "腐败与合规"
+    ],
+    "value_tendencies": [
+      "务实",
+      "谨慎",
+      "重视规则",
+      "注重人情世故",
+      "强调忠诚与靠谱"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "实用导向",
+      "策略思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "机关行政",
+        "公文写作",
+        "组织人事",
+        "职场政治"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 60,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助新人少走弯路",
+      "展示专业能力",
+      "分享经验",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "体制内新人如何快速适应",
+        "score": 90
+      },
+      {
+        "topic": "领导批评如何应对",
+        "score": 85
+      },
+      {
+        "topic": "机关里如何送礼",
+        "score": 80
+      },
+      {
+        "topic": "公务员岗位选择",
+        "score": 75
+      },
+      {
+        "topic": "公文写作技巧",
+        "score": 70
+      }
+    ],
+    "impression": "一个在体制内摸爬滚打多年的老机关，深谙潜规则，乐于提携后辈，但说话滴水不漏，带着过来人的世故与温情。"
+  },
+  "analyzed_at": "2026-06-15T22:32:00.125320",
+  "token_usage": 4209
+}

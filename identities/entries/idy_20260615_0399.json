@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0399",
+  "source": {
+    "title": "嫁错了人是一种什么样的体验？",
+    "url": "https://www.zhihu.com/question/35782935/answer/2287320460",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-35",
+      "gender": "女",
+      "education": "本科及以上",
+      "occupation": "高收入白领（如金融、互联网、管理岗）",
+      "industry": "高薪行业（如科技、金融、咨询）",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "已婚",
+      "children": "无（但怀孕中）",
+      "income_level": "高收入（月入数万）"
+    },
+    "life_stage": [
+      "已婚未育",
+      "事业上升期",
+      "婚姻危机"
+    ],
+    "life_experiences": [
+      "高收入女性下嫁低收入丈夫",
+      "被婆家经济吸血",
+      "发现丈夫出轨",
+      "怀孕后考虑离婚"
+    ],
+    "interest_topics": [
+      "婚姻关系",
+      "女性独立",
+      "经济自主",
+      "婆媳矛盾",
+      "职场发展"
+    ],
+    "discussion_triggers": [
+      "嫁错人",
+      "婆家索取",
+      "丈夫出轨",
+      "高收入女性婚姻困境"
+    ],
+    "sensitive_topics": [
+      "婆媳关系",
+      "经济控制",
+      "出轨",
+      "离婚",
+      "孕期抉择"
+    ],
+    "value_tendencies": [
+      "独立自主",
+      "经济理性",
+      "反对传统性别角色",
+      "重视个人边界",
+      "不认同牺牲式婚姻"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "逻辑分析",
+      "情绪表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "职场技能",
+        "婚姻法律常识",
+        "人际关系"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "寻求认同",
+      "警示他人",
+      "表达愤怒",
+      "寻求建议"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "嫁错人是什么体验",
+        "score": 95
+      },
+      {
+        "topic": "婆媳矛盾",
+        "score": 90
+      },
+      {
+        "topic": "高收入女性婚姻困境",
+        "score": 85
+      },
+      {
+        "topic": "如何应对丈夫出轨",
+        "score": 80
+      },
+      {
+        "topic": "孕期离婚",
+        "score": 75
+      }
+    ],
+    "impression": "一个经济独立却被婚姻拖累的职场女性，愤怒中带着清醒，准备反击的复仇者。"
+  },
+  "analyzed_at": "2026-06-15T22:25:08.145306",
+  "token_usage": 4826
+}

@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0604",
+  "source": {
+    "title": "《何甜甜周斯年》又名《何甜甜周斯年/嫁给周先生的第八个年头》完结版（全文在线阅读）无删减【全章节】",
+    "url": "https://zhuanlan.zhihu.com/p/447943772",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "幼师",
+      "industry": "教育",
+      "city_tier": "二线城市",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "婚姻危机",
+      "职业稳定期",
+      "心理健康问题"
+    ],
+    "life_experiences": [
+      "八年婚姻",
+      "单恋经历",
+      "父母离异",
+      "抑郁症确诊",
+      "空间认知障碍"
+    ],
+    "interest_topics": [
+      "言情小说",
+      "心理学",
+      "婚姻关系",
+      "前世今生",
+      "教育"
+    ],
+    "discussion_triggers": [
+      "婚姻中的不平等",
+      "单恋经历",
+      "抑郁症",
+      "父母离婚",
+      "童年回忆"
+    ],
+    "sensitive_topics": [
+      "离婚",
+      "抑郁症",
+      "不被爱",
+      "孤独",
+      "死亡"
+    ],
+    "value_tendencies": [
+      "重视感情",
+      "自我牺牲",
+      "隐忍",
+      "渴望被爱",
+      "相信命运"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情感驱动",
+      "故事叙述",
+      "内省",
+      "怀旧"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "幼儿教育",
+        "心理学（入门）"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 40,
+      "likes_answering": 20,
+      "likes_commenting": 60,
+      "likes_debating": 10,
+      "likes_contrarian": 5,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 30,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 10,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 85,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经历",
+      "寻求认同",
+      "情感宣泄",
+      "寻找共鸣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 20,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "婚姻中的单恋",
+        "score": 90
+      },
+      {
+        "topic": "抑郁症经历",
+        "score": 85
+      },
+      {
+        "topic": "父母离婚",
+        "score": 75
+      },
+      {
+        "topic": "前世今生梦境",
+        "score": 70
+      },
+      {
+        "topic": "幼师工作",
+        "score": 60
+      }
+    ],
+    "impression": "一个在婚姻里默默付出却得不到爱的温柔女人，内心敏感脆弱，带着淡淡的忧郁和宿命感。"
+  },
+  "analyzed_at": "2026-06-15T22:27:34.441611",
+  "token_usage": 5002
+}

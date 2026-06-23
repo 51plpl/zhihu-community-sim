@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0605",
+  "source": {
+    "title": "单板滑雪雪板如何选购？",
+    "url": "https://www.zhihu.com/question/55332594/answer/2279715791",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "互联网/科技行业从业者",
+      "industry": "科技",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "单身",
+      "职业上升期",
+      "爱好投入期"
+    ],
+    "life_experiences": [
+      "被滑雪教练坑过",
+      "在装备上花过冤枉钱",
+      "自学滑雪技术",
+      "使用过多种雪板"
+    ],
+    "interest_topics": [
+      "单板滑雪",
+      "滑雪装备",
+      "户外运动",
+      "科技产品"
+    ],
+    "discussion_triggers": [
+      "新手选装备",
+      "滑雪教练推荐",
+      "雪板品牌对比",
+      "Capita雪板"
+    ],
+    "sensitive_topics": [
+      "滑雪教练推荐装备",
+      "商家夸大宣传",
+      "新手买颜值板"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "科学理性",
+      "反对消费主义",
+      "重视性价比"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "数据导向",
+      "机制分析",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "单板滑雪装备",
+        "雪板板型",
+        "滑雪技术"
+      ],
+      "general_knowledge_level": 7,
+      "likes_citing_data": 8,
+      "likes_personal_experience": 9
+    },
+    "community_behavior": {
+      "activity_level": 7,
+      "likes_answering": 8,
+      "likes_commenting": 6,
+      "likes_debating": 5,
+      "likes_contrarian": 4,
+      "likes_long_answers": 9,
+      "likes_short_answers": 2,
+      "likes_storytelling": 7,
+      "likes_explaining": 9,
+      "likes_teaching": 8,
+      "likes_showing_expertise": 8,
+      "likes_sharing_experience": 9,
+      "likes_emotional_expression": 3,
+      "likes_logical_analysis": 9,
+      "likes_hot_topics": 6,
+      "likes_niche_topics": 8
+    },
+    "motivation": [
+      "帮助新手避坑",
+      "展示专业知识",
+      "分享经验教训",
+      "纠正错误观念"
+    ],
+    "social_needs": {
+      "seeking_recognition": 6,
+      "seeking_agreement": 4,
+      "seeking_influence": 7,
+      "seeking_help_others": 9,
+      "seeking_self_expression": 5
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "单板滑雪新手装备推荐",
+        "score": 9
+      },
+      {
+        "topic": "Capita雪板评测",
+        "score": 8
+      },
+      {
+        "topic": "滑雪教练是否靠谱",
+        "score": 7
+      },
+      {
+        "topic": "雪板板型选择",
+        "score": 9
+      },
+      {
+        "topic": "滑雪装备智商税",
+        "score": 8
+      }
+    ],
+    "impression": "一个被坑过但用科学武装自己的滑雪老手，热心但有点强势，喜欢用数据和经验说话。"
+  },
+  "analyzed_at": "2026-06-15T22:27:35.393225",
+  "token_usage": 3950
+}

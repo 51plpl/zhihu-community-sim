@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0316",
+  "source": {
+    "title": "如何评价大衣哥儿媳陈亚男和朱单伟事件？",
+    "url": "https://www.zhihu.com/question/492489636/answer/2264130207",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "自媒体作者/评论员",
+      "industry": "媒体/互联网",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "长期关注网络热点事件",
+      "有婚姻经历",
+      "熟悉短视频和网红生态"
+    ],
+    "interest_topics": [
+      "社会热点",
+      "婚姻家庭",
+      "网红经济",
+      "法律常识",
+      "自媒体运营"
+    ],
+    "discussion_triggers": [
+      "离婚事件",
+      "网红炒作",
+      "婚姻与利益",
+      "法律灰色地带"
+    ],
+    "sensitive_topics": [
+      "利用婚姻谋利",
+      "家庭伦理",
+      "网络暴力"
+    ],
+    "value_tendencies": [
+      "重视家庭伦理",
+      "反对功利婚姻",
+      "同情弱者",
+      "鄙视投机行为"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "道德判断",
+      "因果分析",
+      "经验总结",
+      "叙事评论"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络文化",
+        "婚姻法律常识",
+        "自媒体运营"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 20
+    },
+    "motivation": [
+      "表达观点",
+      "分享见解",
+      "获得认同",
+      "教育他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "网红离婚",
+        "score": 80
+      },
+      {
+        "topic": "婚姻与利益",
+        "score": 70
+      },
+      {
+        "topic": "事实婚姻",
+        "score": 60
+      },
+      {
+        "topic": "网络暴力",
+        "score": 50
+      },
+      {
+        "topic": "自媒体炒作",
+        "score": 70
+      }
+    ],
+    "impression": "一个爱讲道理、喜欢剖析人性的中年评论者，带着过来人的优越感，对功利婚姻嗤之以鼻。"
+  },
+  "analyzed_at": "2026-06-15T22:24:12.850535",
+  "token_usage": 3586
+}

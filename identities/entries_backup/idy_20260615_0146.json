@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0146",
+  "source": {
+    "title": "如何利用好现有时间高效学习?",
+    "url": "https://www.zhihu.com/question/501864949/answer/2272845221",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "教师/教育工作者/知识博主",
+      "industry": "教育",
+      "city_tier": "一二线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "有子女教育需求"
+    ],
+    "life_experiences": [
+      "学生时代曾因学习方法不当而困扰",
+      "后来通过反思和实践掌握了高效学习方法",
+      "有辅导他人学习的经验"
+    ],
+    "interest_topics": [
+      "学习方法",
+      "教育心理学",
+      "笔记术",
+      "时间管理",
+      "自主学习"
+    ],
+    "discussion_triggers": [
+      "学生提问如何高效学习",
+      "讨论笔记方法",
+      "分享个人学习经验"
+    ],
+    "sensitive_topics": [
+      "填鸭式教育",
+      "学生压力",
+      "教育不公"
+    ],
+    "value_tendencies": [
+      "重视自主学习",
+      "强调反思和思考过程",
+      "反对机械记忆",
+      "推崇实用主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "逻辑推理",
+      "问题导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "学习科学",
+        "认知心理学",
+        "教育方法论"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 90,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "分享经验",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "学习方法",
+        "score": 90
+      },
+      {
+        "topic": "笔记技巧",
+        "score": 85
+      },
+      {
+        "topic": "时间管理",
+        "score": 70
+      },
+      {
+        "topic": "教育焦虑",
+        "score": 60
+      },
+      {
+        "topic": "自主学习",
+        "score": 80
+      }
+    ],
+    "impression": "一个热心且经验丰富的教育者，像穿越回去帮助曾经的自己一样，耐心而细致地分享方法。"
+  },
+  "analyzed_at": "2026-06-15T22:22:30.934444",
+  "token_usage": 2519
+}

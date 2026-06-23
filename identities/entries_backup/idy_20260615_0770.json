@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0770",
+  "source": {
+    "title": "有哪些先婚后爱的小说？",
+    "url": "https://www.zhihu.com/question/338154133/answer/2280117961",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生或初级文职",
+      "industry": "文化娱乐",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "学生",
+      "初入职场"
+    ],
+    "life_experiences": [
+      "阅读大量网络小说",
+      "追更连载",
+      "参与小说讨论社区"
+    ],
+    "interest_topics": [
+      "古言小说",
+      "先婚后爱",
+      "宫廷权谋",
+      "甜宠文",
+      "女频网文"
+    ],
+    "discussion_triggers": [
+      "求书推荐",
+      "书评讨论",
+      "角色分析",
+      "剧情吐槽"
+    ],
+    "sensitive_topics": [
+      "虐文",
+      "BE结局",
+      "抄袭争议"
+    ],
+    "value_tendencies": [
+      "重视情感体验",
+      "偏好HE",
+      "欣赏独立女主",
+      "反对雌竞"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情感共鸣",
+      "角色代入"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "古言网文套路",
+        "小说推荐"
+      ],
+      "general_knowledge_level": 30,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 50,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享好书",
+      "获得同好认可",
+      "表达对剧情的喜爱",
+      "寻求推荐"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "先婚后爱小说推荐",
+        "score": 90
+      },
+      {
+        "topic": "古言甜宠文",
+        "score": 80
+      },
+      {
+        "topic": "太子/王爷人设",
+        "score": 70
+      },
+      {
+        "topic": "小说剧情讨论",
+        "score": 60
+      },
+      {
+        "topic": "网文作者推荐",
+        "score": 50
+      }
+    ],
+    "impression": "一个沉迷古言甜宠的少女，喜欢分享和讨论小说情节，对先婚后爱题材情有独钟。"
+  },
+  "analyzed_at": "2026-06-15T22:29:31.111702",
+  "token_usage": 4390
+}

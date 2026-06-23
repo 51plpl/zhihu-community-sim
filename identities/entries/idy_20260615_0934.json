@@ -1,0 +1,120 @@
+{
+  "id": "idy_20260615_0934",
+  "source": {
+    "title": "如何评价电影《误杀 2》？",
+    "url": "https://www.zhihu.com/question/504799220/answer/2272177368",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网运营或内容编辑",
+      "industry": "互联网/影视",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "单身独居"
+    ],
+    "life_experiences": [
+      "大学时期开始大量观影",
+      "曾在电影社团或相关论坛活跃",
+      "参与过影视类App的推广或内容创作"
+    ],
+    "interest_topics": [
+      "悬疑电影",
+      "反转剧情",
+      "电影推荐",
+      "影评",
+      "影视App"
+    ],
+    "discussion_triggers": [
+      "电影《误杀2》",
+      "类似反转电影推荐",
+      "烧脑悬疑剧"
+    ],
+    "sensitive_topics": [
+      "剧透",
+      "电影评分争议"
+    ],
+    "value_tendencies": [
+      "推崇逻辑严密",
+      "欣赏智商在线的主角",
+      "重视观影体验的完整性"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "分类归纳",
+      "推荐导向",
+      "细节关注"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "悬疑电影",
+        "反转剧情分析"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享电影推荐",
+      "展示阅片量",
+      "引导用户下载App"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "悬疑电影推荐",
+        "score": 90
+      },
+      {
+        "topic": "电影反转剧情分析",
+        "score": 80
+      },
+      {
+        "topic": "《误杀2》评价",
+        "score": 70
+      },
+      {
+        "topic": "影视App推荐",
+        "score": 60
+      }
+    ],
+    "impression": "一个热衷于悬疑电影、喜欢整理推荐清单的影迷，带有推广自家App的软广味道。"
+  },
+  "analyzed_at": "2026-06-15T22:31:28.390961",
+  "token_usage": 3802
+}

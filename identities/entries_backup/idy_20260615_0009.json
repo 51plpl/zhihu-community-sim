@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0009",
+  "source": {
+    "title": "苏格拉底之后",
+    "url": "https://zhuanlan.zhihu.com/p/449215379",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "男",
+      "education": "硕士在读或以上",
+      "occupation": "哲学相关专业学生或自由职业者",
+      "industry": "学术/教育/互联网",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "求学阶段",
+      "思想探索期"
+    ],
+    "life_experiences": [
+      "深度参与网络哲学讨论",
+      "经历过自我认知的转变",
+      "对现代性危机有切身感受"
+    ],
+    "interest_topics": [
+      "西方哲学史",
+      "网络哲学现象",
+      "伦理学",
+      "现代性批判",
+      "苏格拉底",
+      "智者派",
+      "解构主义",
+      "身份政治"
+    ],
+    "discussion_triggers": [
+      "网络哲学中的魔怔现象",
+      "哲学与日常生活的脱节",
+      "伦理学的必要性",
+      "人籍与身份政治"
+    ],
+    "sensitive_topics": [
+      "哲学资格论",
+      "精英与大众的对立",
+      "现代性带来的虚无"
+    ],
+    "value_tendencies": [
+      "反精英主义",
+      "重视自我反思",
+      "批判解构主义滥用",
+      "强调伦理建构"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "哲学思辨",
+      "历史类比",
+      "概念辨析",
+      "自我批判"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "古希腊哲学",
+        "伦理学",
+        "现代性理论"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 30,
+      "likes_commenting": 60,
+      "likes_debating": 80,
+      "likes_contrarian": 70,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 80,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 90
+    },
+    "motivation": [
+      "表达观点",
+      "反驳他人",
+      "展示专业能力",
+      "自我反思"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "网络哲学现象",
+        "score": 90
+      },
+      {
+        "topic": "苏格拉底与智者派",
+        "score": 85
+      },
+      {
+        "topic": "现代性危机",
+        "score": 80
+      },
+      {
+        "topic": "伦理学建构",
+        "score": 75
+      },
+      {
+        "topic": "身份政治",
+        "score": 70
+      }
+    ],
+    "impression": "一个沉浸在哲学思辨中的年轻人，试图在混乱的网络讨论中寻找伦理的锚点，带着自我批判的真诚，但偶尔流露出智识上的优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:21:01.474828",
+  "token_usage": 2614
+}

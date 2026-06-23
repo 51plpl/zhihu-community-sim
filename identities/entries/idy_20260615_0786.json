@@ -1,0 +1,123 @@
+{
+  "id": "idy_20260615_0786",
+  "source": {
+    "title": "有哪些虐恋小说值得推荐？",
+    "url": "https://www.zhihu.com/question/296358898/answer/2254229945",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "网络小说读者/写手",
+      "industry": "文化娱乐",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年期",
+      "探索期"
+    ],
+    "life_experiences": [
+      "情感挫折",
+      "阅读大量虐恋小说",
+      "可能有过类似被辜负的经历"
+    ],
+    "interest_topics": [
+      "虐恋小说",
+      "言情小说",
+      "情感关系",
+      "心理创伤",
+      "复仇故事"
+    ],
+    "discussion_triggers": [
+      "推荐虐恋小说",
+      "讨论虐恋情节",
+      "分析人物心理"
+    ],
+    "sensitive_topics": [
+      "背叛",
+      "不公",
+      "情感伤害",
+      "监狱生活"
+    ],
+    "value_tendencies": [
+      "重视情感真实",
+      "同情弱者",
+      "对人性复杂有深刻理解"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情感驱动",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络小说",
+        "虐恋题材"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 50,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "获得认同",
+      "帮助别人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "虐恋小说推荐",
+        "score": 90
+      },
+      {
+        "topic": "虐恋情节分析",
+        "score": 80
+      },
+      {
+        "topic": "情感关系讨论",
+        "score": 70
+      },
+      {
+        "topic": "小说人物心理",
+        "score": 75
+      }
+    ],
+    "impression": "一个被虐恋故事深深打动、情感丰富的分享者，带着一丝对人性阴暗面的洞察和同情。"
+  },
+  "analyzed_at": "2026-06-15T22:29:42.867333",
+  "token_usage": 5158
+}

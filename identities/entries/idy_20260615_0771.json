@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0771",
+  "source": {
+    "title": "一用就爱上的奥田蒸烤集成灶，爆炒烹饪无压力",
+    "url": "https://zhuanlan.zhihu.com/p/443780386",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "白领/家庭主妇",
+      "industry": "非厨房相关行业",
+      "city_tier": "一二线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "新房装修",
+      "家庭生活稳定期",
+      "注重生活品质"
+    ],
+    "life_experiences": [
+      "有过装修经历",
+      "使用过集成灶",
+      "关注国货品牌"
+    ],
+    "interest_topics": [
+      "厨房家电",
+      "家居装修",
+      "智能家居",
+      "烹饪",
+      "国货"
+    ],
+    "discussion_triggers": [
+      "集成灶选购",
+      "厨房装修",
+      "智能家电体验",
+      "国货推荐"
+    ],
+    "sensitive_topics": [
+      "厨房安全",
+      "家电清洁",
+      "产品质量"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "品质导向",
+      "国货支持",
+      "家庭优先"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "细节描述",
+      "功能对比",
+      "情感表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "集成灶",
+        "厨房电器"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 40,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经验",
+      "帮助他人",
+      "展示专业",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "集成灶推荐",
+        "score": 90
+      },
+      {
+        "topic": "厨房装修经验",
+        "score": 80
+      },
+      {
+        "topic": "智能家电体验",
+        "score": 70
+      },
+      {
+        "topic": "国货品牌",
+        "score": 60
+      }
+    ],
+    "impression": "一个热爱生活、乐于分享的居家达人，对厨房电器有深入研究，注重细节和实用，有点品牌忠诚度。"
+  },
+  "analyzed_at": "2026-06-15T22:29:32.180052",
+  "token_usage": 3318
+}

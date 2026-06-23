@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0158",
+  "source": {
+    "title": "你们坚持了五年以上的习惯是什么？",
+    "url": "https://www.zhihu.com/question/439042496/answer/2279669339",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "白领/自由职业者",
+      "industry": "互联网/新媒体",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场上升期",
+      "关注个人成长",
+      "注重健康管理"
+    ],
+    "life_experiences": [
+      "曾为痘痘困扰",
+      "通过跳舞成功减肥",
+      "坚持记账多年",
+      "离家求学工作"
+    ],
+    "interest_topics": [
+      "纪录片",
+      "健康生活",
+      "护肤",
+      "运动健身",
+      "个人成长",
+      "理财记账",
+      "家庭关系"
+    ],
+    "discussion_triggers": [
+      "好习惯分享",
+      "祛痘经验",
+      "纪录片推荐",
+      "早起方法"
+    ],
+    "sensitive_topics": [
+      "家庭遗憾",
+      "健康危机",
+      "浪费金钱"
+    ],
+    "value_tendencies": [
+      "自律",
+      "实用主义",
+      "家庭至上",
+      "积极向上"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "清单式思维",
+      "分享导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "护肤祛痘",
+        "运动舞蹈",
+        "纪录片"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "分享经历",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "好习惯养成",
+        "score": 90
+      },
+      {
+        "topic": "祛痘护肤",
+        "score": 85
+      },
+      {
+        "topic": "纪录片推荐",
+        "score": 80
+      },
+      {
+        "topic": "运动减肥",
+        "score": 75
+      },
+      {
+        "topic": "早起方法",
+        "score": 70
+      }
+    ],
+    "impression": "一个热爱生活、乐于分享的精致女孩，用亲身经历安利各种好习惯，有点小幽默，但偶尔也流露出对家人的牵挂。"
+  },
+  "analyzed_at": "2026-06-15T22:22:37.034189",
+  "token_usage": 2683
+}

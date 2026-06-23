@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0868",
+  "source": {
+    "title": "甜宠文小说推荐？",
+    "url": "https://www.zhihu.com/question/488963702/answer/2269383580",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-32",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "武馆馆长",
+      "industry": "体育/健身",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "适婚年龄",
+      "事业稳定",
+      "情感空窗"
+    ],
+    "life_experiences": [
+      "青梅竹马暗恋",
+      "相亲失败",
+      "酒后意外发生关系",
+      "与发小同居镇宅",
+      "体校经历"
+    ],
+    "interest_topics": [
+      "甜宠文",
+      "言情小说",
+      "相亲吐槽",
+      "青梅竹马",
+      "健身",
+      "武术"
+    ],
+    "discussion_triggers": [
+      "相亲对象不靠谱",
+      "暗恋发小",
+      "酒后乱性",
+      "被催婚"
+    ],
+    "sensitive_topics": [
+      "年龄焦虑",
+      "婚姻压力",
+      "暗恋无果",
+      "情敌出现"
+    ],
+    "value_tendencies": [
+      "独立自主",
+      "重感情",
+      "口是心非",
+      "好面子",
+      "传统婚恋观"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "幽默自嘲",
+      "细节回忆"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "武术",
+        "健身"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 20,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "获得认同",
+      "表达情感",
+      "寻求建议"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "相亲经历",
+        "score": 90
+      },
+      {
+        "topic": "青梅竹马",
+        "score": 85
+      },
+      {
+        "topic": "酒后故事",
+        "score": 80
+      },
+      {
+        "topic": "甜宠文推荐",
+        "score": 75
+      },
+      {
+        "topic": "被催婚",
+        "score": 70
+      }
+    ],
+    "impression": "一个嘴硬心软、暗恋发小多年却不敢表白的女汉子，用幽默自嘲掩饰内心的脆弱。"
+  },
+  "analyzed_at": "2026-06-15T22:30:40.865542",
+  "token_usage": 4651
+}

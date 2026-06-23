@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0434",
+  "source": {
+    "title": "白嫖Github，100多个一学就会的C/C++项目，都含源码",
+    "url": "https://zhuanlan.zhihu.com/p/444035648",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "在校大学生或初级程序员",
+      "industry": "计算机/互联网",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "求学阶段",
+      "职业起步期"
+    ],
+    "life_experiences": [
+      "自学编程",
+      "参加线上课程",
+      "在GitHub上寻找项目练习"
+    ],
+    "interest_topics": [
+      "C/C++编程",
+      "开源项目",
+      "Linux系统",
+      "网络编程",
+      "游戏开发",
+      "操作系统"
+    ],
+    "discussion_triggers": [
+      "学习资源分享",
+      "项目推荐",
+      "编程入门",
+      "实战项目"
+    ],
+    "sensitive_topics": [
+      "编程语言优劣",
+      "学历与能力"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "开源精神",
+      "技术至上"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "资源整合",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "C/C++基础",
+        "网络编程",
+        "Linux"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 40,
+      "likes_short_answers": 60,
+      "likes_storytelling": 30,
+      "likes_explaining": 40,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享资源",
+      "帮助新手",
+      "获得认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "C/C++学习资源",
+        "score": 90
+      },
+      {
+        "topic": "开源项目推荐",
+        "score": 85
+      },
+      {
+        "topic": "编程入门经验",
+        "score": 80
+      },
+      {
+        "topic": "Linux网络编程",
+        "score": 70
+      },
+      {
+        "topic": "游戏开发",
+        "score": 60
+      }
+    ],
+    "impression": "一个热心分享资源的编程新手，喜欢收集和整理开源项目，乐于帮助他人入门。"
+  },
+  "analyzed_at": "2026-06-15T22:25:33.909765",
+  "token_usage": 4117
+}

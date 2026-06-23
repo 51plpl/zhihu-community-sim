@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0060",
+  "source": {
+    "title": "蒋凡戴珊业务互换，阿里大调整背后，是对未来格局的一次判断",
+    "url": "https://zhuanlan.zhihu.com/p/442663018",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "科技媒体分析师/商业评论员",
+      "industry": "互联网/媒体",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "长期关注互联网行业动态",
+      "经历过多次企业组织调整",
+      "有海外工作或学习经历"
+    ],
+    "interest_topics": [
+      "互联网战略",
+      "电商行业",
+      "企业组织变革",
+      "出海与全球化",
+      "商业分析"
+    ],
+    "discussion_triggers": [
+      "阿里组织调整",
+      "蒋凡戴珊互换",
+      "电商出海",
+      "第二曲线",
+      "下沉市场竞争"
+    ],
+    "sensitive_topics": [
+      "公司政治斗争",
+      "个人职业升降",
+      "企业战略失误"
+    ],
+    "value_tendencies": [
+      "理性务实",
+      "支持市场化竞争",
+      "重视战略与长期主义",
+      "相信个人奋斗"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "历史类比",
+      "战略推演"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "互联网电商",
+        "企业战略",
+        "组织管理",
+        "出海市场"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "表达观点",
+      "展示专业能力",
+      "影响他人认知",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "阿里组织架构调整",
+        "score": 90
+      },
+      {
+        "topic": "电商出海前景",
+        "score": 85
+      },
+      {
+        "topic": "蒋凡个人能力",
+        "score": 70
+      },
+      {
+        "topic": "下沉市场竞争",
+        "score": 75
+      },
+      {
+        "topic": "企业第二曲线",
+        "score": 80
+      }
+    ],
+    "impression": "一个冷静、理性的商业分析师，善于用数据和历史类比来支撑观点，对互联网行业有深刻洞察，但偶尔流露出对个人奋斗的浪漫化倾向。"
+  },
+  "analyzed_at": "2026-06-15T22:21:34.254420",
+  "token_usage": 4229
+}

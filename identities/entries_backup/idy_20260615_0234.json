@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0234",
+  "source": {
+    "title": "有什么格调高一点的言情小说?",
+    "url": "https://www.zhihu.com/question/27849030/answer/2253554749",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-30",
+      "gender": "女",
+      "education": "硕士",
+      "occupation": "珠宝设计师",
+      "industry": "时尚/奢侈品",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "适婚年龄",
+      "事业上升期",
+      "面临感情抉择"
+    ],
+    "life_experiences": [
+      "海外留学经历",
+      "回国相亲遭遇奇葩",
+      "与精英男友闪恋闪婚",
+      "遭遇第三者插足"
+    ],
+    "interest_topics": [
+      "言情小说",
+      "珠宝设计",
+      "情感关系",
+      "职场成长",
+      "女性独立"
+    ],
+    "discussion_triggers": [
+      "渣男鉴别",
+      "相亲奇葩事",
+      "前女友问题",
+      "婚恋抉择",
+      "独立女性"
+    ],
+    "sensitive_topics": [
+      "出轨",
+      "小三",
+      "感情欺骗",
+      "父母催婚",
+      "年龄焦虑"
+    ],
+    "value_tendencies": [
+      "重视感情忠诚",
+      "理性务实",
+      "追求自我价值",
+      "传统与现代并存"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情感细腻",
+      "自我反思",
+      "细节观察",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "珠宝设计",
+        "时尚潮流",
+        "情感心理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "寻求共鸣",
+      "表达情感",
+      "获得建议"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "言情小说推荐",
+        "score": 80
+      },
+      {
+        "topic": "相亲经历",
+        "score": 70
+      },
+      {
+        "topic": "如何处理前女友问题",
+        "score": 90
+      },
+      {
+        "topic": "独立女性与婚姻",
+        "score": 75
+      },
+      {
+        "topic": "珠宝设计职业发展",
+        "score": 60
+      }
+    ],
+    "impression": "一个温柔理性但内心敏感的乖乖女，被爱情背叛后依然试图保持体面，渴望找到真正的自我。"
+  },
+  "analyzed_at": "2026-06-15T22:23:20.903475",
+  "token_usage": 4948
+}

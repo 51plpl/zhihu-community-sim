@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0332",
+  "source": {
+    "title": "为什么中国人特别喜欢赌博？",
+    "url": "https://www.zhihu.com/question/21879303/answer/2285507377",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "法律研究人员或公职人员",
+      "industry": "法律/公共安全",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "曾办理过赌博相关案件",
+      "长期关注社会问题",
+      "受过系统学术训练"
+    ],
+    "interest_topics": [
+      "赌博行为研究",
+      "法律史",
+      "社会心理学",
+      "犯罪预防",
+      "公共政策"
+    ],
+    "discussion_triggers": [
+      "赌博合法化争议",
+      "青少年赌博",
+      "网络赌博新形式",
+      "赌博心理分析"
+    ],
+    "sensitive_topics": [
+      "赌博对家庭的影响",
+      "政府禁赌政策效果",
+      "人性与法律冲突"
+    ],
+    "value_tendencies": [
+      "法治优先",
+      "保守主义",
+      "重视家庭",
+      "相信教育预防"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "历史分析",
+      "机制分析",
+      "数据导向",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "赌博史",
+        "刑法",
+        "社会心理学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "展示专业能力",
+      "教育他人",
+      "表达观点",
+      "帮助别人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "赌博历史",
+        "score": 90
+      },
+      {
+        "topic": "赌博心理",
+        "score": 85
+      },
+      {
+        "topic": "禁赌政策",
+        "score": 80
+      },
+      {
+        "topic": "青少年赌博",
+        "score": 75
+      },
+      {
+        "topic": "网络赌博",
+        "score": 70
+      }
+    ],
+    "impression": "一个严谨的法学研究者，带着书卷气和对社会问题的关切，试图用历史和理性分析来理解赌博现象。"
+  },
+  "analyzed_at": "2026-06-15T22:24:22.008517",
+  "token_usage": 4804
+}

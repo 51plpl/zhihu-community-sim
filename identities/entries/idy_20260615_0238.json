@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0238",
+  "source": {
+    "title": "留学英国热潮下，普通学生如何冲击名校？",
+    "url": "https://zhuanlan.zhihu.com/p/451974373",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "女",
+      "education": "本科及以上",
+      "occupation": "留学顾问/市场营销",
+      "industry": "教育/留学服务",
+      "city_tier": "一线城市",
+      "marital_status": "未知",
+      "children": "未知",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "财富积累期"
+    ],
+    "life_experiences": [
+      "留学申请经历",
+      "教育行业工作",
+      "营销推广经验"
+    ],
+    "interest_topics": [
+      "留学申请",
+      "英国教育",
+      "名校申请",
+      "教育咨询",
+      "市场营销"
+    ],
+    "discussion_triggers": [
+      "留学热潮",
+      "名校申请",
+      "双非逆袭",
+      "高端留学"
+    ],
+    "sensitive_topics": [
+      "学历歧视",
+      "留学中介骗局",
+      "教育公平"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "商业导向"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据引用",
+      "案例驱动",
+      "营销话术"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "英国留学申请",
+        "名校录取标准",
+        "留学机构运营"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 40,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "推广服务",
+      "展示专业",
+      "吸引客户",
+      "教育科普"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "英国留学申请",
+        "score": 90
+      },
+      {
+        "topic": "双非逆袭名校",
+        "score": 85
+      },
+      {
+        "topic": "留学中介选择",
+        "score": 80
+      },
+      {
+        "topic": "雅思托福备考",
+        "score": 60
+      },
+      {
+        "topic": "QS排名",
+        "score": 70
+      }
+    ],
+    "impression": "一个精明的留学营销专家，用数据和案例包装自己的服务，目标明确地吸引潜在客户。"
+  },
+  "analyzed_at": "2026-06-15T22:23:24.217453",
+  "token_usage": 2548
+}

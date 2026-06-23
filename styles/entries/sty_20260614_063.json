@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_063",
+  "source": {
+    "title": "为什么PDF有高质量阅读器，没有高质量编辑器？",
+    "url": "https://www.zhihu.com/question/35973891/answer/2257118140",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "口语化为主，夹杂少量专业术语，用词偏日常。",
+    "sentence_rhythm": "短句为主，节奏明快，偶尔插入长句补充细节。",
+    "favorite_expressions": [
+      "双击屏幕",
+      "点赞收藏关注",
+      "感激不尽",
+      "私戳我",
+      "蹲一波"
+    ],
+    "punctuation_habits": "感叹号使用频繁，逗号密度适中，省略号用于列举，破折号较少。",
+    "person_perspective": "第二人称（你/你们）为主，偶尔切换第一人称（我）。",
+    "emotion_intensity": "中等偏热烈，带有推荐和鼓励的语气。"
+  },
+  "structure": {
+    "opening_pattern": "以提问开头，直接引出主题。",
+    "paragraph_rhythm": "段落长短交替，关键功能点独立成段，使用数字列表和加粗标题。",
+    "argument_logic": "并列型，逐一介绍多款软件，每款独立说明优缺点。",
+    "transition_style": "口语化过渡，使用“往下看”“对了”“最后”等直接跳转。",
+    "closing_pattern": "行动号召，鼓励点赞收藏关注，并附上公众号信息。",
+    "title_pattern": "反常识提问，引发好奇。"
+  },
+  "analyzed_at": "2026-06-14T22:55:33.240663",
+  "token_usage": 2257
+}

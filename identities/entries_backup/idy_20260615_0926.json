@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0926",
+  "source": {
+    "title": "正畸想带隐形矫正，国产与进口选哪个好？",
+    "url": "https://www.zhihu.com/question/67802275/answer/2253420089",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科及以上",
+      "occupation": "医疗健康领域从业者或相关行业编辑",
+      "industry": "医疗/口腔健康",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职业发展期",
+      "关注个人形象与健康"
+    ],
+    "life_experiences": [
+      "自己或身边人做过牙齿矫正",
+      "对医疗美容有研究",
+      "可能从事内容创作或咨询工作"
+    ],
+    "interest_topics": [
+      "口腔健康",
+      "隐形矫正",
+      "医美",
+      "消费决策",
+      "医疗科普"
+    ],
+    "discussion_triggers": [
+      "隐形矫正品牌对比",
+      "医生选择",
+      "性价比医疗",
+      "患者案例分享"
+    ],
+    "sensitive_topics": [
+      "医疗事故",
+      "医生资质",
+      "低价医疗陷阱"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "理性消费",
+      "重视专业资质",
+      "反对过度营销"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验分享",
+      "对比分析",
+      "风险规避",
+      "注重证据"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "口腔正畸",
+        "隐形矫正技术",
+        "医疗决策"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人做决策",
+      "分享专业知识",
+      "展示行业经验",
+      "获得认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "隐形矫正品牌选择",
+        "score": 90
+      },
+      {
+        "topic": "正畸医生资质",
+        "score": 85
+      },
+      {
+        "topic": "牙齿矫正案例分享",
+        "score": 70
+      },
+      {
+        "topic": "医疗消费决策",
+        "score": 65
+      },
+      {
+        "topic": "口腔健康科普",
+        "score": 60
+      }
+    ],
+    "impression": "一个理性务实、乐于分享的口腔健康爱好者，喜欢用案例和经验帮助他人避坑。"
+  },
+  "analyzed_at": "2026-06-15T22:31:23.481348",
+  "token_usage": 2437
+}

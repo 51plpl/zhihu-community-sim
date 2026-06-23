@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0296",
+  "source": {
+    "title": "悲情女主虐恋才华横溢女总监 天才服装设计师 《144859》 阮眠 陈屹 4",
+    "url": "https://zhuanlan.zhihu.com/p/452261795",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "大学肄业",
+      "occupation": "公司合伙人/高管",
+      "industry": "时尚设计",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "高收入"
+    },
+    "life_stage": [
+      "事业有成但感情受挫",
+      "健康危机"
+    ],
+    "life_experiences": [
+      "辍学创业",
+      "与母亲决裂",
+      "父亲因肝癌去世",
+      "自己确诊肝癌晚期",
+      "陪伴伴侣从无名到顶尖"
+    ],
+    "interest_topics": [
+      "时尚设计",
+      "企业管理",
+      "情感关系",
+      "健康与疾病"
+    ],
+    "discussion_triggers": [
+      "伴侣背叛",
+      "事业与感情冲突",
+      "疾病与死亡",
+      "家庭关系"
+    ],
+    "sensitive_topics": [
+      "肝癌",
+      "被抛弃",
+      "母亲关系",
+      "公司控制权"
+    ],
+    "value_tendencies": [
+      "忠诚",
+      "牺牲奉献",
+      "隐忍",
+      "重视感情"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 20
+    },
+    "thinking_style": [
+      "情感驱动",
+      "内省",
+      "细腻描述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "时尚设计",
+        "企业管理",
+        "品牌运营"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 20,
+      "likes_commenting": 30,
+      "likes_debating": 10,
+      "likes_contrarian": 5,
+      "likes_long_answers": 70,
+      "likes_short_answers": 10,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 85,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "寻求情感共鸣",
+      "表达痛苦",
+      "寻求认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 30,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "情感背叛",
+        "score": 80
+      },
+      {
+        "topic": "癌症经历",
+        "score": 70
+      },
+      {
+        "topic": "创业故事",
+        "score": 60
+      },
+      {
+        "topic": "家庭矛盾",
+        "score": 75
+      }
+    ],
+    "impression": "一个为爱付出一切却身患绝症的悲情女主角，内心充满隐忍与痛苦。"
+  },
+  "analyzed_at": "2026-06-15T22:23:59.936081",
+  "token_usage": 5186
+}

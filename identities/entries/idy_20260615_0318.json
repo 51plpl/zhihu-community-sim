@@ -1,0 +1,125 @@
+{
+  "id": "idy_20260615_0318",
+  "source": {
+    "title": "有必要买贵的高景观婴儿车吗？",
+    "url": "https://www.zhihu.com/question/402804113/answer/2014803778",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "母婴产品测评博主或电商运营",
+      "industry": "母婴/电商",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有1个孩子，年龄1-3岁",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "新手父母",
+      "育儿阶段"
+    ],
+    "life_experiences": [
+      "购买和使用过多种婴儿车",
+      "做过大量婴儿车产品调研",
+      "撰写过母婴产品推荐文章"
+    ],
+    "interest_topics": [
+      "婴儿车",
+      "母婴用品",
+      "育儿经验",
+      "产品测评",
+      "省钱攻略"
+    ],
+    "discussion_triggers": [
+      "婴儿车选购",
+      "高景观车vs伞车",
+      "婴儿车品牌推荐",
+      "育儿开销"
+    ],
+    "sensitive_topics": [
+      "婴儿车安全性",
+      "智商税",
+      "过度消费"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "性价比导向",
+      "注重安全",
+      "理性消费"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验总结",
+      "对比分析",
+      "数据导向",
+      "实用建议"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "婴儿车产品知识",
+        "母婴用品测评"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 40,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助他人做决策",
+      "展示专业知识",
+      "获得认可",
+      "推广产品"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "婴儿车选购",
+        "score": 90
+      },
+      {
+        "topic": "高景观车优缺点",
+        "score": 85
+      },
+      {
+        "topic": "婴儿车品牌对比",
+        "score": 80
+      },
+      {
+        "topic": "育儿省钱技巧",
+        "score": 70
+      }
+    ],
+    "impression": "一个热心分享、注重实用的母婴产品达人，语气像邻家姐姐，但带货痕迹明显。"
+  },
+  "analyzed_at": "2026-06-15T22:24:13.492191",
+  "token_usage": 3550
+}

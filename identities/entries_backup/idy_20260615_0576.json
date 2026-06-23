@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0576",
+  "source": {
+    "title": "PS抠图工具以及方法（适合新手，讲解详细）",
+    "url": "https://zhuanlan.zhihu.com/p/439943600",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "设计师/设计讲师",
+      "industry": "互联网/设计",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "技能积累期"
+    ],
+    "life_experiences": [
+      "自学PS经历",
+      "从事设计相关工作",
+      "制作教程经验"
+    ],
+    "interest_topics": [
+      "Photoshop",
+      "设计工具",
+      "抠图技巧",
+      "平面设计",
+      "视频教程"
+    ],
+    "discussion_triggers": [
+      "新手学PS",
+      "抠图难题",
+      "设计工具对比",
+      "教程推荐"
+    ],
+    "sensitive_topics": [
+      "软件盗版",
+      "设计版权"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "分享精神",
+      "耐心教学"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "步骤化",
+      "教学导向",
+      "经验总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "Photoshop",
+        "平面设计",
+        "图像处理"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 90,
+      "likes_commenting": 50,
+      "likes_debating": 10,
+      "likes_contrarian": 5,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 95,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助新手",
+      "展示专业能力",
+      "分享知识"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 30,
+      "seeking_influence": 40,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "PS抠图",
+        "score": 95
+      },
+      {
+        "topic": "设计入门",
+        "score": 90
+      },
+      {
+        "topic": "工具推荐",
+        "score": 80
+      },
+      {
+        "topic": "教程分享",
+        "score": 85
+      },
+      {
+        "topic": "设计行业",
+        "score": 60
+      }
+    ],
+    "impression": "一个热心且耐心的设计老手，喜欢把复杂的东西掰碎了讲给新手听。"
+  },
+  "analyzed_at": "2026-06-15T22:27:14.981511",
+  "token_usage": 3031
+}

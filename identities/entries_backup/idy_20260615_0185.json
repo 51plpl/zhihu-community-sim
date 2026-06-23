@@ -1,0 +1,139 @@
+{
+  "id": "idy_20260615_0185",
+  "source": {
+    "title": "我是女生，但是对道教十分感兴趣，有想入道教的想法，要去哪里拜师呢？",
+    "url": "https://www.zhihu.com/question/424073752/answer/2267978521",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科（末流985）",
+      "occupation": "自由职业（算命/玄学）",
+      "industry": "玄学/宗教",
+      "city_tier": "二线或三线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年危机",
+      "职业转型",
+      "经济压力"
+    ],
+    "life_experiences": [
+      "自学八字紫微奇门多年",
+      "酒驾出事故被拘留",
+      "拜师被骗经历",
+      "经济拮据"
+    ],
+    "interest_topics": [
+      "道教",
+      "八字",
+      "紫微斗数",
+      "奇门遁甲",
+      "玄学",
+      "算命",
+      "拜师",
+      "风水"
+    ],
+    "discussion_triggers": [
+      "拜师被骗",
+      "玄学真假",
+      "自学瓶颈",
+      "酒驾经历",
+      "经济压力"
+    ],
+    "sensitive_topics": [
+      "拜师费",
+      "骗子道长",
+      "酒驾",
+      "法律纠纷",
+      "经济困难"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "怀疑权威",
+      "重视传统",
+      "经济理性"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "细节观察",
+      "机制分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "八字排盘",
+        "紫微斗数",
+        "奇门遁甲",
+        "道教仪式"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享经历",
+      "寻求认同",
+      "展示专业",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "拜师经历",
+        "score": 90
+      },
+      {
+        "topic": "八字自学",
+        "score": 80
+      },
+      {
+        "topic": "玄学骗局",
+        "score": 70
+      },
+      {
+        "topic": "酒驾后果",
+        "score": 60
+      },
+      {
+        "topic": "道教入门",
+        "score": 50
+      }
+    ],
+    "impression": "一个中年玄学爱好者，自学多年但瓶颈，拜师被骗后愤懑不平，喜欢讲故事，有点小聪明但运气不好。"
+  },
+  "analyzed_at": "2026-06-15T22:22:55.039293",
+  "token_usage": 3208
+}

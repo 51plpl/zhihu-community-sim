@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0331",
+  "source": {
+    "title": "【译】NBA高阶数据入门指南",
+    "url": "https://zhuanlan.zhihu.com/p/450075994",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-34",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "数据分析师或相关技术岗位",
+      "industry": "互联网/科技",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏上"
+    },
+    "life_stage": [
+      "职业上升期",
+      "兴趣驱动学习"
+    ],
+    "life_experiences": [
+      "长期关注NBA",
+      "自学数据分析",
+      "翻译过英文技术文章"
+    ],
+    "interest_topics": [
+      "NBA",
+      "篮球高阶数据",
+      "数据分析",
+      "体育统计",
+      "翻译"
+    ],
+    "discussion_triggers": [
+      "NBA球员效率评价",
+      "数据与直觉的冲突",
+      "高阶指标局限性",
+      "篮球战术分析"
+    ],
+    "sensitive_topics": [
+      "数据误用",
+      "专家权威",
+      "传统观念vs新方法"
+    ],
+    "value_tendencies": [
+      "理性分析",
+      "数据驱动",
+      "开放包容",
+      "批判性思维",
+      "重视逻辑"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "数据导向",
+      "机制解释",
+      "批判性思维",
+      "翻译式理解"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "NBA高阶数据",
+        "篮球统计学",
+        "数据分析方法"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助他人理解复杂概念",
+      "展示专业能力",
+      "分享知识",
+      "纠正错误认知"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "NBA高阶数据含义",
+        "score": 90
+      },
+      {
+        "topic": "数据分析方法",
+        "score": 80
+      },
+      {
+        "topic": "篮球战术与数据",
+        "score": 70
+      },
+      {
+        "topic": "翻译技巧",
+        "score": 50
+      }
+    ],
+    "impression": "一个热爱篮球的数据控，致力于用清晰逻辑拆解复杂概念，理性冷静但乐于分享"
+  },
+  "analyzed_at": "2026-06-15T22:24:21.348854",
+  "token_usage": 4385
+}

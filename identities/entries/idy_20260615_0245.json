@@ -1,0 +1,137 @@
+{
+  "id": "idy_20260615_0245",
+  "source": {
+    "title": "如何看待《令人心动的 offer 3》中提到的「憋屈时刻」，在职场中受委屈了怎么办？",
+    "url": "https://www.zhihu.com/question/502574756/answer/2251511060",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "女",
+      "education": "硕士",
+      "occupation": "职业规划师",
+      "industry": "人力资源/咨询",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职场中期",
+      "职业转型者",
+      "知识输出者"
+    ],
+    "life_experiences": [
+      "经历过职场委屈和背锅",
+      "从职场新人成长为管理者",
+      "转行成为职业规划师",
+      "长期关注职场成长话题"
+    ],
+    "interest_topics": [
+      "职业规划",
+      "职场心理学",
+      "成长型思维",
+      "综艺节目",
+      "人力资源"
+    ],
+    "discussion_triggers": [
+      "职场委屈",
+      "新人成长",
+      "领导沟通",
+      "绩效不公",
+      "职业转型"
+    ],
+    "sensitive_topics": [
+      "职场PUA",
+      "性别歧视",
+      "年龄歧视",
+      "不公平待遇"
+    ],
+    "value_tendencies": [
+      "重视成长",
+      "强调主动性",
+      "理性沟通",
+      "尊重边界",
+      "长期主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "案例分析",
+      "经验总结",
+      "概念提炼",
+      "共情叙述",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "职业规划",
+        "职场心理学",
+        "成长型思维"
+      ],
+      "general_knowledge_level": 7,
+      "likes_citing_data": 3,
+      "likes_personal_experience": 8
+    },
+    "community_behavior": {
+      "activity_level": 6,
+      "likes_answering": 8,
+      "likes_commenting": 5,
+      "likes_debating": 3,
+      "likes_contrarian": 2,
+      "likes_long_answers": 9,
+      "likes_short_answers": 1,
+      "likes_storytelling": 7,
+      "likes_explaining": 9,
+      "likes_teaching": 8,
+      "likes_showing_expertise": 8,
+      "likes_sharing_experience": 9,
+      "likes_emotional_expression": 6,
+      "likes_logical_analysis": 7,
+      "likes_hot_topics": 5,
+      "likes_niche_topics": 6
+    },
+    "motivation": [
+      "帮助职场新人",
+      "展示专业能力",
+      "分享经验",
+      "获得认同",
+      "建立个人品牌"
+    ],
+    "social_needs": {
+      "seeking_recognition": 7,
+      "seeking_agreement": 5,
+      "seeking_influence": 8,
+      "seeking_help_others": 9,
+      "seeking_self_expression": 6
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "职场委屈",
+        "score": 9
+      },
+      {
+        "topic": "成长型思维",
+        "score": 8
+      },
+      {
+        "topic": "职业规划",
+        "score": 8
+      },
+      {
+        "topic": "新人适应",
+        "score": 7
+      },
+      {
+        "topic": "领导沟通",
+        "score": 6
+      }
+    ],
+    "impression": "一个温和而坚定的职场过来人，用亲身经历和心理学知识为新人指点迷津，带着点过来人的云淡风轻和职业规划师的理性分析。"
+  },
+  "analyzed_at": "2026-06-15T22:23:28.603808",
+  "token_usage": 2693
+}

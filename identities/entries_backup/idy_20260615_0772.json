@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0772",
+  "source": {
+    "title": "最高院：“股权转让一切费用由受让方承担”的约定不包括税款",
+    "url": "https://zhuanlan.zhihu.com/p/452199836",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "律师",
+      "industry": "法律",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "处理过多起股权转让纠纷",
+      "参与过最高院案例研究",
+      "为高净值客户提供税务筹划"
+    ],
+    "interest_topics": [
+      "公司法",
+      "税法",
+      "股权转让",
+      "司法拍卖",
+      "合同纠纷"
+    ],
+    "discussion_triggers": [
+      "股权转让税费承担",
+      "包税条款效力",
+      "个人所得税转嫁",
+      "实质课税原则"
+    ],
+    "sensitive_topics": [
+      "税务规避",
+      "司法裁判不统一",
+      "税收法定原则"
+    ],
+    "value_tendencies": [
+      "重视法律确定性",
+      "尊重司法权威",
+      "倾向实用主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "案例分析法",
+      "逻辑推理",
+      "注重条文解释"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "公司法",
+        "税法",
+        "民商法"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 70,
+      "likes_contrarian": 40,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 85,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助他人规避风险",
+      "澄清法律误解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "股权转让税费承担",
+        "score": 95
+      },
+      {
+        "topic": "包税条款效力",
+        "score": 90
+      },
+      {
+        "topic": "个人所得税转嫁",
+        "score": 85
+      },
+      {
+        "topic": "实质课税原则",
+        "score": 80
+      },
+      {
+        "topic": "司法拍卖税费",
+        "score": 75
+      }
+    ],
+    "impression": "一个严谨务实、喜欢用案例说话的法律专业人士，对税务问题有深入见解，但偶尔显得过于教条。"
+  },
+  "analyzed_at": "2026-06-15T22:29:32.366653",
+  "token_usage": 4553
+}

@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0959",
+  "source": {
+    "title": "你有什么不愿意告诉另一半的秘密？",
+    "url": "https://www.zhihu.com/question/320425310/answer/2252752373",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-35",
+      "gender": "女",
+      "education": "博士",
+      "occupation": "科研人员或技术岗位",
+      "industry": "学术/科技",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "已婚",
+      "事业稳定期",
+      "回忆青春"
+    ],
+    "life_experiences": [
+      "高中时暗恋学神",
+      "通过努力考上博士",
+      "与高中偶像结婚",
+      "海外留学经历"
+    ],
+    "interest_topics": [
+      "学术研究",
+      "数独",
+      "公路旅行",
+      "星座",
+      "游戏（如量子破碎）"
+    ],
+    "discussion_triggers": [
+      "婚姻中的秘密",
+      "暗恋经历",
+      "学霸故事",
+      "留学趣事"
+    ],
+    "sensitive_topics": [
+      "外貌自卑",
+      "过去的不起眼"
+    ],
+    "value_tendencies": [
+      "重视个人成长",
+      "浪漫主义",
+      "尊重他人兴趣"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "叙事型",
+      "细节回忆",
+      "情感细腻"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "博弈论",
+        "匹配机制",
+        "数独"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享个人故事",
+      "获得共鸣",
+      "表达情感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "婚姻中的秘密",
+        "score": 90
+      },
+      {
+        "topic": "暗恋经历",
+        "score": 85
+      },
+      {
+        "topic": "学霸/学神故事",
+        "score": 80
+      },
+      {
+        "topic": "留学经历",
+        "score": 70
+      },
+      {
+        "topic": "星座与性格",
+        "score": 50
+      }
+    ],
+    "impression": "一个从自卑女孩逆袭的浪漫主义者，用细腻笔触回忆青春暗恋，最终嫁给偶像的幸运儿。"
+  },
+  "analyzed_at": "2026-06-15T22:31:46.862726",
+  "token_usage": 3469
+}

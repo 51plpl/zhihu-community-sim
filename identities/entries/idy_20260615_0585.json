@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0585",
+  "source": {
+    "title": "男老师喜欢自己的女学生会有什么表现？",
+    "url": "https://www.zhihu.com/question/41528872/answer/2264361822",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-28",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生（已毕业）",
+      "industry": "教育/学术",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏下"
+    },
+    "life_stage": [
+      "大学刚毕业",
+      "职场新人",
+      "情感怀旧期"
+    ],
+    "life_experiences": [
+      "暗恋老师五年",
+      "参与科研项目",
+      "毕业论文经历",
+      "面试求职"
+    ],
+    "interest_topics": [
+      "校园暗恋",
+      "师生关系",
+      "个人成长",
+      "情感故事",
+      "回忆录"
+    ],
+    "discussion_triggers": [
+      "暗恋经历",
+      "老师特殊对待",
+      "青春回忆",
+      "单方面付出"
+    ],
+    "sensitive_topics": [
+      "师生恋道德争议",
+      "单恋不被回应",
+      "不被理解的情感"
+    ],
+    "value_tendencies": [
+      "浪漫主义",
+      "忠诚",
+      "自我感动",
+      "占有欲",
+      "怀旧"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情感表达",
+      "细节回忆",
+      "自我反思"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "理工科专业",
+        "项目管理"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 30,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "表达情感",
+      "获得认同",
+      "自我疗愈"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 30,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "暗恋经历",
+        "score": 90
+      },
+      {
+        "topic": "师生关系",
+        "score": 80
+      },
+      {
+        "topic": "青春回忆",
+        "score": 85
+      },
+      {
+        "topic": "情感困惑",
+        "score": 70
+      },
+      {
+        "topic": "大学经历",
+        "score": 75
+      }
+    ],
+    "impression": "一个沉浸在青春暗恋回忆中的感性女孩，细腻敏感，喜欢用故事表达自己，带着淡淡的遗憾和执着。"
+  },
+  "analyzed_at": "2026-06-15T22:27:20.954916",
+  "token_usage": 4820
+}

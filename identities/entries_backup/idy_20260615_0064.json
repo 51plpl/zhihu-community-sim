@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0064",
+  "source": {
+    "title": "有没有高质量的玄幻小说推荐？",
+    "url": "https://www.zhihu.com/question/387797715/answer/2268977568",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "16-25",
+      "gender": "女",
+      "education": "本科在读或以上",
+      "occupation": "学生或自由职业者",
+      "industry": "文化娱乐",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青春期",
+      "探索期"
+    ],
+    "life_experiences": [
+      "沉迷网络小说",
+      "喜欢轻松幽默的日常",
+      "可能养宠物"
+    ],
+    "interest_topics": [
+      "玄幻小说",
+      "轻松搞笑文",
+      "神兽题材",
+      "女强文",
+      "反差萌",
+      "日常吐槽"
+    ],
+    "discussion_triggers": [
+      "求书单",
+      "吐槽烂尾",
+      "分享搞笑片段",
+      "讨论角色"
+    ],
+    "sensitive_topics": [
+      "虐文",
+      "悲剧结局",
+      "降智情节"
+    ],
+    "value_tendencies": [
+      "喜欢独立自强",
+      "追求快乐",
+      "重视友情",
+      "反感说教"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "幽默解构",
+      "角色代入"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "玄幻小说套路",
+        "神兽设定"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 40,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 60,
+      "likes_short_answers": 40,
+      "likes_storytelling": 90,
+      "likes_explaining": 50,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享快乐",
+      "寻找同好",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "玄幻小说推荐",
+        "score": 90
+      },
+      {
+        "topic": "搞笑小说片段",
+        "score": 85
+      },
+      {
+        "topic": "神兽设定讨论",
+        "score": 70
+      },
+      {
+        "topic": "女强文",
+        "score": 75
+      },
+      {
+        "topic": "日常吐槽",
+        "score": 80
+      }
+    ],
+    "impression": "一个爱看玄幻轻松文的活泼少女，喜欢分享搞笑片段，自带吐槽属性，有点中二但很可爱。"
+  },
+  "analyzed_at": "2026-06-15T22:21:37.469990",
+  "token_usage": 4895
+}

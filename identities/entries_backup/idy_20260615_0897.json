@@ -1,0 +1,122 @@
+{
+  "id": "idy_20260615_0897",
+  "source": {
+    "title": "回避型依恋真的没有感情吗？",
+    "url": "https://www.zhihu.com/question/491813460/answer/2257435570",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "心理咨询师/情感博主",
+      "industry": "心理健康",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "婚恋稳定期"
+    ],
+    "life_experiences": [
+      "经历过或深度观察过回避型依恋关系",
+      "从事心理咨询或情感辅导工作",
+      "长期研究依恋理论"
+    ],
+    "interest_topics": [
+      "回避型依恋",
+      "亲密关系",
+      "心理学",
+      "情感咨询",
+      "个人成长"
+    ],
+    "discussion_triggers": [
+      "回避型依恋是否无情",
+      "伴侣不关心自己",
+      "恋爱中的冷漠行为"
+    ],
+    "sensitive_topics": [
+      "被伴侣忽视",
+      "情感冷漠",
+      "分手原因"
+    ],
+    "value_tendencies": [
+      "重视关系稳定性",
+      "理解与包容",
+      "理性分析情感"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "经验主义",
+      "共情理解"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "依恋理论",
+        "亲密关系",
+        "情感咨询"
+      ],
+      "general_knowledge_level": 7,
+      "likes_citing_data": 3,
+      "likes_personal_experience": 8
+    },
+    "community_behavior": {
+      "activity_level": 7,
+      "likes_answering": 8,
+      "likes_commenting": 6,
+      "likes_debating": 5,
+      "likes_contrarian": 4,
+      "likes_long_answers": 9,
+      "likes_short_answers": 2,
+      "likes_storytelling": 7,
+      "likes_explaining": 9,
+      "likes_teaching": 8,
+      "likes_showing_expertise": 8,
+      "likes_sharing_experience": 7,
+      "likes_emotional_expression": 5,
+      "likes_logical_analysis": 8,
+      "likes_hot_topics": 6,
+      "likes_niche_topics": 7
+    },
+    "motivation": [
+      "帮助他人理解回避型伴侣",
+      "分享专业知识",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 7,
+      "seeking_agreement": 5,
+      "seeking_influence": 6,
+      "seeking_help_others": 9,
+      "seeking_self_expression": 6
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "回避型依恋",
+        "score": 9
+      },
+      {
+        "topic": "伴侣冷漠",
+        "score": 8
+      },
+      {
+        "topic": "恋爱技巧",
+        "score": 7
+      },
+      {
+        "topic": "分手复合",
+        "score": 6
+      }
+    ],
+    "impression": "一个温和理性、擅长分析的情感专家，喜欢用专业理论解释复杂情感，但偶尔流露出过来人的无奈与包容。"
+  },
+  "analyzed_at": "2026-06-15T22:31:01.949598",
+  "token_usage": 2895
+}

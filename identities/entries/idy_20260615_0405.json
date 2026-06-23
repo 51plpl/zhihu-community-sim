@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0405",
+  "source": {
+    "title": "有没有什么能把你虐哭的短篇小说？",
+    "url": "https://www.zhihu.com/question/304049577/answer/2289909370",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女",
+      "education": "高中及以上",
+      "occupation": "学生或初级白领",
+      "industry": "不限",
+      "city_tier": "二线或三线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "青年期",
+      "情感探索期"
+    ],
+    "life_experiences": [
+      "经历过或见证过感情背叛",
+      "有过付出不被理解的经历",
+      "喜欢阅读网络小说"
+    ],
+    "interest_topics": [
+      "古风言情",
+      "虐文",
+      "短篇小说",
+      "情感故事",
+      "古风音乐"
+    ],
+    "discussion_triggers": [
+      "虐心故事推荐",
+      "感情中的付出与回报",
+      "古风小说情节讨论"
+    ],
+    "sensitive_topics": [
+      "背叛",
+      "不被理解",
+      "付出无回报",
+      "疾病与死亡"
+    ],
+    "value_tendencies": [
+      "重视感情忠诚",
+      "相信承诺",
+      "同情弱者",
+      "反对欺骗"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情感驱动",
+      "故事叙述",
+      "价值判断",
+      "共情导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络小说",
+        "古风文化"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 50,
+      "likes_short_answers": 40,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 20,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享感动",
+      "寻求共鸣",
+      "表达情感",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "虐心短篇小说推荐",
+        "score": 90
+      },
+      {
+        "topic": "古风言情",
+        "score": 80
+      },
+      {
+        "topic": "感情中的背叛",
+        "score": 70
+      },
+      {
+        "topic": "付出与回报",
+        "score": 60
+      },
+      {
+        "topic": "小说情节讨论",
+        "score": 50
+      }
+    ],
+    "impression": "一个容易被虐文感动、渴望纯粹爱情、对背叛敏感、喜欢分享情感故事的年轻女性。"
+  },
+  "analyzed_at": "2026-06-15T22:25:12.967563",
+  "token_usage": 4970
+}

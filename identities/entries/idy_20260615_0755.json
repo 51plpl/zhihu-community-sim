@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0755",
+  "source": {
+    "title": "职业运动员究竟有多厉害？",
+    "url": "https://www.zhihu.com/question/274958537/answer/2290673640",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "体育编辑/记者或体育爱好者",
+      "industry": "媒体/体育",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "兴趣探索期"
+    ],
+    "life_experiences": [
+      "曾参与体育竞技或校队",
+      "对历史感兴趣，尤其是体育史",
+      "关注中国体育发展"
+    ],
+    "interest_topics": [
+      "体育史",
+      "清华体育传统",
+      "职业运动员能力",
+      "中国体育教育",
+      "历史人物与体育"
+    ],
+    "discussion_triggers": [
+      "职业运动员与普通人的差距",
+      "清华体育传统",
+      "中国足球批评",
+      "历史体育标准"
+    ],
+    "sensitive_topics": [
+      "中国足球现状",
+      "体育与教育关系",
+      "职业运动员待遇"
+    ],
+    "value_tendencies": [
+      "重视历史传承",
+      "尊重专业",
+      "强调体育精神",
+      "理性讨论"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "历史比较",
+      "数据引用",
+      "案例分析",
+      "理性分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中国近代体育史",
+        "清华校史",
+        "运动训练"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享知识",
+      "纠正误解",
+      "展示专业",
+      "引发思考"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "清华体育传统",
+        "score": 90
+      },
+      {
+        "topic": "职业运动员能力",
+        "score": 80
+      },
+      {
+        "topic": "中国足球",
+        "score": 70
+      },
+      {
+        "topic": "历史体育标准",
+        "score": 85
+      },
+      {
+        "topic": "体育教育",
+        "score": 75
+      }
+    ],
+    "impression": "一个热爱体育历史、善于用史料说话的知识型体育迷，理性中带着对传统的敬意。"
+  },
+  "analyzed_at": "2026-06-15T22:29:20.623311",
+  "token_usage": 4045
+}

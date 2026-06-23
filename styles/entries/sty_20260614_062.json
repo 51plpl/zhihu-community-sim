@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_062",
+  "source": {
+    "title": "体制内残酷真相（写给年轻的你）",
+    "url": "https://zhuanlan.zhihu.com/p/448512674",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "口语化为主，夹杂少量书面语和专业术语，用词偏日常。",
+    "sentence_rhythm": "短句为主，节奏明快，偶尔使用长句补充说明。",
+    "favorite_expressions": [
+      "哈哈哈",
+      "其实",
+      "一定",
+      "别",
+      "注意"
+    ],
+    "punctuation_habits": "逗号密度高，感叹号使用频繁，省略号偶尔出现，破折号较少。",
+    "person_perspective": "第二人称“你”贯穿全文，偶尔切换为第一人称“我”举例。",
+    "emotion_intensity": "中等，带有劝诫和分享的语调，偶尔流露无奈或调侃。"
+  },
+  "structure": {
+    "opening_pattern": "直接亮观点，以标题和首句点明主题。",
+    "paragraph_rhythm": "段落短小，多为独立成句或两三句一段，关键句常单独成段。",
+    "argument_logic": "并列型，以条目式列举经验，每条独立论证。",
+    "transition_style": "直接跳转，条目间无连接词，依靠序号过渡。",
+    "closing_pattern": "行动号召与金句结合，如“放平心态，淡看云起云灭”。",
+    "title_pattern": "痛点加直给，如“体制内残酷真相（写给年轻的你）”。"
+  },
+  "analyzed_at": "2026-06-14T22:55:32.911859",
+  "token_usage": 3176
+}

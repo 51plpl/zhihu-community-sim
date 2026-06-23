@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0586",
+  "source": {
+    "title": "看了鹿道森的遗书，你有什么感想？",
+    "url": "https://www.zhihu.com/question/502824997/answer/2254713195",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-40",
+      "gender": "女",
+      "education": "本科及以上",
+      "occupation": "心理咨询师或心理领域写作者",
+      "industry": "心理健康/教育",
+      "city_tier": "一二线城市",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "自我探索期"
+    ],
+    "life_experiences": [
+      "经历过原生家庭困扰",
+      "接受过心理咨询或自我疗愈",
+      "帮助过他人走出原生家庭阴影"
+    ],
+    "interest_topics": [
+      "原生家庭",
+      "心理学",
+      "自我成长",
+      "亲子关系",
+      "社会议题"
+    ],
+    "discussion_triggers": [
+      "原生家庭伤害",
+      "自杀事件",
+      "父母与子女关系",
+      "自我疗愈方法"
+    ],
+    "sensitive_topics": [
+      "原生家庭创伤",
+      "自杀",
+      "父母责任",
+      "性别歧视"
+    ],
+    "value_tendencies": [
+      "重视个人成长",
+      "倡导自我负责",
+      "理性看待原生家庭",
+      "强调心理韧性"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "经验主义",
+      "共情导向",
+      "逻辑论证"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "心理学",
+        "原生家庭研究",
+        "心理咨询"
+      ],
+      "general_knowledge_level": 75,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人",
+      "分享专业见解",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "原生家庭创伤",
+        "score": 90
+      },
+      {
+        "topic": "自我疗愈方法",
+        "score": 85
+      },
+      {
+        "topic": "亲子关系",
+        "score": 70
+      },
+      {
+        "topic": "社会热点事件",
+        "score": 60
+      }
+    ],
+    "impression": "一个经历过原生家庭伤痛、通过自我成长成为疗愈者的心理咨询师，理性中带着温暖，善于用案例和故事启发他人。"
+  },
+  "analyzed_at": "2026-06-15T22:27:21.978363",
+  "token_usage": 4649
+}

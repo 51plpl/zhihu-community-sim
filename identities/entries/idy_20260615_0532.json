@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0532",
+  "source": {
+    "title": "80%中国人都缺维生素？你到底缺哪种？",
+    "url": "https://zhuanlan.zhihu.com/p/443946915",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "健康领域内容创作者或营养师",
+      "industry": "健康/营养/自媒体",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等偏上"
+    },
+    "life_stage": [
+      "关注家庭健康",
+      "职业稳定期",
+      "注重自我提升"
+    ],
+    "life_experiences": [
+      "曾因不良饮食导致健康问题",
+      "通过食补改善体质",
+      "有育儿经验"
+    ],
+    "interest_topics": [
+      "营养学",
+      "健康饮食",
+      "维生素补充",
+      "中医食疗",
+      "育儿健康"
+    ],
+    "discussion_triggers": [
+      "维生素缺乏症状",
+      "食补方法",
+      "保健品争议",
+      "儿童营养"
+    ],
+    "sensitive_topics": [
+      "保健品过度营销",
+      "极端饮食法",
+      "伪科学养生"
+    ],
+    "value_tendencies": [
+      "科学主义",
+      "实用主义",
+      "温和传统"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "基础营养学",
+        "维生素功能",
+        "食物成分"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "分享有用知识",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "维生素缺乏症状",
+        "score": 90
+      },
+      {
+        "topic": "食补方法",
+        "score": 85
+      },
+      {
+        "topic": "保健品选择",
+        "score": 70
+      },
+      {
+        "topic": "儿童营养",
+        "score": 75
+      },
+      {
+        "topic": "皮肤问题与营养",
+        "score": 65
+      }
+    ],
+    "impression": "一个热心科普、注重实用的健康达人，语气亲切，像邻家姐姐一样耐心讲解"
+  },
+  "analyzed_at": "2026-06-15T22:26:43.229455",
+  "token_usage": 2784
+}

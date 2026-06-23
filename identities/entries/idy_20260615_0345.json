@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0345",
+  "source": {
+    "title": "在一起的第一个圣诞节，送什么礼物好啊？",
+    "url": "https://www.zhihu.com/question/358738988/answer/2253028921",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "礼物推荐博主/内容创作者",
+      "industry": "自媒体/电商",
+      "city_tier": "二线或三线",
+      "marital_status": "恋爱中",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "年轻职场人",
+      "恋爱初期"
+    ],
+    "life_experiences": [
+      "有过送礼焦虑",
+      "经常为节日礼物做功课",
+      "关注生活品质"
+    ],
+    "interest_topics": [
+      "礼物推荐",
+      "情侣关系",
+      "生活好物",
+      "美妆",
+      "数码产品",
+      "酒类"
+    ],
+    "discussion_triggers": [
+      "圣诞节礼物",
+      "纪念日礼物",
+      "送男朋友什么",
+      "送女朋友什么"
+    ],
+    "sensitive_topics": [
+      "礼物价格攀比",
+      "直男审美"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "浪漫主义",
+      "注重仪式感"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "产品对比",
+      "情感驱动"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "礼物挑选",
+        "生活好物评测"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 40,
+      "likes_debating": 10,
+      "likes_contrarian": 5,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助别人选礼物",
+      "展示专业推荐能力",
+      "获得认同和关注"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "圣诞节礼物",
+        "score": 95
+      },
+      {
+        "topic": "送女朋友礼物",
+        "score": 85
+      },
+      {
+        "topic": "送男朋友礼物",
+        "score": 80
+      },
+      {
+        "topic": "投影仪推荐",
+        "score": 70
+      },
+      {
+        "topic": "果酒推荐",
+        "score": 60
+      }
+    ],
+    "impression": "一个热情洋溢、乐于分享的礼物达人，语气亲切，像邻家姐姐一样细心推荐，但偶尔显得有点营销感。"
+  },
+  "analyzed_at": "2026-06-15T22:24:30.833203",
+  "token_usage": 2857
+}

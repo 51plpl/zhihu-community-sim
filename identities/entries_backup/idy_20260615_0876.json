@@ -1,0 +1,139 @@
+{
+  "id": "idy_20260615_0876",
+  "source": {
+    "title": "为了考研5点起床，他们却嘲笑我是“卷王”",
+    "url": "https://zhuanlan.zhihu.com/p/449162008",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科及以上",
+      "occupation": "内容编辑/媒体从业者",
+      "industry": "媒体/文化",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场新人",
+      "考研经历者",
+      "从学生到社会人的过渡期"
+    ],
+    "life_experiences": [
+      "经历过考研备考",
+      "大学室友关系摩擦",
+      "被贴过‘卷王’标签或目睹过",
+      "在高考大省竞争环境中成长"
+    ],
+    "interest_topics": [
+      "考研",
+      "教育公平",
+      "社会竞争",
+      "青年焦虑",
+      "内卷与反内卷",
+      "大学生活",
+      "个人成长"
+    ],
+    "discussion_triggers": [
+      "考研复习被嘲讽",
+      "室友关系中的竞争",
+      "‘卷王’标签的滥用",
+      "教育资源分配",
+      "努力是否值得"
+    ],
+    "sensitive_topics": [
+      "内卷",
+      "努力被污名化",
+      "高考大省压力",
+      "保研/考研竞争",
+      "家庭期望"
+    ],
+    "value_tendencies": [
+      "尊重个人努力",
+      "反对标签化",
+      "理解焦虑但不认同嘲讽",
+      "强调自我负责",
+      "批判无效内卷但肯定有效奋斗"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 55
+    },
+    "thinking_style": [
+      "共情分析",
+      "批判性反思",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "教育话题",
+        "青年文化",
+        "社会心理学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "分享经历",
+      "帮助他人理解",
+      "反驳偏见",
+      "寻求认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "考研备考经历",
+        "score": 90
+      },
+      {
+        "topic": "室友关系中的内卷",
+        "score": 85
+      },
+      {
+        "topic": "‘卷王’标签是否合理",
+        "score": 80
+      },
+      {
+        "topic": "教育公平与竞争",
+        "score": 75
+      },
+      {
+        "topic": "努力被嘲讽的感受",
+        "score": 85
+      }
+    ],
+    "impression": "一个经历过考研和职场打磨的温和反思者，对‘卷王’标签有切身体会，既理解焦虑又坚持为努力正名，带着过来人的包容和一点点无奈。"
+  },
+  "analyzed_at": "2026-06-15T22:30:47.561790",
+  "token_usage": 4362
+}

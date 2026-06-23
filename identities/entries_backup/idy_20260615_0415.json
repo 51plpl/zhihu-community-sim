@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0415",
+  "source": {
+    "title": "你们的网恋奔现翻车了吗?",
+    "url": "https://www.zhihu.com/question/377637754/answer/2280362442",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-30",
+      "gender": "女",
+      "education": "硕士在读",
+      "occupation": "创业者/程序员/学生",
+      "industry": "互联网/餐饮",
+      "city_tier": "一线",
+      "marital_status": "恋爱中",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "创业初期",
+      "留学深造",
+      "恋爱稳定期"
+    ],
+    "life_experiences": [
+      "高中开始创业",
+      "985本科计算机",
+      "跨专业读商科硕士",
+      "网恋奔现成功",
+      "与高学历伴侣相处"
+    ],
+    "interest_topics": [
+      "创业",
+      "程序员",
+      "留学",
+      "恋爱",
+      "大数据"
+    ],
+    "discussion_triggers": [
+      "网恋奔现",
+      "程序员恋爱",
+      "跨专业留学",
+      "创业经历"
+    ],
+    "sensitive_topics": [
+      "感情中的冷暴力",
+      "学历差距",
+      "伴侣欺骗"
+    ],
+    "value_tendencies": [
+      "重视感情中的主动和沟通",
+      "欣赏高智商伴侣",
+      "独立自主",
+      "务实浪漫"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情感表达",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "计算机科学",
+        "创业管理",
+        "大数据"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 50,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "展示专业能力",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "网恋奔现",
+        "score": 90
+      },
+      {
+        "topic": "程序员恋爱",
+        "score": 80
+      },
+      {
+        "topic": "创业经历",
+        "score": 70
+      },
+      {
+        "topic": "留学申请",
+        "score": 60
+      }
+    ],
+    "impression": "一个自信、主动、有点小虚荣但真实的创业女生，喜欢分享自己的甜蜜故事，也乐于展示自己的优秀。"
+  },
+  "analyzed_at": "2026-06-15T22:25:20.158644",
+  "token_usage": 2518
+}

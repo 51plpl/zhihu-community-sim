@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0561",
+  "source": {
+    "title": "基础篇 | Spin-exchange Optical Pumping Chap3. 自旋极化交换",
+    "url": "https://zhuanlan.zhihu.com/p/440704926",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "博士在读或博士",
+      "occupation": "研究生/科研人员",
+      "industry": "量子物理/原子物理",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "学术研究生涯早期",
+      "专注科研"
+    ],
+    "life_experiences": [
+      "长期从事原子物理实验",
+      "熟悉光泵浦技术",
+      "曾撰写系列技术文章"
+    ],
+    "interest_topics": [
+      "量子物理",
+      "原子物理",
+      "光泵浦",
+      "自旋极化交换",
+      "核磁共振成像",
+      "SERF陀螺仪"
+    ],
+    "discussion_triggers": [
+      "自旋交换机制",
+      "速率方程推导",
+      "实验数据对比",
+      "技术应用"
+    ],
+    "sensitive_topics": [
+      "学术不端",
+      "实验数据造假",
+      "理论争议"
+    ],
+    "value_tendencies": [
+      "崇尚科学理性",
+      "重视实证",
+      "追求精确",
+      "乐于分享知识"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑推导",
+      "机制分析",
+      "数据导向",
+      "系统思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "原子物理",
+        "量子光学",
+        "自旋动力学"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 20,
+      "likes_niche_topics": 90
+    },
+    "motivation": [
+      "分享专业知识",
+      "帮助他人理解复杂概念",
+      "展示学术能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "自旋交换机制",
+        "score": 95
+      },
+      {
+        "topic": "速率方程推导",
+        "score": 90
+      },
+      {
+        "topic": "实验数据对比",
+        "score": 80
+      },
+      {
+        "topic": "光泵浦技术",
+        "score": 85
+      }
+    ],
+    "impression": "一个严谨的物理研究者，热衷于用公式和图表解释复杂过程，但偶尔会假设读者已有一定基础。"
+  },
+  "analyzed_at": "2026-06-15T22:27:03.519213",
+  "token_usage": 3443
+}

@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0768",
+  "source": {
+    "title": "出国留学我需要准备什么？",
+    "url": "https://www.zhihu.com/question/287411463/answer/2250764779",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-34",
+      "gender": "女性",
+      "education": "硕士",
+      "occupation": "留学顾问或教育自媒体运营",
+      "industry": "教育/留学服务",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "留学归国",
+      "职场初期",
+      "内容创作者"
+    ],
+    "life_experiences": [
+      "美国留学经历",
+      "办理F1签证",
+      "租房和适应海外生活",
+      "疫情期间返校"
+    ],
+    "interest_topics": [
+      "美国留学",
+      "签证政策",
+      "留学生活",
+      "疫情动态",
+      "教育资讯"
+    ],
+    "discussion_triggers": [
+      "留学准备",
+      "签证办理",
+      "租房攻略",
+      "行前清单"
+    ],
+    "sensitive_topics": [
+      "签证被拒",
+      "疫情隔离",
+      "种族歧视"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "信息共享",
+      "谨慎规划",
+      "适应变化"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验总结",
+      "步骤化指导",
+      "细节关注",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "美国留学申请",
+        "签证流程",
+        "行前准备",
+        "留学生活"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "帮助他人",
+      "分享经验",
+      "建立专业形象",
+      "获得认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "美国留学行前准备",
+        "score": 90
+      },
+      {
+        "topic": "签证办理流程",
+        "score": 85
+      },
+      {
+        "topic": "租房注意事项",
+        "score": 70
+      },
+      {
+        "topic": "疫情下留学生活",
+        "score": 75
+      },
+      {
+        "topic": "疫苗证明",
+        "score": 60
+      }
+    ],
+    "impression": "一个热心细致的留学过来人，乐于分享干货，但偶尔显得有点啰嗦和模板化。"
+  },
+  "analyzed_at": "2026-06-15T22:29:30.535857",
+  "token_usage": 3338
+}

@@ -1,0 +1,125 @@
+{
+  "id": "idy_20260615_0720",
+  "source": {
+    "title": "Ipad Pro 2022什么时候发布，有人知道吗？",
+    "url": "https://www.zhihu.com/question/506100887/answer/2279324428",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "IT从业者或数码爱好者",
+      "industry": "科技/互联网",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中等偏上"
+    },
+    "life_stage": [
+      "成家立业",
+      "消费理性化"
+    ],
+    "life_experiences": [
+      "多次购买iPad后闲置",
+      "被新品发布节奏困扰",
+      "帮妻子选择设备"
+    ],
+    "interest_topics": [
+      "iPad",
+      "苹果产品",
+      "平板电脑",
+      "数码产品性价比",
+      "消费电子"
+    ],
+    "discussion_triggers": [
+      "iPad发布时间",
+      "追新是否值得",
+      "iPad Pro vs Air vs mini",
+      "配件推荐"
+    ],
+    "sensitive_topics": [
+      "新品溢价",
+      "苹果产品定价",
+      "消费主义"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "性价比优先",
+      "反对盲目追新",
+      "重视用户体验"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验分享",
+      "数据对比",
+      "实用导向",
+      "细节分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "iPad产品线",
+        "苹果生态",
+        "平板配件"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经验帮助他人",
+      "展示数码知识",
+      "表达实用主义观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "iPad选购建议",
+        "score": 90
+      },
+      {
+        "topic": "苹果产品发布时间",
+        "score": 70
+      },
+      {
+        "topic": "平板配件推荐",
+        "score": 80
+      },
+      {
+        "topic": "数码产品性价比",
+        "score": 75
+      }
+    ],
+    "impression": "一个被苹果产品迭代伤过心但依然热心的数码老司机，用亲身经历劝人理性消费。"
+  },
+  "analyzed_at": "2026-06-15T22:28:57.150696",
+  "token_usage": 3376
+}

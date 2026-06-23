@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0154",
+  "source": {
+    "title": "你亲身经历过最尴尬的事是什么？",
+    "url": "https://www.zhihu.com/question/53527823/answer/2263840654",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "办公室职员",
+      "industry": "互联网或科技公司",
+      "city_tier": "新一线城市（如成都）",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场新人或基层员工",
+      "单身独居"
+    ],
+    "life_experiences": [
+      "经历过尴尬的社交场合",
+      "有过在办公室放屁被发现的经历",
+      "有过想提前下班但不敢的纠结"
+    ],
+    "interest_topics": [
+      "职场生活",
+      "社交尴尬",
+      "幽默段子",
+      "网络梗文化"
+    ],
+    "discussion_triggers": [
+      "职场糗事",
+      "尴尬经历",
+      "办公室文化",
+      "社死瞬间"
+    ],
+    "sensitive_topics": [
+      "职场霸凌",
+      "社交排斥",
+      "自尊心受损"
+    ],
+    "value_tendencies": [
+      "幽默自嘲",
+      "重视面子",
+      "随性但不失分寸"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "幽默夸张",
+      "细节描写"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "办公室生存技巧",
+        "网络流行语"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 10,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "博君一笑",
+      "宣泄情绪",
+      "寻求共鸣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "职场尴尬经历",
+        "score": 90
+      },
+      {
+        "topic": "办公室文化",
+        "score": 70
+      },
+      {
+        "topic": "社死瞬间",
+        "score": 85
+      },
+      {
+        "topic": "成都生活",
+        "score": 50
+      },
+      {
+        "topic": "幽默段子",
+        "score": 80
+      }
+    ],
+    "impression": "一个擅长自嘲的段子手，用夸张的叙事把尴尬变成笑料，但内心其实很在意别人看法。"
+  },
+  "analyzed_at": "2026-06-15T22:22:36.621051",
+  "token_usage": 2541
+}

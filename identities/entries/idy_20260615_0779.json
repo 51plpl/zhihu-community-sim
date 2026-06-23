@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0779",
+  "source": {
+    "title": "证实深度学习：Evidential Deep Learning to Quantify Classification Uncertainty",
+    "url": "https://zhuanlan.zhihu.com/p/445915367",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "博士在读或硕士毕业",
+      "occupation": "研究生或AI研究员",
+      "industry": "人工智能/机器学习",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "学术研究期",
+      "职业早期"
+    ],
+    "life_experiences": [
+      "深度学习课程项目",
+      "阅读大量论文",
+      "复现论文代码"
+    ],
+    "interest_topics": [
+      "深度学习",
+      "不确定性量化",
+      "贝叶斯神经网络",
+      "证据理论",
+      "分类器鲁棒性"
+    ],
+    "discussion_triggers": [
+      "softmax的缺陷",
+      "模型不确定性",
+      "对抗攻击",
+      "论文复现"
+    ],
+    "sensitive_topics": [
+      "softmax的局限性",
+      "贝叶斯方法的计算成本"
+    ],
+    "value_tendencies": [
+      "重视理论严谨性",
+      "追求实用效果",
+      "对数学推导有耐心"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "逻辑推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "深度学习",
+        "不确定性估计",
+        "概率图模型"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 10,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享知识",
+      "展示专业能力",
+      "帮助他人理解复杂概念"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "深度学习中的不确定性",
+        "score": 90
+      },
+      {
+        "topic": "贝叶斯神经网络",
+        "score": 85
+      },
+      {
+        "topic": "证据理论",
+        "score": 80
+      },
+      {
+        "topic": "softmax替代方案",
+        "score": 75
+      },
+      {
+        "topic": "论文代码复现",
+        "score": 70
+      }
+    ],
+    "impression": "一个沉浸在学术细节中的研究者，喜欢用数学语言解释模型，对softmax的缺点耿耿于怀。"
+  },
+  "analyzed_at": "2026-06-15T22:29:37.167402",
+  "token_usage": 4130
+}

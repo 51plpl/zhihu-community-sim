@@ -1,0 +1,139 @@
+{
+  "id": "idy_20260615_0425",
+  "source": {
+    "title": "想拥有自己说了算的人生，必须要有的三层智慧",
+    "url": "https://zhuanlan.zhihu.com/p/446507621",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "商业顾问/企业高管/创业者",
+      "industry": "商业咨询/教育培训/互联网",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭稳定期",
+      "自我实现期"
+    ],
+    "life_experiences": [
+      "创业经历",
+      "职场晋升",
+      "跨行业转型",
+      "长期主义实践"
+    ],
+    "interest_topics": [
+      "商业洞察",
+      "个人成长",
+      "心理学",
+      "博弈论",
+      "长期主义",
+      "人生哲学"
+    ],
+    "discussion_triggers": [
+      "职业选择",
+      "职场博弈",
+      "长期与短期利益",
+      "人生智慧",
+      "成功与幸福"
+    ],
+    "sensitive_topics": [
+      "职场不公",
+      "短期投机",
+      "缺乏远见",
+      "放弃选择权"
+    ],
+    "value_tendencies": [
+      "长期主义",
+      "共赢思维",
+      "感恩",
+      "主动选择",
+      "自我负责"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "案例引用",
+      "故事叙述",
+      "价值判断",
+      "经验总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "商业战略",
+        "管理咨询",
+        "博弈论",
+        "心理学"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人成长",
+      "展示专业能力",
+      "分享经验",
+      "传播价值观",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "职业规划",
+        "score": 90
+      },
+      {
+        "topic": "长期主义",
+        "score": 95
+      },
+      {
+        "topic": "博弈策略",
+        "score": 85
+      },
+      {
+        "topic": "人生选择",
+        "score": 90
+      },
+      {
+        "topic": "创业心得",
+        "score": 80
+      }
+    ],
+    "impression": "一个经历过职场与创业洗礼的智者，理性中带着温情，喜欢用故事和案例传递人生智慧，像个温和的导师。"
+  },
+  "analyzed_at": "2026-06-15T22:25:27.098354",
+  "token_usage": 3699
+}

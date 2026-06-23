@@ -1,0 +1,139 @@
+{
+  "id": "idy_20260615_0004",
+  "source": {
+    "title": "百事可乐，一罐支持音乐梦想的快乐水",
+    "url": "https://zhuanlan.zhihu.com/p/445658088",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "市场/广告/传媒从业者",
+      "industry": "广告/传媒/娱乐",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "青年",
+      "职业发展期",
+      "单身"
+    ],
+    "life_experiences": [
+      "童年热爱音乐和表演",
+      "受迈克尔·杰克逊影响",
+      "关注流行文化",
+      "参与过校园音乐活动"
+    ],
+    "interest_topics": [
+      "音乐",
+      "流行文化",
+      "迪士尼",
+      "百事可乐",
+      "明星代言",
+      "广告营销",
+      "怀旧",
+      "年轻文化"
+    ],
+    "discussion_triggers": [
+      "百事可乐联名",
+      "迪士尼",
+      "迈克尔·杰克逊",
+      "王嘉尔",
+      "蔡徐坤",
+      "校园音乐比赛"
+    ],
+    "sensitive_topics": [
+      "偶像争议",
+      "品牌负面新闻"
+    ],
+    "value_tendencies": [
+      "热爱生活",
+      "追求个性",
+      "支持梦想",
+      "怀旧",
+      "乐观",
+      "消费主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "情感驱动",
+      "故事叙述",
+      "怀旧联想",
+      "个人经验"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "流行音乐",
+        "广告营销",
+        "品牌历史"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 50,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享快乐",
+      "表达热爱",
+      "获得共鸣",
+      "展示品味",
+      "怀旧"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "百事可乐联名",
+        "score": 90
+      },
+      {
+        "topic": "迪士尼",
+        "score": 80
+      },
+      {
+        "topic": "迈克尔·杰克逊",
+        "score": 70
+      },
+      {
+        "topic": "王嘉尔",
+        "score": 85
+      },
+      {
+        "topic": "校园音乐比赛",
+        "score": 60
+      }
+    ],
+    "impression": "一个充满童心、热爱音乐和流行文化的品牌粉丝，乐于分享自己的快乐和回忆。"
+  },
+  "analyzed_at": "2026-06-15T22:21:00.596551",
+  "token_usage": 2628
+}

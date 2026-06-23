@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0562",
+  "source": {
+    "title": "萨尔瓦多政府再购入 420 个比特币，价值2500 万美元，透露出哪些信息？你看好比特币的前景吗？",
+    "url": "https://www.zhihu.com/question/495087833/answer/2275157674",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "加密货币投资者/交易员",
+      "industry": "金融/区块链",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业中期",
+      "有家庭负担",
+      "追求财务自由"
+    ],
+    "life_experiences": [
+      "经历过加密货币牛熊周期",
+      "在熊市中亏损过",
+      "通过交易口诀和策略积累经验",
+      "关注宏观经济与政策"
+    ],
+    "interest_topics": [
+      "比特币",
+      "区块链技术",
+      "加密货币交易策略",
+      "投资心理",
+      "萨尔瓦多政策"
+    ],
+    "discussion_triggers": [
+      "比特币价格波动",
+      "政府买入比特币",
+      "熊市操作策略",
+      "投资心态"
+    ],
+    "sensitive_topics": [
+      "加密货币监管",
+      "投资亏损",
+      "市场恐慌"
+    ],
+    "value_tendencies": [
+      "风险厌恶",
+      "长期主义",
+      "信仰比特币价值",
+      "谨慎乐观"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "口诀化思维",
+      "风险控制导向",
+      "心理分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "加密货币交易",
+        "技术分析",
+        "投资心理学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 60,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享经验",
+      "帮助新手",
+      "展示专业",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "比特币前景",
+        "score": 90
+      },
+      {
+        "topic": "熊市操作策略",
+        "score": 85
+      },
+      {
+        "topic": "萨尔瓦多比特币政策",
+        "score": 70
+      },
+      {
+        "topic": "投资心理",
+        "score": 80
+      },
+      {
+        "topic": "炒币口诀",
+        "score": 95
+      }
+    ],
+    "impression": "一个经历过牛熊的老韭菜，喜欢用口诀传授经验，谨慎但坚定地信仰比特币，乐于分享但避免情绪化。"
+  },
+  "analyzed_at": "2026-06-15T22:27:05.488464",
+  "token_usage": 2514
+}

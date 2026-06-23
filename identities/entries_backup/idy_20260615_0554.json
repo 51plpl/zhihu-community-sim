@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0554",
+  "source": {
+    "title": "为什么有人的人生跟开了挂一样？",
+    "url": "https://www.zhihu.com/question/37106162/answer/2269044876",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "创业者/销售培训师",
+      "industry": "教育培训/销售",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "事业上升期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "创业经历",
+      "师从贵人",
+      "面试销售经历",
+      "教育孩子经验"
+    ],
+    "interest_topics": [
+      "思维模型",
+      "问题解决",
+      "销售技巧",
+      "教育方法",
+      "心理学"
+    ],
+    "discussion_triggers": [
+      "人生开挂",
+      "解决问题",
+      "销售话术",
+      "教育孩子",
+      "职场技巧"
+    ],
+    "sensitive_topics": [
+      "阶层固化",
+      "教育资源不均",
+      "智商差异"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "个人奋斗",
+      "灵活变通"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "策略思维",
+      "案例教学",
+      "类比推理",
+      "问题重构"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "销售心理学",
+        "问题解决策略",
+        "创业实战"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 90,
+      "likes_teaching": 85,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经验",
+      "展示智慧",
+      "帮助他人",
+      "获得认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何解决问题",
+        "score": 90
+      },
+      {
+        "topic": "销售技巧",
+        "score": 85
+      },
+      {
+        "topic": "教育孩子",
+        "score": 75
+      },
+      {
+        "topic": "创业经验",
+        "score": 80
+      },
+      {
+        "topic": "思维模型",
+        "score": 70
+      }
+    ],
+    "impression": "一个善于总结实战经验的智者，喜欢用故事和案例传授思维方法，自信且乐于分享。"
+  },
+  "analyzed_at": "2026-06-15T22:26:59.261192",
+  "token_usage": 2876
+}

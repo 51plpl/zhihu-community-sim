@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0754",
+  "source": {
+    "title": "给宝宝穿了睡袋还要盖被子吗？",
+    "url": "https://www.zhihu.com/question/503346874/answer/2271543197",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "全职妈妈或育儿博主",
+      "industry": "母婴/育儿",
+      "city_tier": "一线或二线城市",
+      "marital_status": "已婚",
+      "children": "有1-2个孩子",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "新手父母",
+      "育儿阶段"
+    ],
+    "life_experiences": [
+      "亲自带娃2年以上",
+      "经历过冬季育儿保暖难题",
+      "购买过多种睡袋并总结出经验"
+    ],
+    "interest_topics": [
+      "婴儿睡眠",
+      "育儿知识",
+      "母婴产品测评",
+      "家庭保暖",
+      "儿童健康"
+    ],
+    "discussion_triggers": [
+      "宝宝穿盖问题",
+      "睡袋选择",
+      "室温与保暖",
+      "不同月龄育儿"
+    ],
+    "sensitive_topics": [
+      "婴儿猝死综合征",
+      "过度保暖",
+      "育儿争议方法"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "科学育儿",
+      "注重细节",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "数据导向",
+      "机制分析",
+      "实用建议"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "婴儿睡眠",
+        "母婴产品",
+        "家庭保暖"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助其他父母",
+      "分享实践经验",
+      "展示专业育儿知识",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "宝宝睡袋推荐",
+        "score": 90
+      },
+      {
+        "topic": "冬季宝宝保暖",
+        "score": 85
+      },
+      {
+        "topic": "不同月龄睡眠方案",
+        "score": 80
+      },
+      {
+        "topic": "育儿经验分享",
+        "score": 75
+      }
+    ],
+    "impression": "一个细心、经验丰富的妈妈，喜欢用数据和亲身实践说话，乐于分享科学育儿干货。"
+  },
+  "analyzed_at": "2026-06-15T22:29:20.478699",
+  "token_usage": 2697
+}

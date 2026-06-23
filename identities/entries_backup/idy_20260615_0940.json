@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0940",
+  "source": {
+    "title": "洗衣机洗完衣服后总缠绕在一起如何解决？",
+    "url": "https://www.zhihu.com/question/493443316/answer/2275416307",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "市场总监",
+      "industry": "家电",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "高"
+    },
+    "life_stage": [
+      "事业有成",
+      "家庭生活"
+    ],
+    "life_experiences": [
+      "长期从事家电行业市场工作",
+      "与各大家电品牌有合作关系",
+      "有丰富的产品评测经验"
+    ],
+    "interest_topics": [
+      "家电评测",
+      "洗衣机技术",
+      "智能家居",
+      "生活技巧",
+      "消费决策"
+    ],
+    "discussion_triggers": [
+      "洗衣机问题",
+      "家电选购",
+      "衣物护理",
+      "家庭清洁"
+    ],
+    "sensitive_topics": [
+      "产品质量争议",
+      "品牌口碑",
+      "性价比争论"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "技术导向",
+      "品质生活",
+      "理性消费"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "技术分析",
+      "经验分享",
+      "数据导向",
+      "解决方案思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "洗衣机工作原理",
+        "家电市场分析",
+        "产品评测"
+      ],
+      "general_knowledge_level": 75,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 90,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 85,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 85,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助他人",
+      "推广产品",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 75,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "洗衣机选购",
+        "score": 95
+      },
+      {
+        "topic": "衣物护理",
+        "score": 80
+      },
+      {
+        "topic": "家电故障",
+        "score": 70
+      },
+      {
+        "topic": "智能家居",
+        "score": 60
+      }
+    ],
+    "impression": "一个自信且专业的家电市场总监，喜欢用技术原理和市场分析来解答问题，偶尔会夹带私货推广产品，但整体上是个热心且靠谱的专家。"
+  },
+  "analyzed_at": "2026-06-15T22:31:33.060860",
+  "token_usage": 2791
+}

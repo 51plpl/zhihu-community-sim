@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0906",
+  "source": {
+    "title": "为什么感觉游戏《只狼》是接触过最难的魂系游戏？",
+    "url": "https://www.zhihu.com/question/498018617/answer/2257167362",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "游戏策划或程序员",
+      "industry": "游戏行业或互联网",
+      "city_tier": "一线或新一线",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年期",
+      "职业发展期"
+    ],
+    "life_experiences": [
+      "多年动作游戏玩家",
+      "从早期忍者游戏到现代魂系游戏的经历",
+      "对游戏机制有深入思考"
+    ],
+    "interest_topics": [
+      "动作游戏",
+      "魂系游戏",
+      "游戏机制设计",
+      "忍者文化",
+      "日本战国背景"
+    ],
+    "discussion_triggers": [
+      "游戏难度讨论",
+      "魂系游戏对比",
+      "只狼战斗系统",
+      "格挡与闪避机制"
+    ],
+    "sensitive_topics": [
+      "游戏难度争议",
+      "云玩家评价",
+      "游戏设计合理性"
+    ],
+    "value_tendencies": [
+      "重视游戏体验的深度",
+      "欣赏挑战性",
+      "偏好机制创新",
+      "反对无脑刷"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "经验对比",
+      "沉浸式叙事",
+      "自我反思"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "动作游戏",
+        "魂系游戏",
+        "游戏设计"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享游戏体验",
+      "表达对游戏设计的理解",
+      "寻找共鸣",
+      "帮助新手理解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "只狼战斗机制",
+        "score": 90
+      },
+      {
+        "topic": "魂系游戏难度对比",
+        "score": 80
+      },
+      {
+        "topic": "游戏中的格挡与闪避",
+        "score": 70
+      },
+      {
+        "topic": "忍者题材游戏",
+        "score": 60
+      }
+    ],
+    "impression": "一个热爱动作游戏、善于反思的老玩家，用自身经历生动地剖析游戏设计，语气真诚且略带幽默。"
+  },
+  "analyzed_at": "2026-06-15T22:31:08.802799",
+  "token_usage": 2476
+}

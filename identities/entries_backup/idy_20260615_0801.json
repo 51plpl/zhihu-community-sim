@@ -1,0 +1,125 @@
+{
+  "id": "idy_20260615_0801",
+  "source": {
+    "title": "武汉两年前的军运会，还记忆犹新",
+    "url": "https://zhuanlan.zhihu.com/p/441122867",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "房地产行业从业者或媒体人",
+      "industry": "房地产/媒体",
+      "city_tier": "1.5线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "参与过武汉军运会报道或相关活动",
+      "长期关注武汉城市发展",
+      "有房地产投资或从业经历"
+    ],
+    "interest_topics": [
+      "武汉城市发展",
+      "房地产投资",
+      "滨江豪宅",
+      "城市规划",
+      "长江经济带"
+    ],
+    "discussion_triggers": [
+      "武汉军运会回忆",
+      "滨江板块价值",
+      "城市地标",
+      "豪宅项目对比"
+    ],
+    "sensitive_topics": [
+      "武汉疫情",
+      "房价涨跌",
+      "区域发展不平衡"
+    ],
+    "value_tendencies": [
+      "崇尚城市发展",
+      "认可房地产价值",
+      "精英主义",
+      "乐观进取"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "经验主义",
+      "价值判断",
+      "叙事描述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "武汉城市规划",
+        "滨江房地产",
+        "豪宅产品"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "展示专业能力",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "武汉军运会",
+        "score": 80
+      },
+      {
+        "topic": "滨江豪宅",
+        "score": 90
+      },
+      {
+        "topic": "武汉城市发展",
+        "score": 85
+      },
+      {
+        "topic": "房地产投资",
+        "score": 75
+      }
+    ],
+    "impression": "一个热爱武汉、熟悉房地产的本地通，带着自豪感讲述城市变迁，不经意间流露出精英圈层的优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:29:53.040556",
+  "token_usage": 3353
+}

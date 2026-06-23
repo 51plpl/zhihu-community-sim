@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0570",
+  "source": {
+    "title": "几条炒期货中最重要的几条铁律",
+    "url": "https://zhuanlan.zhihu.com/p/449013985",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "职业期货交易员",
+      "industry": "金融投资",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过多次爆仓或重大亏损",
+      "从亏损中总结出交易系统",
+      "长期坚持日内短线交易",
+      "有写交易日记的习惯"
+    ],
+    "interest_topics": [
+      "期货交易",
+      "技术分析",
+      "交易心理学",
+      "资金管理",
+      "日内短线策略"
+    ],
+    "discussion_triggers": [
+      "新手亏损求助",
+      "止损执行困难",
+      "隔夜持仓风险",
+      "交易系统建立"
+    ],
+    "sensitive_topics": [
+      "重仓隔夜",
+      "不止损",
+      "借钱炒期货",
+      "盲目长线"
+    ],
+    "value_tendencies": [
+      "纪律至上",
+      "风险厌恶",
+      "务实主义",
+      "自我反省",
+      "勤奋努力"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "规则导向",
+      "经验总结",
+      "系统思维",
+      "风险意识强"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "期货交易",
+        "技术分析",
+        "资金管理"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经验教训",
+      "警示新手",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "期货止损技巧",
+        "score": 90
+      },
+      {
+        "topic": "日内交易系统",
+        "score": 85
+      },
+      {
+        "topic": "资金管理方法",
+        "score": 80
+      },
+      {
+        "topic": "新手入门建议",
+        "score": 75
+      },
+      {
+        "topic": "交易心理控制",
+        "score": 70
+      }
+    ],
+    "impression": "一个从血泪教训中爬出来的实战派，说话直白、强调纪律，对市场充满敬畏，但骨子里透着自信和过来人的傲气。"
+  },
+  "analyzed_at": "2026-06-15T22:27:09.263970",
+  "token_usage": 2783
+}

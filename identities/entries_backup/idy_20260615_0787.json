@@ -1,0 +1,125 @@
+{
+  "id": "idy_20260615_0787",
+  "source": {
+    "title": "一颗一万五的种植牙和一颗六千的种植牙，到底差别在哪？",
+    "url": "https://www.zhihu.com/question/396436054/answer/2263463361",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "医疗健康领域编辑或运营",
+      "industry": "医疗健康/口腔医疗",
+      "city_tier": "一二线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭建设期"
+    ],
+    "life_experiences": [
+      "自己或家人有种植牙经历",
+      "长期关注口腔健康",
+      "参与过医疗咨询或价格比较"
+    ],
+    "interest_topics": [
+      "口腔健康",
+      "种植牙",
+      "医疗价格对比",
+      "医生资质",
+      "健康科普"
+    ],
+    "discussion_triggers": [
+      "种植牙价格差异",
+      "如何选择医生",
+      "种植体品牌对比"
+    ],
+    "sensitive_topics": [
+      "医疗价格不透明",
+      "医生技术差异",
+      "术后效果"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "重视专业性和安全性",
+      "理性消费"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "信息整合",
+      "比较分析",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "口腔种植",
+        "医疗咨询"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人做出明智决策",
+      "分享专业知识",
+      "推广咨询渠道"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "种植牙价格",
+        "score": 90
+      },
+      {
+        "topic": "种植体品牌对比",
+        "score": 85
+      },
+      {
+        "topic": "如何选择种植牙医生",
+        "score": 80
+      },
+      {
+        "topic": "口腔医院推荐",
+        "score": 70
+      },
+      {
+        "topic": "牙周病治疗",
+        "score": 50
+      }
+    ],
+    "impression": "一个热心分享口腔知识的医疗行业从业者，理性务实，但偶尔带有营销软文气息。"
+  },
+  "analyzed_at": "2026-06-15T22:29:43.782351",
+  "token_usage": 2575
+}

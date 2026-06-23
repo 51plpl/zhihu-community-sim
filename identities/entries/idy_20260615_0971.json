@@ -1,0 +1,124 @@
+{
+  "id": "idy_20260615_0971",
+  "source": {
+    "title": "如何评价刺猬猫小说网站（原名：欢乐书客）？",
+    "url": "https://www.zhihu.com/question/508345774/answer/2286657095",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "网络小说作者",
+      "industry": "网络文学",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业上升期",
+      "单身"
+    ],
+    "life_experiences": [
+      "在刺猬猫写小说，最高月入税后5.6万",
+      "参加过作者群，但未参加过年会",
+      "经历过读者攻击和删评论"
+    ],
+    "interest_topics": [
+      "网络小说",
+      "刺猬猫平台生态",
+      "同人创作",
+      "模因传播",
+      "游戏动漫"
+    ],
+    "discussion_triggers": [
+      "刺猬猫的流量化问题",
+      "平台竞争环境",
+      "读者圈子文化",
+      "创作环境比较"
+    ],
+    "sensitive_topics": [
+      "读者攻击作者",
+      "平台推荐机制不公",
+      "同人vs原创"
+    ],
+    "value_tendencies": [
+      "重视创作自由",
+      "反感流量至上",
+      "认同轻松氛围",
+      "对平台有感情但也有批评"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "机制分析",
+      "经验分享",
+      "行业观察"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络文学创作",
+        "刺猬猫平台运营",
+        "模因传播"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经验",
+      "展示行业洞察",
+      "表达对平台的看法"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "刺猬猫平台问题",
+        "score": 90
+      },
+      {
+        "topic": "网络小说创作经验",
+        "score": 80
+      },
+      {
+        "topic": "同人小说市场",
+        "score": 70
+      },
+      {
+        "topic": "起点与刺猬猫对比",
+        "score": 75
+      }
+    ],
+    "impression": "一个在刺猬猫赚到过钱、对平台爱恨交织的资深作者，分析问题头头是道，带着点过来人的淡定和无奈。"
+  },
+  "analyzed_at": "2026-06-15T22:31:54.862643",
+  "token_usage": 2557
+}

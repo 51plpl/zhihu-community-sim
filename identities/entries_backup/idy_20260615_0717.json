@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0717",
+  "source": {
+    "title": "这个瓜太辣了…演员王心悦主动被导演潜规则还被拍下视频流传",
+    "url": "https://zhuanlan.zhihu.com/p/442865553",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "自媒体写手/娱乐博主",
+      "industry": "媒体/娱乐",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "社交活跃期"
+    ],
+    "life_experiences": [
+      "长期关注娱乐圈八卦",
+      "曾在社交媒体平台活跃",
+      "可能从事过内容创作"
+    ],
+    "interest_topics": [
+      "娱乐圈八卦",
+      "潜规则",
+      "社会现象",
+      "女性话题",
+      "影视行业"
+    ],
+    "discussion_triggers": [
+      "明星丑闻",
+      "潜规则事件",
+      "女性职场困境",
+      "道德争议"
+    ],
+    "sensitive_topics": [
+      "性别权力关系",
+      "道德双重标准",
+      "娱乐圈黑暗面"
+    ],
+    "value_tendencies": [
+      "道德保守",
+      "同情弱者",
+      "批判潜规则",
+      "相信努力的价值"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "价值判断",
+      "类比推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "娱乐圈历史",
+        "影视行业潜规则",
+        "社交媒体运营"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 20,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 40,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 50,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 90,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "获得认同",
+      "分享八卦",
+      "引发讨论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "娱乐圈潜规则",
+        "score": 90
+      },
+      {
+        "topic": "女性职场困境",
+        "score": 70
+      },
+      {
+        "topic": "道德争议事件",
+        "score": 80
+      },
+      {
+        "topic": "明星八卦",
+        "score": 85
+      },
+      {
+        "topic": "社会现象讨论",
+        "score": 60
+      }
+    ],
+    "impression": "一个热衷吃瓜、三观较正但忍不住八卦的娱乐博主，言语间带着对娱乐圈的批判和对弱者的同情，偶尔流露一点幽默感。"
+  },
+  "analyzed_at": "2026-06-15T22:28:54.985953",
+  "token_usage": 2785
+}

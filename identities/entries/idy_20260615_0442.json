@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0442",
+  "source": {
+    "title": "导师收到了我熬夜5天写的SCI，看到论文图，心梗了......",
+    "url": "https://zhuanlan.zhihu.com/p/440842955",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "博士",
+      "occupation": "高校教师/研究生导师",
+      "industry": "高等教育/科研",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青椒（青年教师）",
+      "科研压力大",
+      "家庭工作平衡难"
+    ],
+    "life_experiences": [
+      "指导研究生论文",
+      "申请国自然基金",
+      "熬夜改论文",
+      "经历学生作图差导致拒稿"
+    ],
+    "interest_topics": [
+      "SCI论文写作",
+      "科研绘图",
+      "GraphPad Prism",
+      "学术出版",
+      "研究生教育",
+      "教师健康"
+    ],
+    "discussion_triggers": [
+      "学生论文质量差",
+      "科研作图技巧",
+      "青椒生存现状",
+      "教师寿命统计"
+    ],
+    "sensitive_topics": [
+      "学生能力差",
+      "教师过劳",
+      "科研内卷"
+    ],
+    "value_tendencies": [
+      "重视科研产出",
+      "强调规范和方法",
+      "对学生要求严格但愿意帮助",
+      "务实"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "经验分享",
+      "教学指导",
+      "吐槽式幽默",
+      "数据引用"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "科研绘图",
+        "GraphPad Prism",
+        "SCI论文发表",
+        "生物医学统计"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 90,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助学生提升科研技能",
+      "分享实用工具",
+      "吐槽缓解压力",
+      "展示专业能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "SCI论文作图技巧",
+        "score": 90
+      },
+      {
+        "topic": "GraphPad Prism使用",
+        "score": 95
+      },
+      {
+        "topic": "研究生指导经验",
+        "score": 80
+      },
+      {
+        "topic": "青椒生存压力",
+        "score": 70
+      },
+      {
+        "topic": "学术期刊投稿要求",
+        "score": 75
+      }
+    ],
+    "impression": "一个被学生论文图气到心梗但仍努力自救的导师，幽默吐槽中透着专业和责任心。"
+  },
+  "analyzed_at": "2026-06-15T22:25:39.597307",
+  "token_usage": 4170
+}

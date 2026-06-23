@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0581",
+  "source": {
+    "title": "如果丧尸爆发，你在厕所，没有通讯设备，而且厕所隔间外有丧尸，怎么办？",
+    "url": "https://www.zhihu.com/question/432520725/answer/2262879236",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-22",
+      "gender": "男",
+      "education": "大学本科在读",
+      "occupation": "学生",
+      "industry": "教育",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "大学在读",
+      "青春期后期"
+    ],
+    "life_experiences": [
+      "初中时打架斗殴",
+      "被父亲教导格斗术",
+      "有被混混追打的经历",
+      "父亲是退伍军人",
+      "习惯深夜上厕所",
+      "喜欢刷手机"
+    ],
+    "interest_topics": [
+      "丧尸题材",
+      "生存技巧",
+      "格斗",
+      "军事",
+      "末日生存"
+    ],
+    "discussion_triggers": [
+      "丧尸爆发",
+      "校园生存",
+      "格斗技巧",
+      "应急反应"
+    ],
+    "sensitive_topics": [
+      "暴力",
+      "死亡",
+      "背叛",
+      "政府无能"
+    ],
+    "value_tendencies": [
+      "重视生存",
+      "重视团队合作",
+      "尊重生命但果断",
+      "相信国家能力",
+      "理性务实"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "情景推演",
+      "果断决策"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "格斗术",
+        "丧尸生存策略",
+        "校园环境"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "展示生存能力",
+      "帮助他人",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "丧尸爆发生存指南",
+        "score": 90
+      },
+      {
+        "topic": "校园末日故事",
+        "score": 85
+      },
+      {
+        "topic": "格斗技巧",
+        "score": 70
+      },
+      {
+        "topic": "应急反应",
+        "score": 75
+      },
+      {
+        "topic": "团队合作",
+        "score": 60
+      }
+    ],
+    "impression": "一个有实战经验、冷静果断的大学男生，讲述末日故事时充满细节和真实感，让人感觉他确实经历过。"
+  },
+  "analyzed_at": "2026-06-15T22:27:17.934021",
+  "token_usage": 4960
+}

@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0283",
+  "source": {
+    "title": "你有什么好的习惯一直在坚持？",
+    "url": "https://www.zhihu.com/question/435012841/answer/2288282356",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网运营或市场相关",
+      "industry": "互联网/新媒体",
+      "city_tier": "二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场上升期",
+      "社交活跃期"
+    ],
+    "life_experiences": [
+      "经历过社交挫折",
+      "曾因拖延误事",
+      "被欺骗过",
+      "学习过做饭"
+    ],
+    "interest_topics": [
+      "个人成长",
+      "社交技巧",
+      "健康养生",
+      "心理学",
+      "时间管理",
+      "恋爱关系"
+    ],
+    "discussion_triggers": [
+      "社交礼仪",
+      "拖延症",
+      "人脉与价值",
+      "恋爱表白",
+      "负能量人群"
+    ],
+    "sensitive_topics": [
+      "欺骗与背叛",
+      "负能量",
+      "不孝",
+      "碎片化时间"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "重视效率",
+      "推崇真诚",
+      "强调自我提升"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验总结",
+      "清单式",
+      "实用建议",
+      "略带幽默"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "社交心理学",
+        "个人效能",
+        "健康习惯"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经验帮助他人",
+      "获得认同",
+      "展示生活智慧",
+      "寻求互动"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "好习惯",
+        "score": 90
+      },
+      {
+        "topic": "社交技巧",
+        "score": 85
+      },
+      {
+        "topic": "拖延症",
+        "score": 80
+      },
+      {
+        "topic": "恋爱表白",
+        "score": 70
+      },
+      {
+        "topic": "人脉",
+        "score": 75
+      }
+    ],
+    "impression": "一个热衷分享生活经验、有点幽默感的实用主义者，喜欢用清单体输出观点，偶尔流露一点小得意。"
+  },
+  "analyzed_at": "2026-06-15T22:23:51.145513",
+  "token_usage": 2870
+}

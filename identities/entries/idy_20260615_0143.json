@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0143",
+  "source": {
+    "title": "什么是类型论的范畴模型？",
+    "url": "https://zhuanlan.zhihu.com/p/447693787",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "博士在读或博士",
+      "occupation": "学术研究人员或高级程序员",
+      "industry": "计算机科学/数学/逻辑学",
+      "city_tier": "一线城市",
+      "marital_status": "未知",
+      "children": "无",
+      "income_level": "中等偏高"
+    },
+    "life_stage": [
+      "学术研究期",
+      "职业早期"
+    ],
+    "life_experiences": [
+      "长期钻研类型论和范畴论",
+      "撰写过学术论文或技术博客",
+      "参与过开源项目或学术社区讨论"
+    ],
+    "interest_topics": [
+      "类型论",
+      "范畴论",
+      "数理逻辑",
+      "编程语言理论",
+      "形式化验证",
+      "数学基础",
+      "机器学习理论"
+    ],
+    "discussion_triggers": [
+      "类型论与范畴论的关系",
+      "类型论的模型",
+      "依值类型",
+      "CwA/CwF",
+      "逻辑一致性"
+    ],
+    "sensitive_topics": [
+      "类型论与编程语言的实际应用",
+      "范畴论的无用性争论",
+      "形式化方法的实用性"
+    ],
+    "value_tendencies": [
+      "理性主义",
+      "形式主义",
+      "学术严谨",
+      "追求精确",
+      "开放分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 90,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "抽象思维",
+      "形式化分析",
+      "机制分析",
+      "数据导向",
+      "逻辑推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "类型论",
+        "范畴论",
+        "数理逻辑",
+        "编程语言理论"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 90
+    },
+    "motivation": [
+      "帮助初学者理解复杂概念",
+      "展示专业能力",
+      "分享研究成果",
+      "澄清误解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "类型论基础",
+        "score": 90
+      },
+      {
+        "topic": "范畴论在编程中的应用",
+        "score": 80
+      },
+      {
+        "topic": "依值类型",
+        "score": 85
+      },
+      {
+        "topic": "形式化验证",
+        "score": 75
+      },
+      {
+        "topic": "数学基础",
+        "score": 70
+      }
+    ],
+    "impression": "一个沉浸在抽象数学世界里的学者，耐心但略带优越感，喜欢用严谨的术语解释复杂概念。"
+  },
+  "analyzed_at": "2026-06-15T22:22:30.384035",
+  "token_usage": 3076
+}

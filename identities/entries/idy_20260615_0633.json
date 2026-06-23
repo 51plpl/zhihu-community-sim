@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0633",
+  "source": {
+    "title": "有没有追妻火葬场没追回来，女主跟别人幸福在一起的文？",
+    "url": "https://www.zhihu.com/question/489479366/answer/2283547353",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科及以上",
+      "occupation": "可能为文字工作者或学生",
+      "industry": "文学、出版或教育",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年期",
+      "情感经历丰富",
+      "正在自我成长"
+    ],
+    "life_experiences": [
+      "经历过单恋或失恋",
+      "有过自我怀疑和成长",
+      "可能来自较好家庭背景"
+    ],
+    "interest_topics": [
+      "言情小说",
+      "校园故事",
+      "情感心理",
+      "女性成长",
+      "文学创作"
+    ],
+    "discussion_triggers": [
+      "追妻火葬场题材",
+      "女配逆袭",
+      "情感纠葛",
+      "自我价值实现"
+    ],
+    "sensitive_topics": [
+      "被误解",
+      "单恋无果",
+      "家庭压力",
+      "阶级差异"
+    ],
+    "value_tendencies": [
+      "重视自尊和独立",
+      "相信爱情但不盲目",
+      "反对刻板印象",
+      "追求自我实现"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "情感细腻",
+      "叙事性强",
+      "自我反思",
+      "文学化表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "言情小说套路",
+        "校园生活",
+        "情感分析"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 50,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享情感故事",
+      "寻求共鸣",
+      "表达自我",
+      "探讨人物命运"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "追妻火葬场小说推荐",
+        "score": 90
+      },
+      {
+        "topic": "女配逆袭故事",
+        "score": 85
+      },
+      {
+        "topic": "校园恋爱经历",
+        "score": 75
+      },
+      {
+        "topic": "情感心理分析",
+        "score": 70
+      },
+      {
+        "topic": "女性独立成长",
+        "score": 80
+      }
+    ],
+    "impression": "一个情感细腻、善于叙事的文艺青年，喜欢通过故事探讨情感和自我价值，略带感伤但积极向上。"
+  },
+  "analyzed_at": "2026-06-15T22:27:54.726791",
+  "token_usage": 4363
+}

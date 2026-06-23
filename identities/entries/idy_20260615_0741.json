@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0741",
+  "source": {
+    "title": "有人说「没有小米，也会有其他厂商把手机价格拉低」，你怎么看待这句话？",
+    "url": "https://www.zhihu.com/question/505682414/answer/2278788088",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "互联网/科技行业从业者",
+      "industry": "科技/数码",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "关注消费电子"
+    ],
+    "life_experiences": [
+      "经历过智能手机价格战时期",
+      "关注数码评测和行业分析",
+      "有经济学或相关领域知识背景"
+    ],
+    "interest_topics": [
+      "手机行业",
+      "市场经济",
+      "消费者权益",
+      "科技产品评测",
+      "理想主义与商业"
+    ],
+    "discussion_triggers": [
+      "小米与性价比",
+      "市场竞争与垄断",
+      "消费者剩余",
+      "千元机市场",
+      "理想主义商业"
+    ],
+    "sensitive_topics": [
+      "小米是否拉低价格",
+      "市场失灵",
+      "资本逐利"
+    ],
+    "value_tendencies": [
+      "反寡头垄断",
+      "支持消费者利益",
+      "理想主义",
+      "批判纯市场主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "引用经济学理论",
+      "举例论证",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "手机行业",
+        "微观经济学",
+        "市场结构"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 70,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "反驳错误观点",
+      "普及经济学常识",
+      "表达理想主义立场",
+      "展示专业分析能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "小米是否拉低手机价格",
+        "score": 95
+      },
+      {
+        "topic": "市场经济缺陷",
+        "score": 90
+      },
+      {
+        "topic": "千元机评测",
+        "score": 80
+      },
+      {
+        "topic": "消费者剩余",
+        "score": 85
+      },
+      {
+        "topic": "理想主义商业",
+        "score": 75
+      }
+    ],
+    "impression": "一个懂经济学、热爱数码、坚持理想主义的理性批判者，喜欢用理论拆解流行观点。"
+  },
+  "analyzed_at": "2026-06-15T22:29:11.994175",
+  "token_usage": 2666
+}

@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0484",
+  "source": {
+    "title": "为什么到处都在宣传跨境电商，真实情况是怎样的？",
+    "url": "https://www.zhihu.com/question/391304580/answer/2260625378",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "跨境电商创业者/培训师",
+      "industry": "跨境电商",
+      "city_tier": "一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业转型期",
+      "创业稳定期"
+    ],
+    "life_experiences": [
+      "从北京到深圳跨城发展",
+      "大跨度转行进入跨境电商",
+      "从零积累人脉和资源",
+      "通过自媒体分享建立个人品牌"
+    ],
+    "interest_topics": [
+      "跨境电商",
+      "亚马逊运营",
+      "外贸趋势",
+      "知识付费",
+      "个人成长"
+    ],
+    "discussion_triggers": [
+      "跨境电商是否靠谱",
+      "行业暴利与骗局",
+      "亚马逊新卖家扶持政策",
+      "知识分享的动机"
+    ],
+    "sensitive_topics": [
+      "跨境电商割韭菜",
+      "0投入月入万刀",
+      "行业过度吹捧或贬低"
+    ],
+    "value_tendencies": [
+      "务实",
+      "长期主义",
+      "利他主义",
+      "理性看待行业",
+      "强调合规运营"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "经验主义",
+      "理性批判"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "亚马逊FBA",
+        "跨境电商运营",
+        "外贸数据",
+        "知识分享"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 90,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助他人避坑",
+      "展示专业能力",
+      "建立行业影响力",
+      "获得认可",
+      "倒逼自己成长"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 80,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "跨境电商是否值得做",
+        "score": 95
+      },
+      {
+        "topic": "亚马逊新卖家如何起步",
+        "score": 90
+      },
+      {
+        "topic": "知识付费的动机",
+        "score": 85
+      },
+      {
+        "topic": "外贸数据解读",
+        "score": 80
+      },
+      {
+        "topic": "行业骗局揭秘",
+        "score": 75
+      }
+    ],
+    "impression": "一个从一线实战中走出来的跨境电商老手，理性务实，喜欢用数据说话，但也不乏人情味，愿意分享自己的经验和资源，对行业有清醒的认识，不吹不黑。"
+  },
+  "analyzed_at": "2026-06-15T22:26:09.547722",
+  "token_usage": 3753
+}

@@ -1,0 +1,119 @@
+{
+  "id": "idy_20260615_0844",
+  "source": {
+    "title": "一文读懂系列之小米科技（三）资本市场愚蠢吗？",
+    "url": "https://zhuanlan.zhihu.com/p/440996463",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "全职奶爸/自媒体作者",
+      "industry": "金融/保险",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "育儿期",
+      "职业转型期"
+    ],
+    "life_experiences": [
+      "投资股票经历",
+      "保险购买经验",
+      "自媒体写作"
+    ],
+    "interest_topics": [
+      "小米公司",
+      "资本市场",
+      "科技行业",
+      "保险理财",
+      "育儿"
+    ],
+    "discussion_triggers": [
+      "小米股价",
+      "雷军言论",
+      "造车争议",
+      "高端化"
+    ],
+    "sensitive_topics": [
+      "资本短视",
+      "性价比与高端矛盾",
+      "小米战略"
+    ],
+    "value_tendencies": [
+      "务实主义",
+      "长期主义",
+      "消费者导向"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 45
+    },
+    "thinking_style": [
+      "机制分析",
+      "逻辑推演",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "保险",
+        "科技公司分析",
+        "投资"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 30,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "表达观点",
+      "分享分析",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "小米股价下跌原因",
+        "score": 80
+      },
+      {
+        "topic": "小米造车前景",
+        "score": 70
+      },
+      {
+        "topic": "保险选购",
+        "score": 60
+      }
+    ],
+    "impression": "一个关注科技和资本市场的理性分析型奶爸，喜欢用逻辑拆解商业现象，偶尔流露对资本短视的不满。"
+  },
+  "analyzed_at": "2026-06-15T22:30:22.167371",
+  "token_usage": 3183
+}

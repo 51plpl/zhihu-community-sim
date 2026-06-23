@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0600",
+  "source": {
+    "title": "广州有没有做隆鼻自然的医院医生推荐 还有价格？",
+    "url": "https://www.zhihu.com/question/359464101/answer/2252756945",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "医美咨询师或自由撰稿人",
+      "industry": "医疗美容",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "注重外貌管理"
+    ],
+    "life_experiences": [
+      "在深圳生活十多年",
+      "接触大量医美行业信息",
+      "有朋友或自身做过隆鼻手术",
+      "了解医院营销内幕"
+    ],
+    "interest_topics": [
+      "隆鼻手术",
+      "医美避坑",
+      "广州深圳医美对比",
+      "整形医生评价",
+      "术后恢复"
+    ],
+    "discussion_triggers": [
+      "隆鼻医院推荐",
+      "隆鼻价格",
+      "莆田系医院曝光",
+      "医生包装套路",
+      "隆鼻材料选择"
+    ],
+    "sensitive_topics": [
+      "医院营销炒作",
+      "隆鼻失败案例",
+      "莆田系医院",
+      "医美事故"
+    ],
+    "value_tendencies": [
+      "反对过度营销",
+      "重视真实案例",
+      "强调医生技术而非名气",
+      "支持理性消费",
+      "反对盲目跟风"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "案例导向",
+      "批判性思维",
+      "细节分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "隆鼻手术",
+        "医美行业营销模式",
+        "广州深圳医美市场"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 50,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人避坑",
+      "展示行业知识",
+      "分享真实经验",
+      "揭露营销套路"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "广州隆鼻医生推荐",
+        "score": 90
+      },
+      {
+        "topic": "隆鼻材料选择",
+        "score": 85
+      },
+      {
+        "topic": "医美营销套路",
+        "score": 80
+      },
+      {
+        "topic": "深圳广州医美对比",
+        "score": 75
+      },
+      {
+        "topic": "隆鼻术后恢复",
+        "score": 70
+      }
+    ],
+    "impression": "一个在医美圈摸爬滚打多年的老司机，说话直白犀利，热衷于揭露行业黑幕，对小白充满保护欲。"
+  },
+  "analyzed_at": "2026-06-15T22:27:32.175216",
+  "token_usage": 3334
+}

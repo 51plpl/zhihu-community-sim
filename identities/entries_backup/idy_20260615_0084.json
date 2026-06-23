@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0084",
+  "source": {
+    "title": "如何看待「七旬」高龄夫妻自驾20万公里游遍全国？无子女陪伴是否存在安全与自由行之间的最优解？",
+    "url": "https://www.zhihu.com/question/508143294/answer/2286265812",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "旅游相关行业或自由职业者",
+      "industry": "旅游/餐饮",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "有子女",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "中年",
+      "事业稳定期",
+      "自驾游爱好者"
+    ],
+    "life_experiences": [
+      "经常因工作出差西北西南",
+      "对青海有深入了解",
+      "热爱自驾游",
+      "品尝过多种地方美食"
+    ],
+    "interest_topics": [
+      "自驾游",
+      "地方美食",
+      "西北旅游",
+      "青海文化",
+      "户外探险"
+    ],
+    "discussion_triggers": [
+      "自驾游安全与自由",
+      "青海旅游推荐",
+      "地方美食分享",
+      "老年人自驾游"
+    ],
+    "sensitive_topics": [
+      "老年人独自出行安全",
+      "子女陪伴责任"
+    ],
+    "value_tendencies": [
+      "重视自由与体验",
+      "家庭观念较强",
+      "热爱自然与传统文化"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "细节描述",
+      "热情分享"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "青海旅游",
+        "西北美食",
+        "自驾游路线"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "展示专业知识",
+      "帮助他人规划旅行",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "青海旅游攻略",
+        "score": 95
+      },
+      {
+        "topic": "自驾游经验",
+        "score": 90
+      },
+      {
+        "topic": "地方美食推荐",
+        "score": 85
+      },
+      {
+        "topic": "老年人出行安全",
+        "score": 60
+      },
+      {
+        "topic": "西北文化",
+        "score": 70
+      }
+    ],
+    "impression": "一个热情洋溢、热爱生活的自驾游老司机，对青海美食如数家珍，乐于分享自己的经历和知识，但有时会忽略原问题而自顾自地安利。"
+  },
+  "analyzed_at": "2026-06-15T22:21:53.974225",
+  "token_usage": 3320
+}

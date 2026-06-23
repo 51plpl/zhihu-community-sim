@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0704",
+  "source": {
+    "title": "《英雄联盟》职业选手 Uzi 宣布复出再战职业赛场，你有什么想说的？",
+    "url": "https://www.zhihu.com/question/506199979/answer/2271981772",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网运营/游戏行业从业者",
+      "industry": "互联网/电竞",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业上升期",
+      "单身独居",
+      "电竞爱好者"
+    ],
+    "life_experiences": [
+      "长期关注英雄联盟赛事",
+      "经历过Uzi退役与复出",
+      "有职场竞争与选择困境"
+    ],
+    "interest_topics": [
+      "英雄联盟",
+      "电竞选手",
+      "职业赛场",
+      "游戏直播",
+      "个人成长"
+    ],
+    "discussion_triggers": [
+      "Uzi复出",
+      "选手状态",
+      "电竞梦想",
+      "职业选择"
+    ],
+    "sensitive_topics": [
+      "选手实力下滑",
+      "舆论压力",
+      "退役选手复出"
+    ],
+    "value_tendencies": [
+      "尊重热爱与坚持",
+      "理性分析",
+      "支持追梦",
+      "认可努力"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "利弊权衡",
+      "共情理解",
+      "叙事驱动"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "英雄联盟赛事",
+        "电竞选手历史",
+        "游戏版本理解"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 70,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "表达观点",
+      "分享分析",
+      "支持偶像",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "Uzi复出前景",
+        "score": 90
+      },
+      {
+        "topic": "电竞选手职业选择",
+        "score": 70
+      },
+      {
+        "topic": "英雄联盟版本更新",
+        "score": 50
+      },
+      {
+        "topic": "直播与职业平衡",
+        "score": 60
+      }
+    ],
+    "impression": "一个理性又热血的电竞老粉，用分析包裹着对偶像的深情支持。"
+  },
+  "analyzed_at": "2026-06-15T22:28:44.552626",
+  "token_usage": 2704
+}

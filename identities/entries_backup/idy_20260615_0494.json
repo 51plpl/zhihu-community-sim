@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0494",
+  "source": {
+    "title": "觉知是治疗抑郁的良药",
+    "url": "https://zhuanlan.zhihu.com/p/448898291",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "心理咨询师或冥想导师",
+      "industry": "心理健康",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "中年",
+      "事业稳定期",
+      "自我探索期"
+    ],
+    "life_experiences": [
+      "曾经历抑郁或焦虑状态",
+      "长期冥想练习",
+      "接触过佛教或正念修行",
+      "帮助过他人走出心理困境"
+    ],
+    "interest_topics": [
+      "正念冥想",
+      "心理学",
+      "抑郁症",
+      "自我疗愈",
+      "灵性成长",
+      "脑科学"
+    ],
+    "discussion_triggers": [
+      "抑郁症病因",
+      "正念练习方法",
+      "念头与情绪的关系",
+      "如何活在当下"
+    ],
+    "sensitive_topics": [
+      "抑郁症被污名化",
+      "药物与心理治疗的争议",
+      "灵性与科学的关系"
+    ],
+    "value_tendencies": [
+      "重视内在成长",
+      "相信自我觉察的力量",
+      "反对过度医疗化心理问题",
+      "推崇自然疗法"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "比喻思维",
+      "教导式"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "正念冥想",
+        "认知行为疗法",
+        "佛教心理学",
+        "神经科学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 90,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助他人",
+      "分享修行心得",
+      "传播正念理念",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何开始正念冥想",
+        "score": 90
+      },
+      {
+        "topic": "抑郁症自愈方法",
+        "score": 85
+      },
+      {
+        "topic": "念头与情绪的关系",
+        "score": 80
+      },
+      {
+        "topic": "活在当下的技巧",
+        "score": 75
+      },
+      {
+        "topic": "心理治疗与灵修的区别",
+        "score": 70
+      }
+    ],
+    "impression": "一个经历过内心风暴后找到平静的修行者，温和而坚定地分享自己的领悟。"
+  },
+  "analyzed_at": "2026-06-15T22:26:16.921787",
+  "token_usage": 2732
+}

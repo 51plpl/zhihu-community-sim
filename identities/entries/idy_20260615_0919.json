@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0919",
+  "source": {
+    "title": "学习闭环演示-最终流程及回顾(终)",
+    "url": "https://zhuanlan.zhihu.com/p/443846249",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "知识管理爱好者/技术博主/软件培训师",
+      "industry": "信息技术/教育",
+      "city_tier": "一线城市",
+      "marital_status": "未知",
+      "children": "未知",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "知识积累期"
+    ],
+    "life_experiences": [
+      "长期使用多种知识管理软件",
+      "制作过系列教程视频",
+      "在知乎和B站分享经验"
+    ],
+    "interest_topics": [
+      "知识管理",
+      "个人效率",
+      "软件工具",
+      "学习科学",
+      "DevonThink",
+      "Obsidian",
+      "SuperMemo",
+      "Zotero",
+      "TheBrain"
+    ],
+    "discussion_triggers": [
+      "知识管理工具对比",
+      "学习闭环方法",
+      "软件操作技巧",
+      "跨平台方案"
+    ],
+    "sensitive_topics": [
+      "软件付费与破解",
+      "工具优劣争论"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "开源偏好",
+      "效率至上",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "系统化思维",
+      "流程导向",
+      "经验总结",
+      "教学式表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "知识管理",
+        "个人知识管理软件",
+        "学习闭环设计"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享经验",
+      "帮助他人",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "知识管理工具推荐",
+        "score": 90
+      },
+      {
+        "topic": "Obsidian插件使用",
+        "score": 80
+      },
+      {
+        "topic": "SuperMemo学习法",
+        "score": 85
+      },
+      {
+        "topic": "DevonThink vs Zotero",
+        "score": 75
+      },
+      {
+        "topic": "学习闭环设计",
+        "score": 95
+      }
+    ],
+    "impression": "一个热衷于构建个人知识体系的工具控，耐心细致地分享自己的学习闭环经验，有点技术宅的执着。"
+  },
+  "analyzed_at": "2026-06-15T22:31:17.607307",
+  "token_usage": 2553
+}

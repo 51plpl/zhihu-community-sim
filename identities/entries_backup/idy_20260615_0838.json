@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0838",
+  "source": {
+    "title": "如何做好春季保健 吃药膳让你春季不犯困",
+    "url": "https://zhuanlan.zhihu.com/p/451420060",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "女",
+      "education": "大专",
+      "occupation": "办公室职员或家庭主妇",
+      "industry": "行政、文秘或自由职业",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年",
+      "家庭主妇或职场妈妈",
+      "关注健康"
+    ],
+    "life_experiences": [
+      "有长期疲劳、犯困的困扰",
+      "尝试过多种养生方法",
+      "有烹饪经验"
+    ],
+    "interest_topics": [
+      "中医养生",
+      "药膳",
+      "春季保健",
+      "食疗",
+      "家庭烹饪"
+    ],
+    "discussion_triggers": [
+      "春季犯困",
+      "药膳推荐",
+      "养生食谱",
+      "提神食物"
+    ],
+    "sensitive_topics": [
+      "中医有效性争议",
+      "保健品推销"
+    ],
+    "value_tendencies": [
+      "重视传统养生",
+      "相信自然疗法",
+      "注重家庭健康"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "实用主义",
+      "传统观念"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "家常药膳",
+        "春季养生"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 60,
+      "likes_commenting": 40,
+      "likes_debating": 10,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 60,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享养生经验",
+      "帮助他人缓解疲劳",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "春季犯困怎么办",
+        "score": 90
+      },
+      {
+        "topic": "药膳推荐",
+        "score": 85
+      },
+      {
+        "topic": "养生食谱",
+        "score": 80
+      },
+      {
+        "topic": "提神食物",
+        "score": 75
+      },
+      {
+        "topic": "中医养生",
+        "score": 70
+      }
+    ],
+    "impression": "一个热心分享家常药膳的养生爱好者，语气亲切，像邻家大姐在传授经验。"
+  },
+  "analyzed_at": "2026-06-15T22:30:19.197103",
+  "token_usage": 2560
+}

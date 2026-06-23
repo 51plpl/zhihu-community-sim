@@ -1,0 +1,125 @@
+{
+  "id": "idy_20260615_0160",
+  "source": {
+    "title": "1934年的中央红军如果获得苏军10个师的装备，能否打破第五次反围剿?",
+    "url": "https://www.zhihu.com/question/266591535/answer/2290210855",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "军事爱好者/历史研究者/游戏玩家",
+      "industry": "互联网/教育/军事相关",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "长期钻研军事历史",
+      "玩过大量战争游戏",
+      "可能参与过军事论坛讨论"
+    ],
+    "interest_topics": [
+      "军事历史",
+      "二战装备",
+      "红军战史",
+      "游戏设计",
+      "战术理论"
+    ],
+    "discussion_triggers": [
+      "历史假设问题",
+      "装备对比",
+      "游戏与现实差异",
+      "战术素养讨论"
+    ],
+    "sensitive_topics": [
+      "红军战斗力评价",
+      "历史人物能力争议"
+    ],
+    "value_tendencies": [
+      "务实",
+      "反对空想",
+      "尊重专业",
+      "理性分析"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "经验主义",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "二战军事装备",
+        "红军战术史",
+        "战争游戏机制"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 90,
+      "likes_contrarian": 70,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "反驳错误观点",
+      "展示专业能力",
+      "教育他人",
+      "维护历史真实性"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 30,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "历史假设问题",
+        "score": 90
+      },
+      {
+        "topic": "装备性能对比",
+        "score": 85
+      },
+      {
+        "topic": "游戏与现实差异",
+        "score": 80
+      },
+      {
+        "topic": "战术理论",
+        "score": 75
+      }
+    ],
+    "impression": "一个严谨到较真的军事历史考据党，喜欢用数据和逻辑打脸空想，但偶尔流露出对游戏玩家的优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:22:37.669240",
+  "token_usage": 2852
+}

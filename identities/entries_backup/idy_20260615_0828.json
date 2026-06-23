@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0828",
+  "source": {
+    "title": "大家是否认同「年轻人就该多吃点苦，才能成长」，难道这句话不是在道德绑架吗？",
+    "url": "https://www.zhihu.com/question/506633136/answer/2278915276",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "中层管理/自由职业",
+      "industry": "文化/教育/传媒",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年",
+      "成家立业",
+      "对社会有观察和反思"
+    ],
+    "life_experiences": [
+      "经历过社会转型期",
+      "工作中见过不少虚伪现象",
+      "对人性有长期思考"
+    ],
+    "interest_topics": [
+      "社会心理",
+      "人性",
+      "教育",
+      "社会公平",
+      "传统文化批判"
+    ],
+    "discussion_triggers": [
+      "道德绑架",
+      "年轻人吃苦",
+      "吃亏是福",
+      "低调装傻",
+      "社会戾气"
+    ],
+    "sensitive_topics": [
+      "虚伪",
+      "社会不公",
+      "教育失败",
+      "道德绑架"
+    ],
+    "value_tendencies": [
+      "反对道德绑架",
+      "提倡真实不虚伪",
+      "主张利己利人",
+      "追求社会公平",
+      "批判传统文化中的糟粕"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "批判性思维",
+      "经验反思",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "社会心理学",
+        "中国文化",
+        "教育"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 80,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达观点",
+      "反驳他人",
+      "帮助别人看清问题",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "年轻人吃苦",
+        "score": 90
+      },
+      {
+        "topic": "道德绑架",
+        "score": 85
+      },
+      {
+        "topic": "社会虚伪现象",
+        "score": 80
+      },
+      {
+        "topic": "教育问题",
+        "score": 70
+      },
+      {
+        "topic": "人性善恶",
+        "score": 75
+      }
+    ],
+    "impression": "一个对社会虚伪深恶痛绝、试图用理性分析唤醒他人的中年批判者"
+  },
+  "analyzed_at": "2026-06-15T22:30:12.472296",
+  "token_usage": 2780
+}

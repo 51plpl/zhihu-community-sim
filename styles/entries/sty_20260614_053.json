@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_053",
+  "source": {
+    "title": "日语科班的人，是怎么学日语的？",
+    "url": "https://zhuanlan.zhihu.com/p/450489131",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "口语化为主，夹杂少量专业术语，用词偏日常。",
+    "sentence_rhythm": "短句为主，节奏明快，偶尔穿插长句进行解释。",
+    "favorite_expressions": [
+      "那么",
+      "当然",
+      "其实",
+      "毕竟",
+      "所以"
+    ],
+    "punctuation_habits": "逗号密度高，感叹号使用适度，破折号和省略号较少。",
+    "person_perspective": "第一人称叙述，偶尔切换第二人称与读者互动。",
+    "emotion_intensity": "中等，带有亲切感和鼓励性，但不过度煽情。"
+  },
+  "structure": {
+    "opening_pattern": "以提问开头，直接切入主题。",
+    "paragraph_rhythm": "段落长短交替，关键句独立成段以突出重点。",
+    "argument_logic": "归纳型，通过个人经历和案例引出观点。",
+    "transition_style": "口语化过渡，使用“那么”、“所以”等连接词，偶尔直接跳转。",
+    "closing_pattern": "开放提问，邀请读者讨论。",
+    "title_pattern": "痛点型，直接针对目标人群的困惑。"
+  },
+  "analyzed_at": "2026-06-14T22:55:26.240191",
+  "token_usage": 2744
+}

@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0705",
+  "source": {
+    "title": "华为发布首款鸿蒙汽车 AITO 问界 M5，该款汽车有哪些亮点值得关注？是否值得入手？",
+    "url": "https://www.zhihu.com/question/507970125/answer/2283796614",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "科技行业从业者或汽车爱好者",
+      "industry": "互联网/科技/汽车",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚或已婚无孩",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "追求科技产品"
+    ],
+    "life_experiences": [
+      "参与过新车发布或试驾活动",
+      "对华为生态有深入了解",
+      "可能拥有华为手机或其他鸿蒙设备"
+    ],
+    "interest_topics": [
+      "新能源汽车",
+      "华为鸿蒙生态",
+      "智能座舱",
+      "汽车性能参数",
+      "增程式电动车"
+    ],
+    "discussion_triggers": [
+      "新车发布",
+      "参数对比",
+      "竞品分析",
+      "华为技术"
+    ],
+    "sensitive_topics": [
+      "理想ONE等竞品对比",
+      "增程技术优劣",
+      "华为造车争议"
+    ],
+    "value_tendencies": [
+      "技术至上",
+      "支持国产",
+      "理性消费",
+      "注重性价比"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "对比分析",
+      "细节控",
+      "技术崇拜"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "汽车工程",
+        "新能源技术",
+        "智能座舱",
+        "华为产品"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 70,
+      "likes_contrarian": 50,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业能力",
+      "反驳错误观点",
+      "帮助他人决策",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "问界M5参数",
+        "score": 95
+      },
+      {
+        "topic": "增程式对比理想ONE",
+        "score": 90
+      },
+      {
+        "topic": "华为鸿蒙座舱",
+        "score": 85
+      },
+      {
+        "topic": "30万级SUV推荐",
+        "score": 80
+      }
+    ],
+    "impression": "一个技术参数狂魔，热爱用数据碾压对手，对华为产品有信仰，但也会理性指出不足。"
+  },
+  "analyzed_at": "2026-06-15T22:28:45.354602",
+  "token_usage": 2913
+}

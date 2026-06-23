@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0734",
+  "source": {
+    "title": "如何以「我惹了满京城最不该惹的人」为开头写一个故事？",
+    "url": "https://www.zhihu.com/question/436381988/answer/2283815057",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "中等（古代背景，读过书但非才女）",
+      "occupation": "尚书府千金（无业）",
+      "industry": "无",
+      "city_tier": "一线（京城）",
+      "marital_status": "未婚（刚被退婚）",
+      "children": "无",
+      "income_level": "中上（靠皇后姨母接济）"
+    },
+    "life_stage": [
+      "刚被退婚",
+      "与继母继妹关系紧张",
+      "面临生命危险"
+    ],
+    "life_experiences": [
+      "母亲早逝",
+      "被继母打压",
+      "被未婚夫抛弃",
+      "酒后误事睡了王爷"
+    ],
+    "interest_topics": [
+      "美食",
+      "八卦",
+      "吐槽继母继妹",
+      "生存技巧"
+    ],
+    "discussion_triggers": [
+      "退婚",
+      "继母作妖",
+      "酒后糗事",
+      "权势压迫"
+    ],
+    "sensitive_topics": [
+      "退婚",
+      "母亲去世",
+      "被轻视",
+      "生死威胁"
+    ],
+    "value_tendencies": [
+      "及时行乐",
+      "敢作敢当",
+      "重视亲情（父亲）",
+      "反抗权威"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "自嘲幽默",
+      "内心戏丰富",
+      "直觉判断",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "宫廷八卦",
+        "京城人际关系",
+        "生存智慧"
+      ],
+      "general_knowledge_level": 40,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 40,
+      "likes_teaching": 10,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "寻求共鸣",
+      "娱乐他人",
+      "发泄情绪"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 60,
+      "seeking_influence": 20,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "退婚经历",
+        "score": 90
+      },
+      {
+        "topic": "继母继妹",
+        "score": 85
+      },
+      {
+        "topic": "酒后失态",
+        "score": 80
+      },
+      {
+        "topic": "京城八卦",
+        "score": 75
+      },
+      {
+        "topic": "美食推荐",
+        "score": 70
+      }
+    ],
+    "impression": "一个嘴硬心大、爱吐槽的古代千金，虽然处境危险但依然乐观贪吃，像个说书人一样分享自己的糗事。"
+  },
+  "analyzed_at": "2026-06-15T22:29:06.827366",
+  "token_usage": 4097
+}

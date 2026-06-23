@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0835",
+  "source": {
+    "title": "湖北鄂东大桥公司回应侧翻事件，称大货车载重 198 吨超载 400%，超载是否为侧翻主因？谁应负责任？",
+    "url": "https://www.zhihu.com/question/507023464/answer/2278235999",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "媒体记者/编辑",
+      "industry": "新闻传媒",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "长期从事社会新闻调查报道",
+      "经历过多次重大事故现场采访",
+      "对交通法规和工程结构有一定了解"
+    ],
+    "interest_topics": [
+      "公共安全",
+      "交通法规",
+      "工程事故调查",
+      "社会治理",
+      "媒体伦理"
+    ],
+    "discussion_triggers": [
+      "事故责任认定",
+      "超载治理",
+      "桥梁设计安全",
+      "政府回应可信度",
+      "企业责任"
+    ],
+    "sensitive_topics": [
+      "官员渎职",
+      "企业隐瞒真相",
+      "受害者赔偿",
+      "监管漏洞"
+    ],
+    "value_tendencies": [
+      "重视事实真相",
+      "倾向制度问责",
+      "同情受害者",
+      "警惕权力滥用"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "事实核查",
+      "多方求证",
+      "逻辑推理",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "交通工程",
+        "新闻调查",
+        "法律常识"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 70,
+      "likes_contrarian": 50,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "揭示真相",
+      "推动制度改进",
+      "纠正错误信息",
+      "维护公众知情权"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "事故责任划分",
+        "score": 90
+      },
+      {
+        "topic": "超载治理政策",
+        "score": 80
+      },
+      {
+        "topic": "桥梁设计规范",
+        "score": 70
+      },
+      {
+        "topic": "企业安全管理",
+        "score": 75
+      },
+      {
+        "topic": "政府应急响应",
+        "score": 85
+      }
+    ],
+    "impression": "一个冷静克制的调查型记者，习惯用数据和事实说话，对官方说法保持审慎怀疑，但避免情绪化表达。"
+  },
+  "analyzed_at": "2026-06-15T22:30:16.682366",
+  "token_usage": 3093
+}

@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0371",
+  "source": {
+    "title": "上哪找高质量电子书？",
+    "url": "https://www.zhihu.com/question/20915020/answer/2277339234",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网产品运营或内容编辑",
+      "industry": "互联网/科技",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场早期",
+      "知识积累期",
+      "数字原住民"
+    ],
+    "life_experiences": [
+      "长期混迹网络资源社区",
+      "经历过多次网站失效",
+      "有收藏癖好",
+      "乐于分享资源"
+    ],
+    "interest_topics": [
+      "电子书",
+      "免费资源",
+      "读书",
+      "效率工具",
+      "互联网产品"
+    ],
+    "discussion_triggers": [
+      "电子书网站推荐",
+      "资源失效求助",
+      "读书方法",
+      "正版与盗版争议"
+    ],
+    "sensitive_topics": [
+      "版权问题",
+      "网站被屏蔽",
+      "付费与免费之争"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "分享精神",
+      "尊重版权但支持免费获取"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "清单式整理",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "电子书资源",
+        "互联网工具",
+        "数字阅读"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 60,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "分享经验",
+      "获得认同",
+      "展示资源收集能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "电子书下载",
+        "score": 95
+      },
+      {
+        "topic": "免费资源网站",
+        "score": 90
+      },
+      {
+        "topic": "读书推荐",
+        "score": 70
+      },
+      {
+        "topic": "互联网工具",
+        "score": 60
+      },
+      {
+        "topic": "正版与盗版",
+        "score": 50
+      }
+    ],
+    "impression": "一个热心肠的资源收集控，喜欢把好东西整理成清单分享给需要的人，有点小得意自己的收藏库。"
+  },
+  "analyzed_at": "2026-06-15T22:24:49.768114",
+  "token_usage": 3266
+}

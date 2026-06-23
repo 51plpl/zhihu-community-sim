@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0258",
+  "source": {
+    "title": "杨过重剑和令狐冲的独孤九剑谁更强？",
+    "url": "https://www.zhihu.com/question/290715517/answer/2266184749",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "程序员或工程师",
+      "industry": "互联网或科技",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中上"
+    },
+    "life_stage": [
+      "职业上升期",
+      "单身独居"
+    ],
+    "life_experiences": [
+      "长期阅读武侠小说",
+      "对武学设定有深入研究",
+      "参与过网络论战"
+    ],
+    "interest_topics": [
+      "金庸武侠",
+      "武侠小说设定",
+      "武学逻辑",
+      "网络文学",
+      "游戏机制"
+    ],
+    "discussion_triggers": [
+      "武功对比",
+      "武学设定漏洞",
+      "金庸小说bug",
+      "武侠与实战"
+    ],
+    "sensitive_topics": [
+      "金庸小说权威性",
+      "独孤九剑评价",
+      "武侠与现实"
+    ],
+    "value_tendencies": [
+      "理性分析",
+      "批判性思维",
+      "尊重逻辑",
+      "反感无脑吹捧"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "逻辑推理",
+      "机制分析",
+      "举例论证",
+      "批判质疑"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "金庸武侠",
+        "武学设定",
+        "兵击理论"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 90,
+      "likes_contrarian": 80,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "展示分析能力",
+      "反驳错误观点",
+      "分享知识",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "金庸武功对比",
+        "score": 90
+      },
+      {
+        "topic": "独孤九剑设定",
+        "score": 95
+      },
+      {
+        "topic": "武侠小说逻辑",
+        "score": 85
+      },
+      {
+        "topic": "网络小说设定",
+        "score": 70
+      }
+    ],
+    "impression": "一个逻辑控的武侠设定批判者，喜欢用现实逻辑拆解小说，言辞犀利但有理有据。"
+  },
+  "analyzed_at": "2026-06-15T22:23:36.422200",
+  "token_usage": 3179
+}

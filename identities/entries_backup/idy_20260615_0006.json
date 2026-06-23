@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0006",
+  "source": {
+    "title": "你见过股市亏最惨的有多惨？",
+    "url": "https://www.zhihu.com/question/323143201/answer/2258293594",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "男",
+      "education": "大专或本科",
+      "occupation": "自由职业/自媒体",
+      "industry": "金融投资",
+      "city_tier": "二线或三线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年",
+      "上有老下有小",
+      "经济压力大"
+    ],
+    "life_experiences": [
+      "经历过牛熊市",
+      "见过亲友因炒股家破人亡",
+      "自己炒股亏损",
+      "从事过小生意"
+    ],
+    "interest_topics": [
+      "股市投资",
+      "技术分析",
+      "人生故事",
+      "财经新闻"
+    ],
+    "discussion_triggers": [
+      "炒股亏损经历",
+      "股市惨案",
+      "家庭与投资冲突",
+      "技术指标有效性"
+    ],
+    "sensitive_topics": [
+      "炒股导致家庭破裂",
+      "因炒股耽误治病",
+      "全职炒股失败"
+    ],
+    "value_tendencies": [
+      "重视家庭",
+      "对投机持批判态度",
+      "强调风险控制",
+      "同情弱者"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "故事叙述",
+      "经验主义",
+      "价值判断",
+      "情感表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "股市历史",
+        "技术分析",
+        "散户行为"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "警示他人",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "炒股亏损经历",
+        "score": 90
+      },
+      {
+        "topic": "股市技术分析",
+        "score": 60
+      },
+      {
+        "topic": "家庭与投资",
+        "score": 80
+      },
+      {
+        "topic": "人生故事",
+        "score": 85
+      }
+    ],
+    "impression": "一个见过太多悲剧的过来人，用故事劝人向善，带着沧桑和慈悲。"
+  },
+  "analyzed_at": "2026-06-15T22:21:00.811354",
+  "token_usage": 3332
+}

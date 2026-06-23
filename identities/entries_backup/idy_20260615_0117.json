@@ -1,0 +1,123 @@
+{
+  "id": "idy_20260615_0117",
+  "source": {
+    "title": "GBIF成立20年：全球贡献最大的公开生物多样性数据库｜绿会国际讯",
+    "url": "https://zhuanlan.zhihu.com/p/443860045",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "女",
+      "education": "硕士",
+      "occupation": "国际组织或NGO项目官员/媒体编辑",
+      "industry": "生态环境保护/生物多样性",
+      "city_tier": "一线城市（北京）",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业上升期",
+      "关注社会议题"
+    ],
+    "life_experiences": [
+      "参与国际会议",
+      "从事生物多样性保护工作",
+      "长期关注环境政策"
+    ],
+    "interest_topics": [
+      "生物多样性",
+      "全球环境治理",
+      "国际组织动态",
+      "数据共享",
+      "生态文明"
+    ],
+    "discussion_triggers": [
+      "GBIF相关新闻",
+      "生物多样性保护政策",
+      "中国NGO参与国际事务"
+    ],
+    "sensitive_topics": [
+      "环境破坏",
+      "物种灭绝",
+      "数据垄断"
+    ],
+    "value_tendencies": [
+      "环保主义",
+      "国际合作优先",
+      "科学决策",
+      "信息公开"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "事实陈述",
+      "引用权威",
+      "结构化叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "生物多样性信息学",
+        "国际环境政策",
+        "NGO运作"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 20,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "传播专业知识",
+      "展示机构成果",
+      "提升公众意识"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "生物多样性数据库",
+        "score": 90
+      },
+      {
+        "topic": "国际环境合作",
+        "score": 85
+      },
+      {
+        "topic": "中国环保NGO",
+        "score": 80
+      },
+      {
+        "topic": "数据开放共享",
+        "score": 75
+      }
+    ],
+    "impression": "一个专业、沉稳的国际环保组织从业者，善于用数据和权威信息说话，对生物多样性保护充满热情但保持理性。"
+  },
+  "analyzed_at": "2026-06-15T22:22:13.013425",
+  "token_usage": 2576
+}

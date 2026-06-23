@@ -1,0 +1,138 @@
+{
+  "id": "idy_20260615_0890",
+  "source": {
+    "title": "童年电脑游戏回忆——《星际争霸》",
+    "url": "https://zhuanlan.zhihu.com/p/445597644",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "IT或文化行业从业者",
+      "industry": "科技或媒体",
+      "city_tier": "二线或三线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "成家立业",
+      "怀旧期",
+      "中年早期"
+    ],
+    "life_experiences": [
+      "童年接触电脑培训",
+      "玩过Win98和CRT显示器",
+      "经历过拨号上网时代",
+      "借光盘玩游戏",
+      "喜欢科幻作品",
+      "对暴雪公司有情感"
+    ],
+    "interest_topics": [
+      "星际争霸",
+      "即时战略游戏",
+      "科幻作品",
+      "暴雪游戏",
+      "怀旧游戏",
+      "游戏文化",
+      "电脑硬件历史"
+    ],
+    "discussion_triggers": [
+      "星际争霸MOD",
+      "RTS游戏衰落",
+      "暴雪公司现状",
+      "科幻改编影视",
+      "童年游戏回忆"
+    ],
+    "sensitive_topics": [
+      "暴雪停止更新星际争霸",
+      "RTS游戏过时",
+      "虫族被贬低"
+    ],
+    "value_tendencies": [
+      "怀旧",
+      "尊重经典",
+      "理性分析",
+      "外貌协会",
+      "偏好光明正义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 45
+    },
+    "thinking_style": [
+      "故事叙述",
+      "细节回忆",
+      "比较分析",
+      "情感表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "星际争霸游戏机制",
+        "科幻作品设定",
+        "游戏历史"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 40,
+      "likes_answering": 30,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享回忆",
+      "表达怀旧情感",
+      "展示游戏知识",
+      "寻找共鸣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 20,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "星际争霸",
+        "score": 90
+      },
+      {
+        "topic": "童年游戏",
+        "score": 80
+      },
+      {
+        "topic": "RTS游戏",
+        "score": 70
+      },
+      {
+        "topic": "暴雪",
+        "score": 60
+      },
+      {
+        "topic": "科幻作品",
+        "score": 50
+      }
+    ],
+    "impression": "一个沉浸在童年游戏回忆中的怀旧玩家，对星际争霸充满感情，喜欢分享细节和比较种族，略带对暴雪现状的遗憾。"
+  },
+  "analyzed_at": "2026-06-15T22:30:56.517897",
+  "token_usage": 3308
+}

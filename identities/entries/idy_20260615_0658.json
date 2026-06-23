@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0658",
+  "source": {
+    "title": "有哪些沙雕可爱的求偶文案？",
+    "url": "https://zhuanlan.zhihu.com/p/446451332",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "女",
+      "education": "本科在读或毕业",
+      "occupation": "学生或初级职场人",
+      "industry": "互联网、新媒体或自由职业",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低收入"
+    },
+    "life_stage": [
+      "大学或刚毕业",
+      "单身且渴望恋爱",
+      "经济独立但有限"
+    ],
+    "life_experiences": [
+      "经历过网恋或线上社交",
+      "熟悉网络流行文化",
+      "可能有过被拒绝或失败的感情经历"
+    ],
+    "interest_topics": [
+      "恋爱交友",
+      "网络段子",
+      "游戏",
+      "社交媒体",
+      "星座"
+    ],
+    "discussion_triggers": [
+      "求偶文案",
+      "单身吐槽",
+      "恋爱技巧",
+      "搞笑段子"
+    ],
+    "sensitive_topics": [
+      "外貌攻击",
+      "性别歧视",
+      "现实压力"
+    ],
+    "value_tendencies": [
+      "幽默自嘲",
+      "反讽传统婚恋观",
+      "追求轻松关系",
+      "重视个人自由"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "幽默解构",
+      "情绪表达",
+      "反讽",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络流行文化",
+        "恋爱心理学（浅层）",
+        "社交平台运营"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 40,
+      "likes_long_answers": 20,
+      "likes_short_answers": 80,
+      "likes_storytelling": 70,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 10,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 10,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享快乐",
+      "获得认同",
+      "表达观点",
+      "缓解焦虑"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 30,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "求偶文案",
+        "score": 95
+      },
+      {
+        "topic": "单身生活",
+        "score": 80
+      },
+      {
+        "topic": "搞笑段子",
+        "score": 85
+      },
+      {
+        "topic": "恋爱技巧",
+        "score": 70
+      },
+      {
+        "topic": "星座",
+        "score": 60
+      }
+    ],
+    "impression": "一个用幽默掩饰孤独的沙雕网友，渴望爱情又害怕受伤，用自嘲和段子来化解尴尬。"
+  },
+  "analyzed_at": "2026-06-15T22:28:13.826547",
+  "token_usage": 2611
+}

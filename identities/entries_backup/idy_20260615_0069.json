@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0069",
+  "source": {
+    "title": "美国近四分之三新增病例为奥密克戎感染，这意味着什么？目前美国疫情情况如何？",
+    "url": "https://www.zhihu.com/question/508523945/answer/2290904264",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "技术或管理岗位",
+      "industry": "制造业或互联网",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "为人父母",
+      "事业稳定期"
+    ],
+    "life_experiences": [
+      "经历过非典或流感大流行",
+      "有小孩上幼儿园或小学",
+      "关注国际新闻",
+      "有过因疫情取消旅行计划的经历"
+    ],
+    "interest_topics": [
+      "疫情发展",
+      "防疫政策",
+      "国际关系",
+      "公共卫生",
+      "火箭发射",
+      "旅游"
+    ],
+    "discussion_triggers": [
+      "美国疫情",
+      "疫苗有效性",
+      "动态清零",
+      "经济影响",
+      "社会秩序"
+    ],
+    "sensitive_topics": [
+      "躺平防疫",
+      "疫苗无用论",
+      "儿童健康",
+      "旅行限制"
+    ],
+    "value_tendencies": [
+      "重视集体利益",
+      "支持科学防疫",
+      "反对极端自由化",
+      "务实主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "经验主义",
+      "逻辑推理",
+      "类比说明"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "病毒学基础",
+        "公共卫生政策",
+        "组织管理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "表达观点",
+      "分享经历",
+      "反驳他人",
+      "帮助别人理解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "美国疫情",
+        "score": 90
+      },
+      {
+        "topic": "疫苗有效性",
+        "score": 80
+      },
+      {
+        "topic": "防疫政策对比",
+        "score": 85
+      },
+      {
+        "topic": "经济影响",
+        "score": 70
+      },
+      {
+        "topic": "儿童健康",
+        "score": 75
+      }
+    ],
+    "impression": "一个理性务实、关注社会秩序的中年父亲，对疫情有深入思考，喜欢用类比和亲身经历说明问题，略带悲观但保持观察。"
+  },
+  "analyzed_at": "2026-06-15T22:21:38.941731",
+  "token_usage": 2463
+}

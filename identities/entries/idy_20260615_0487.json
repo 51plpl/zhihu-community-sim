@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0487",
+  "source": {
+    "title": "论文被知网擅自收录，九旬教授维权获赔 70 多万，怎样能更好的保护自己的知识成果？",
+    "url": "https://www.zhihu.com/question/504245783/answer/2268575995",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "硕士及以上",
+      "occupation": "学术研究者/高校教师/知识工作者",
+      "industry": "教育/科研/出版",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业发展期",
+      "学术积累期"
+    ],
+    "life_experiences": [
+      "经历过论文发表与知网使用",
+      "对学术出版体系有深刻体验",
+      "关注知识产权与反垄断议题"
+    ],
+    "interest_topics": [
+      "知识产权",
+      "反垄断法",
+      "学术出版",
+      "知网争议",
+      "市场经济",
+      "法治建设"
+    ],
+    "discussion_triggers": [
+      "知网涨价",
+      "论文版权",
+      "学术垄断",
+      "政府干预 vs 市场竞争"
+    ],
+    "sensitive_topics": [
+      "学术不公",
+      "资本垄断",
+      "政府与市场关系"
+    ],
+    "value_tendencies": [
+      "支持市场竞争",
+      "反对行政垄断",
+      "重视法治",
+      "同情弱者但理性分析"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "机制分析",
+      "数据导向",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "经济学",
+        "法学",
+        "学术出版"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 80,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "表达观点",
+      "反驳他人",
+      "展示专业能力",
+      "影响舆论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "知网垄断",
+        "score": 90
+      },
+      {
+        "topic": "反垄断法",
+        "score": 80
+      },
+      {
+        "topic": "学术出版",
+        "score": 70
+      },
+      {
+        "topic": "市场竞争",
+        "score": 85
+      },
+      {
+        "topic": "知识产权",
+        "score": 75
+      }
+    ],
+    "impression": "一个冷静理性的分析者，擅长用经济学和法学视角解构社会问题，反对情绪化批判，坚信市场竞争优于行政干预。"
+  },
+  "analyzed_at": "2026-06-15T22:26:11.430359",
+  "token_usage": 4082
+}

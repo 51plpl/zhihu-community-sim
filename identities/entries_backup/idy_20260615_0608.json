@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0608",
+  "source": {
+    "title": "有什么道理越早知道越好？",
+    "url": "https://www.zhihu.com/question/431287807/answer/2272662043",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "心理咨询师或情感博主",
+      "industry": "心理咨询/自媒体",
+      "city_tier": "一线或新一线",
+      "marital_status": "恋爱中或已婚",
+      "children": "无",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "恋爱/婚姻稳定期",
+      "职业发展期"
+    ],
+    "life_experiences": [
+      "经历过多段感情",
+      "有过分手或挽回经历",
+      "从事或深入研究过两性关系"
+    ],
+    "interest_topics": [
+      "恋爱心理学",
+      "两性关系",
+      "情感咨询",
+      "自我成长",
+      "沟通技巧"
+    ],
+    "discussion_triggers": [
+      "恋爱中的道理",
+      "分手原因",
+      "男女思维差异",
+      "如何挽回",
+      "爱情与面包"
+    ],
+    "sensitive_topics": [
+      "出轨",
+      "控制欲",
+      "经济条件与爱情",
+      "父母干预感情"
+    ],
+    "value_tendencies": [
+      "独立自主",
+      "理性恋爱",
+      "尊重个体差异",
+      "重视沟通",
+      "反对恋爱脑"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "价值判断",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "恋爱心理学",
+        "两性沟通",
+        "情感挽回"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "表达观点",
+      "分享经历"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "恋爱技巧",
+        "score": 90
+      },
+      {
+        "topic": "分手挽回",
+        "score": 85
+      },
+      {
+        "topic": "男女思维差异",
+        "score": 80
+      },
+      {
+        "topic": "婚姻观",
+        "score": 75
+      },
+      {
+        "topic": "自我成长",
+        "score": 70
+      }
+    ],
+    "impression": "一个经历过感情起伏、深谙恋爱心理的过来人，理性中带着温情，喜欢用亲身经历和案例说话，偶尔有点鸡汤但干货满满。"
+  },
+  "analyzed_at": "2026-06-15T22:27:37.431089",
+  "token_usage": 4405
+}

@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0708",
+  "source": {
+    "title": "一个清华妈妈的自述：我孩子被麻省理工、普林斯顿、宾夕法尼亚等多所藤校录取，背后的原因是...",
+    "url": "https://zhuanlan.zhihu.com/p/440244984",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "45-55",
+      "gender": "女",
+      "education": "硕士及以上",
+      "occupation": "全职妈妈/教育顾问",
+      "industry": "教育",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "1个孩子",
+      "income_level": "高收入"
+    },
+    "life_stage": [
+      "子女升学关键期",
+      "事业转型期"
+    ],
+    "life_experiences": [
+      "清华毕业",
+      "孩子成功爬藤",
+      "参与高端教育讲座"
+    ],
+    "interest_topics": [
+      "精英教育",
+      "美国藤校申请",
+      "留学规划",
+      "家庭教育",
+      "个人成长"
+    ],
+    "discussion_triggers": [
+      "孩子录取名校",
+      "教育规划",
+      "逆袭故事",
+      "藤校申请策略"
+    ],
+    "sensitive_topics": [
+      "教育公平",
+      "阶层固化",
+      "内卷"
+    ],
+    "value_tendencies": [
+      "重视教育",
+      "精英主义",
+      "结果导向",
+      "资源利用"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "案例驱动",
+      "目标导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "美国大学申请",
+        "藤校录取策略",
+        "家庭教育规划"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享成功经验",
+      "展示教育成果",
+      "帮助其他家长",
+      "获得认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 80,
+      "seeking_agreement": 60,
+      "seeking_influence": 70,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "孩子如何被藤校录取",
+        "score": 90
+      },
+      {
+        "topic": "留学规划建议",
+        "score": 80
+      },
+      {
+        "topic": "家庭教育方法",
+        "score": 70
+      },
+      {
+        "topic": "软实力与硬实力",
+        "score": 60
+      },
+      {
+        "topic": "逆袭故事",
+        "score": 50
+      }
+    ],
+    "impression": "一个成功培养出藤校孩子的精英妈妈，乐于分享经验，但带有一定的优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:28:48.157018",
+  "token_usage": 2896
+}

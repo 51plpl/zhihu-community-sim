@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0697",
+  "source": {
+    "title": "年度旗舰HKC PG27P5U显示器评测：Mini LED+4K+144Hz",
+    "url": "https://zhuanlan.zhihu.com/p/451616664",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "数码产品评测编辑/自媒体人",
+      "industry": "科技媒体",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "单身或恋爱中"
+    ],
+    "life_experiences": [
+      "长期接触各类数码产品",
+      "资深游戏玩家",
+      "参与过多次显示器评测"
+    ],
+    "interest_topics": [
+      "显示器技术",
+      "Mini LED",
+      "4K分辨率",
+      "高刷新率",
+      "电竞游戏",
+      "硬件评测",
+      "DIY装机"
+    ],
+    "discussion_triggers": [
+      "显示器选购",
+      "Mini LED vs OLED",
+      "4K游戏体验",
+      "HDMI 2.1接口",
+      "HDR认证"
+    ],
+    "sensitive_topics": [
+      "显示器价格争议",
+      "品牌对比",
+      "参数真实性"
+    ],
+    "value_tendencies": [
+      "技术至上",
+      "参数党",
+      "追求极致体验",
+      "理性消费"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "对比评测",
+      "细节描述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "显示器技术",
+        "电竞硬件",
+        "色彩管理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享专业知识",
+      "展示评测能力",
+      "帮助用户选购",
+      "获得认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "4K显示器推荐",
+        "score": 90
+      },
+      {
+        "topic": "Mini LED和OLED哪个好",
+        "score": 85
+      },
+      {
+        "topic": "HDMI 2.1必要性",
+        "score": 80
+      },
+      {
+        "topic": "电竞显示器选购指南",
+        "score": 85
+      }
+    ],
+    "impression": "一个技术流硬件评测者，热爱参数和实际体验，乐于分享但偶尔显得有点炫耀"
+  },
+  "analyzed_at": "2026-06-15T22:28:40.620148",
+  "token_usage": 3461
+}

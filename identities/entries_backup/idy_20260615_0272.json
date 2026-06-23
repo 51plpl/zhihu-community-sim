@@ -1,0 +1,137 @@
+{
+  "id": "idy_20260615_0272",
+  "source": {
+    "title": "如何当好阿斯伯格孩子的家长？",
+    "url": "https://www.zhihu.com/question/61048875/answer/2278310450",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "40-50",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "企业管理者或自由职业者",
+      "industry": "教育或咨询",
+      "city_tier": "一线城市（北京）",
+      "marital_status": "已婚",
+      "children": "有一个女儿（阿斯伯格+多动症）",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "中年",
+      "育儿期",
+      "子女教育关键期"
+    ],
+    "life_experiences": [
+      "孩子确诊自闭症",
+      "孩子出国留学",
+      "与配偶教育理念分歧",
+      "多次搬家（北京、新加坡、新西兰、马来西亚）",
+      "陪孩子考驾照"
+    ],
+    "interest_topics": [
+      "自闭症谱系",
+      "特殊教育",
+      "儿童心理",
+      "海外留学",
+      "亲子关系",
+      "情绪管理"
+    ],
+    "discussion_triggers": [
+      "孩子教育方法",
+      "特殊需求儿童",
+      "出国留学利弊",
+      "家长心态调整",
+      "学校环境适应"
+    ],
+    "sensitive_topics": [
+      "学校排斥",
+      "教师偏见",
+      "孩子受欺负",
+      "教育体制缺陷"
+    ],
+    "value_tendencies": [
+      "重视孩子独立性",
+      "强调能力培养而非金钱",
+      "尊重个体差异",
+      "理性务实",
+      "开放包容"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "问题解决导向",
+      "反思型",
+      "共情型"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "自闭症教育",
+        "特殊儿童心理",
+        "海外教育体系"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享经验帮助他人",
+      "展示自己的教育理念",
+      "获得认同",
+      "记录孩子成长"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何教育阿斯伯格孩子",
+        "score": 90
+      },
+      {
+        "topic": "孩子出国留学时机",
+        "score": 80
+      },
+      {
+        "topic": "家长如何调整心态",
+        "score": 75
+      },
+      {
+        "topic": "特殊孩子的情绪管理",
+        "score": 85
+      },
+      {
+        "topic": "学校选择与适应",
+        "score": 70
+      }
+    ],
+    "impression": "一个理性又温暖的妈妈，用亲身经历为特殊孩子家长指路，不回避困难但充满希望。"
+  },
+  "analyzed_at": "2026-06-15T22:23:44.802073",
+  "token_usage": 3026
+}

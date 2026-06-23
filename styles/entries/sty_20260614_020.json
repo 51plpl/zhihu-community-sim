@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_020",
+  "source": {
+    "title": "杭州土拍，传递了超预期信号",
+    "url": "https://zhuanlan.zhihu.com/p/448660772",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "混合风格，用词偏口语化但夹杂专业术语如“限价”“触顶摇号”",
+    "sentence_rhythm": "长短句交替，节奏明快，短句用于强调观点，长句用于描述细节",
+    "favorite_expressions": [
+      "其实",
+      "说白了",
+      "比如",
+      "当然",
+      "为什么这么说"
+    ],
+    "punctuation_habits": "多用感叹号增强情绪，逗号密度高，破折号用于补充说明",
+    "person_perspective": "第一人称“我”与第二人称“你”切换，增强互动感",
+    "emotion_intensity": "中等偏热烈，通过感叹号和反问句传递情绪"
+  },
+  "structure": {
+    "opening_pattern": "以事件（杭州土拍）直接切入，提出超预期信号",
+    "paragraph_rhythm": "段落长短不一，关键句独立成段，如“杭州喊涨，是政策觉悟高”",
+    "argument_logic": "归纳型，先列举杭州土拍细节，再推导出政策意图和市场趋势",
+    "transition_style": "口语化连接词如“其实”“为什么这么说”，部分直接跳转",
+    "closing_pattern": "行动号召，引导读者加群获取资料",
+    "title_pattern": "反常识+悬念，用“超预期信号”吸引点击"
+  },
+  "analyzed_at": "2026-06-14T22:54:59.112513",
+  "token_usage": 3566
+}

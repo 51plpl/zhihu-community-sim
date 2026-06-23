@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_032",
+  "source": {
+    "title": "双非一本计算机专业要卷绩点？还是努力打ACM算法竞赛？还是做项目？",
+    "url": "https://www.zhihu.com/question/503942370/answer/2260668228",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "混合，用词偏日常但包含少量专业术语如“ACM算法竞赛”“保研”“IOI”",
+    "sentence_rhythm": "短句为主，节奏明快，偶尔有长句解释，整体舒缓",
+    "favorite_expressions": [
+      "含金量",
+      "难度",
+      "如果...",
+      "楼主",
+      "建议"
+    ],
+    "punctuation_habits": "逗号密度高，使用问号引导思考，感叹号较少，破折号偶尔出现",
+    "person_perspective": "第二人称“你”和“楼主”为主，偶尔切换至第一人称“我”",
+    "emotion_intensity": "中等，理性分析但带有鼓励语气"
+  },
+  "structure": {
+    "opening_pattern": "直接亮观点，以三个并列问题开头",
+    "paragraph_rhythm": "段落长短交替，关键结论独立成段，如“任意一个方向做好了都是不错的”",
+    "argument_logic": "并列型，分别分析ACM、科研项目、绩点的难度和含金量，最后给出建议",
+    "transition_style": "口语化连接词，如“因为”“不过”“如果...那...”",
+    "closing_pattern": "行动号召，引导读者结合自身情况选择，并附上其他回答链接",
+    "title_pattern": "痛点提问，以三个选项引发读者思考"
+  },
+  "analyzed_at": "2026-06-14T22:55:10.072914",
+  "token_usage": 1591
+}

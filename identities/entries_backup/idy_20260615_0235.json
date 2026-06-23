@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0235",
+  "source": {
+    "title": "如何应对生活中的风险不对称问题？",
+    "url": "https://zhuanlan.zhihu.com/p/442565998",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "金融分析师/风险管理师",
+      "industry": "金融",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过金融危机或市场波动",
+      "曾因他人建议而亏损",
+      "通过考证转行或提升专业能力"
+    ],
+    "interest_topics": [
+      "风险管理",
+      "行为金融学",
+      "塔勒布著作",
+      "职业发展",
+      "投资哲学",
+      "制度设计"
+    ],
+    "discussion_triggers": [
+      "风险不对称案例",
+      "考证与专业能力",
+      "代理人问题",
+      "激励机制设计",
+      "金融监管"
+    ],
+    "sensitive_topics": [
+      "金融腐败",
+      "制度不公",
+      "专家建议的可信度",
+      "政府救助"
+    ],
+    "value_tendencies": [
+      "重视责任与担当",
+      "推崇实践出真知",
+      "厌恶空谈与虚伪",
+      "相信对称性公平"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "案例驱动",
+      "批判性思维",
+      "实践导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "金融风险管理",
+        "投资策略",
+        "制度经济学"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 60,
+      "likes_contrarian": 50,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享专业知识",
+      "纠正错误观念",
+      "启发他人思考",
+      "获得专业认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "非对称风险",
+        "score": 90
+      },
+      {
+        "topic": "塔勒布思想",
+        "score": 85
+      },
+      {
+        "topic": "考证与职业发展",
+        "score": 70
+      },
+      {
+        "topic": "金融监管改革",
+        "score": 75
+      },
+      {
+        "topic": "代理人问题",
+        "score": 80
+      }
+    ],
+    "impression": "一个理性务实、推崇实践的风险管理专家，喜欢用案例和逻辑拆解复杂问题，对空谈和虚伪深恶痛绝。"
+  },
+  "analyzed_at": "2026-06-15T22:23:22.570186",
+  "token_usage": 2741
+}

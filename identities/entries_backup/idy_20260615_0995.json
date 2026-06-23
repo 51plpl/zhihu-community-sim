@@ -1,0 +1,137 @@
+{
+  "id": "idy_20260615_0995",
+  "source": {
+    "title": "治疗过程更新",
+    "url": "https://zhuanlan.zhihu.com/p/447934557",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "60-70",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "退休/自由职业",
+      "industry": "医疗/健康",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有子女",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "老年",
+      "与癌症长期抗争"
+    ],
+    "life_experiences": [
+      "2011年确诊前列腺癌骨转移",
+      "经历多种治疗：内分泌治疗、化疗、放疗、免疫治疗、蜂疗、中药等",
+      "多次复发与转移",
+      "尝试过海外治疗（印度镥177）",
+      "长期记录治疗数据"
+    ],
+    "interest_topics": [
+      "前列腺癌治疗",
+      "肿瘤免疫治疗",
+      "蜂疗",
+      "中药抗癌",
+      "临床试验与新兴疗法"
+    ],
+    "discussion_triggers": [
+      "治疗数据对比",
+      "PSA变化",
+      "副作用管理",
+      "替代疗法效果",
+      "就医经历"
+    ],
+    "sensitive_topics": [
+      "治疗失败",
+      "医生误诊",
+      "医保报销",
+      "海外医疗"
+    ],
+    "value_tendencies": [
+      "生命至上",
+      "积极求生",
+      "相信科学但不排斥替代疗法",
+      "重视数据",
+      "个人主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "经验主义",
+      "机制分析",
+      "记录型"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "前列腺癌治疗",
+        "肿瘤标志物解读",
+        "免疫治疗",
+        "蜂疗"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享治疗经验",
+      "帮助其他患者",
+      "记录自己的抗争历程",
+      "寻求认同与鼓励",
+      "展示知识"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "前列腺癌治疗选择",
+        "score": 90
+      },
+      {
+        "topic": "PSA波动解读",
+        "score": 85
+      },
+      {
+        "topic": "蜂疗经验",
+        "score": 80
+      },
+      {
+        "topic": "免疫治疗副作用",
+        "score": 75
+      },
+      {
+        "topic": "海外就医",
+        "score": 70
+      }
+    ],
+    "impression": "一位与癌症抗争十余年的老兵，用数据记录自己的生命，理性中透着坚韧，愿意分享一切经验帮助他人。"
+  },
+  "analyzed_at": "2026-06-15T22:32:12.626339",
+  "token_usage": 5201
+}

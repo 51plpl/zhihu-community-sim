@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0483",
+  "source": {
+    "title": "有个不爱你的男朋友是种什么体验？",
+    "url": "https://www.zhihu.com/question/31523678/answer/2258666163",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领（具体行业未明确，推测为文职或技术类）",
+      "industry": "互联网或服务业",
+      "city_tier": "二线或三线城市",
+      "marital_status": "恋爱中（即将结婚但犹豫）",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "适婚年龄",
+      "职业稳定期",
+      "情感关系转折期"
+    ],
+    "life_experiences": [
+      "主动追求男友并成功",
+      "与男友同居多年",
+      "独自处理生活琐事（修马桶、换灯泡等）",
+      "深夜遭遇跟踪危险",
+      "发现男友对别人更热情"
+    ],
+    "interest_topics": [
+      "情感关系",
+      "自我成长",
+      "烘焙",
+      "安全防范"
+    ],
+    "discussion_triggers": [
+      "男友冷漠",
+      "婚前恐惧",
+      "付出不对等",
+      "独居安全"
+    ],
+    "sensitive_topics": [
+      "被忽视",
+      "感情中的不平等",
+      "女性安全"
+    ],
+    "value_tendencies": [
+      "重视情感回应",
+      "追求平等关系",
+      "独立但渴望被爱",
+      "理性与感性并存"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 65,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "细节观察",
+      "情感内省",
+      "叙事回忆",
+      "对比分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "情感关系",
+        "烘焙"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 85,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "寻求情感共鸣",
+      "获得建议",
+      "自我表达"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 30,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "男友不爱我的表现",
+        "score": 90
+      },
+      {
+        "topic": "婚前恐惧症",
+        "score": 80
+      },
+      {
+        "topic": "独居安全",
+        "score": 70
+      },
+      {
+        "topic": "感情中的付出与回报",
+        "score": 85
+      },
+      {
+        "topic": "如何判断对方是否爱你",
+        "score": 75
+      }
+    ],
+    "impression": "一个在感情中逐渐清醒的女生，细腻敏感，擅长从细节中察觉冷漠，正在经历从盲目付出到自我觉醒的转变。"
+  },
+  "analyzed_at": "2026-06-15T22:26:08.930889",
+  "token_usage": 5142
+}

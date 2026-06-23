@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0678",
+  "source": {
+    "title": "从零开始学数据分析，什么程度可以找工作，如何计划学习方案？",
+    "url": "https://www.zhihu.com/question/47760443/answer/2281124162",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "数据分析师",
+      "industry": "互联网",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业转型期",
+      "事业上升期"
+    ],
+    "life_experiences": [
+      "文科转行数据分析",
+      "自学能力不足，依赖付费课程",
+      "一年内从零基础到月薪20k"
+    ],
+    "interest_topics": [
+      "数据分析",
+      "职业转型",
+      "互联网行业",
+      "职场技能提升",
+      "在线教育"
+    ],
+    "discussion_triggers": [
+      "文科生转行",
+      "数据分析学习路径",
+      "月薪20k",
+      "开课吧体验课"
+    ],
+    "sensitive_topics": [
+      "学历歧视",
+      "自学vs报班",
+      "薪资对比"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "重视教育投资",
+      "相信努力改变命运"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "结构化思维",
+      "乐于分享"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "数据分析基础",
+        "Excel",
+        "SQL",
+        "业务分析"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人转行",
+      "展示专业能力",
+      "推广课程",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 80,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "文科生转行数据分析",
+        "score": 90
+      },
+      {
+        "topic": "数据分析学习资源推荐",
+        "score": 85
+      },
+      {
+        "topic": "数据分析师薪资",
+        "score": 75
+      },
+      {
+        "topic": "开课吧课程体验",
+        "score": 80
+      }
+    ],
+    "impression": "一个热情洋溢的转行成功者，喜欢分享自己的经验并推荐付费课程，有点营销味但确实干货满满。"
+  },
+  "analyzed_at": "2026-06-15T22:28:28.252150",
+  "token_usage": 3876
+}

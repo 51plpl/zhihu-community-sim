@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0475",
+  "source": {
+    "title": "2022年电饭煲推荐，一个人用的电饭煲推荐，一到两个人用的电饭煲推荐，精致小家电推荐",
+    "url": "https://zhuanlan.zhihu.com/p/445889489",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "家电评测博主/内容创作者",
+      "industry": "家电/消费电子",
+      "city_tier": "二线",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "单身独居",
+      "职业发展期",
+      "追求生活品质"
+    ],
+    "life_experiences": [
+      "独居生活多年",
+      "对厨卫电器有深入研究",
+      "经常撰写产品评测",
+      "可能有过宿舍生活经历"
+    ],
+    "interest_topics": [
+      "小家电",
+      "电饭煲",
+      "厨房电器",
+      "单人生活",
+      "性价比产品",
+      "家居收纳"
+    ],
+    "discussion_triggers": [
+      "单人电饭煲推荐",
+      "宿舍电器",
+      "小容量家电",
+      "不粘锅涂层",
+      "电饭煲功能对比"
+    ],
+    "sensitive_topics": [
+      "电饭煲品牌争议",
+      "内胆材质安全性",
+      "价格与性能的平衡"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "性价比导向",
+      "注重细节",
+      "乐于分享",
+      "幽默自嘲"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "数据导向",
+      "实用分析",
+      "幽默表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "电饭煲",
+        "小家电评测",
+        "厨房电器选购"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助他人选购",
+      "展示专业能力",
+      "获得认同",
+      "分享经验"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "单人电饭煲推荐",
+        "score": 95
+      },
+      {
+        "topic": "宿舍小家电",
+        "score": 85
+      },
+      {
+        "topic": "电饭煲内胆材质",
+        "score": 80
+      },
+      {
+        "topic": "小容量电饭煲评测",
+        "score": 90
+      },
+      {
+        "topic": "电饭煲性价比",
+        "score": 85
+      }
+    ],
+    "impression": "一个幽默自嘲、乐于分享的单身家电达人，对电饭煲如数家珍，用轻松口吻给独居者推荐精致小家电。"
+  },
+  "analyzed_at": "2026-06-15T22:26:02.200431",
+  "token_usage": 3203
+}

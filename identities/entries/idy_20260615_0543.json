@@ -1,0 +1,137 @@
+{
+  "id": "idy_20260615_0543",
+  "source": {
+    "title": "你见到过哪些让人眼前一亮的穿搭？",
+    "url": "https://www.zhihu.com/question/309829103/answer/2290791452",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科及以上",
+      "occupation": "时尚编辑/内容创作者/媒体从业者",
+      "industry": "时尚/媒体/自媒体",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业发展期",
+      "自我探索期"
+    ],
+    "life_experiences": [
+      "长期关注时尚潮流",
+      "有过穿搭风格转变经历",
+      "可能从事内容创作或编辑工作"
+    ],
+    "interest_topics": [
+      "时尚穿搭",
+      "复古风格",
+      "名人穿搭",
+      "中性风",
+      "配饰搭配",
+      "经典单品",
+      "电影服装",
+      "个人风格塑造"
+    ],
+    "discussion_triggers": [
+      "经典穿搭案例",
+      "年龄与穿衣自由",
+      "中性风穿搭",
+      "配饰搭配技巧",
+      "名人风格分析"
+    ],
+    "sensitive_topics": [
+      "年龄歧视",
+      "身材焦虑",
+      "时尚界的刻板印象"
+    ],
+    "value_tendencies": [
+      "崇尚个性表达",
+      "尊重多元风格",
+      "反对年龄限制",
+      "注重经典与持久",
+      "欣赏独立自信"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "案例导向",
+      "细节分析",
+      "历史比较",
+      "感性欣赏",
+      "实用主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "时尚史",
+        "名人穿搭",
+        "单品搭配",
+        "风格分析"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享时尚知识",
+      "启发他人穿搭",
+      "表达对经典风格的欣赏",
+      "获得认同与互动"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "经典单品推荐",
+        "score": 90
+      },
+      {
+        "topic": "年龄与穿搭",
+        "score": 85
+      },
+      {
+        "topic": "中性风搭配",
+        "score": 80
+      },
+      {
+        "topic": "名人风格分析",
+        "score": 75
+      },
+      {
+        "topic": "配饰搭配技巧",
+        "score": 70
+      }
+    ],
+    "impression": "一个热爱时尚、善于挖掘经典穿搭的分享者，语气亲切，带点文艺气息，喜欢用具体案例和细节打动读者。"
+  },
+  "analyzed_at": "2026-06-15T22:26:50.789491",
+  "token_usage": 4425
+}

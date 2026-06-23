@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0909",
+  "source": {
+    "title": "建筑师的被害妄想症，既是一种PTSD（创伤性应激障碍），也是一种缺乏文化自信。",
+    "url": "https://zhuanlan.zhihu.com/p/440459361",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "建筑师/建筑学者",
+      "industry": "建筑设计",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业早期",
+      "学术探索期"
+    ],
+    "life_experiences": [
+      "经历过建筑学教育中的理想与现实的冲突",
+      "参与过实际项目但感到无力",
+      "曾因坚持实用设计被导师批评"
+    ],
+    "interest_topics": [
+      "建筑理论",
+      "文化研究",
+      "社会批判",
+      "设计伦理",
+      "后殖民主义"
+    ],
+    "discussion_triggers": [
+      "建筑师自大案例",
+      "建筑教育弊端",
+      "文化自信话题",
+      "梦想改造家争议"
+    ],
+    "sensitive_topics": [
+      "建筑师被误解",
+      "西方中心主义",
+      "阶级品味",
+      "网络暴力"
+    ],
+    "value_tendencies": [
+      "批判权威",
+      "同情弱势群体",
+      "反对精英主义",
+      "支持本土文化"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "批判分析",
+      "历史视角",
+      "机制解构",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "建筑理论",
+        "建筑史",
+        "文化研究"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 80,
+      "likes_contrarian": 70,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "表达观点",
+      "反驳他人",
+      "展示专业能力",
+      "帮助别人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "梦想改造家争议",
+        "score": 90
+      },
+      {
+        "topic": "建筑教育问题",
+        "score": 85
+      },
+      {
+        "topic": "文化自信",
+        "score": 80
+      },
+      {
+        "topic": "建筑师社会角色",
+        "score": 75
+      },
+      {
+        "topic": "西方建筑理论",
+        "score": 70
+      }
+    ],
+    "impression": "一个愤怒又清醒的建筑学内部批判者，带着知识分子的优越感和对行业现状的深切失望。"
+  },
+  "analyzed_at": "2026-06-15T22:31:10.362674",
+  "token_usage": 3383
+}

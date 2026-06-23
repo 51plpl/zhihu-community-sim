@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0827",
+  "source": {
+    "title": "大家有没有免费手机兼职推荐，有没有靠谱一点的手机兼职推荐？",
+    "url": "https://www.zhihu.com/question/444600391/answer/2251849326",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "上班族/自由职业者",
+      "industry": "互联网/教育",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "已婚有孩",
+      "经济压力期",
+      "职业发展期"
+    ],
+    "life_experiences": [
+      "尝试多种兼职",
+      "做过在线教育",
+      "做过推广类兼职",
+      "使用过众包平台"
+    ],
+    "interest_topics": [
+      "兼职赚钱",
+      "副业",
+      "互联网赚钱",
+      "在线教育",
+      "短视频",
+      "自媒体"
+    ],
+    "discussion_triggers": [
+      "兼职推荐",
+      "副业讨论",
+      "补贴家用",
+      "省钱方法"
+    ],
+    "sensitive_topics": [
+      "割韭菜项目",
+      "兼职被骗",
+      "收入焦虑"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "勤奋",
+      "家庭责任感强",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "分类归纳",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "手机兼职",
+        "在线教育",
+        "自媒体投稿"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 10,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 40,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助别人",
+      "分享经历",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "手机兼职推荐",
+        "score": 95
+      },
+      {
+        "topic": "副业赚钱",
+        "score": 80
+      },
+      {
+        "topic": "在线教育",
+        "score": 70
+      },
+      {
+        "topic": "自媒体投稿",
+        "score": 60
+      },
+      {
+        "topic": "闲鱼卖货",
+        "score": 50
+      }
+    ],
+    "impression": "一个热心肠的过来人，自己通过兼职补贴家用，整理了大量经验分享给同样需要的人，朴实而真诚。"
+  },
+  "analyzed_at": "2026-06-15T22:30:12.386558",
+  "token_usage": 3138
+}

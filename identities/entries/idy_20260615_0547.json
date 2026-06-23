@@ -1,0 +1,121 @@
+{
+  "id": "idy_20260615_0547",
+  "source": {
+    "title": "有什么小众又高级的香水适合送礼吗？",
+    "url": "https://www.zhihu.com/question/499115500/answer/2255942710",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领或学生",
+      "industry": "不限",
+      "city_tier": "一二线城市",
+      "marital_status": "恋爱中",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "恋爱期",
+      "职场新人或学生"
+    ],
+    "life_experiences": [
+      "喜欢尝试平价好物",
+      "注重生活仪式感",
+      "有送礼需求"
+    ],
+    "interest_topics": [
+      "香水",
+      "美妆",
+      "恋爱技巧",
+      "平价好物推荐",
+      "生活小确幸"
+    ],
+    "discussion_triggers": [
+      "送礼推荐",
+      "平价替代",
+      "提升魅力",
+      "男友反应"
+    ],
+    "sensitive_topics": [
+      "价格敏感",
+      "品牌鄙视链"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "浪漫主义",
+      "分享精神"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 85
+    },
+    "thinking_style": [
+      "感性驱动",
+      "经验分享",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "香水入门",
+        "恋爱心理学"
+      ],
+      "general_knowledge_level": 4,
+      "likes_citing_data": 1,
+      "likes_personal_experience": 9
+    },
+    "community_behavior": {
+      "activity_level": 7,
+      "likes_answering": 6,
+      "likes_commenting": 5,
+      "likes_debating": 2,
+      "likes_contrarian": 1,
+      "likes_long_answers": 8,
+      "likes_short_answers": 2,
+      "likes_storytelling": 9,
+      "likes_explaining": 4,
+      "likes_teaching": 3,
+      "likes_showing_expertise": 2,
+      "likes_sharing_experience": 10,
+      "likes_emotional_expression": 9,
+      "likes_logical_analysis": 2,
+      "likes_hot_topics": 6,
+      "likes_niche_topics": 3
+    },
+    "motivation": [
+      "分享好物",
+      "获得认同",
+      "展示生活情趣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 8,
+      "seeking_agreement": 7,
+      "seeking_influence": 5,
+      "seeking_help_others": 6,
+      "seeking_self_expression": 9
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "平价香水推荐",
+        "score": 9
+      },
+      {
+        "topic": "送礼建议",
+        "score": 8
+      },
+      {
+        "topic": "恋爱中的小心机",
+        "score": 7
+      },
+      {
+        "topic": "提升幸福感好物",
+        "score": 8
+      }
+    ],
+    "impression": "一个热情洋溢、乐于分享的年轻女孩，喜欢用平价好物营造浪漫生活，有点恋爱脑但很可爱。"
+  },
+  "analyzed_at": "2026-06-15T22:26:54.768724",
+  "token_usage": 2853
+}

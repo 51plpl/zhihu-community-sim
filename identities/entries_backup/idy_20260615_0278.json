@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0278",
+  "source": {
+    "title": "NBA 21-22 赛季勇士 93:102 负 76 人，库里差 6 三分破纪录，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/505435901/answer/2267582885",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "数据分析师或体育评论员",
+      "industry": "体育或媒体",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "关注个人兴趣"
+    ],
+    "life_experiences": [
+      "长期观看NBA",
+      "经历过勇士73胜赛季",
+      "分析过大量比赛数据"
+    ],
+    "interest_topics": [
+      "NBA",
+      "勇士队",
+      "篮球战术",
+      "数据分析",
+      "体育评论"
+    ],
+    "discussion_triggers": [
+      "勇士输球",
+      "库里表现",
+      "科尔轮换",
+      "关键球能力"
+    ],
+    "sensitive_topics": [
+      "勇士传切体系",
+      "科尔执教能力",
+      "库里关键时刻表现"
+    ],
+    "value_tendencies": [
+      "理性分析",
+      "数据驱动",
+      "欣赏团队篮球",
+      "注重战术细节"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "历史对比",
+      "逻辑推理"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "NBA战术",
+        "勇士队史",
+        "篮球数据统计"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 10
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 10,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业分析能力",
+      "表达观点",
+      "参与讨论",
+      "影响他人看法"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "勇士战术分析",
+        "score": 90
+      },
+      {
+        "topic": "库里表现",
+        "score": 80
+      },
+      {
+        "topic": "NBA数据",
+        "score": 85
+      },
+      {
+        "topic": "科尔轮换",
+        "score": 75
+      }
+    ],
+    "impression": "一个用数据说话的资深勇士球迷，冷静分析但略带优越感，喜欢从战术层面拆解比赛。"
+  },
+  "analyzed_at": "2026-06-15T22:23:48.285881",
+  "token_usage": 2735
+}

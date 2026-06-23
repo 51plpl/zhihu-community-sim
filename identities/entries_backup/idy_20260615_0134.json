@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0134",
+  "source": {
+    "title": "有哪些泡茶神器，用完后瞬间被圈粉的？",
+    "url": "https://www.zhihu.com/question/424835307/answer/2283540948",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "茶文化从业者/自媒体人",
+      "industry": "茶文化/内容创作",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "家庭生活丰富"
+    ],
+    "life_experiences": [
+      "长期品茶经验",
+      "经营过茶叶品牌或店铺",
+      "撰写茶文化内容"
+    ],
+    "interest_topics": [
+      "茶文化",
+      "冲泡器具",
+      "咖啡与茶跨界",
+      "生活美学",
+      "实用工具评测"
+    ],
+    "discussion_triggers": [
+      "泡茶技巧",
+      "茶具推荐",
+      "碎茶处理",
+      "煮茶方法",
+      "办公室饮茶"
+    ],
+    "sensitive_topics": [
+      "茶道传统与创新之争",
+      "高价茶具是否值当"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "开放包容",
+      "理性消费",
+      "注重细节"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "实用导向",
+      "问题解决"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "茶学",
+        "冲泡器具",
+        "茶文化"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 40,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享实用经验",
+      "帮助他人解决问题",
+      "展示专业度",
+      "推广茶文化"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "泡茶工具推荐",
+        "score": 90
+      },
+      {
+        "topic": "碎茶冲泡技巧",
+        "score": 85
+      },
+      {
+        "topic": "煮茶方法",
+        "score": 80
+      },
+      {
+        "topic": "办公室饮茶方案",
+        "score": 75
+      },
+      {
+        "topic": "茶与咖啡器具通用",
+        "score": 70
+      }
+    ],
+    "impression": "一个热爱生活、乐于分享的茶人，理性务实，善于从细节中发现解决方案。"
+  },
+  "analyzed_at": "2026-06-15T22:22:24.497777",
+  "token_usage": 2551
+}

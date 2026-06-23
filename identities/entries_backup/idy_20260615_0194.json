@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0194",
+  "source": {
+    "title": "你对《凡人修仙传之魔道争锋》的改编有什么建议？",
+    "url": "https://www.zhihu.com/question/507871389/answer/2282736196",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "内容策划/编剧/游戏策划",
+      "industry": "文化传媒",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "兴趣驱动学习期"
+    ],
+    "life_experiences": [
+      "深度参与过影视或游戏内容创作",
+      "长期追更网络小说",
+      "在社区中发表过大量长文分析"
+    ],
+    "interest_topics": [
+      "凡人修仙传",
+      "网络小说改编",
+      "世界观构建",
+      "角色塑造",
+      "修仙题材",
+      "编剧技巧",
+      "动画制作"
+    ],
+    "discussion_triggers": [
+      "改编作品的世界观缺失",
+      "角色行为逻辑不合理",
+      "原著与改编对比",
+      "修仙题材的设定讨论"
+    ],
+    "sensitive_topics": [
+      "改编毁原著",
+      "编剧水平差",
+      "特效敷衍"
+    ],
+    "value_tendencies": [
+      "重视逻辑自洽",
+      "推崇原著精神",
+      "反对过度商业化改编",
+      "尊重创作规律"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "系统思维",
+      "比较分析",
+      "案例论证"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "凡人修仙传原著",
+        "世界观设计",
+        "角色塑造理论",
+        "动画改编实务"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享专业见解",
+      "影响改编方向",
+      "获得同好认可",
+      "纠正错误认知"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 80,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "凡人修仙传改编建议",
+        "score": 95
+      },
+      {
+        "topic": "世界观构建方法",
+        "score": 90
+      },
+      {
+        "topic": "角色行为逻辑分析",
+        "score": 85
+      },
+      {
+        "topic": "修仙题材设定",
+        "score": 80
+      },
+      {
+        "topic": "动画制作质量",
+        "score": 70
+      }
+    ],
+    "impression": "一个深爱原著、逻辑严谨的考据党，试图用系统思维拯救改编作品的世界观"
+  },
+  "analyzed_at": "2026-06-15T22:22:56.489280",
+  "token_usage": 3451
+}

@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0846",
+  "source": {
+    "title": "vbs无法拒绝的表白代码",
+    "url": "https://zhuanlan.zhihu.com/p/350877742",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "男",
+      "education": "本科在读或大专",
+      "occupation": "学生或初级程序员",
+      "industry": "信息技术",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "低"
+    },
+    "life_stage": [
+      "青春期",
+      "恋爱探索期",
+      "技能学习期"
+    ],
+    "life_experiences": [
+      "学习编程基础",
+      "尝试用技术手段表白",
+      "在CSDN等平台分享代码"
+    ],
+    "interest_topics": [
+      "VBS脚本",
+      "表白代码",
+      "Python",
+      "turtle绘图",
+      "CSDN博客",
+      "技术恶作剧"
+    ],
+    "discussion_triggers": [
+      "表白技巧",
+      "VBS脚本应用",
+      "Python画爱心",
+      "电脑小把戏"
+    ],
+    "sensitive_topics": [
+      "拒绝表白",
+      "感情失败",
+      "技术被嘲笑"
+    ],
+    "value_tendencies": [
+      "浪漫主义",
+      "实用主义",
+      "技术乐观主义",
+      "略带直男思维"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "经验主义",
+      "动手实践",
+      "分享导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "VBS脚本",
+        "Python基础",
+        "CSDN博客写作"
+      ],
+      "general_knowledge_level": 40,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 40,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享技术成果",
+      "帮助他人实现表白",
+      "获得认同和点赞",
+      "展示自己的技术能力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 80,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "VBS表白代码",
+        "score": 90
+      },
+      {
+        "topic": "Python画爱心",
+        "score": 80
+      },
+      {
+        "topic": "CSDN博客技巧",
+        "score": 70
+      },
+      {
+        "topic": "表白套路",
+        "score": 60
+      },
+      {
+        "topic": "电脑恶作剧",
+        "score": 50
+      }
+    ],
+    "impression": "一个有点浪漫但技术稚嫩的程序员，喜欢用代码表达感情，乐于分享但稍显稚嫩。"
+  },
+  "analyzed_at": "2026-06-15T22:30:25.196715",
+  "token_usage": 2790
+}

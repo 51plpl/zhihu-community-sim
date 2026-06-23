@@ -1,0 +1,123 @@
+{
+  "id": "idy_20260615_0726",
+  "source": {
+    "title": "有什么超甜的短篇小说？",
+    "url": "https://www.zhihu.com/question/333872580/answer/2273234808",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-32",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "资深社畜（可能从事市场、运营或行政类工作）",
+      "industry": "互联网或服务业",
+      "city_tier": "二线或新一线城市",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "职场上升期",
+      "情感空窗期"
+    ],
+    "life_experiences": [
+      "分手后努力提升自己",
+      "独自面对生活困境",
+      "有过一段刻骨铭心的恋情"
+    ],
+    "interest_topics": [
+      "言情小说",
+      "职场成长",
+      "情感关系",
+      "自我提升"
+    ],
+    "discussion_triggers": [
+      "前任话题",
+      "医院尴尬经历",
+      "分手后如何变得更好",
+      "偶遇前任"
+    ],
+    "sensitive_topics": [
+      "前任",
+      "阶级差距",
+      "婚姻压力"
+    ],
+    "value_tendencies": [
+      "独立自强",
+      "好面子",
+      "不甘示弱",
+      "重视体面"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "职场生存",
+        "情感心理"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "获得认同",
+      "寻求共鸣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "分手后如何调整心态",
+        "score": 90
+      },
+      {
+        "topic": "偶遇前任的尴尬经历",
+        "score": 85
+      },
+      {
+        "topic": "职场女性如何平衡感情与工作",
+        "score": 75
+      },
+      {
+        "topic": "推荐好看的言情小说",
+        "score": 70
+      }
+    ],
+    "impression": "一个外表坚强内心柔软的都市女性，擅长用幽默化解尴尬，但骨子里仍在意过去的感情。"
+  },
+  "analyzed_at": "2026-06-15T22:28:59.991113",
+  "token_usage": 5144
+}

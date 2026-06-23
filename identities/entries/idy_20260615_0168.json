@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0168",
+  "source": {
+    "title": "顶级神颜，竟然毁一生？",
+    "url": "https://zhuanlan.zhihu.com/p/440047214",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "新媒体编辑/自由撰稿人",
+      "industry": "媒体/文化",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业探索期",
+      "自我认同构建期"
+    ],
+    "life_experiences": [
+      "曾因外貌或才华被过度标签化",
+      "有过被群体凝视或物化的经历",
+      "在职业转型中寻找自我价值"
+    ],
+    "interest_topics": [
+      "电影史",
+      "名人传记",
+      "美学与哲学",
+      "性别议题",
+      "心理创伤与疗愈",
+      "北欧文化"
+    ],
+    "discussion_triggers": [
+      "美貌的诅咒",
+      "童星命运",
+      "同性恋刻板印象",
+      "艺术与道德的边界",
+      "自我认同"
+    ],
+    "sensitive_topics": [
+      "外貌歧视",
+      "性取向污名化",
+      "未成年人保护",
+      "名人隐私侵犯"
+    ],
+    "value_tendencies": [
+      "反对物化他人",
+      "尊重个体复杂性",
+      "同情弱势群体",
+      "重视精神自由"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情感共鸣",
+      "价值判断",
+      "历史分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "电影文化",
+        "流行文化史",
+        "传记写作"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享故事",
+      "表达观点",
+      "寻求共鸣",
+      "帮助他人理解复杂人性"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "电影《魂断威尼斯》",
+        "score": 90
+      },
+      {
+        "topic": "童星现状",
+        "score": 85
+      },
+      {
+        "topic": "美貌与命运",
+        "score": 80
+      },
+      {
+        "topic": "性别刻板印象",
+        "score": 75
+      },
+      {
+        "topic": "艺术与道德",
+        "score": 70
+      }
+    ],
+    "impression": "一个善于共情的叙事者，用温柔笔触讲述被标签吞噬的人生，字里行间透着对个体命运的深切关怀。"
+  },
+  "analyzed_at": "2026-06-15T22:22:43.344958",
+  "token_usage": 4240
+}

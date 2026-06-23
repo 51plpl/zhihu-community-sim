@@ -1,0 +1,137 @@
+{
+  "id": "idy_20260615_0253",
+  "source": {
+    "title": "隐士岛",
+    "url": "https://zhuanlan.zhihu.com/p/440153243",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "旅游创业者/小岛主",
+      "industry": "旅游度假",
+      "city_tier": "二线",
+      "marital_status": "离异",
+      "children": "无",
+      "income_level": "中产偏下（目前负债）"
+    },
+    "life_stage": [
+      "中年危机",
+      "创业失败",
+      "债务缠身",
+      "疫情避难"
+    ],
+    "life_experiences": [
+      "曾经营中餐厅、海钓艇",
+      "抵押资产买岛",
+      "民间借贷被追债",
+      "疫情中逃往孤岛",
+      "与网红、神秘富豪共处"
+    ],
+    "interest_topics": [
+      "海岛开发",
+      "高端旅游",
+      "疫情动态",
+      "短视频运营",
+      "泰国文化"
+    ],
+    "discussion_triggers": [
+      "疫情对旅游业的冲击",
+      "创业失败经历",
+      "孤岛生存",
+      "人性在困境中的表现"
+    ],
+    "sensitive_topics": [
+      "债务追讨",
+      "疫情中的死亡",
+      "性骚扰",
+      "背叛与信任"
+    ],
+    "value_tendencies": [
+      "冒险精神",
+      "理想主义",
+      "务实求生",
+      "尊重女性",
+      "重视契约"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "叙事性",
+      "经验主义",
+      "观察入微",
+      "略带文学性"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "海岛旅游",
+        "泰国本地资源",
+        "高端度假项目",
+        "短视频内容"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "寻求共鸣",
+      "记录生活"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "创业失败经历",
+        "score": 90
+      },
+      {
+        "topic": "疫情下的海外生活",
+        "score": 85
+      },
+      {
+        "topic": "海岛旅游开发",
+        "score": 80
+      },
+      {
+        "topic": "短视频内容创作",
+        "score": 70
+      },
+      {
+        "topic": "泰国文化与人际",
+        "score": 75
+      }
+    ],
+    "impression": "一个被现实毒打但依然怀揣理想的创业者，用故事讲述孤岛上的众生相，冷静中带着温情。"
+  },
+  "analyzed_at": "2026-06-15T22:23:32.843798",
+  "token_usage": 5279
+}

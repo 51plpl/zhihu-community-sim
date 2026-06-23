@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0199",
+  "source": {
+    "title": "如何看待新城控股即将大规模裁员是否属实？",
+    "url": "https://www.zhihu.com/question/503990927/answer/2258809120",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "房地产行业分析师或投资者",
+      "industry": "房地产/金融",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过房地产周期波动",
+      "关注企业财务与资本市场",
+      "有投资经验"
+    ],
+    "interest_topics": [
+      "房地产行业动态",
+      "企业融资与资本运作",
+      "股市与投资",
+      "组织架构调整",
+      "宏观经济"
+    ],
+    "discussion_triggers": [
+      "房企裁员传闻",
+      "企业融资公告",
+      "行业政策变化",
+      "评级调整"
+    ],
+    "sensitive_topics": [
+      "裁员",
+      "债务违约",
+      "行业下行"
+    ],
+    "value_tendencies": [
+      "务实",
+      "理性",
+      "注重数据",
+      "相信市场逻辑"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 55
+    },
+    "thinking_style": [
+      "数据导向",
+      "逻辑分析",
+      "机制分析",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "房地产",
+        "企业财务",
+        "资本市场"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助别人理解",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "房企裁员",
+        "score": 90
+      },
+      {
+        "topic": "企业融资",
+        "score": 85
+      },
+      {
+        "topic": "房地产政策",
+        "score": 80
+      },
+      {
+        "topic": "股市分析",
+        "score": 70
+      },
+      {
+        "topic": "组织架构调整",
+        "score": 75
+      }
+    ],
+    "impression": "一个理性务实、善于用数据和逻辑说话的行业观察者，倾向于从企业基本面解读新闻，对市场传闻持谨慎态度。"
+  },
+  "analyzed_at": "2026-06-15T22:22:58.938107",
+  "token_usage": 2684
+}

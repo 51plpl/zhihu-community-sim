@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0070",
+  "source": {
+    "title": "大学退学没有文凭真的有出路吗？",
+    "url": "https://www.zhihu.com/question/508252638/answer/2285625835",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科（专升本）",
+      "occupation": "普通职员",
+      "industry": "未知",
+      "city_tier": "二线或三线",
+      "marital_status": "未知",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "青年期",
+      "职业探索期"
+    ],
+    "life_experiences": [
+      "高中患抑郁症",
+      "大专毕业",
+      "工作后专升本",
+      "被炒过几次",
+      "早产儿，体质弱"
+    ],
+    "interest_topics": [
+      "抑郁症",
+      "心理健康",
+      "学历提升",
+      "职业规划",
+      "名人故事",
+      "灵异/鬼怪"
+    ],
+    "discussion_triggers": [
+      "抑郁症相关话题",
+      "退学/学历问题",
+      "工作不顺",
+      "人生意义"
+    ],
+    "sensitive_topics": [
+      "抑郁症自杀",
+      "鬼怪迷信",
+      "学历歧视"
+    ],
+    "value_tendencies": [
+      "重视健康",
+      "相信个人努力",
+      "尊重多元路径",
+      "略带宿命论"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "情感驱动",
+      "类比联想"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "抑郁症体验",
+        "学历提升途径"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人",
+      "分享经历",
+      "表达观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "抑郁症",
+        "score": 90
+      },
+      {
+        "topic": "退学/学历",
+        "score": 85
+      },
+      {
+        "topic": "职业规划",
+        "score": 70
+      },
+      {
+        "topic": "灵异经历",
+        "score": 60
+      }
+    ],
+    "impression": "一个经历过抑郁症和学历挫折、内心敏感但积极向上的过来人，喜欢用个人经历和名人故事鼓励他人，偶尔流露迷信倾向。"
+  },
+  "analyzed_at": "2026-06-15T22:21:40.550321",
+  "token_usage": 2823
+}

@@ -1,0 +1,121 @@
+{
+  "id": "idy_20260615_0997",
+  "source": {
+    "title": "想问下比如做了近视手术全飞秒后要是再度近视还能再做晶体植入吗?",
+    "url": "https://www.zhihu.com/question/506761034/answer/2284645204",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "未明确",
+      "education": "本科及以上",
+      "occupation": "医疗健康相关从业者或科普爱好者",
+      "industry": "医疗/健康/科普",
+      "city_tier": "一二线城市",
+      "marital_status": "未知",
+      "children": "未知",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "健康关注期"
+    ],
+    "life_experiences": [
+      "可能做过近视手术或身边有人做过",
+      "对眼科手术有深入研究"
+    ],
+    "interest_topics": [
+      "近视手术",
+      "眼科健康",
+      "医疗科普",
+      "手术风险",
+      "术后护理"
+    ],
+    "discussion_triggers": [
+      "近视手术相关问题",
+      "术后再次近视",
+      "手术安全性"
+    ],
+    "sensitive_topics": [
+      "手术失败",
+      "医疗事故",
+      "过度用眼"
+    ],
+    "value_tendencies": [
+      "重视科学依据",
+      "谨慎对待医疗决策",
+      "强调术后护理"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "眼科手术",
+        "近视矫正",
+        "术后护理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 80,
+      "likes_commenting": 40,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "分享知识"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "近视手术",
+        "score": 90
+      },
+      {
+        "topic": "术后护理",
+        "score": 85
+      },
+      {
+        "topic": "手术风险",
+        "score": 80
+      },
+      {
+        "topic": "眼科医院选择",
+        "score": 70
+      }
+    ],
+    "impression": "一个谨慎而专业的医疗科普爱好者，喜欢用数据和机制解释问题，但也不忘提醒保护眼睛。"
+  },
+  "analyzed_at": "2026-06-15T22:32:14.244009",
+  "token_usage": 2733
+}

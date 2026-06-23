@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0632",
+  "source": {
+    "title": "老实的人真的没有好报吗？",
+    "url": "https://zhuanlan.zhihu.com/p/450790141",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "高中或中专",
+      "occupation": "小生意人",
+      "industry": "个体经营",
+      "city_tier": "三线及以下",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年",
+      "事业稳定期"
+    ],
+    "life_experiences": [
+      "早年辍学经商",
+      "有发小成为医生",
+      "曾为朋友出头打架",
+      "逐渐领悟人情世故"
+    ],
+    "interest_topics": [
+      "人际关系",
+      "社会现象",
+      "人情世故",
+      "成功学",
+      "医疗资源"
+    ],
+    "discussion_triggers": [
+      "老实人吃亏",
+      "朋友义气",
+      "社会不公",
+      "人情冷暖"
+    ],
+    "sensitive_topics": [
+      "被欺负",
+      "忘恩负义",
+      "朋友背叛"
+    ],
+    "value_tendencies": [
+      "重义气",
+      "务实",
+      "相信因果报应",
+      "尊重能力"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "故事叙述",
+      "经验总结",
+      "人情洞察"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "人情世故",
+        "小生意经营"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 30,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 50,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 60,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 20
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "获得认同",
+      "帮助他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "老实人是否吃亏",
+        "score": 90
+      },
+      {
+        "topic": "朋友义气",
+        "score": 85
+      },
+      {
+        "topic": "人情世故",
+        "score": 80
+      },
+      {
+        "topic": "医疗资源",
+        "score": 60
+      },
+      {
+        "topic": "成功学",
+        "score": 50
+      }
+    ],
+    "impression": "一个讲义气、重感情的小生意人，通过亲身经历悟出“老实人未必没好报”的道理，说话带着江湖气和人情味。"
+  },
+  "analyzed_at": "2026-06-15T22:27:53.734351",
+  "token_usage": 2492
+}

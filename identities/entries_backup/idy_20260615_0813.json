@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0813",
+  "source": {
+    "title": "22届MPA复试考什么，早看早上岸",
+    "url": "https://zhuanlan.zhihu.com/p/451626668",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "硕士在读（MPA）",
+      "occupation": "公务员/事业单位职员",
+      "industry": "公共管理",
+      "city_tier": "二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "求学深造期",
+      "职业上升期"
+    ],
+    "life_experiences": [
+      "考研成功上岸",
+      "备考MPA复试",
+      "工作与学习平衡"
+    ],
+    "interest_topics": [
+      "MPA考研",
+      "公共管理",
+      "公务员考试",
+      "面试技巧",
+      "英语口语",
+      "政治理论"
+    ],
+    "discussion_triggers": [
+      "复试备考经验",
+      "考研资料分享",
+      "面试技巧",
+      "英语口语提升"
+    ],
+    "sensitive_topics": [
+      "考研失败",
+      "复试被刷",
+      "学历歧视"
+    ],
+    "value_tendencies": [
+      "务实",
+      "上进",
+      "乐于分享",
+      "注重效率"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "结构化思维",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "MPA复试",
+        "公共管理",
+        "面试技巧"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助他人",
+      "分享经验",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "MPA复试经验",
+        "score": 90
+      },
+      {
+        "topic": "考研政治复习",
+        "score": 80
+      },
+      {
+        "topic": "英语口语提升",
+        "score": 70
+      },
+      {
+        "topic": "面试技巧",
+        "score": 85
+      },
+      {
+        "topic": "公共管理专业",
+        "score": 60
+      }
+    ],
+    "impression": "一个热心分享考研经验的学姐，务实且有条理，喜欢用亲身经历鼓励他人。"
+  },
+  "analyzed_at": "2026-06-15T22:30:00.737227",
+  "token_usage": 4522
+}

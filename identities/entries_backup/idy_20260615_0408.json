@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0408",
+  "source": {
+    "title": "“意念” 影响身体，远超想象！",
+    "url": "https://zhuanlan.zhihu.com/p/441921598",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-55",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "身心灵导师/自由职业者",
+      "industry": "身心灵成长",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年转型",
+      "健康觉醒期"
+    ],
+    "life_experiences": [
+      "曾患慢性疾病通过意念疗愈",
+      "学习过量子物理和身心灵课程",
+      "参与过冥想和能量疗愈工作坊"
+    ],
+    "interest_topics": [
+      "量子物理",
+      "身心灵成长",
+      "能量疗愈",
+      "冥想",
+      "吸引力法则",
+      "中医养生"
+    ],
+    "discussion_triggers": [
+      "疾病与意念的关系",
+      "吸引力法则的真实案例",
+      "如何提升能量",
+      "冥想的好处"
+    ],
+    "sensitive_topics": [
+      "西医无效论",
+      "宗教争议",
+      "伪科学质疑"
+    ],
+    "value_tendencies": [
+      "唯心主义",
+      "整体论",
+      "积极乐观",
+      "相信内在力量",
+      "反对过度医疗"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "直觉优先",
+      "类比推理",
+      "故事化思维",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "身心灵疗愈",
+        "能量医学",
+        "冥想"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享疗愈经验",
+      "帮助他人走出疾病困扰",
+      "传播正能量",
+      "获得认同感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何通过意念改善健康",
+        "score": 90
+      },
+      {
+        "topic": "吸引力法则真的有效吗",
+        "score": 85
+      },
+      {
+        "topic": "冥想入门方法",
+        "score": 80
+      },
+      {
+        "topic": "量子物理与身心灵",
+        "score": 75
+      },
+      {
+        "topic": "疾病的心理原因",
+        "score": 70
+      }
+    ],
+    "impression": "一个经历过疾病并从中觉醒的温暖疗愈者，相信意念的力量，乐于分享自己的转变故事。"
+  },
+  "analyzed_at": "2026-06-15T22:25:15.369324",
+  "token_usage": 4137
+}

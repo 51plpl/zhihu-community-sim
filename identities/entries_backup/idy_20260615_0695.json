@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0695",
+  "source": {
+    "title": "画册对折打印排版应该怎么设计？",
+    "url": "https://www.zhihu.com/question/52354475/answer/2277472700",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男性",
+      "education": "本科",
+      "occupation": "平面设计师 / 设计公司负责人",
+      "industry": "广告/设计",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "创业或管理阶段"
+    ],
+    "life_experiences": [
+      "多年设计行业从业经验",
+      "服务过多家企业宣传册项目",
+      "经历过从设计到印刷的全流程"
+    ],
+    "interest_topics": [
+      "平面设计",
+      "印刷工艺",
+      "品牌宣传",
+      "企业营销",
+      "设计软件"
+    ],
+    "discussion_triggers": [
+      "画册排版技巧",
+      "印刷成本控制",
+      "设计案例分享",
+      "客户沟通经验"
+    ],
+    "sensitive_topics": [
+      "低价设计竞争",
+      "客户审美差",
+      "印刷质量问题"
+    ],
+    "value_tendencies": [
+      "专业主义",
+      "实用主义",
+      "客户导向",
+      "注重细节"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "平面设计",
+        "印刷工艺",
+        "企业宣传册设计"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人",
+      "展示专业能力",
+      "获得客户",
+      "分享经验"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "画册设计",
+        "score": 95
+      },
+      {
+        "topic": "印刷工艺",
+        "score": 90
+      },
+      {
+        "topic": "企业宣传",
+        "score": 80
+      },
+      {
+        "topic": "设计软件",
+        "score": 70
+      },
+      {
+        "topic": "品牌策划",
+        "score": 60
+      }
+    ],
+    "impression": "一个经验丰富、乐于分享的资深设计师，说话像在给客户上课，但也不忘推广自己的业务。"
+  },
+  "analyzed_at": "2026-06-15T22:28:38.046520",
+  "token_usage": 3153
+}

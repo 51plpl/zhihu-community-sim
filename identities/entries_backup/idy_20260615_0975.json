@@ -1,0 +1,137 @@
+{
+  "id": "idy_20260615_0975",
+  "source": {
+    "title": "如何评价《再见爱人》中的朱雅琼？",
+    "url": "https://www.zhihu.com/question/478996947/answer/2252218471",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "女",
+      "education": "硕士",
+      "occupation": "音乐人/创业者",
+      "industry": "娱乐/文化",
+      "city_tier": "一线城市（北京）",
+      "marital_status": "离异",
+      "children": "有（一个孩子）",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "离异单身母亲",
+      "职业转型期",
+      "自我探索期"
+    ],
+    "life_experiences": [
+      "参加超女选秀",
+      "从艺人转型读研",
+      "创业做舞台剧公司",
+      "经历离婚与复婚",
+      "在武汉经历疫情封城",
+      "长期处于抑郁情绪"
+    ],
+    "interest_topics": [
+      "音乐",
+      "心理学",
+      "女性成长",
+      "亲密关系",
+      "自我认知",
+      "综艺节目"
+    ],
+    "discussion_triggers": [
+      "离婚综艺",
+      "女性独立",
+      "抑郁经历",
+      "婚姻中的权力关系",
+      "职业转型"
+    ],
+    "sensitive_topics": [
+      "被控制感",
+      "自我价值否定",
+      "婚姻失败",
+      "亲子关系"
+    ],
+    "value_tendencies": [
+      "重视自我实现",
+      "追求平等关系",
+      "尊重个体差异",
+      "相信成长可能"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "内省反思",
+      "情感叙事",
+      "故事化表达",
+      "细节描述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "音乐制作",
+        "舞台剧",
+        "综艺行业"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "寻求共鸣",
+      "自我表达",
+      "帮助他人理解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "离婚综艺",
+        "score": 90
+      },
+      {
+        "topic": "女性成长",
+        "score": 85
+      },
+      {
+        "topic": "抑郁经历",
+        "score": 80
+      },
+      {
+        "topic": "婚姻关系",
+        "score": 75
+      },
+      {
+        "topic": "职业转型",
+        "score": 70
+      }
+    ],
+    "impression": "一个从被规训中觉醒、在痛苦中寻找自我的女性，坦诚而脆弱，用故事疗愈自己与他人。"
+  },
+  "analyzed_at": "2026-06-15T22:31:57.608544",
+  "token_usage": 4814
+}

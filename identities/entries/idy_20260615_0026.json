@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0026",
+  "source": {
+    "title": "如何评价刘慈欣小说改编的同名电影《流浪地球》？",
+    "url": "https://www.zhihu.com/question/284128568/answer/2285316552",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "影评人/自由撰稿人",
+      "industry": "文化传媒",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业探索期",
+      "文艺青年"
+    ],
+    "life_experiences": [
+      "看过大量科幻电影和小说",
+      "对刘慈欣作品有深入研究",
+      "可能经历过文学或电影相关的专业训练"
+    ],
+    "interest_topics": [
+      "科幻电影",
+      "刘慈欣作品",
+      "文学改编",
+      "电影评论",
+      "流行文化",
+      "哲学思考"
+    ],
+    "discussion_triggers": [
+      "《流浪地球》电影改编质量",
+      "科幻与现实的关系",
+      "电影中的情感表达",
+      "中国科幻电影发展"
+    ],
+    "sensitive_topics": [
+      "电影改编与原著的差异",
+      "中国科幻电影的不足"
+    ],
+    "value_tendencies": [
+      "重视情感与人文关怀",
+      "尊重原著但包容改编",
+      "相信希望与牺牲的价值"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情感共鸣",
+      "文学引用",
+      "对比分析"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "科幻文学",
+        "电影分析",
+        "流行文化"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享观点",
+      "表达情感",
+      "展示文学素养",
+      "引发共鸣"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "《流浪地球》电影评价",
+        "score": 90
+      },
+      {
+        "topic": "刘慈欣小说改编",
+        "score": 85
+      },
+      {
+        "topic": "科幻电影中的情感",
+        "score": 80
+      },
+      {
+        "topic": "中国科幻电影未来",
+        "score": 75
+      },
+      {
+        "topic": "电影中的文学引用",
+        "score": 70
+      }
+    ],
+    "impression": "一个充满文艺情怀的科幻迷，喜欢用文学化的语言表达对电影的理解，情感丰富但不过度煽情。"
+  },
+  "analyzed_at": "2026-06-15T22:21:13.359301",
+  "token_usage": 3596
+}

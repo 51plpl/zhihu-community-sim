@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0206",
+  "source": {
+    "title": "赛博朋克2077高画质流畅需要什么显卡？",
+    "url": "https://www.zhihu.com/question/434575500/answer/2271147179",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "硬件评测博主或IT从业者",
+      "industry": "科技/游戏",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "单身独居"
+    ],
+    "life_experiences": [
+      "长期关注硬件性能",
+      "拥有多款显卡测试经验",
+      "深度体验赛博朋克2077"
+    ],
+    "interest_topics": [
+      "电脑硬件",
+      "显卡评测",
+      "3A游戏",
+      "DLSS技术",
+      "游戏画质设定"
+    ],
+    "discussion_triggers": [
+      "显卡选购",
+      "游戏优化",
+      "DLSS效果",
+      "分辨率与帧数关系"
+    ],
+    "sensitive_topics": [
+      "显卡价格",
+      "A卡N卡之争",
+      "光追必要性"
+    ],
+    "value_tendencies": [
+      "技术实用主义",
+      "数据驱动",
+      "追求性价比"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "显卡性能",
+        "游戏帧数测试",
+        "DLSS技术"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人选购",
+      "展示专业能力",
+      "分享测试数据"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "显卡性能对比",
+        "score": 90
+      },
+      {
+        "topic": "赛博朋克2077优化",
+        "score": 85
+      },
+      {
+        "topic": "DLSS技术",
+        "score": 80
+      },
+      {
+        "topic": "2K/4K游戏配置",
+        "score": 75
+      },
+      {
+        "topic": "光追效果",
+        "score": 60
+      }
+    ],
+    "impression": "一个热爱硬件测试的硬核玩家，用数据说话，理性且乐于分享，但偶尔有点技术宅的固执。"
+  },
+  "analyzed_at": "2026-06-15T22:23:04.516684",
+  "token_usage": 2476
+}

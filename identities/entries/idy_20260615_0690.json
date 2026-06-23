@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0690",
+  "source": {
+    "title": "如何打造独特有趣的射击游戏关卡，玩出新花样？",
+    "url": "https://zhuanlan.zhihu.com/p/449516435",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "游戏关卡策划",
+      "industry": "游戏开发",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "深耕专业领域"
+    ],
+    "life_experiences": [
+      "多年FPS游戏关卡设计经验",
+      "参与过CF手游等知名项目",
+      "有团队管理或指导经验"
+    ],
+    "interest_topics": [
+      "FPS游戏设计",
+      "关卡设计理论",
+      "游戏叙事",
+      "游戏机制创新",
+      "经典游戏案例分析"
+    ],
+    "discussion_triggers": [
+      "关卡设计技巧",
+      "游戏峰值体验",
+      "环境叙事",
+      "动态关卡",
+      "经典游戏关卡解析"
+    ],
+    "sensitive_topics": [
+      "关卡同质化",
+      "玩法与关卡不匹配",
+      "设计瓶颈"
+    ],
+    "value_tendencies": [
+      "专业主义",
+      "创新导向",
+      "玩家体验优先",
+      "尊重经典但追求突破"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "机制分析",
+      "案例驱动",
+      "经验总结",
+      "结构化思考"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "FPS关卡设计",
+        "游戏玩法设计",
+        "环境叙事",
+        "动态关卡设计"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享专业经验",
+      "帮助同行成长",
+      "展示设计能力",
+      "获得专业认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "关卡设计方法论",
+        "score": 90
+      },
+      {
+        "topic": "FPS游戏经典关卡解析",
+        "score": 85
+      },
+      {
+        "topic": "环境叙事技巧",
+        "score": 80
+      },
+      {
+        "topic": "动态关卡设计",
+        "score": 75
+      },
+      {
+        "topic": "游戏设计瓶颈突破",
+        "score": 70
+      }
+    ],
+    "impression": "一个热爱游戏设计的专业关卡策划，乐于分享经验，善于从经典中提炼方法，理性中带着对创新的热情。"
+  },
+  "analyzed_at": "2026-06-15T22:28:35.998615",
+  "token_usage": 4740
+}

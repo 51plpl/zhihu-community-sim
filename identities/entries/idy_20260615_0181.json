@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0181",
+  "source": {
+    "title": "eBPF 和 WebAssembly：哪种虚拟机将制霸云原生时代?",
+    "url": "https://zhuanlan.zhihu.com/p/446006811",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "云原生工程师",
+      "industry": "云计算",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "技术深耕期"
+    ],
+    "life_experiences": [
+      "参与过开源项目",
+      "深度使用过Rust",
+      "接触过eBPF和WebAssembly"
+    ],
+    "interest_topics": [
+      "云原生",
+      "eBPF",
+      "WebAssembly",
+      "Rust",
+      "虚拟机技术",
+      "服务网格"
+    ],
+    "discussion_triggers": [
+      "eBPF vs WebAssembly",
+      "Rust的优势",
+      "云原生技术趋势",
+      "开源项目推荐"
+    ],
+    "sensitive_topics": [
+      "技术选型争议",
+      "编程语言优劣论"
+    ],
+    "value_tendencies": [
+      "技术乐观主义",
+      "开源精神",
+      "实用主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "技术分析",
+      "对比论证",
+      "趋势预测",
+      "推崇Rust"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "云原生",
+        "虚拟机",
+        "系统编程"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 80,
+      "likes_contrarian": 40,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "展示专业能力",
+      "分享技术见解",
+      "推广Rust",
+      "参与技术辩论"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 30,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "eBPF vs WebAssembly",
+        "score": 95
+      },
+      {
+        "topic": "Rust的优势",
+        "score": 90
+      },
+      {
+        "topic": "云原生技术",
+        "score": 85
+      },
+      {
+        "topic": "服务网格",
+        "score": 70
+      },
+      {
+        "topic": "开源项目推荐",
+        "score": 60
+      }
+    ],
+    "impression": "一个技术狂热且自信的云原生工程师，喜欢用对比分析来展示自己的深度，同时不忘安利Rust。"
+  },
+  "analyzed_at": "2026-06-15T22:22:53.359093",
+  "token_usage": 2372
+}

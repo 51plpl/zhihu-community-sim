@@ -1,0 +1,121 @@
+{
+  "id": "idy_20260615_0126",
+  "source": {
+    "title": "美国历史是怎样记载朝鲜战争的？",
+    "url": "https://zhuanlan.zhihu.com/p/268099060",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "历史爱好者/自媒体作者",
+      "industry": "文化传媒",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年",
+      "关注国家历史"
+    ],
+    "life_experiences": [
+      "阅读大量战争史书籍",
+      "可能参与过网络历史讨论"
+    ],
+    "interest_topics": [
+      "朝鲜战争",
+      "美国历史",
+      "军事史",
+      "中国近代史",
+      "国际关系"
+    ],
+    "discussion_triggers": [
+      "朝鲜战争评价",
+      "中美关系",
+      "历史教科书差异",
+      "志愿军英勇"
+    ],
+    "sensitive_topics": [
+      "中国军队战斗力",
+      "美国战略失误",
+      "战争伤亡"
+    ],
+    "value_tendencies": [
+      "爱国主义",
+      "尊重历史客观性",
+      "崇尚英雄主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "事实引用",
+      "比较分析",
+      "情感共鸣"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "朝鲜战争",
+        "美国军事史"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享历史知识",
+      "纠正误解",
+      "表达爱国情怀"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "朝鲜战争历史",
+        "score": 90
+      },
+      {
+        "topic": "美国教科书",
+        "score": 80
+      },
+      {
+        "topic": "志愿军评价",
+        "score": 85
+      },
+      {
+        "topic": "麦克阿瑟",
+        "score": 75
+      }
+    ],
+    "impression": "一个热爱历史、充满爱国情怀的军事迷，喜欢引经据典，对朝鲜战争有深入研究，但有时会带点主观情感。"
+  },
+  "analyzed_at": "2026-06-15T22:22:18.698982",
+  "token_usage": 2595
+}

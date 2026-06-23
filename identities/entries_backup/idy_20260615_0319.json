@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0319",
+  "source": {
+    "title": "价廉物美的家用投影仪有什么推荐？联想投影仪怎么样？",
+    "url": "https://www.zhihu.com/question/505016676/answer/2281869800",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "产品经理或技术相关岗位",
+      "industry": "科技/互联网",
+      "city_tier": "一二线城市",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中等偏上"
+    },
+    "life_stage": [
+      "家庭娱乐需求",
+      "追求性价比消费"
+    ],
+    "life_experiences": [
+      "购买过投影仪并进行过深度对比",
+      "对数码产品有研究",
+      "可能从事与产品评测或技术相关的工作"
+    ],
+    "interest_topics": [
+      "投影仪",
+      "数码产品",
+      "智能家居",
+      "家庭影院",
+      "性价比消费"
+    ],
+    "discussion_triggers": [
+      "投影仪选购",
+      "联想产品",
+      "画质对比",
+      "亮度参数"
+    ],
+    "sensitive_topics": [
+      "低价劣质产品",
+      "参数虚标",
+      "品牌溢价"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "理性消费",
+      "注重品质",
+      "反对低价陷阱"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "技术分析",
+      "数据对比",
+      "经验分享",
+      "类比解释"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "投影仪技术",
+        "显示芯片",
+        "亮度标准",
+        "色彩处理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人做出明智选择",
+      "展示专业知识",
+      "纠正错误认知",
+      "分享使用体验"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "投影仪选购",
+        "score": 90
+      },
+      {
+        "topic": "联想产品评测",
+        "score": 80
+      },
+      {
+        "topic": "数码产品参数对比",
+        "score": 75
+      },
+      {
+        "topic": "家庭影院搭建",
+        "score": 60
+      },
+      {
+        "topic": "性价比消费",
+        "score": 70
+      }
+    ],
+    "impression": "一个理性且乐于分享的数码爱好者，喜欢用数据和类比说服别人，对低价劣质产品深恶痛绝。"
+  },
+  "analyzed_at": "2026-06-15T22:24:13.566746",
+  "token_usage": 2523
+}

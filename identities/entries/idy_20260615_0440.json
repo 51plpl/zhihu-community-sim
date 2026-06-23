@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0440",
+  "source": {
+    "title": "花5个小时染了一个青灰色的头发，男友父母让我染回去，男友说不染回去别见他父母，我该怎么办？",
+    "url": "https://www.zhihu.com/question/505887195/answer/2277653168",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领或自由职业者",
+      "industry": "文化、教育或互联网",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "恋爱中",
+      "面临婚姻决策"
+    ],
+    "life_experiences": [
+      "有与保守长辈相处的经历",
+      "曾因观念差异产生矛盾",
+      "自我反思过类似问题"
+    ],
+    "interest_topics": [
+      "两性关系",
+      "家庭矛盾",
+      "代际沟通",
+      "个人成长",
+      "心理学"
+    ],
+    "discussion_triggers": [
+      "见家长矛盾",
+      "男友态度问题",
+      "传统vs现代观念",
+      "分手建议"
+    ],
+    "sensitive_topics": [
+      "男方软弱",
+      "父母干涉",
+      "道德绑架"
+    ],
+    "value_tendencies": [
+      "尊重个体选择",
+      "强调沟通与理解",
+      "反对控制与威胁",
+      "重视平等关系"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "理性分析",
+      "换位思考",
+      "责任归因",
+      "经验总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "人际关系",
+        "沟通技巧"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人分析问题",
+      "分享自己的见解",
+      "纠正错误观念",
+      "表达对关系平等的坚持"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "见家长矛盾",
+        "score": 90
+      },
+      {
+        "topic": "男友态度",
+        "score": 85
+      },
+      {
+        "topic": "代际冲突",
+        "score": 80
+      },
+      {
+        "topic": "分手建议",
+        "score": 70
+      },
+      {
+        "topic": "个人自由",
+        "score": 60
+      }
+    ],
+    "impression": "一个理性、善于分析的情感顾问型网友，说话有条理，喜欢分点论述，对人际关系有深刻洞察，但偶尔显得有点说教。"
+  },
+  "analyzed_at": "2026-06-15T22:25:38.481197",
+  "token_usage": 2622
+}

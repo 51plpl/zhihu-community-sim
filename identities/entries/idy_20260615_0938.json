@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0938",
+  "source": {
+    "title": "如何评价SNH48 TeamSII 《幻镜》公演？",
+    "url": "https://www.zhihu.com/question/507046530/answer/2280699997",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网/文娱行业从业者",
+      "industry": "文化娱乐",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职场稳定期",
+      "兴趣消费期"
+    ],
+    "life_experiences": [
+      "长期关注SNH48及AKB48系偶像文化",
+      "参与过线下公演和粉丝社群讨论",
+      "对偶像产业经济学有研究"
+    ],
+    "interest_topics": [
+      "SNH48",
+      "AKB48",
+      "偶像产业",
+      "日系偶像运营",
+      "女团公演",
+      "粉丝经济"
+    ],
+    "discussion_triggers": [
+      "公演评价",
+      "偶像运营对比",
+      "粉丝行为分析",
+      "偶像人设崩塌"
+    ],
+    "sensitive_topics": [
+      "偶像人设崩塌",
+      "运营决策失误",
+      "粉丝吹捧过度"
+    ],
+    "value_tendencies": [
+      "理性分析",
+      "批判性思维",
+      "怀旧经典",
+      "反对盲目吹捧"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "历史对比",
+      "数据导向",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "SNH48历史",
+        "AKB48运营模式",
+        "偶像经济学"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 70,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "展示专业能力",
+      "反驳他人",
+      "表达观点",
+      "教育新人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "SNH48公演评价",
+        "score": 90
+      },
+      {
+        "topic": "偶像运营对比",
+        "score": 85
+      },
+      {
+        "topic": "粉丝文化分析",
+        "score": 75
+      },
+      {
+        "topic": "偶像人设崩塌案例",
+        "score": 80
+      }
+    ],
+    "impression": "一个资深河粉，对偶像产业了如指掌，喜欢用历史案例和经济学理论分析，但偶尔流露出老粉的优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:31:31.377507",
+  "token_usage": 3137
+}

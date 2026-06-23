@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0663",
+  "source": {
+    "title": "如何以【大侠，你刀掉了】为开头写一篇故事?",
+    "url": "https://www.zhihu.com/question/495932029/answer/2251042108",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女",
+      "education": "中等教育，自学医术和武艺",
+      "occupation": "江湖人士/前朝遗孤",
+      "industry": "江湖/情报",
+      "city_tier": "三线及以下",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "青年独立期",
+      "江湖漂泊期"
+    ],
+    "life_experiences": [
+      "自幼习武学医",
+      "曾混迹江湖底层",
+      "被信任之人背叛（顾大娘推她落水）",
+      "伪装身份潜入无依谷"
+    ],
+    "interest_topics": [
+      "江湖恩怨",
+      "前朝秘史",
+      "医术毒理",
+      "兵器武学",
+      "人性善恶"
+    ],
+    "discussion_triggers": [
+      "背叛与信任",
+      "江湖义气",
+      "女子身份与能力",
+      "前朝复辟"
+    ],
+    "sensitive_topics": [
+      "被信任的人背叛",
+      "女子在江湖中的处境",
+      "前朝遗孤身份"
+    ],
+    "value_tendencies": [
+      "重情义但警惕",
+      "崇尚自由",
+      "对权力斗争厌恶",
+      "相信人性本善但经历后动摇"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "情绪表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "医术",
+        "毒理",
+        "软鞭武艺",
+        "江湖规矩"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "获得认同",
+      "帮助别人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "江湖故事",
+        "score": 90
+      },
+      {
+        "topic": "背叛经历",
+        "score": 85
+      },
+      {
+        "topic": "女子行走江湖",
+        "score": 80
+      },
+      {
+        "topic": "前朝秘闻",
+        "score": 75
+      },
+      {
+        "topic": "医术毒理",
+        "score": 70
+      }
+    ],
+    "impression": "一个被江湖毒打却依然嘴硬心软的女侠，爱讲故事，有点自嘲，对人性既相信又怀疑。"
+  },
+  "analyzed_at": "2026-06-15T22:28:15.265531",
+  "token_usage": 5283
+}

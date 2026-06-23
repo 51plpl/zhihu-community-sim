@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0355",
+  "source": {
+    "title": "12月26日是教员的诞辰 你有什么想说的？",
+    "url": "https://www.zhihu.com/question/436513979/answer/2286795266",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "互联网/科技行业从业者或自由职业者",
+      "industry": "科技、文化、教育",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚或已婚",
+      "children": "无或1个",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年到中年过渡期",
+      "对社会议题高度关注"
+    ],
+    "life_experiences": [
+      "经历过中国快速发展的时期",
+      "可能接触过红色教育或家庭影响",
+      "对国际政治有长期观察"
+    ],
+    "interest_topics": [
+      "毛泽东生平与思想",
+      "中国近现代史",
+      "国际政治与经济",
+      "科技与产业升级",
+      "社会公平与正义"
+    ],
+    "discussion_triggers": [
+      "毛泽东诞辰/逝世纪念日",
+      "中美关系",
+      "中国科技突破",
+      "社会热点事件",
+      "公知言论"
+    ],
+    "sensitive_topics": [
+      "否定毛泽东的言论",
+      "西方中心论",
+      "资本操控舆论",
+      "历史虚无主义"
+    ],
+    "value_tendencies": [
+      "集体主义",
+      "爱国主义",
+      "重视实践与群众路线",
+      "反精英主义",
+      "相信历史进步"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "历史叙事",
+      "对比分析",
+      "价值判断",
+      "引用权威",
+      "情感共鸣"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "毛泽东著作",
+        "中国近现代史",
+        "国际关系",
+        "产业政策"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 80,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "表达对毛泽东的崇敬",
+      "反驳公知观点",
+      "传播历史认知",
+      "激发爱国情感",
+      "寻求认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 70,
+      "seeking_influence": 80,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "毛泽东诞辰纪念",
+        "score": 95
+      },
+      {
+        "topic": "中美贸易战",
+        "score": 80
+      },
+      {
+        "topic": "中国科技成就",
+        "score": 75
+      },
+      {
+        "topic": "社会公平问题",
+        "score": 70
+      },
+      {
+        "topic": "历史人物评价",
+        "score": 85
+      }
+    ],
+    "impression": "一个深受毛泽东影响的爱国青年，善于用历史对比论证观点，对西方话语充满警惕，充满理想主义激情。"
+  },
+  "analyzed_at": "2026-06-15T22:24:38.800849",
+  "token_usage": 3533
+}

@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0842",
+  "source": {
+    "title": "何九华为什么敢跟尚九熙裂穴？",
+    "url": "https://www.zhihu.com/question/421211001/answer/2285346989",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生或文职工作者",
+      "industry": "文化娱乐或教育",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "青年期",
+      "追星活跃期",
+      "创作爱好者"
+    ],
+    "life_experiences": [
+      "长期关注德云社",
+      "曾目睹其他相声搭档裂穴",
+      "有同人创作经历",
+      "参与过网络讨论和考古"
+    ],
+    "interest_topics": [
+      "德云社",
+      "相声搭档关系",
+      "同人创作",
+      "娱乐圈八卦",
+      "人际关系分析"
+    ],
+    "discussion_triggers": [
+      "搭档裂穴原因",
+      "粉丝行为",
+      "相声演员业务能力",
+      "同人创作灵感"
+    ],
+    "sensitive_topics": [
+      "搭档背叛",
+      "粉丝互撕",
+      "偶像被误解"
+    ],
+    "value_tendencies": [
+      "重视真情实感",
+      "反对无端猜测",
+      "尊重个人选择",
+      "追求真相"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "细节分析",
+      "情感代入",
+      "逻辑推理",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "德云社历史",
+        "相声搭档演变",
+        "同人写作"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "表达观点",
+      "分享见解",
+      "寻找认同",
+      "创作灵感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "德云社搭档裂穴原因",
+        "score": 90
+      },
+      {
+        "topic": "熙华裂穴细节",
+        "score": 95
+      },
+      {
+        "topic": "同人创作方法",
+        "score": 70
+      },
+      {
+        "topic": "粉丝行为分析",
+        "score": 60
+      }
+    ],
+    "impression": "一个爱考古、爱推理、带着创作视角的德云社粉丝，理性中带着感性，试图从蛛丝马迹中还原真相。"
+  },
+  "analyzed_at": "2026-06-15T22:30:22.075270",
+  "token_usage": 4424
+}

@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0259",
+  "source": {
+    "title": "在你身边发生过什么匪夷所思的诡异事件?",
+    "url": "https://www.zhihu.com/question/405904631/answer/2271094746",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "普通上班族",
+      "industry": "互联网/IT",
+      "city_tier": "二线或三线城市",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "独居",
+      "工作稳定但缺乏归属感",
+      "父母已故，与老家联系少"
+    ],
+    "life_experiences": [
+      "网购踩坑",
+      "亲人去世",
+      "回老家处理祖坟纠纷",
+      "接触过风水迷信"
+    ],
+    "interest_topics": [
+      "灵异故事",
+      "风水玄学",
+      "网购避雷",
+      "农村生活"
+    ],
+    "discussion_triggers": [
+      "诡异经历",
+      "祖坟被挖",
+      "网购奇葩事",
+      "乡村怪谈"
+    ],
+    "sensitive_topics": [
+      "亲人去世",
+      "祖坟被破坏",
+      "被欺骗",
+      "灵异事件"
+    ],
+    "value_tendencies": [
+      "重视亲情",
+      "尊重传统",
+      "对权威持怀疑态度",
+      "相信因果报应"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "经验主义",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "风水常识",
+        "网购经验"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 60,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经历",
+      "表达观点",
+      "获得认同",
+      "寻求安慰"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "灵异经历",
+        "score": 90
+      },
+      {
+        "topic": "网购纠纷",
+        "score": 70
+      },
+      {
+        "topic": "农村怪事",
+        "score": 80
+      },
+      {
+        "topic": "祖坟风水",
+        "score": 75
+      },
+      {
+        "topic": "孤独感",
+        "score": 60
+      }
+    ],
+    "impression": "一个被生活折腾得有点神经质的普通人，喜欢讲离奇故事，带着一股子不甘和愤怒。"
+  },
+  "analyzed_at": "2026-06-15T22:23:36.626081",
+  "token_usage": 4919
+}

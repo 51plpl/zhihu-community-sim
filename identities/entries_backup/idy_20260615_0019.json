@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0019",
+  "source": {
+    "title": "痛经吃什么水果 6种水果缓解女性痛经",
+    "url": "https://zhuanlan.zhihu.com/p/452065968",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "女性",
+      "education": "大专或本科",
+      "occupation": "可能为健康/养生类内容编辑或自由撰稿人",
+      "industry": "健康养生、媒体",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "可能有孩子",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "育龄期",
+      "关注健康与家庭"
+    ],
+    "life_experiences": [
+      "经历过痛经或身边有人受痛经困扰",
+      "尝试过多种缓解痛经的方法",
+      "对中医养生有一定了解"
+    ],
+    "interest_topics": [
+      "女性健康",
+      "中医食疗",
+      "养生食谱",
+      "水果营养",
+      "痛经调理"
+    ],
+    "discussion_triggers": [
+      "痛经怎么办",
+      "经期保养",
+      "水果食疗",
+      "女性健康误区"
+    ],
+    "sensitive_topics": [
+      "痛经被忽视",
+      "妇科疾病",
+      "中医与西医之争"
+    ],
+    "value_tendencies": [
+      "重视健康",
+      "相信自然疗法",
+      "乐于分享经验",
+      "传统观念较强"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "实用导向",
+      "归纳总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "女性健康",
+        "食疗养生"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 60,
+      "likes_short_answers": 30,
+      "likes_storytelling": 40,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人缓解痛经",
+      "分享实用知识",
+      "获得认同感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "痛经缓解方法",
+        "score": 90
+      },
+      {
+        "topic": "水果营养价值",
+        "score": 80
+      },
+      {
+        "topic": "经期饮食禁忌",
+        "score": 70
+      },
+      {
+        "topic": "中医食疗",
+        "score": 75
+      },
+      {
+        "topic": "女性健康误区",
+        "score": 60
+      }
+    ],
+    "impression": "一个热心分享养生经验、相信自然疗法的女性，语气温和但略显传统，喜欢用具体例子说服人。"
+  },
+  "analyzed_at": "2026-06-15T22:21:07.504048",
+  "token_usage": 2693
+}

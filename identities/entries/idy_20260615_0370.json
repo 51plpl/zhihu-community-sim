@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0370",
+  "source": {
+    "title": "迎新晚会策划案怎么做？",
+    "url": "https://zhuanlan.zhihu.com/p/452253505",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-30",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "活动策划/学生会干部",
+      "industry": "活动策划/教育",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "大学刚毕业",
+      "职场新人",
+      "活动策划从业者"
+    ],
+    "life_experiences": [
+      "大学期间担任学生会干部",
+      "组织过多次校园活动",
+      "参与过拉外联和赞助",
+      "经历过迎新晚会筹备"
+    ],
+    "interest_topics": [
+      "活动策划",
+      "校园活动",
+      "晚会组织",
+      "外联赞助",
+      "创意表演",
+      "大学生活"
+    ],
+    "discussion_triggers": [
+      "迎新晚会",
+      "拉赞助",
+      "活动创意",
+      "学生会工作",
+      "校园文化"
+    ],
+    "sensitive_topics": [
+      "预算不足",
+      "活动审批",
+      "学生参与度低"
+    ],
+    "value_tendencies": [
+      "务实",
+      "注重细节",
+      "重视传承",
+      "强调团队协作",
+      "认可品牌合作"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "流程导向",
+      "细节控",
+      "实用主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "活动策划",
+        "校园晚会组织",
+        "外联谈判",
+        "舞美搭建"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "分享经验",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "迎新晚会策划",
+        "score": 95
+      },
+      {
+        "topic": "拉外联技巧",
+        "score": 85
+      },
+      {
+        "topic": "校园活动创意",
+        "score": 80
+      },
+      {
+        "topic": "学生会工作",
+        "score": 75
+      },
+      {
+        "topic": "活动物料清单",
+        "score": 70
+      }
+    ],
+    "impression": "一个热心肠的校园活动老手，喜欢手把手教新人，偶尔带点过来人的优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:24:48.438960",
+  "token_usage": 3263
+}

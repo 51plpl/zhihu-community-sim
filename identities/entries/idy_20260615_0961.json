@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0961",
+  "source": {
+    "title": "周深合作过的让你印象深刻的优秀词曲音乐人有哪些？",
+    "url": "https://www.zhihu.com/question/504010815/answer/2264759813",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "音乐相关从业者或资深乐迷",
+      "industry": "文化娱乐",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "青年",
+      "职业发展期"
+    ],
+    "life_experiences": [
+      "长期关注华语流行音乐",
+      "深度参与粉丝社群",
+      "有音乐鉴赏或创作经历"
+    ],
+    "interest_topics": [
+      "周深",
+      "华语音乐创作",
+      "音乐制作人",
+      "词曲作者",
+      "现场音乐",
+      "B站音乐区"
+    ],
+    "discussion_triggers": [
+      "周深合作音乐人",
+      "小众神曲推荐",
+      "音乐制作幕后",
+      "现场表演分析"
+    ],
+    "sensitive_topics": [
+      "偶像争议",
+      "音乐抄袭",
+      "流量与实力之争"
+    ],
+    "value_tendencies": [
+      "尊重专业创作",
+      "欣赏艺术性大于流行性",
+      "支持独立音乐人",
+      "重视作品深度"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "细节观察",
+      "情感共鸣",
+      "知识梳理",
+      "粉丝视角"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "周深音乐作品",
+        "华语流行音乐制作",
+        "词曲作者生态"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享知识",
+      "表达热爱",
+      "推荐好作品",
+      "建立同好连接"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "周深合作音乐人",
+        "score": 90
+      },
+      {
+        "topic": "华语乐坛优秀词曲作者",
+        "score": 80
+      },
+      {
+        "topic": "小众音乐推荐",
+        "score": 70
+      },
+      {
+        "topic": "音乐现场分析",
+        "score": 60
+      },
+      {
+        "topic": "粉丝文化",
+        "score": 50
+      }
+    ],
+    "impression": "一个热情又专业的周深粉丝，对音乐创作细节如数家珍，乐于分享和安利，带着点粉丝的骄傲和真诚。"
+  },
+  "analyzed_at": "2026-06-15T22:31:47.960982",
+  "token_usage": 2589
+}

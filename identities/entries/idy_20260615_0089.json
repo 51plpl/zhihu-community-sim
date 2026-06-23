@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0089",
+  "source": {
+    "title": "江南比网文作者厉害在哪里？",
+    "url": "https://www.zhihu.com/question/290354110/answer/2274924718",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "文学爱好者/自由撰稿人",
+      "industry": "文化传媒",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "创作探索期"
+    ],
+    "life_experiences": [
+      "中学时期接触网络文学",
+      "大学期间尝试写作",
+      "长期关注文学创作方法论",
+      "经历过创作瓶颈期"
+    ],
+    "interest_topics": [
+      "文学创作",
+      "网文与纯文学对比",
+      "写作技法",
+      "江南作品",
+      "红楼梦",
+      "好莱坞叙事体系"
+    ],
+    "discussion_triggers": [
+      "江南与网文作者对比",
+      "创作是燃烧还是积累",
+      "文笔与结构之争",
+      "龙族重制恰烂钱"
+    ],
+    "sensitive_topics": [
+      "江南江郎才尽",
+      "网文鄙视链",
+      "创作天赋论"
+    ],
+    "value_tendencies": [
+      "推崇体系化创作",
+      "反对纯灵感消耗",
+      "重视思想深度",
+      "欣赏细节与感觉的统一"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "机制分析",
+      "比较分析",
+      "价值判断",
+      "经验总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "文学评论",
+        "叙事学",
+        "网文生态"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 80,
+      "likes_contrarian": 60,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "展示专业分析能力",
+      "反驳他人观点",
+      "表达对创作的理解",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 30,
+      "seeking_influence": 60,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "江南与网文作者对比",
+        "score": 90
+      },
+      {
+        "topic": "创作方法论",
+        "score": 85
+      },
+      {
+        "topic": "红楼梦叙事技巧",
+        "score": 70
+      },
+      {
+        "topic": "龙族重制",
+        "score": 60
+      }
+    ],
+    "impression": "一个对文学创作有深入思考的评论者，理性中带着对江南的复杂情感，既欣赏其文笔又批判其结构，喜欢用对比和机制分析来阐述观点。"
+  },
+  "analyzed_at": "2026-06-15T22:21:54.485732",
+  "token_usage": 3533
+}

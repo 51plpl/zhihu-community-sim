@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0284",
+  "source": {
+    "title": "打板复盘：高位股大面日，周一情绪有望修复",
+    "url": "https://zhuanlan.zhihu.com/p/440934177",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "职业投资者/股票交易员",
+      "industry": "金融投资",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业发展期",
+      "财富积累期"
+    ],
+    "life_experiences": [
+      "多年A股短线交易经验",
+      "经历过多次市场周期",
+      "熟悉游资和机构操作手法"
+    ],
+    "interest_topics": [
+      "A股短线交易",
+      "游资动向",
+      "机构持仓",
+      "技术分析",
+      "情绪周期"
+    ],
+    "discussion_triggers": [
+      "高位股分歧",
+      "机构大买",
+      "情绪周期转折",
+      "游资操作"
+    ],
+    "sensitive_topics": [
+      "庄股",
+      "监管风险",
+      "市场流动性"
+    ],
+    "value_tendencies": [
+      "结果导向",
+      "风险偏好",
+      "实用主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "经验主义"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "超短线交易",
+        "情绪周期",
+        "游资行为",
+        "机构动向"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "展示专业能力",
+      "帮助他人",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "情绪周期",
+        "score": 90
+      },
+      {
+        "topic": "游资动向",
+        "score": 85
+      },
+      {
+        "topic": "机构大买",
+        "score": 80
+      },
+      {
+        "topic": "高位股走势",
+        "score": 75
+      },
+      {
+        "topic": "板块轮动",
+        "score": 70
+      }
+    ],
+    "impression": "一个经验丰富的短线交易者，冷静分析市场，喜欢用数据和逻辑说话，偶尔流露出对庄股的不屑。"
+  },
+  "analyzed_at": "2026-06-15T22:23:51.766323",
+  "token_usage": 3173
+}

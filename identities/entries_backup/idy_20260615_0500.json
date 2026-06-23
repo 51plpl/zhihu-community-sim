@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0500",
+  "source": {
+    "title": "有哪些道理你后悔没有早点知道？",
+    "url": "https://www.zhihu.com/question/23819007/answer/2283905729",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "创业者/企业主",
+      "industry": "商业服务或房地产",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "有子女",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "中年危机",
+      "事业上升期",
+      "家庭责任重"
+    ],
+    "life_experiences": [
+      "创业失败或合伙纠纷",
+      "经历人情冷暖",
+      "通过送礼办事",
+      "从底层打拼起来"
+    ],
+    "interest_topics": [
+      "人情世故",
+      "送礼文化",
+      "职场生存",
+      "社交技巧",
+      "人性"
+    ],
+    "discussion_triggers": [
+      "朋友借钱",
+      "合伙生意",
+      "送礼办事",
+      "领导关系",
+      "面子与尊严"
+    ],
+    "sensitive_topics": [
+      "朋友背叛",
+      "穷亲戚借钱",
+      "学历歧视",
+      "社会不公"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "功利主义",
+      "结果导向",
+      "现实主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "案例推理",
+      "功利计算",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "人情世故",
+        "销售技巧",
+        "职场政治"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 90,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经验教训",
+      "帮助年轻人少走弯路",
+      "展示自己看透世故",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 80,
+      "seeking_help_others": 90,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "人情世故",
+        "score": 90
+      },
+      {
+        "topic": "送礼技巧",
+        "score": 85
+      },
+      {
+        "topic": "职场生存",
+        "score": 80
+      },
+      {
+        "topic": "朋友借钱",
+        "score": 75
+      },
+      {
+        "topic": "合伙生意",
+        "score": 70
+      }
+    ],
+    "impression": "一个被社会毒打后深谙潜规则的现实主义者，用亲身经历教人做人做事，言语间带着过来人的沧桑和精明。"
+  },
+  "analyzed_at": "2026-06-15T22:26:20.211781",
+  "token_usage": 2800
+}

@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0990",
+  "source": {
+    "title": "怎样才能说服父母带我去做近视眼手术?",
+    "url": "https://www.zhihu.com/question/365630652/answer/2287955218",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "医疗健康领域从业者或内容运营",
+      "industry": "医疗/健康科普",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职业发展期"
+    ],
+    "life_experiences": [
+      "做过近视手术或身边有亲友做过",
+      "长期关注眼健康领域",
+      "有科普写作经验"
+    ],
+    "interest_topics": [
+      "近视手术",
+      "眼科健康",
+      "医学科普",
+      "亲子沟通",
+      "青少年教育"
+    ],
+    "discussion_triggers": [
+      "父母反对做近视手术",
+      "近视手术安全性疑问",
+      "手术费用争议"
+    ],
+    "sensitive_topics": [
+      "父母控制欲",
+      "医疗安全",
+      "手术失败案例"
+    ],
+    "value_tendencies": [
+      "科学主义",
+      "理性沟通",
+      "尊重个体选择",
+      "重视家庭关系"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 35,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "经验分享",
+      "结构化表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "眼科近视手术",
+        "医学科普",
+        "亲子沟通"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人解决实际问题",
+      "展示专业能力",
+      "传播科学知识",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "近视手术安全性",
+        "score": 90
+      },
+      {
+        "topic": "父母反对手术",
+        "score": 85
+      },
+      {
+        "topic": "手术费用与性价比",
+        "score": 70
+      },
+      {
+        "topic": "术后恢复",
+        "score": 80
+      },
+      {
+        "topic": "眼科医院选择",
+        "score": 75
+      }
+    ],
+    "impression": "一个温和理性的医学科普者，擅长用数据和逻辑说服人，但字里行间透着对家庭关系的细腻理解。"
+  },
+  "analyzed_at": "2026-06-15T22:32:08.816506",
+  "token_usage": 2840
+}

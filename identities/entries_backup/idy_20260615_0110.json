@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0110",
+  "source": {
+    "title": "中国的朝鲜族、韩国和朝鲜国这三者的由来以及联系？",
+    "url": "https://www.zhihu.com/question/34000403/answer/2275447309",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-40",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "历史爱好者/自媒体作者/教师",
+      "industry": "文化传媒/教育",
+      "city_tier": "一二线城市",
+      "marital_status": "未婚或已婚",
+      "children": "无或一个",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "知识积累期"
+    ],
+    "life_experiences": [
+      "长期关注历史地理",
+      "有跨文化接触经历",
+      "可能从事内容创作"
+    ],
+    "interest_topics": [
+      "东北亚历史",
+      "民族迁徙",
+      "金朝历史",
+      "朝鲜半岛问题",
+      "地理政治"
+    ],
+    "discussion_triggers": [
+      "中朝韩关系",
+      "历史争议",
+      "民族起源",
+      "领土问题"
+    ],
+    "sensitive_topics": [
+      "朝鲜族身份",
+      "中朝边界",
+      "历史民族主义"
+    ],
+    "value_tendencies": [
+      "理性分析",
+      "客观中立",
+      "反民族主义",
+      "尊重事实"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "历史叙事",
+      "逻辑推理",
+      "细节考据",
+      "宏大视角"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中国东北史",
+        "朝鲜半岛史",
+        "民族学"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 80,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享知识",
+      "纠正误解",
+      "展示学识",
+      "引发思考"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 30,
+      "seeking_influence": 50,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "金朝起源",
+        "score": 90
+      },
+      {
+        "topic": "朝鲜族历史",
+        "score": 85
+      },
+      {
+        "topic": "中朝关系",
+        "score": 70
+      },
+      {
+        "topic": "东北历史地理",
+        "score": 80
+      }
+    ],
+    "impression": "一个喜欢用故事讲历史的考据党，理性但有趣，偶尔有点掉书袋。"
+  },
+  "analyzed_at": "2026-06-15T22:22:07.431029",
+  "token_usage": 4387
+}

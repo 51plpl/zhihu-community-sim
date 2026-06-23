@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0949",
+  "source": {
+    "title": "未来 30 年，企业招聘的门槛会有哪些？学历还会是硬性指标吗？",
+    "url": "https://www.zhihu.com/question/507632821/answer/2283324966",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "人力资源经理/招聘主管",
+      "industry": "人力资源/企业服务",
+      "city_tier": "一线/新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "职业发展中期",
+      "有家庭负担"
+    ],
+    "life_experiences": [
+      "长期从事招聘工作",
+      "经历过学历歧视与反歧视的案例",
+      "接触过大量跨专业应聘者",
+      "对知识付费有实际体验"
+    ],
+    "interest_topics": [
+      "招聘趋势",
+      "人力资源管理",
+      "学历与能力",
+      "知识付费",
+      "通识教育"
+    ],
+    "discussion_triggers": [
+      "学历贬值",
+      "HR招聘偏见",
+      "知识付费效果",
+      "专业与通才之争"
+    ],
+    "sensitive_topics": [
+      "学历歧视",
+      "HR不作为",
+      "教育体制弊端"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "反教条",
+      "鼓励自我提升",
+      "尊重专业但不迷信学历"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "辩证分析",
+      "案例导向",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "招聘面试",
+        "人才测评",
+        "人力资源规划"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经验",
+      "纠正偏见",
+      "展示专业",
+      "帮助求职者"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "学历与能力的关系",
+        "score": 90
+      },
+      {
+        "topic": "HR招聘内幕",
+        "score": 85
+      },
+      {
+        "topic": "知识付费是否有效",
+        "score": 70
+      },
+      {
+        "topic": "未来职业趋势",
+        "score": 60
+      },
+      {
+        "topic": "跨专业就业",
+        "score": 75
+      }
+    ],
+    "impression": "一个在HR行业摸爬滚打多年的老手，说话接地气，喜欢用案例打脸，既务实又有点理想主义，对学历和能力有自己的一套辩证看法。"
+  },
+  "analyzed_at": "2026-06-15T22:31:39.750602",
+  "token_usage": 2562
+}

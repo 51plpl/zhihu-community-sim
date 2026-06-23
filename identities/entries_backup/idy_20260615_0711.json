@@ -1,0 +1,124 @@
+{
+  "id": "idy_20260615_0711",
+  "source": {
+    "title": "请问一下板绘的线上课程有哪些比较好，像光翼学园，匠人绘，蓝铅笔，原画人，除这些还有什么好的推荐吗?",
+    "url": "https://www.zhihu.com/question/429549385/answer/2272183448",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "自由插画师或美术相关行业",
+      "industry": "数字艺术/插画",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业转型期",
+      "技能提升期"
+    ],
+    "life_experiences": [
+      "自学板绘经历",
+      "报过线上绘画课程",
+      "经历过选择机构的困惑"
+    ],
+    "interest_topics": [
+      "板绘",
+      "插画",
+      "动漫",
+      "游戏原画",
+      "数字艺术教育"
+    ],
+    "discussion_triggers": [
+      "板绘课程推荐",
+      "零基础学画画",
+      "避坑培训机构",
+      "绘画风格选择"
+    ],
+    "sensitive_topics": [
+      "速成承诺",
+      "贷款交学费",
+      "机构虚假宣传"
+    ],
+    "value_tendencies": [
+      "重视系统学习",
+      "反对急功近利",
+      "强调基础重要性",
+      "理性消费"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "实用主义",
+      "鼓励型"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "板绘",
+        "插画",
+        "线上教育"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助他人避坑",
+      "分享经验",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "板绘课程推荐",
+        "score": 90
+      },
+      {
+        "topic": "零基础学画画",
+        "score": 85
+      },
+      {
+        "topic": "绘画风格选择",
+        "score": 70
+      },
+      {
+        "topic": "培训机构避坑",
+        "score": 80
+      }
+    ],
+    "impression": "一个热心肠的过来人，自己踩过坑后乐于分享经验，鼓励新手踏实学习。"
+  },
+  "analyzed_at": "2026-06-15T22:28:50.191533",
+  "token_usage": 2450
+}

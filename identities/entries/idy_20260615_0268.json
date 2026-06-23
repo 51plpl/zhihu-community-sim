@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0268",
+  "source": {
+    "title": "外包到腾讯工作是怎样一种体验？",
+    "url": "https://www.zhihu.com/question/32160264/answer/2276153165",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-30",
+      "gender": "女",
+      "education": "普通一本",
+      "occupation": "前外包员工（已离职）",
+      "industry": "互联网",
+      "city_tier": "一线城市（深圳）",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场早期探索",
+      "考编备考期"
+    ],
+    "life_experiences": [
+      "外包工作经历",
+      "加班熬夜经历",
+      "被社会毒打后调整心态",
+      "考公考编准备"
+    ],
+    "interest_topics": [
+      "考公考编",
+      "职场生存",
+      "摸鱼技巧",
+      "互联网外包",
+      "个人成长"
+    ],
+    "discussion_triggers": [
+      "外包体验",
+      "加班文化",
+      "考编",
+      "职场人际关系",
+      "薪资待遇"
+    ],
+    "sensitive_topics": [
+      "外包歧视",
+      "加班压榨",
+      "职业发展瓶颈"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "注重工作生活平衡",
+      "反内卷",
+      "理性务实"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "实用主义",
+      "自我反思"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "产品运营",
+        "外包流程"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经历",
+      "帮助他人",
+      "表达观点",
+      "寻求认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "外包体验",
+        "score": 90
+      },
+      {
+        "topic": "考公考编",
+        "score": 80
+      },
+      {
+        "topic": "职场摸鱼",
+        "score": 70
+      },
+      {
+        "topic": "加班文化",
+        "score": 60
+      },
+      {
+        "topic": "薪资待遇",
+        "score": 50
+      }
+    ],
+    "impression": "一个被社会毒打后变得务实通透的年轻人，带着点自嘲和洒脱，分享经历时真诚又接地气。"
+  },
+  "analyzed_at": "2026-06-15T22:23:42.428275",
+  "token_usage": 2966
+}

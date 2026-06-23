@@ -1,0 +1,124 @@
+{
+  "id": "idy_20260615_0859",
+  "source": {
+    "title": "为什么可口可乐、奈飞、亚马逊都鼓励员工多犯错误？",
+    "url": "https://zhuanlan.zhihu.com/p/441889635",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男性",
+      "education": "硕士",
+      "occupation": "企业中层管理者",
+      "industry": "互联网/科技",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "经历过职场失败或创新受阻",
+      "阅读商业管理类书籍",
+      "参与过公司内部变革"
+    ],
+    "interest_topics": [
+      "企业管理",
+      "创新与失败文化",
+      "领导力",
+      "商业案例",
+      "组织行为学"
+    ],
+    "discussion_triggers": [
+      "鼓励失败的管理理念",
+      "CEO言论",
+      "创新与风险",
+      "企业文化转型"
+    ],
+    "sensitive_topics": [
+      "官僚主义",
+      "恐惧失败的文化",
+      "保守管理"
+    ],
+    "value_tendencies": [
+      "重视创新",
+      "崇尚冒险",
+      "结果导向",
+      "相信学习成长"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "案例引用",
+      "对比分析",
+      "逻辑推演",
+      "实践导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "企业管理",
+        "创新管理"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "传播管理理念",
+      "启发他人",
+      "展示专业见解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "企业创新失败文化",
+        "score": 90
+      },
+      {
+        "topic": "CEO领导力",
+        "score": 80
+      },
+      {
+        "topic": "组织变革",
+        "score": 70
+      },
+      {
+        "topic": "亚马逊/奈飞案例",
+        "score": 85
+      }
+    ],
+    "impression": "一个热衷传播商业管理理念的理性分析者，善于用案例说服人，但偶尔显得说教。"
+  },
+  "analyzed_at": "2026-06-15T22:30:33.716963",
+  "token_usage": 2739
+}

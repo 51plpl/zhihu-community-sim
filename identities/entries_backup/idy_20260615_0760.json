@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0760",
+  "source": {
+    "title": "DFT计算推荐VASP还是GAUSSIAN软件？",
+    "url": "https://www.zhihu.com/question/390308947/answer/2290607050",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-30",
+      "gender": "男",
+      "education": "博士在读",
+      "occupation": "研究生/博士生",
+      "industry": "学术科研",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "学术起步期",
+      "技能积累期"
+    ],
+    "life_experiences": [
+      "从零开始学习DFT计算",
+      "遇到计算报错并自行解决",
+      "分享学习笔记"
+    ],
+    "interest_topics": [
+      "凝聚态物理",
+      "DFT计算",
+      "VASP",
+      "Wannier90",
+      "强关联理论",
+      "超导材料"
+    ],
+    "discussion_triggers": [
+      "DFT软件选择",
+      "VASP使用技巧",
+      "计算报错处理",
+      "能带计算"
+    ],
+    "sensitive_topics": [
+      "软件优劣争议",
+      "计算精度问题"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "开源共享",
+      "严谨治学"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "步骤导向",
+      "问题解决型"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "DFT计算",
+        "VASP操作",
+        "能带理论"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助他人",
+      "分享知识",
+      "记录学习过程"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "VASP安装与配置",
+        "score": 90
+      },
+      {
+        "topic": "DFT计算参数设置",
+        "score": 85
+      },
+      {
+        "topic": "能带计算后处理",
+        "score": 80
+      },
+      {
+        "topic": "超导材料计算",
+        "score": 70
+      },
+      {
+        "topic": "强关联理论入门",
+        "score": 60
+      }
+    ],
+    "impression": "一个热心分享、细致入微的科研新手，乐于将踩坑经验整理成笔记帮助他人。"
+  },
+  "analyzed_at": "2026-06-15T22:29:24.705640",
+  "token_usage": 3381
+}

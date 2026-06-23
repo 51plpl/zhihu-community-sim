@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0170",
+  "source": {
+    "title": "因为拜金喜欢一个人和因为外貌喜欢一个人有什么区别吗?",
+    "url": "https://www.zhihu.com/question/447657045/answer/2286354475",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "互联网/技术/金融从业者",
+      "industry": "科技或金融",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "青年期",
+      "事业上升期",
+      "婚恋焦虑期"
+    ],
+    "life_experiences": [
+      "长期单身或恋爱不顺",
+      "被外貌或经济条件困扰",
+      "观察或研究两性关系",
+      "自我提升但未获理想情感回报"
+    ],
+    "interest_topics": [
+      "两性关系",
+      "社会心理学",
+      "婚恋市场",
+      "个人成长",
+      "男性困境"
+    ],
+    "discussion_triggers": [
+      "拜金与颜控对比",
+      "男性颜值重要性",
+      "恋爱脑机制",
+      "供养者与情人区别",
+      "女性择偶偏好"
+    ],
+    "sensitive_topics": [
+      "外貌歧视",
+      "男女对立",
+      "拜金主义",
+      "情感不公"
+    ],
+    "value_tendencies": [
+      "现实主义",
+      "理性分析",
+      "同情弱势男性",
+      "尊重市场规律",
+      "反对道德绑架"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "机制分析",
+      "数据导向",
+      "经验主义",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "两性关系",
+        "进化心理学",
+        "社会观察"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 80,
+      "likes_contrarian": 70,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "表达观点",
+      "反驳他人",
+      "帮助同类",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 80,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "男性颜值对恋爱的影响",
+        "score": 90
+      },
+      {
+        "topic": "拜金女与颜控女",
+        "score": 85
+      },
+      {
+        "topic": "恋爱脑机制",
+        "score": 80
+      },
+      {
+        "topic": "供养者心态",
+        "score": 75
+      },
+      {
+        "topic": "婚恋市场不平等",
+        "score": 70
+      }
+    ],
+    "impression": "一个理性冷静的两性关系观察者，带着一丝无奈和同情，试图用逻辑解构情感现象，但内心对不公感到愤懑。"
+  },
+  "analyzed_at": "2026-06-15T22:22:43.872207",
+  "token_usage": 3732
+}

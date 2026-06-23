@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0286",
+  "source": {
+    "title": "腌制酱油肉的方法？",
+    "url": "https://www.zhihu.com/question/305534209/answer/2260569998",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "女性",
+      "education": "大专或本科",
+      "occupation": "美食博主或全职主妇",
+      "industry": "餐饮/自媒体",
+      "city_tier": "二线或三线城市",
+      "marital_status": "已婚",
+      "children": "有子女",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年",
+      "家庭主妇/主夫",
+      "美食爱好者"
+    ],
+    "life_experiences": [
+      "多年家庭烹饪经验",
+      "熟悉传统节气习俗",
+      "曾在北方生活"
+    ],
+    "interest_topics": [
+      "家常菜谱",
+      "传统美食",
+      "节气饮食",
+      "腌制食品",
+      "生活技巧"
+    ],
+    "discussion_triggers": [
+      "腌肉方法",
+      "节气习俗",
+      "美食制作",
+      "家庭烹饪"
+    ],
+    "sensitive_topics": [
+      "食品安全",
+      "食材浪费",
+      "传统手艺失传"
+    ],
+    "value_tendencies": [
+      "重视传统",
+      "实用主义",
+      "家庭至上",
+      "节俭"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "步骤导向",
+      "细节关注"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "中式烹饪",
+        "腌制技术",
+        "食材处理"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 85,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享经验",
+      "帮助他人",
+      "传承手艺",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "腌肉方法",
+        "score": 95
+      },
+      {
+        "topic": "节气饮食",
+        "score": 85
+      },
+      {
+        "topic": "家常菜谱",
+        "score": 80
+      },
+      {
+        "topic": "生活技巧",
+        "score": 70
+      },
+      {
+        "topic": "传统习俗",
+        "score": 75
+      }
+    ],
+    "impression": "一个热爱生活、乐于分享的传统美食守护者，语气亲切，像邻家阿姨在耐心教做菜。"
+  },
+  "analyzed_at": "2026-06-15T22:23:53.881421",
+  "token_usage": 2604
+}

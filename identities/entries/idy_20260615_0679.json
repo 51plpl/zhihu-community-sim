@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0679",
+  "source": {
+    "title": "英国Omicron最新预测模型曝光！伦敦32区确诊飙升！多地爆发反B计划游行...",
+    "url": "https://zhuanlan.zhihu.com/p/444428289",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "数据分析师",
+      "industry": "科技/医疗健康",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "事业上升期",
+      "家庭责任期",
+      "关注社会议题"
+    ],
+    "life_experiences": [
+      "经历过疫情封锁",
+      "有海外留学或工作经历",
+      "关注公共卫生政策"
+    ],
+    "interest_topics": [
+      "新冠疫情动态",
+      "流行病学模型",
+      "疫苗研发",
+      "社会政策",
+      "英国时事",
+      "交通基建",
+      "艺术与公益"
+    ],
+    "discussion_triggers": [
+      "疫情预测模型",
+      "疫苗有效性",
+      "政府防疫措施",
+      "游行抗议",
+      "社会公平"
+    ],
+    "sensitive_topics": [
+      "防疫政策争议",
+      "疫苗强制接种",
+      "种族平等",
+      "政府公信力"
+    ],
+    "value_tendencies": [
+      "科学主义",
+      "数据驱动",
+      "社会关怀",
+      "支持渐进式改革"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "数据导向",
+      "机制分析",
+      "批判性思维",
+      "注重实证"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "流行病学",
+        "统计学",
+        "公共政策"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 90,
+      "likes_personal_experience": 30
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 20,
+      "likes_explaining": 80,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享专业分析",
+      "纠正错误信息",
+      "促进理性讨论",
+      "表达对政策的看法"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 30,
+      "seeking_influence": 70,
+      "seeking_help_others": 50,
+      "seeking_self_expression": 40
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "Omicron传播模型",
+        "score": 90
+      },
+      {
+        "topic": "疫苗加强剂效果",
+        "score": 85
+      },
+      {
+        "topic": "伦敦疫情数据",
+        "score": 80
+      },
+      {
+        "topic": "防疫政策比较",
+        "score": 75
+      },
+      {
+        "topic": "社会抗议活动",
+        "score": 60
+      }
+    ],
+    "impression": "一个理性冷静的数据控，用模型和数字说话，但对社会不公保持关注，偶尔流露忧国忧民的情怀。"
+  },
+  "analyzed_at": "2026-06-15T22:28:28.268278",
+  "token_usage": 3511
+}

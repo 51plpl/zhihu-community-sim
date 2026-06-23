@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0967",
+  "source": {
+    "title": "你遇过哪些尴尬又好笑的事？",
+    "url": "https://www.zhihu.com/question/35135576/answer/2284192485",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "22-28",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "会展公司职员",
+      "industry": "会展",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "职场新人",
+      "单身"
+    ],
+    "life_experiences": [
+      "刚毕业入职大公司",
+      "地铁搭讪尴尬经历",
+      "被同事误会抢前男友",
+      "被迫假扮女友",
+      "暗恋新来的项目经理"
+    ],
+    "interest_topics": [
+      "职场生存",
+      "恋爱八卦",
+      "搞笑日常",
+      "省钱技巧",
+      "美食"
+    ],
+    "discussion_triggers": [
+      "尴尬经历",
+      "职场新人遭遇",
+      "相亲/恋爱趣事",
+      "同事八卦"
+    ],
+    "sensitive_topics": [
+      "被误会",
+      "职场排挤",
+      "经济压力"
+    ],
+    "value_tendencies": [
+      "务实",
+      "重视诚信",
+      "看重家庭",
+      "乐观幽默"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "幽默自嘲"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "会展行业",
+        "职场沟通"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 30,
+      "likes_teaching": 10,
+      "likes_showing_expertise": 20,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "获得认同",
+      "娱乐他人",
+      "表达观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "职场尴尬事",
+        "score": 90
+      },
+      {
+        "topic": "恋爱趣事",
+        "score": 85
+      },
+      {
+        "topic": "地铁奇遇",
+        "score": 80
+      },
+      {
+        "topic": "省钱攻略",
+        "score": 70
+      },
+      {
+        "topic": "美食推荐",
+        "score": 75
+      }
+    ],
+    "impression": "一个乐观自嘲、爱讲故事的职场新人，有点花痴但也很务实，擅长把尴尬变成笑料。"
+  },
+  "analyzed_at": "2026-06-15T22:31:52.376187",
+  "token_usage": 5018
+}

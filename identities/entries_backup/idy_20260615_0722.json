@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0722",
+  "source": {
+    "title": "江户幕府长期占据大量官位，朝廷的官位还够分吗？",
+    "url": "https://www.zhihu.com/question/506028182/answer/2273490786",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "历史研究者/教师",
+      "industry": "教育/文化",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "知识输出期"
+    ],
+    "life_experiences": [
+      "长期研究日本史",
+      "撰写过历史类文章",
+      "参与过历史论坛讨论"
+    ],
+    "interest_topics": [
+      "日本战国史",
+      "江户幕府",
+      "朝廷官制",
+      "丰臣政权",
+      "武士阶层",
+      "公家社会"
+    ],
+    "discussion_triggers": [
+      "官位制度",
+      "历史冷知识",
+      "幕府与朝廷关系",
+      "丰臣秀吉的封赏"
+    ],
+    "sensitive_topics": [
+      "历史人物评价",
+      "制度优劣比较"
+    ],
+    "value_tendencies": [
+      "重视制度逻辑",
+      "尊重历史事实",
+      "反感简单化解释"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 50
+    },
+    "thinking_style": [
+      "机制分析",
+      "历史比较",
+      "逻辑推理",
+      "细节考据"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "日本中世史",
+        "官制史"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 10
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 40,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享专业知识",
+      "纠正误解",
+      "展示研究深度"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "日本官制",
+        "score": 90
+      },
+      {
+        "topic": "丰臣秀吉",
+        "score": 80
+      },
+      {
+        "topic": "江户幕府",
+        "score": 85
+      },
+      {
+        "topic": "朝廷与幕府关系",
+        "score": 85
+      },
+      {
+        "topic": "武士阶层",
+        "score": 75
+      }
+    ],
+    "impression": "一个沉浸在历史细节中的考据派，喜欢用制度逻辑解释现象，偶尔透露出对大众认知的轻微不屑。"
+  },
+  "analyzed_at": "2026-06-15T22:28:57.561255",
+  "token_usage": 2603
+}

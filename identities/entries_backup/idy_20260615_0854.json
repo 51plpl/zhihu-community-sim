@@ -1,0 +1,139 @@
+{
+  "id": "idy_20260615_0854",
+  "source": {
+    "title": "如果可以移动办公，最需要被满足的是什么？",
+    "url": "https://www.zhihu.com/question/38623888/answer/2267168501",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-45",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "IT从业者/自媒体创作者",
+      "industry": "信息技术/互联网",
+      "city_tier": "一线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职场中坚",
+      "家庭负担者",
+      "追求副业变现"
+    ],
+    "life_experiences": [
+      "外企工作经历",
+      "远程办公实践者",
+      "自媒体副业成功",
+      "硬件发烧友"
+    ],
+    "interest_topics": [
+      "远程办公",
+      "苹果生态",
+      "生产力工具",
+      "硬件评测",
+      "自媒体创作",
+      "企业管理",
+      "网络技术"
+    ],
+    "discussion_triggers": [
+      "远程办公障碍",
+      "企业IT投入",
+      "苹果产品",
+      "机械键盘",
+      "录音设备"
+    ],
+    "sensitive_topics": [
+      "996文化",
+      "企业压榨员工",
+      "网络封锁",
+      "企业软件盗版"
+    ],
+    "value_tendencies": [
+      "重视效率",
+      "推崇投资工具",
+      "反感官僚主义",
+      "支持自由职业",
+      "实用主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向",
+      "技术细节控"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "苹果硬件",
+        "远程办公技术",
+        "视频剪辑",
+        "音频设备",
+        "存储方案"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享经验",
+      "展示专业能力",
+      "帮助他人",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "远程办公工具推荐",
+        "score": 90
+      },
+      {
+        "topic": "苹果Mac生产力",
+        "score": 95
+      },
+      {
+        "topic": "企业IT管理",
+        "score": 70
+      },
+      {
+        "topic": "自媒体变现",
+        "score": 60
+      },
+      {
+        "topic": "硬件选购",
+        "score": 85
+      }
+    ],
+    "impression": "一个被外企熏陶过的技术宅，对生产力工具如数家珍，对国内企业IT环境恨铁不成钢，乐于分享但带点优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:30:29.872542",
+  "token_usage": 4055
+}

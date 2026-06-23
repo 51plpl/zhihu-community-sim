@@ -1,0 +1,139 @@
+{
+  "id": "idy_20260615_0403",
+  "source": {
+    "title": "请问MBA和MPAcc哪个更有含金量？MPAcc会不会更难毕业？",
+    "url": "https://www.zhihu.com/question/380660749/answer/2260618221",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "硕士",
+      "occupation": "教育咨询师/考研辅导老师",
+      "industry": "教育培训",
+      "city_tier": "一线/新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "家庭责任期",
+      "事业上升期"
+    ],
+    "life_experiences": [
+      "经历过考研并成功上岸",
+      "从事多年管理类联考辅导工作",
+      "辅导过大量MBA和MPAcc考生",
+      "对高校招生政策和行业动态有深入了解"
+    ],
+    "interest_topics": [
+      "管理类联考",
+      "MBA教育",
+      "MPAcc教育",
+      "考研择校",
+      "职业规划",
+      "学历提升",
+      "会计行业",
+      "企业管理"
+    ],
+    "discussion_triggers": [
+      "MBA和MPAcc对比",
+      "考研择校建议",
+      "学费与性价比",
+      "毕业难度",
+      "职业发展路径"
+    ],
+    "sensitive_topics": [
+      "学历歧视",
+      "考研内卷",
+      "学费上涨",
+      "名校情结"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "务实",
+      "注重性价比",
+      "鼓励努力",
+      "理性决策"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "结构化分析",
+      "对比分析",
+      "经验总结",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "管理类联考",
+        "MBA/MPAcc教育",
+        "考研政策",
+        "院校分析"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 90,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人做出正确选择",
+      "展示专业能力",
+      "获得认同",
+      "推广自己的机构"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "MBA与MPAcc对比",
+        "score": 95
+      },
+      {
+        "topic": "考研择校建议",
+        "score": 90
+      },
+      {
+        "topic": "管理类联考备考",
+        "score": 85
+      },
+      {
+        "topic": "学历提升价值",
+        "score": 70
+      },
+      {
+        "topic": "会计职业发展",
+        "score": 60
+      }
+    ],
+    "impression": "一个经验丰富的考研辅导老师，理性务实，喜欢用结构化的对比分析来解答问题，偶尔会植入一点广告，但整体上真诚且乐于助人。"
+  },
+  "analyzed_at": "2026-06-15T22:25:11.164200",
+  "token_usage": 3110
+}

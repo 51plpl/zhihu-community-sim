@@ -1,0 +1,136 @@
+{
+  "id": "idy_20260615_0662",
+  "source": {
+    "title": "哪些瞬间让你感受到父母对你的真实恶意？",
+    "url": "https://www.zhihu.com/question/34201905/answer/2281895886",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领/文职",
+      "industry": "未知",
+      "city_tier": "二线或三线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "失去至亲的创伤期",
+      "寻求真相的复仇期"
+    ],
+    "life_experiences": [
+      "弟弟自杀身亡",
+      "母亲两年前去世",
+      "父亲再婚",
+      "与弟弟感情深厚",
+      "曾因工作调动离开家乡"
+    ],
+    "interest_topics": [
+      "心理健康",
+      "自杀预防",
+      "网络暴力",
+      "法律维权",
+      "家庭关系"
+    ],
+    "discussion_triggers": [
+      "亲人离世",
+      "教唆自杀",
+      "网络阴暗面",
+      "家庭冷漠",
+      "正义伸张"
+    ],
+    "sensitive_topics": [
+      "自杀",
+      "抑郁症",
+      "家庭冷漠",
+      "网络教唆",
+      "死亡"
+    ],
+    "value_tendencies": [
+      "重视家庭",
+      "追求正义",
+      "反对网络暴力",
+      "珍视生命",
+      "理性但不失情感"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "逻辑推理",
+      "细节观察",
+      "情感驱动",
+      "行动导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "日常办公",
+        "基础法律常识",
+        "网络社交"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 50,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 80,
+      "likes_explaining": 60,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "寻求弟弟死亡真相",
+      "警示他人",
+      "宣泄情感",
+      "获得支持"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "亲人自杀",
+        "score": 90
+      },
+      {
+        "topic": "网络教唆",
+        "score": 85
+      },
+      {
+        "topic": "家庭关系",
+        "score": 75
+      },
+      {
+        "topic": "心理健康",
+        "score": 70
+      },
+      {
+        "topic": "正义与复仇",
+        "score": 80
+      }
+    ],
+    "impression": "一个为弟弟复仇而变得坚韧的姐姐，情感浓烈但行动理性，带着破碎感与决心。"
+  },
+  "analyzed_at": "2026-06-15T22:28:14.813988",
+  "token_usage": 4517
+}

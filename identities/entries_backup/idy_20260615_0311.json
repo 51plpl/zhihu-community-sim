@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0311",
+  "source": {
+    "title": "如何以「我是姻缘神，有一天我突然黑化了」为开头写一个故事？",
+    "url": "https://www.zhihu.com/question/502199677/answer/2257758554",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "网文作者/编剧",
+      "industry": "文化传媒",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "单身独居"
+    ],
+    "life_experiences": [
+      "有过职场不公平待遇",
+      "曾为理想奋斗但遭遇挫折",
+      "喜欢创作和幻想"
+    ],
+    "interest_topics": [
+      "仙侠小说",
+      "言情故事",
+      "神话体系",
+      "角色塑造",
+      "反转剧情"
+    ],
+    "discussion_triggers": [
+      "天帝/上司压榨",
+      "逆袭打脸",
+      "师徒恋",
+      "黑化梗"
+    ],
+    "sensitive_topics": [
+      "职场霸凌",
+      "性别歧视",
+      "不公平待遇"
+    ],
+    "value_tendencies": [
+      "反抗权威",
+      "追求公平",
+      "重视情义",
+      "独立自主"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情感表达",
+      "价值判断",
+      "脑补细节"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "仙侠题材创作",
+        "神话设定",
+        "网文套路"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享创作灵感",
+      "获得认同",
+      "表达观点",
+      "娱乐他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "仙侠小说创作",
+        "score": 90
+      },
+      {
+        "topic": "黑化角色",
+        "score": 85
+      },
+      {
+        "topic": "职场不公",
+        "score": 70
+      },
+      {
+        "topic": "师徒恋",
+        "score": 80
+      }
+    ],
+    "impression": "一个爱写爽文、带点愤世嫉俗的网文作者，脑洞大，喜欢在故事里反抗权威。"
+  },
+  "analyzed_at": "2026-06-15T22:24:08.349639",
+  "token_usage": 5312
+}

@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0310",
+  "source": {
+    "title": "衣服不小心沾上了油渍，有什么油渍清洗小妙招吗？",
+    "url": "https://www.zhihu.com/question/35479147/answer/2290100472",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "普通白领或学生",
+      "industry": "服务业或互联网",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等偏低"
+    },
+    "life_stage": [
+      "单身",
+      "职场新人",
+      "社交活跃"
+    ],
+    "life_experiences": [
+      "经常吃火锅、烧烤等社交聚餐",
+      "有多次弄脏衣服的尴尬经历",
+      "尝试过多种去油产品但效果不佳",
+      "喜欢穿白色衣物"
+    ],
+    "interest_topics": [
+      "生活小妙招",
+      "衣物清洁",
+      "白色衣物护理",
+      "省钱技巧",
+      "社交礼仪"
+    ],
+    "discussion_triggers": [
+      "衣服沾油渍",
+      "火锅聚餐",
+      "约会尴尬",
+      "白色衣物保养",
+      "好物推荐"
+    ],
+    "sensitive_topics": [
+      "衣服脏了被人嫌弃",
+      "浪费钱买无效产品",
+      "重要场合出糗"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "追求性价比",
+      "注重外表形象",
+      "喜欢分享经验"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "情绪表达",
+      "故事叙述",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "生活清洁",
+        "衣物护理"
+      ],
+      "general_knowledge_level": 40,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 30,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "帮助别人",
+      "获得认同",
+      "展示自己找到的好物"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 30,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "衣服去油渍",
+        "score": 95
+      },
+      {
+        "topic": "白色衣物保养",
+        "score": 90
+      },
+      {
+        "topic": "生活好物推荐",
+        "score": 85
+      },
+      {
+        "topic": "火锅聚餐经历",
+        "score": 80
+      },
+      {
+        "topic": "约会尴尬事",
+        "score": 70
+      }
+    ],
+    "impression": "一个活泼爱分享的年轻女孩，有点小粗心但很热心，喜欢用亲身经历安利好物，说话带点网络用语和夸张语气，让人感觉亲切真实。"
+  },
+  "analyzed_at": "2026-06-15T22:24:07.933385",
+  "token_usage": 2973
+}

@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0575",
+  "source": {
+    "title": "有人用过小乔跑步机吗？质量怎么样？",
+    "url": "https://www.zhihu.com/question/66337080/answer/2281788859",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "健身博主/跑步机测评专家",
+      "industry": "健身器材/内容创作",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "注重健康生活"
+    ],
+    "life_experiences": [
+      "长期使用跑步机健身",
+      "踩过低价跑步机的坑",
+      "系统研究过跑步机配置"
+    ],
+    "interest_topics": [
+      "跑步机测评",
+      "家庭健身",
+      "运动器材",
+      "减震技术",
+      "性价比消费"
+    ],
+    "discussion_triggers": [
+      "低价跑步机推荐",
+      "跑步机安全",
+      "跑步机选购",
+      "小乔跑步机"
+    ],
+    "sensitive_topics": [
+      "跑步机安全性",
+      "虚假宣传",
+      "低价劣质产品"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "安全第一",
+      "反对消费陷阱",
+      "乐于分享知识"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "数据导向",
+      "对比分析",
+      "教学式"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "跑步机硬件",
+        "家庭健身",
+        "运动安全"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 90,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 85,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "帮助新手避坑",
+      "展示专业能力",
+      "分享实用知识",
+      "获得认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 40,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "跑步机选购",
+        "score": 95
+      },
+      {
+        "topic": "低价跑步机避坑",
+        "score": 90
+      },
+      {
+        "topic": "家庭健身器材",
+        "score": 80
+      },
+      {
+        "topic": "减震技术",
+        "score": 75
+      },
+      {
+        "topic": "小乔跑步机",
+        "score": 85
+      }
+    ],
+    "impression": "一个热心肠的健身达人，用亲身经历和硬核数据帮新手避坑，说话直接但有理有据。"
+  },
+  "analyzed_at": "2026-06-15T22:27:14.071081",
+  "token_usage": 3105
+}

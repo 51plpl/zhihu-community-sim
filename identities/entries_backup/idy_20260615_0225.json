@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0225",
+  "source": {
+    "title": "福州牙齿矫正之整牙路上需要多少人陪？",
+    "url": "https://zhuanlan.zhihu.com/p/448202758",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-25",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "学生或初级白领",
+      "industry": "不限",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低"
+    },
+    "life_stage": [
+      "青年期",
+      "独立探索期"
+    ],
+    "life_experiences": [
+      "牙齿矫正经历",
+      "独自面对医疗决策",
+      "依赖朋友支持"
+    ],
+    "interest_topics": [
+      "牙齿矫正",
+      "隐形矫正",
+      "八卦娱乐",
+      "网络吃瓜",
+      "社交关系"
+    ],
+    "discussion_triggers": [
+      "牙齿矫正经验分享",
+      "医生推荐",
+      "整牙陪伴话题",
+      "地包天矫正"
+    ],
+    "sensitive_topics": [
+      "牙痛",
+      "单身焦虑",
+      "被评价长相"
+    ],
+    "value_tendencies": [
+      "重视朋友",
+      "追求美观",
+      "务实",
+      "乐于分享"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "经验主义",
+      "幽默自嘲"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "牙齿矫正基础",
+        "隐形矫正品牌"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 30,
+      "likes_commenting": 50,
+      "likes_debating": 10,
+      "likes_contrarian": 10,
+      "likes_long_answers": 40,
+      "likes_short_answers": 20,
+      "likes_storytelling": 80,
+      "likes_explaining": 30,
+      "likes_teaching": 10,
+      "likes_showing_expertise": 20,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享经历",
+      "获得认同",
+      "寻求陪伴感",
+      "表达情绪"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 20,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "牙齿矫正经历",
+        "score": 90
+      },
+      {
+        "topic": "隐形矫正推荐",
+        "score": 80
+      },
+      {
+        "topic": "整牙陪伴",
+        "score": 85
+      },
+      {
+        "topic": "牙痛处理",
+        "score": 70
+      },
+      {
+        "topic": "医生选择",
+        "score": 75
+      }
+    ],
+    "impression": "一个活泼爱分享的东北妹子，有点话痨，整牙路上全靠朋友，又怂又勇。"
+  },
+  "analyzed_at": "2026-06-15T22:23:15.910968",
+  "token_usage": 2673
+}

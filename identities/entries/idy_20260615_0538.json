@@ -1,0 +1,125 @@
+{
+  "id": "idy_20260615_0538",
+  "source": {
+    "title": "为什么金庸笔下的中原武林都是伪善的多？",
+    "url": "https://www.zhihu.com/question/504811051/answer/2263670124",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "IT从业者或自由职业者",
+      "industry": "互联网",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "独居",
+      "职业上升期"
+    ],
+    "life_experiences": [
+      "学生时代大量阅读金庸小说",
+      "参与过网络论战",
+      "在论坛或社区长期活跃"
+    ],
+    "interest_topics": [
+      "金庸武侠",
+      "文学批评",
+      "历史",
+      "网络辩论",
+      "人性探讨"
+    ],
+    "discussion_triggers": [
+      "对金庸作品的误解",
+      "中原武林伪善论",
+      "玄慈人设",
+      "乔峰悲剧原因"
+    ],
+    "sensitive_topics": [
+      "双标",
+      "伪善",
+      "剧情理解错误"
+    ],
+    "value_tendencies": [
+      "正义感强",
+      "尊重原著",
+      "反对标签化",
+      "注重逻辑"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "文本细读",
+      "反驳论证",
+      "举例说明"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "金庸小说",
+        "武侠文化"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 90,
+      "likes_contrarian": 20,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 20,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "纠正错误观点",
+      "展示专业知识",
+      "获得认同",
+      "维护原著形象"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "金庸小说人物分析",
+        "score": 90
+      },
+      {
+        "topic": "武侠小说中的正邪观",
+        "score": 85
+      },
+      {
+        "topic": "网络流行观点批判",
+        "score": 80
+      },
+      {
+        "topic": "剧情逻辑讨论",
+        "score": 85
+      }
+    ],
+    "impression": "一个热爱金庸、逻辑清晰、好为人师的考据党，对误解原著的行为零容忍。"
+  },
+  "analyzed_at": "2026-06-15T22:26:48.310307",
+  "token_usage": 5385
+}

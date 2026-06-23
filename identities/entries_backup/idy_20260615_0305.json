@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0305",
+  "source": {
+    "title": "你的交易系统基于历史归纳还是演绎？以什么逻辑或者基于什么优势而建立系统呢？",
+    "url": "https://www.zhihu.com/question/507818209/answer/2282659670",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "期货交易员/量化研究员",
+      "industry": "金融投资",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业发展期",
+      "家庭责任期"
+    ],
+    "life_experiences": [
+      "多年期货交易实战经验",
+      "经历过多次市场回撤与亏损",
+      "系统学习过交易哲学与逻辑"
+    ],
+    "interest_topics": [
+      "期货交易",
+      "量化交易",
+      "交易系统设计",
+      "哲学与逻辑学",
+      "行为金融学"
+    ],
+    "discussion_triggers": [
+      "交易系统的底层逻辑",
+      "归纳法与演绎法的优劣",
+      "趋势跟踪策略",
+      "资金管理"
+    ],
+    "sensitive_topics": [
+      "预测型交易方法",
+      "过度优化系统",
+      "短期暴利神话"
+    ],
+    "value_tendencies": [
+      "理性至上",
+      "逻辑优先",
+      "反对盲目归纳",
+      "重视风险控制"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "逻辑推导",
+      "演绎推理",
+      "系统思维",
+      "批判性思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "期货交易",
+        "交易系统设计",
+        "资金管理",
+        "哲学基础"
+      ],
+      "general_knowledge_level": 80,
+      "likes_citing_data": 70,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 50,
+      "likes_long_answers": 90,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 95,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "传播正确的交易理念",
+      "帮助新手避免常见错误",
+      "展示自己的逻辑分析能力",
+      "获得同行认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "交易系统的逻辑基础",
+        "score": 90
+      },
+      {
+        "topic": "归纳法与演绎法在交易中的应用",
+        "score": 85
+      },
+      {
+        "topic": "趋势跟踪策略的有效性",
+        "score": 80
+      },
+      {
+        "topic": "资金管理方法",
+        "score": 75
+      },
+      {
+        "topic": "如何避免过度优化",
+        "score": 70
+      }
+    ],
+    "impression": "一个理性至上的交易老手，喜欢用哲学逻辑拆解交易问题，对归纳法嗤之以鼻，坚信演绎法才是正道。"
+  },
+  "analyzed_at": "2026-06-15T22:24:05.178349",
+  "token_usage": 3122
+}

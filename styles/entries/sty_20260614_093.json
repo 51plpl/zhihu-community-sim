@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_093",
+  "source": {
+    "title": "你有没有一个时刻特别佩服你婆婆？",
+    "url": "https://www.zhihu.com/question/306396426/answer/2275211562",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "口语化为主，用词偏日常，如“扶妹魔”“掉钱眼”等生活化表达。",
+    "sentence_rhythm": "长短句结合，短句居多，节奏紧凑，尤其在情绪爆发处使用短句增强冲击力。",
+    "favorite_expressions": [
+      "你知道吗",
+      "我",
+      "可是",
+      "却",
+      "然后"
+    ],
+    "punctuation_habits": "逗号密度高，用于分割动作和情绪；感叹号用于强烈情感；省略号用于省略或停顿。",
+    "person_perspective": "第一人称“我”贯穿全文，偶尔切换为对话中的第二人称。",
+    "emotion_intensity": "中等偏热烈，情感起伏明显，但总体克制在叙事中。"
+  },
+  "structure": {
+    "opening_pattern": "以提问开头，引发共鸣，随后直接切入故事。",
+    "paragraph_rhythm": "段落长短交替，关键情感句独立成段，如“我听见我的心脏扑通扑通的声音。”",
+    "argument_logic": "归纳型，通过多个具体案例（如生活费被扣、补课被拒、让出房间）逐步引出观点。",
+    "transition_style": "口语化过渡，常用“可是”“后来”“直到”等连接词，部分直接跳转。",
+    "closing_pattern": "故事回环，结尾呼应开头，强调婆婆的温暖与原生家庭的对比。",
+    "title_pattern": "痛点+悬念，以“佩服婆婆”引发好奇。"
+  },
+  "analyzed_at": "2026-06-14T22:55:57.139159",
+  "token_usage": 6127
+}

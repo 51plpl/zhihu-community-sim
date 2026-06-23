@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0468",
+  "source": {
+    "title": "准备要孩子，女友却突然告诉我，她以前结过婚，还有一个小孩，还在已婚状态，还有必要走下去么？",
+    "url": "https://www.zhihu.com/question/486311509/answer/2257585520",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-40",
+      "gender": "男",
+      "education": "大学本科",
+      "occupation": "情感咨询师/导师",
+      "industry": "情感咨询",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "情感经历丰富",
+      "对婚姻持谨慎态度"
+    ],
+    "life_experiences": [
+      "曾从事PUA教学或情感咨询",
+      "接触过大量出轨案例",
+      "自身或身边人有被出轨经历",
+      "对两性关系有深入观察"
+    ],
+    "interest_topics": [
+      "两性关系",
+      "情感咨询",
+      "PUA",
+      "婚姻忠诚",
+      "社会伦理"
+    ],
+    "discussion_triggers": [
+      "出轨话题",
+      "处女情结",
+      "接盘侠",
+      "女性道德"
+    ],
+    "sensitive_topics": [
+      "出轨",
+      "非处",
+      "女权",
+      "婚姻欺骗"
+    ],
+    "value_tendencies": [
+      "保守主义",
+      "男性视角",
+      "强调忠诚",
+      "反对女权极端化"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 20
+    },
+    "thinking_style": [
+      "经验主义",
+      "案例驱动",
+      "情绪化表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "情感咨询",
+        "两性心理学",
+        "PUA技巧"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 70,
+      "likes_contrarian": 60,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "帮助他人避免情感陷阱",
+      "展示专业能力",
+      "表达观点",
+      "获得认同",
+      "反驳女权观点"
+    ],
+    "social_needs": {
+      "seeking_recognition": 80,
+      "seeking_agreement": 60,
+      "seeking_influence": 70,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "出轨",
+        "score": 90
+      },
+      {
+        "topic": "处女情结",
+        "score": 85
+      },
+      {
+        "topic": "婚姻欺骗",
+        "score": 80
+      },
+      {
+        "topic": "女权",
+        "score": 70
+      },
+      {
+        "topic": "两性关系",
+        "score": 75
+      }
+    ],
+    "impression": "一个被出轨案例洗礼过的情感老手，用故事和情绪输出观点，带着对女性的警惕和对老实人的同情。"
+  },
+  "analyzed_at": "2026-06-15T22:25:57.917139",
+  "token_usage": 2874
+}

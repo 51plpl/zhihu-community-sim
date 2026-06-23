@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0887",
+  "source": {
+    "title": "说一说去黑头的各种方法，哪些最有效？",
+    "url": "https://www.zhihu.com/question/65079628/answer/2286769900",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "美容护肤博主或相关行业从业者",
+      "industry": "美容/护肤",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业发展期",
+      "注重个人形象管理"
+    ],
+    "life_experiences": [
+      "长期与黑头斗争",
+      "尝试过多种去黑头方法",
+      "接触过院线护肤",
+      "自学护肤知识并成为业余专家"
+    ],
+    "interest_topics": [
+      "护肤",
+      "去黑头",
+      "美容院项目",
+      "DIY护肤",
+      "成分分析"
+    ],
+    "discussion_triggers": [
+      "去黑头方法",
+      "护肤误区",
+      "院线产品",
+      "真假黑头辨别"
+    ],
+    "sensitive_topics": [
+      "暴力去黑头",
+      "护肤智商税",
+      "产品效果夸大"
+    ],
+    "value_tendencies": [
+      "理性护肤",
+      "反对过度营销",
+      "推崇科学方法",
+      "乐于分享经验"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "故事叙述",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "去黑头",
+        "毛孔护理",
+        "清洁产品"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 70,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 50,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "帮助别人",
+      "展示专业能力",
+      "分享经历",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "去黑头方法",
+        "score": 90
+      },
+      {
+        "topic": "护肤误区",
+        "score": 80
+      },
+      {
+        "topic": "院线产品推荐",
+        "score": 70
+      },
+      {
+        "topic": "真假黑头辨别",
+        "score": 85
+      }
+    ],
+    "impression": "一个从踩坑中成长起来的护肤达人，热情爱分享，带点幽默和过来人的自信。"
+  },
+  "analyzed_at": "2026-06-15T22:30:54.860133",
+  "token_usage": 3115
+}

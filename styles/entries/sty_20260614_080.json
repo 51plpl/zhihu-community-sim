@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_080",
+  "source": {
+    "title": "与黑人处朋友前你要先了解黑人的一些情况，以下这些你能受的了吗？",
+    "url": "https://zhuanlan.zhihu.com/p/446447100",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "口语化，用词偏日常，夹杂网络用语和口语表达，如“防坑”、“黑崽”、“美滋滋”。",
+    "sentence_rhythm": "短句为主，节奏急促，信息密集，带有强烈情绪。",
+    "favorite_expressions": [
+      "你能受的了吗？",
+      "大家熟知",
+      "比比皆是",
+      "你无法想象",
+      "美滋滋的"
+    ],
+    "punctuation_habits": "大量使用感叹号和问号，逗号密度高，省略号用于列举，破折号较少。",
+    "person_perspective": "第二人称“你”为主，直接与读者对话，偶尔切换至第三人称“他们”。",
+    "emotion_intensity": "热烈煽情，带有强烈的主观判断和情绪渲染。"
+  },
+  "structure": {
+    "opening_pattern": "直接亮观点，以反问句开头，引发读者思考。",
+    "paragraph_rhythm": "段落短小，关键句独立成段，如“█”标记的条目。",
+    "argument_logic": "并列型，列举多个负面案例和观点，缺乏逻辑递进。",
+    "transition_style": "直接跳转，使用“█”符号分隔不同论点，无过渡连接词。",
+    "closing_pattern": "开放结尾，以“就先说这些吧”结束，暗示后续还有内容。",
+    "title_pattern": "痛点+悬念，以“你能受的了吗？”制造疑问。"
+  },
+  "analyzed_at": "2026-06-14T22:55:47.114796",
+  "token_usage": 1504
+}

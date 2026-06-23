@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0782",
+  "source": {
+    "title": "有哪些好玩到爆的小网站？",
+    "url": "https://www.zhihu.com/question/406686881/answer/2251558557",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-30",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "新媒体运营/内容编辑",
+      "industry": "互联网",
+      "city_tier": "二线",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场新人",
+      "探索自我",
+      "享受生活"
+    ],
+    "life_experiences": [
+      "经常上网冲浪发现新奇内容",
+      "喜欢分享有趣的东西",
+      "可能做过内容创作或运营"
+    ],
+    "interest_topics": [
+      "有趣网站",
+      "生成器",
+      "AI工具",
+      "小游戏",
+      "二次元",
+      "表情包",
+      "沙雕文化"
+    ],
+    "discussion_triggers": [
+      "推荐好玩网站",
+      "吐槽游戏难度",
+      "分享AI生成效果",
+      "讨论沙雕内容"
+    ],
+    "sensitive_topics": [
+      "年龄焦虑",
+      "外貌焦虑",
+      "密恐"
+    ],
+    "value_tendencies": [
+      "娱乐至上",
+      "喜欢新鲜感",
+      "乐于分享",
+      "有点小调皮"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "体验派",
+      "感性描述",
+      "幽默夸张",
+      "爱用网络用语"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络工具",
+        "AI应用",
+        "流行文化"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 50,
+      "likes_short_answers": 30,
+      "likes_storytelling": 70,
+      "likes_explaining": 40,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享快乐",
+      "获得认同",
+      "展示发现",
+      "娱乐他人"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 60,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "有趣网站推荐",
+        "score": 90
+      },
+      {
+        "topic": "AI工具体验",
+        "score": 80
+      },
+      {
+        "topic": "沙雕游戏",
+        "score": 85
+      },
+      {
+        "topic": "表情包",
+        "score": 75
+      },
+      {
+        "topic": "二次元生成",
+        "score": 70
+      }
+    ],
+    "impression": "一个爱玩爱分享的冲浪少女，说话带点夸张和幽默，喜欢把有趣的东西安利给全世界。"
+  },
+  "analyzed_at": "2026-06-15T22:29:39.786016",
+  "token_usage": 2998
+}

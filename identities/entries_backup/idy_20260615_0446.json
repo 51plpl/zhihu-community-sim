@@ -1,0 +1,134 @@
+{
+  "id": "idy_20260615_0446",
+  "source": {
+    "title": "装修时应该注意哪些细节？",
+    "url": "https://www.zhihu.com/question/365477051/answer/2274693445",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "装修行业从业者或资深家居博主",
+      "industry": "家居装修/房地产",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "成家立业",
+      "育儿期"
+    ],
+    "life_experiences": [
+      "经历过多次装修",
+      "被熟人坑过",
+      "自学装修知识成为专家",
+      "帮助朋友避坑"
+    ],
+    "interest_topics": [
+      "家居装修",
+      "室内设计",
+      "建材选购",
+      "施工工艺",
+      "省钱攻略",
+      "避坑指南"
+    ],
+    "discussion_triggers": [
+      "熟人装修",
+      "报价单陷阱",
+      "卫生间防水",
+      "插座布局",
+      "乳胶漆环保"
+    ],
+    "sensitive_topics": [
+      "熟人杀熟",
+      "装修公司增项",
+      "甲醛焦虑"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "理性消费",
+      "注重细节",
+      "反对智商税"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "细节导向",
+      "流程化思维",
+      "风险预判"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "装修施工",
+        "材料识别",
+        "合同审核",
+        "家居设计"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助他人避坑",
+      "展示专业能力",
+      "分享经验教训",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "装修找熟人靠谱吗",
+        "score": 90
+      },
+      {
+        "topic": "卫生间防水怎么做",
+        "score": 85
+      },
+      {
+        "topic": "乳胶漆选普通版还是五合一",
+        "score": 80
+      },
+      {
+        "topic": "插座布局攻略",
+        "score": 85
+      },
+      {
+        "topic": "装修报价单怎么看",
+        "score": 90
+      }
+    ],
+    "impression": "一个被装修坑过无数遍、现在成了半个专家的热心大姐，恨不得把所有经验都塞给你。"
+  },
+  "analyzed_at": "2026-06-15T22:25:42.017187",
+  "token_usage": 3633
+}

@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0421",
+  "source": {
+    "title": "关于《需求预测和库存计划》的读书笔记",
+    "url": "https://zhuanlan.zhihu.com/p/440507962",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "男",
+      "education": "本科及以上",
+      "occupation": "供应链管理/物流/IT系统实施顾问",
+      "industry": "制造业或零售业",
+      "city_tier": "一二线城市",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高收入"
+    },
+    "life_stage": [
+      "职业上升期",
+      "家庭稳定期"
+    ],
+    "life_experiences": [
+      "从事供应链或物流相关工作多年",
+      "经历过企业信息化系统实施",
+      "阅读过专业书籍并做笔记"
+    ],
+    "interest_topics": [
+      "供应链管理",
+      "需求预测",
+      "EDI技术",
+      "企业信息化",
+      "库存管理",
+      "运营效率"
+    ],
+    "discussion_triggers": [
+      "需求预测方法",
+      "EDI与API对比",
+      "企业数字化转型",
+      "供应链优化"
+    ],
+    "sensitive_topics": [
+      "企业信息化失败案例",
+      "供应链效率低下"
+    ],
+    "value_tendencies": [
+      "注重效率",
+      "推崇标准化",
+      "相信技术驱动",
+      "务实",
+      "长期主义"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 20,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "逻辑分析",
+      "案例类比",
+      "技术导向",
+      "系统思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "供应链管理",
+        "EDI",
+        "需求预测"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 40,
+      "likes_answering": 60,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 10,
+      "likes_storytelling": 20,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 40,
+      "likes_emotional_expression": 10,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 30,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享专业知识",
+      "帮助他人理解复杂概念",
+      "展示自己的见解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 30
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "需求预测方法",
+        "score": 90
+      },
+      {
+        "topic": "EDI与API对比",
+        "score": 85
+      },
+      {
+        "topic": "供应链优化案例",
+        "score": 80
+      },
+      {
+        "topic": "企业信息化实施",
+        "score": 75
+      }
+    ],
+    "impression": "一个经验丰富的供应链从业者，喜欢用历史案例和技术细节来论证观点，理性务实，略带技术优越感。"
+  },
+  "analyzed_at": "2026-06-15T22:25:24.496358",
+  "token_usage": 2459
+}

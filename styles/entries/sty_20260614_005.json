@@ -1,0 +1,32 @@
+{
+  "id": "sty_20260614_005",
+  "source": {
+    "title": "沃丰科技GaussMind自研AI基础设施“原心引擎”有哪些特点？",
+    "url": "https://zhuanlan.zhihu.com/p/448977538",
+    "is_self": false
+  },
+  "language": {
+    "vocabulary_level": "混合，专业术语与口语化表达并存，如“推究本意”“触类旁通”与“口音重”“训练难度大”等。",
+    "sentence_rhythm": "长短句结合，节奏舒缓，以说明性长句为主，穿插短句强调。",
+    "favorite_expressions": [
+      "沃丰科技(Udesk)",
+      "原心引擎",
+      "语音语义融合",
+      "自适应学习",
+      "情景重现"
+    ],
+    "punctuation_habits": "大量使用冒号、引号和破折号进行解释和列举，感叹号极少，逗号密度中等。",
+    "person_perspective": "第三人称客观叙述，偶尔切换为第一人称“我们”进行解释。",
+    "emotion_intensity": "冷静克制，以技术说明为主，无明显煽情。"
+  },
+  "structure": {
+    "opening_pattern": "直接亮观点，以标题问题引出正文，随后介绍产品背景。",
+    "paragraph_rhythm": "段落长短交替，关键特点独立成段并加粗标题，逻辑清晰。",
+    "argument_logic": "演绎型，先提出传统引擎的问题，再逐一介绍原心引擎的三个特点作为解决方案。",
+    "transition_style": "使用连接词如“为了解决”“简单来说”“举一个实际使用场景的例子”进行过渡。",
+    "closing_pattern": "以具体案例收尾，展示自适应学习的效果，无金句或号召。",
+    "title_pattern": "痛点+直给，以问题形式直接点明产品特点。"
+  },
+  "analyzed_at": "2026-06-14T22:54:46.127933",
+  "token_usage": 2064
+}

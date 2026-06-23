@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0988",
+  "source": {
+    "title": "中华文明是否是世界性文明？",
+    "url": "https://www.zhihu.com/question/21092124/answer/2285062145",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-55",
+      "gender": "男",
+      "education": "本科或以上，非历史专业",
+      "occupation": "自由职业者或文化研究者",
+      "industry": "文化传播或自媒体",
+      "city_tier": "二线或三线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "中年危机",
+      "寻求身份认同"
+    ],
+    "life_experiences": [
+      "长期自学上古史和神话比较",
+      "可能参与过民间文化团体",
+      "对主流历史叙事不满"
+    ],
+    "interest_topics": [
+      "中华文明起源",
+      "古埃及与华夏关系",
+      "神话比较学",
+      "基因人类学",
+      "共济会符号"
+    ],
+    "discussion_triggers": [
+      "中华文明世界性",
+      "易中天观点",
+      "西方伪史",
+      "三星堆",
+      "圣经与华夏"
+    ],
+    "sensitive_topics": [
+      "中华文明独立性",
+      "西方中心论",
+      "主流历史学界"
+    ],
+    "value_tendencies": [
+      "民族自豪感强",
+      "反主流",
+      "相信宏大叙事",
+      "重视传统"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "联想式推理",
+      "符号学解读",
+      "证据堆砌",
+      "自信断言"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "上古史",
+        "神话学",
+        "文字学",
+        "基因人类学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 20
+    },
+    "community_behavior": {
+      "activity_level": 80,
+      "likes_answering": 90,
+      "likes_commenting": 70,
+      "likes_debating": 90,
+      "likes_contrarian": 90,
+      "likes_long_answers": 90,
+      "likes_short_answers": 10,
+      "likes_storytelling": 60,
+      "likes_explaining": 90,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 90,
+      "likes_sharing_experience": 30,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 90
+    },
+    "motivation": [
+      "展示专业能力",
+      "反驳他人",
+      "传播观点",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 80,
+      "seeking_agreement": 60,
+      "seeking_influence": 70,
+      "seeking_help_others": 30,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "中华文明起源",
+        "score": 95
+      },
+      {
+        "topic": "易中天历史观点",
+        "score": 90
+      },
+      {
+        "topic": "三星堆文明",
+        "score": 85
+      },
+      {
+        "topic": "共济会与华夏",
+        "score": 80
+      },
+      {
+        "topic": "圣经与华夏关系",
+        "score": 80
+      }
+    ],
+    "impression": "一个自信到偏执的民间历史学者，用海量联想捍卫华夏中心论，言辞激烈但自成体系。"
+  },
+  "analyzed_at": "2026-06-15T22:32:07.872649",
+  "token_usage": 2929
+}

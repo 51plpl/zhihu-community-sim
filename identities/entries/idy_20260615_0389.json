@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0389",
+  "source": {
+    "title": "为什么你的Flag永远立不住？有可能是计划管理没做好！",
+    "url": "https://zhuanlan.zhihu.com/p/443183830",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "产品运营或项目经理",
+      "industry": "互联网",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职场上升期",
+      "自我提升期"
+    ],
+    "life_experiences": [
+      "曾多次立Flag失败",
+      "学习吉他并坚持下来",
+      "使用过多种效率工具"
+    ],
+    "interest_topics": [
+      "个人成长",
+      "效率工具",
+      "时间管理",
+      "目标管理",
+      "吉他",
+      "心理学"
+    ],
+    "discussion_triggers": [
+      "立Flag失败",
+      "拖延症",
+      "计划管理",
+      "效率工具推荐",
+      "自我提升方法"
+    ],
+    "sensitive_topics": [
+      "自律焦虑",
+      "内卷",
+      "职场压力"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "自我驱动",
+      "持续学习"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "结构化思维",
+      "步骤分解",
+      "经验总结",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "计划管理",
+        "效率工具",
+        "产品运营"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享经验帮助他人",
+      "展示专业能力",
+      "获得认同",
+      "推广喜欢的工具"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "如何坚持计划",
+        "score": 90
+      },
+      {
+        "topic": "效率工具推荐",
+        "score": 85
+      },
+      {
+        "topic": "拖延症怎么办",
+        "score": 80
+      },
+      {
+        "topic": "学习吉他经验",
+        "score": 75
+      },
+      {
+        "topic": "目标设定方法",
+        "score": 85
+      }
+    ],
+    "impression": "一个从失败中总结方法、乐于分享的实用主义者，带点工具控的认真劲儿。"
+  },
+  "analyzed_at": "2026-06-15T22:25:00.976922",
+  "token_usage": 3355
+}

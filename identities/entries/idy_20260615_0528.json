@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0528",
+  "source": {
+    "title": "这样的黑头还有希望么？",
+    "url": "https://www.zhihu.com/question/388429179/answer/2290867961",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领/文职",
+      "industry": "服务业或互联网",
+      "city_tier": "二线或三线",
+      "marital_status": "单身",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "单身社交活跃期",
+      "注重外貌提升期"
+    ],
+    "life_experiences": [
+      "曾因外貌（黑头）被嘲笑",
+      "尝试过多种去黑头方法失败",
+      "通过刷酸成功改善皮肤",
+      "被00后搭讪经历"
+    ],
+    "interest_topics": [
+      "护肤",
+      "美妆",
+      "社交",
+      "恋爱",
+      "购物"
+    ],
+    "discussion_triggers": [
+      "黑头问题",
+      "刷酸经验",
+      "产品推荐",
+      "颜值焦虑"
+    ],
+    "sensitive_topics": [
+      "外貌歧视",
+      "皮肤问题",
+      "年龄焦虑"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "结果导向",
+      "分享精神",
+      "自信"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "经验分享",
+      "故事叙述",
+      "情绪表达",
+      "种草安利"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "护肤",
+        "去黑头",
+        "刷酸"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享成功经验",
+      "获得认同",
+      "帮助有同样困扰的人",
+      "展示成果"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "去黑头方法",
+        "score": 95
+      },
+      {
+        "topic": "刷酸产品推荐",
+        "score": 90
+      },
+      {
+        "topic": "护肤经验",
+        "score": 85
+      },
+      {
+        "topic": "颜值焦虑",
+        "score": 70
+      },
+      {
+        "topic": "恋爱社交",
+        "score": 60
+      }
+    ],
+    "impression": "一个曾经因黑头自卑、如今靠刷酸逆袭的自信女孩，热情爱分享，带点小得意和俏皮。"
+  },
+  "analyzed_at": "2026-06-15T22:26:41.000349",
+  "token_usage": 3249
+}

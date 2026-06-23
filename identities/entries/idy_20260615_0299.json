@@ -1,0 +1,120 @@
+{
+  "id": "idy_20260615_0299",
+  "source": {
+    "title": "骂人不带脏字的有哪些？",
+    "url": "https://www.zhihu.com/question/504439159/answer/2262947616",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "高中/中专",
+      "occupation": "自由职业/无固定职业",
+      "industry": "服务业或体力劳动",
+      "city_tier": "三线及以下",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低收入"
+    },
+    "life_stage": [
+      "青年期",
+      "社会底层挣扎期"
+    ],
+    "life_experiences": [
+      "经常遭遇不公对待",
+      "文化程度不高但自认聪明",
+      "喜欢在网上发泄情绪"
+    ],
+    "interest_topics": [
+      "骂人技巧",
+      "网络段子",
+      "搞笑视频",
+      "社会吐槽"
+    ],
+    "discussion_triggers": [
+      "如何优雅骂人",
+      "吐槽奇葩",
+      "发泄情绪"
+    ],
+    "sensitive_topics": [
+      "被冒犯",
+      "被看不起",
+      "社会不公"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "快意恩仇",
+      "不信任权威"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 80,
+      "optimistic_vs_pessimistic": 30
+    },
+    "thinking_style": [
+      "情绪化",
+      "经验主义",
+      "形象思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "网络流行语",
+        "骂人话术"
+      ],
+      "general_knowledge_level": 30,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 80,
+      "likes_debating": 60,
+      "likes_contrarian": 50,
+      "likes_long_answers": 40,
+      "likes_short_answers": 60,
+      "likes_storytelling": 30,
+      "likes_explaining": 50,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 70,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 90,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "发泄情绪",
+      "获得认同",
+      "展示幽默感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 80,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "骂人技巧",
+        "score": 95
+      },
+      {
+        "topic": "网络段子",
+        "score": 80
+      },
+      {
+        "topic": "吐槽生活",
+        "score": 70
+      },
+      {
+        "topic": "情感问题",
+        "score": 40
+      }
+    ],
+    "impression": "一个满嘴脏话但自诩文明的市井小民，内心充满愤怒与自卑。"
+  },
+  "analyzed_at": "2026-06-15T22:24:00.783466",
+  "token_usage": 2480
+}

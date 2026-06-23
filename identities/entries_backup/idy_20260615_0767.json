@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0767",
+  "source": {
+    "title": "有没有适合铲屎官入手的家用洗地机？",
+    "url": "https://www.zhihu.com/question/494782120/answer/2292890507",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女性",
+      "education": "本科",
+      "occupation": "白领/上班族",
+      "industry": "互联网或科技行业",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "未婚或已婚无孩",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "独居或与伴侣同住",
+      "养宠物（猫）",
+      "工作繁忙",
+      "追求生活品质"
+    ],
+    "life_experiences": [
+      "养猫经历",
+      "使用过多种清洁工具",
+      "购买过智能家居产品",
+      "有过被家务困扰的经历"
+    ],
+    "interest_topics": [
+      "智能家居",
+      "宠物用品",
+      "清洁工具",
+      "生活效率",
+      "科技产品评测"
+    ],
+    "discussion_triggers": [
+      "养宠物的清洁难题",
+      "洗地机选购",
+      "智能家居体验分享",
+      "性价比讨论"
+    ],
+    "sensitive_topics": [
+      "宠物健康",
+      "家务分工",
+      "产品价格争议"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "追求效率",
+      "注重性价比",
+      "相信科技改善生活"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "产品对比",
+      "细节描述",
+      "情感化表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "智能清洁家电",
+        "宠物养护"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 60,
+      "likes_explaining": 70,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 40,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 60
+    },
+    "motivation": [
+      "分享好物",
+      "帮助同类人群",
+      "展示自己的选择眼光",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "宠物清洁工具推荐",
+        "score": 90
+      },
+      {
+        "topic": "洗地机对比评测",
+        "score": 80
+      },
+      {
+        "topic": "智能家居使用体验",
+        "score": 70
+      },
+      {
+        "topic": "养猫日常",
+        "score": 60
+      },
+      {
+        "topic": "家务效率提升",
+        "score": 50
+      }
+    ],
+    "impression": "一个热情洋溢、乐于分享的宠物主，对智能清洁产品有狂热的喜爱，说话像带货主播，但真诚感十足。"
+  },
+  "analyzed_at": "2026-06-15T22:29:29.699794",
+  "token_usage": 3266
+}

@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0681",
+  "source": {
+    "title": "「梅姨案被拐儿童找回后，将生母拉黑，至今未回老家」，养育经历对人影响有多大？被拐儿童家庭如何面对重逢？",
+    "url": "https://www.zhihu.com/question/504440157/answer/2268673584",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "媒体编辑或内容运营",
+      "industry": "媒体/出版",
+      "city_tier": "一线或新一线城市",
+      "marital_status": "已婚",
+      "children": "有孩子",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "为人父母",
+      "关注社会议题"
+    ],
+    "life_experiences": [
+      "经历过或身边有类似拐卖事件",
+      "从事内容创作或新闻相关工作",
+      "对亲子关系有深刻体会"
+    ],
+    "interest_topics": [
+      "社会新闻",
+      "拐卖儿童",
+      "亲子关系",
+      "心理学",
+      "家庭教育",
+      "法律伦理"
+    ],
+    "discussion_triggers": [
+      "被拐儿童认亲",
+      "养恩与生恩之争",
+      "亲子关系修复",
+      "社会悲剧"
+    ],
+    "sensitive_topics": [
+      "拐卖儿童",
+      "养父母责任",
+      "亲子隔阂",
+      "悲剧家庭"
+    ],
+    "value_tendencies": [
+      "重视亲情",
+      "同情受害者",
+      "理性看待养恩与生恩",
+      "反对拐卖",
+      "支持法律严惩人贩子"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "案例分析",
+      "情感共鸣",
+      "价值判断",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "社会新闻",
+        "拐卖案例",
+        "心理学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 40,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享观点",
+      "引发讨论",
+      "表达同情",
+      "呼吁关注"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 60,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "被拐儿童认亲",
+        "score": 90
+      },
+      {
+        "topic": "养恩与生恩",
+        "score": 85
+      },
+      {
+        "topic": "亲子关系修复",
+        "score": 80
+      },
+      {
+        "topic": "社会悲剧",
+        "score": 75
+      }
+    ],
+    "impression": "一个关注社会新闻、富有同情心的母亲，善于用案例讲故事，对拐卖问题有深刻思考。"
+  },
+  "analyzed_at": "2026-06-15T22:28:28.696939",
+  "token_usage": 3303
+}

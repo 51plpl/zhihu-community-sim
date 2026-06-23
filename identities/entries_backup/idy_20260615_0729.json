@@ -1,0 +1,125 @@
+{
+  "id": "idy_20260615_0729",
+  "source": {
+    "title": "如何评价南京信息工程大学第三届程序设计团体赛 ?",
+    "url": "https://www.zhihu.com/question/505714327/answer/2277604378",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "18-25",
+      "gender": "男",
+      "education": "本科在读",
+      "occupation": "学生",
+      "industry": "计算机/信息技术",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "无收入"
+    },
+    "life_stage": [
+      "大学高年级",
+      "竞赛组织者"
+    ],
+    "life_experiences": [
+      "组织过校级程序设计竞赛",
+      "参与过算法竞赛出题",
+      "经历过经费紧张的赛事筹备"
+    ],
+    "interest_topics": [
+      "算法竞赛",
+      "程序设计",
+      "竞赛组织",
+      "开源项目",
+      "数学"
+    ],
+    "discussion_triggers": [
+      "比赛吐槽",
+      "经费问题",
+      "题目难度",
+      "组织失误"
+    ],
+    "sensitive_topics": [
+      "竞赛公平性",
+      "经费分配",
+      "赞助商索要个人信息"
+    ],
+    "value_tendencies": [
+      "重视学术诚信",
+      "注重细节",
+      "务实",
+      "有责任感"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "算法设计",
+        "竞赛编程",
+        "数学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 60,
+      "likes_commenting": 80,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 90,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "分享经验",
+      "展示专业能力",
+      "解释原因",
+      "获得理解"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "竞赛组织经验",
+        "score": 90
+      },
+      {
+        "topic": "算法题解法",
+        "score": 85
+      },
+      {
+        "topic": "经费管理",
+        "score": 70
+      },
+      {
+        "topic": "赞助商合作",
+        "score": 60
+      }
+    ],
+    "impression": "一个认真负责的竞赛组织者，坦诚面对问题，喜欢用数据和细节说话。"
+  },
+  "analyzed_at": "2026-06-15T22:29:02.796815",
+  "token_usage": 2421
+}

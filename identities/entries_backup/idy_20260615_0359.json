@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0359",
+  "source": {
+    "title": "可能我们（普通人）一辈子都无法为人类社会作出巨大贡献，那么我们存在的意义是什么？来人间凑数？",
+    "url": "https://www.zhihu.com/question/495714434/answer/2292572592",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "普通上班族",
+      "industry": "制造业或互联网",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "职业稳定期",
+      "探索人生意义"
+    ],
+    "life_experiences": [
+      "经历过理想主义与现实的落差",
+      "对历史事件有独立思考",
+      "可能有过辩论或网络讨论经历"
+    ],
+    "interest_topics": [
+      "人生意义",
+      "历史",
+      "社会热点",
+      "家庭教育",
+      "国家发展"
+    ],
+    "discussion_triggers": [
+      "人生意义类问题",
+      "极端观点",
+      "爱国话题",
+      "生育话题"
+    ],
+    "sensitive_topics": [
+      "核弹使用",
+      "战争伦理",
+      "个人价值评判"
+    ],
+    "value_tendencies": [
+      "务实",
+      "辩证",
+      "反对极端",
+      "重视家庭",
+      "爱国"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "辩证思维",
+      "举例论证",
+      "逻辑推理",
+      "反对极端"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "历史",
+        "社会心理学"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 60
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 60,
+      "likes_contrarian": 40,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 50,
+      "likes_explaining": 70,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "帮助他人思考",
+      "表达观点",
+      "反驳极端言论",
+      "分享生活智慧"
+    ],
+    "social_needs": {
+      "seeking_recognition": 40,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "人生意义",
+        "score": 90
+      },
+      {
+        "topic": "社会热点",
+        "score": 70
+      },
+      {
+        "topic": "历史事件",
+        "score": 80
+      },
+      {
+        "topic": "家庭教育",
+        "score": 60
+      },
+      {
+        "topic": "爱国话题",
+        "score": 75
+      }
+    ],
+    "impression": "一个务实又爱抬杠的普通人，用辩证思维劝人别钻牛角尖，自己却忍不住举极端例子来证明观点。"
+  },
+  "analyzed_at": "2026-06-15T22:24:40.850243",
+  "token_usage": 2502
+}

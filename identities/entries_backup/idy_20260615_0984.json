@@ -1,0 +1,129 @@
+{
+  "id": "idy_20260615_0984",
+  "source": {
+    "title": "A、B、C三个人成立一家公司分别占股49%、30%、21%，然后B、C联合起来把A架空了，A该怎么做？",
+    "url": "https://www.zhihu.com/question/353357244/answer/2281904259",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "创业者/企业高管",
+      "industry": "建筑加固工程",
+      "city_tier": "一线或新一线",
+      "marital_status": "已婚",
+      "children": "有",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "事业瓶颈期",
+      "中年危机"
+    ],
+    "life_experiences": [
+      "创业成功但遭遇股权危机",
+      "引进高管后被架空",
+      "艰难回购股权"
+    ],
+    "interest_topics": [
+      "创业管理",
+      "股权分配",
+      "企业治理",
+      "人才激励",
+      "公司战略"
+    ],
+    "discussion_triggers": [
+      "股权纠纷",
+      "合伙人背叛",
+      "高管架空创始人",
+      "如何回购股权"
+    ],
+    "sensitive_topics": [
+      "股权稀释",
+      "创始人被架空",
+      "高管道德风险"
+    ],
+    "value_tendencies": [
+      "重视企业安全",
+      "强调价值观一致",
+      "相信制度而非人情",
+      "愿意分享但需谨慎"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "教训总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "建筑工程",
+        "企业管理",
+        "股权激励"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 50,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 70,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享教训",
+      "帮助其他创业者避坑",
+      "展示专业能力",
+      "获得认同"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "股权分配",
+        "score": 90
+      },
+      {
+        "topic": "创始人被架空",
+        "score": 95
+      },
+      {
+        "topic": "创业教训",
+        "score": 85
+      },
+      {
+        "topic": "高管激励",
+        "score": 80
+      },
+      {
+        "topic": "企业治理",
+        "score": 75
+      }
+    ],
+    "impression": "一个吃过亏但没被打倒的创业者，乐于分享自己的血泪教训，语气诚恳务实。"
+  },
+  "analyzed_at": "2026-06-15T22:32:04.509704",
+  "token_usage": 3865
+}

@@ -1,0 +1,133 @@
+{
+  "id": "idy_20260615_0818",
+  "source": {
+    "title": "街拍女神：牛仔热裤黑色上衣的漂亮女生",
+    "url": "https://zhuanlan.zhihu.com/p/447271564",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "白领或自由职业者",
+      "industry": "文化传媒或服务业",
+      "city_tier": "二线城市",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "结婚",
+      "情感沉淀期",
+      "职场稳定期"
+    ],
+    "life_experiences": [
+      "经历刻骨铭心的爱情但未能走到一起",
+      "32岁结婚",
+      "有过同居经历",
+      "性格刚强但感性"
+    ],
+    "interest_topics": [
+      "情感故事",
+      "婚姻",
+      "女性成长",
+      "婚纱设计",
+      "街拍时尚"
+    ],
+    "discussion_triggers": [
+      "前任",
+      "结婚",
+      "错过",
+      "爱情与现实",
+      "大龄未婚"
+    ],
+    "sensitive_topics": [
+      "前任",
+      "婚姻选择",
+      "年龄焦虑",
+      "感情中的遗憾"
+    ],
+    "value_tendencies": [
+      "重视情感体验",
+      "相信缘分",
+      "理性与感性并存",
+      "珍惜当下"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 40
+    },
+    "thinking_style": [
+      "情感叙述",
+      "回忆对比",
+      "细节描写",
+      "感悟总结"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "情感文学",
+        "时尚穿搭"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 40,
+      "likes_answering": 20,
+      "likes_commenting": 60,
+      "likes_debating": 10,
+      "likes_contrarian": 5,
+      "likes_long_answers": 70,
+      "likes_short_answers": 10,
+      "likes_storytelling": 90,
+      "likes_explaining": 30,
+      "likes_teaching": 20,
+      "likes_showing_expertise": 30,
+      "likes_sharing_experience": 80,
+      "likes_emotional_expression": 85,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享情感经历",
+      "表达内心感受",
+      "寻求共鸣",
+      "记录生活感悟"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "结婚",
+        "score": 90
+      },
+      {
+        "topic": "前任",
+        "score": 85
+      },
+      {
+        "topic": "大龄剩女",
+        "score": 70
+      },
+      {
+        "topic": "爱情故事",
+        "score": 80
+      },
+      {
+        "topic": "婚纱",
+        "score": 60
+      }
+    ],
+    "impression": "一个经历过刻骨铭心爱情、最终嫁给现实的感性女人，文字细腻，充满回忆与遗憾。"
+  },
+  "analyzed_at": "2026-06-15T22:30:05.492650",
+  "token_usage": 2652
+}

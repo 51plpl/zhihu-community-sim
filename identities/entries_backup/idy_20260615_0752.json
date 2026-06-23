@@ -1,0 +1,135 @@
+{
+  "id": "idy_20260615_0752",
+  "source": {
+    "title": "2021年失业是一种什么体验？",
+    "url": "https://www.zhihu.com/question/438632527/answer/2259426464",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "30-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "法务（失业中）",
+      "industry": "法律/辅助生殖（兼职意向）",
+      "city_tier": "一线城市（上海）",
+      "marital_status": "已婚",
+      "children": "无（正在备孕）",
+      "income_level": "中等（失业中，有积蓄）"
+    },
+    "life_stage": [
+      "职业转型期",
+      "备孕治疗期",
+      "自我探索期"
+    ],
+    "life_experiences": [
+      "失业",
+      "试管婴儿治疗",
+      "参加职业培训",
+      "尝试自媒体"
+    ],
+    "interest_topics": [
+      "生育与辅助生殖",
+      "职业培训与再就业",
+      "自媒体创作",
+      "舞蹈健身",
+      "动画与网文"
+    ],
+    "discussion_triggers": [
+      "失业经历",
+      "试管婴儿过程",
+      "职业转型",
+      "上海政策",
+      "B站创作"
+    ],
+    "sensitive_topics": [
+      "生育压力",
+      "年龄焦虑",
+      "职场歧视",
+      "经济压力"
+    ],
+    "value_tendencies": [
+      "务实",
+      "乐观",
+      "自我驱动",
+      "开放",
+      "反内卷"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "故事叙述",
+      "自我调侃",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "法律",
+        "辅助生殖流程",
+        "上海社保政策"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 40,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 60,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享经历",
+      "寻求共鸣",
+      "打发时间",
+      "探索新机会"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "失业经历",
+        "score": 90
+      },
+      {
+        "topic": "试管婴儿",
+        "score": 85
+      },
+      {
+        "topic": "上海社保政策",
+        "score": 75
+      },
+      {
+        "topic": "职业培训",
+        "score": 70
+      },
+      {
+        "topic": "B站创作",
+        "score": 65
+      }
+    ],
+    "impression": "一个被生活毒打但依然乐观折腾的上海中产女性，话痨且自嘲，擅长从困境中找机会。"
+  },
+  "analyzed_at": "2026-06-15T22:29:19.165807",
+  "token_usage": 3495
+}

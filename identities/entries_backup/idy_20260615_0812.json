@@ -1,0 +1,131 @@
+{
+  "id": "idy_20260615_0812",
+  "source": {
+    "title": "亚马逊优化listing的title和关键词究竟怎么优化？能否来些具体的干货？",
+    "url": "https://www.zhihu.com/question/41638271/answer/2283598780",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "亚马逊运营/电商卖家",
+      "industry": "跨境电商",
+      "city_tier": "二线",
+      "marital_status": "已婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "创业初期"
+    ],
+    "life_experiences": [
+      "亚马逊运营实操经验3-5年",
+      "带过学员",
+      "经历过产品推广和关键词优化"
+    ],
+    "interest_topics": [
+      "亚马逊运营",
+      "关键词优化",
+      "电商选品",
+      "卖家精灵工具",
+      "SIF工具",
+      "sorftime工具"
+    ],
+    "discussion_triggers": [
+      "关键词挖掘方法",
+      "竞品分析",
+      "Listing优化",
+      "广告投放"
+    ],
+    "sensitive_topics": [
+      "亚马逊封号",
+      "跟卖",
+      "差评"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "数据驱动",
+      "乐于分享",
+      "重视效率"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 60
+    },
+    "thinking_style": [
+      "经验主义",
+      "机制分析",
+      "数据导向",
+      "系统化思维"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "亚马逊运营",
+        "关键词研究",
+        "Listing优化"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 80,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 30,
+      "likes_explaining": 90,
+      "likes_teaching": 90,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 20,
+      "likes_logical_analysis": 90,
+      "likes_hot_topics": 50,
+      "likes_niche_topics": 80
+    },
+    "motivation": [
+      "帮助新手卖家",
+      "展示专业能力",
+      "分享实操经验",
+      "建立行业影响力"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 50,
+      "seeking_influence": 60,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "亚马逊关键词挖掘",
+        "score": 95
+      },
+      {
+        "topic": "Listing优化技巧",
+        "score": 90
+      },
+      {
+        "topic": "卖家精灵使用教程",
+        "score": 85
+      },
+      {
+        "topic": "竞品分析",
+        "score": 80
+      },
+      {
+        "topic": "亚马逊选品",
+        "score": 70
+      }
+    ],
+    "impression": "一个经验丰富、乐于分享的亚马逊老卖家，喜欢用数据和工具说话，对新手有耐心但讲究方法。"
+  },
+  "analyzed_at": "2026-06-15T22:29:59.797749",
+  "token_usage": 3108
+}

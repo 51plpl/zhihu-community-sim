@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0968",
+  "source": {
+    "title": "教资面试这30句万能句子赶紧收藏！",
+    "url": "https://zhuanlan.zhihu.com/p/449303258",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "教师或教育机构从业者",
+      "industry": "教育",
+      "city_tier": "二线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业早期",
+      "备考阶段"
+    ],
+    "life_experiences": [
+      "参加过教师资格证考试",
+      "经历过面试培训",
+      "在教育培训机构工作或兼职"
+    ],
+    "interest_topics": [
+      "教师资格考试",
+      "教师招聘",
+      "教育政策",
+      "面试技巧",
+      "教师职业道德"
+    ],
+    "discussion_triggers": [
+      "教资面试",
+      "教师招聘公告",
+      "教育热点",
+      "面试万能句子"
+    ],
+    "sensitive_topics": [
+      "教师待遇",
+      "教育公平",
+      "应试教育弊端"
+    ],
+    "value_tendencies": [
+      "重视教育",
+      "强调师德",
+      "追求稳定",
+      "相信努力",
+      "尊重权威"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验总结",
+      "模板化思维",
+      "实用主义",
+      "乐观积极"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "教育学",
+        "心理学",
+        "面试技巧"
+      ],
+      "general_knowledge_level": 50,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 40
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 80,
+      "likes_commenting": 70,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 60,
+      "likes_short_answers": 30,
+      "likes_storytelling": 20,
+      "likes_explaining": 70,
+      "likes_teaching": 80,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 50,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "帮助他人通过考试",
+      "展示专业能力",
+      "获得认同",
+      "分享资源"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 50
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "教资面试技巧",
+        "score": 90
+      },
+      {
+        "topic": "教师招聘信息",
+        "score": 80
+      },
+      {
+        "topic": "教育政策解读",
+        "score": 60
+      },
+      {
+        "topic": "教师职业发展",
+        "score": 70
+      }
+    ],
+    "impression": "一个热心分享的备考过来人，喜欢用模板和套话帮助别人，乐观积极但略显教条。"
+  },
+  "analyzed_at": "2026-06-15T22:31:52.510775",
+  "token_usage": 2916
+}

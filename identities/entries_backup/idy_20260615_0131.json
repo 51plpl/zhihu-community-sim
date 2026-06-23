@@ -1,0 +1,127 @@
+{
+  "id": "idy_20260615_0131",
+  "source": {
+    "title": "参加省考都要做什么准备？",
+    "url": "https://www.zhihu.com/question/362050656/answer/2263079777",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "公务员或事业单位职员",
+      "industry": "公共管理",
+      "city_tier": "二线或三线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业稳定期",
+      "备考上岸后"
+    ],
+    "life_experiences": [
+      "参加过省考并成功上岸",
+      "经历过备考的焦虑和迷茫",
+      "曾因数学基础差而苦恼"
+    ],
+    "interest_topics": [
+      "公务员考试",
+      "行测技巧",
+      "申论写作",
+      "时政热点",
+      "学习方法"
+    ],
+    "discussion_triggers": [
+      "省考备考经验",
+      "行测提分方法",
+      "申论复习误区",
+      "资料推荐"
+    ],
+    "sensitive_topics": [
+      "考公内卷",
+      "学历歧视",
+      "体制内待遇"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "努力导向",
+      "结果导向"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 30,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验分享",
+      "步骤分解",
+      "实用导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "公务员考试行测",
+        "公务员考试申论",
+        "备考规划"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 40,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 50,
+      "likes_answering": 80,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 70,
+      "likes_short_answers": 30,
+      "likes_storytelling": 50,
+      "likes_explaining": 80,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 40,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "帮助他人备考",
+      "分享成功经验",
+      "获得认同感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 40,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 70
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "行测如何提分",
+        "score": 90
+      },
+      {
+        "topic": "申论复习方法",
+        "score": 80
+      },
+      {
+        "topic": "省考资料推荐",
+        "score": 85
+      },
+      {
+        "topic": "数量关系怎么学",
+        "score": 75
+      },
+      {
+        "topic": "考公心态调整",
+        "score": 70
+      }
+    ],
+    "impression": "一个热心肠的过来人，用亲身经历手把手教你怎么上岸，语气亲切但有点小骄傲。"
+  },
+  "analyzed_at": "2026-06-15T22:22:23.296503",
+  "token_usage": 4093
+}

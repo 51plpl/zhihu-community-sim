@@ -1,0 +1,130 @@
+{
+  "id": "idy_20260615_0519",
+  "source": {
+    "title": "如何看待余音新出的SG-01？",
+    "url": "https://www.zhihu.com/question/471940965/answer/2290707003",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "数码产品评测师/音频爱好者",
+      "industry": "消费电子/自媒体",
+      "city_tier": "一线或新一线",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "职业上升期",
+      "兴趣驱动型消费"
+    ],
+    "life_experiences": [
+      "多年HiFi发烧经历",
+      "接触过大量耳机产品",
+      "参与过厂商送测合作"
+    ],
+    "interest_topics": [
+      "HiFi耳机",
+      "音频器材评测",
+      "数码产品",
+      "金属工艺",
+      "性价比产品"
+    ],
+    "discussion_triggers": [
+      "新品耳机发布",
+      "低价位产品对比",
+      "耳机外观设计",
+      "调音风格讨论"
+    ],
+    "sensitive_topics": [
+      "音质玄学",
+      "评测公正性",
+      "国产品牌争议"
+    ],
+    "value_tendencies": [
+      "务实",
+      "注重性价比",
+      "欣赏工匠精神",
+      "支持国货"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "数据导向",
+      "机制分析",
+      "客观描述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "耳机声学",
+        "金属加工工艺",
+        "音频测量"
+      ],
+      "general_knowledge_level": 70,
+      "likes_citing_data": 60,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 50,
+      "likes_commenting": 70,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 40,
+      "likes_explaining": 90,
+      "likes_teaching": 60,
+      "likes_showing_expertise": 80,
+      "likes_sharing_experience": 70,
+      "likes_emotional_expression": 30,
+      "likes_logical_analysis": 80,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 70
+    },
+    "motivation": [
+      "分享专业见解",
+      "帮助新手选择",
+      "展示产品知识",
+      "获得认可"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 40,
+      "seeking_influence": 50,
+      "seeking_help_others": 70,
+      "seeking_self_expression": 60
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "入门耳机推荐",
+        "score": 90
+      },
+      {
+        "topic": "耳机外观设计",
+        "score": 80
+      },
+      {
+        "topic": "调音风格对比",
+        "score": 85
+      },
+      {
+        "topic": "性价比产品",
+        "score": 75
+      },
+      {
+        "topic": "国产HiFi品牌",
+        "score": 70
+      }
+    ],
+    "impression": "一个热爱分享、经验丰富的耳机发烧友，对产品细节如数家珍，但保持客观克制，偶尔流露对国货的骄傲。"
+  },
+  "analyzed_at": "2026-06-15T22:26:33.903244",
+  "token_usage": 2769
+}

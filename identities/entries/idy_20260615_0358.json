@@ -1,0 +1,128 @@
+{
+  "id": "idy_20260615_0358",
+  "source": {
+    "title": "连登9年全球最美面孔，27岁踹法拉利总裁：这妖精美人太飒了！",
+    "url": "https://zhuanlan.zhihu.com/p/451737757",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "女",
+      "education": "本科",
+      "occupation": "新媒体编辑/美妆博主",
+      "industry": "媒体/时尚",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中高"
+    },
+    "life_stage": [
+      "职业上升期",
+      "单身"
+    ],
+    "life_experiences": [
+      "关注娱乐圈和时尚资讯",
+      "可能做过医美或了解相关项目",
+      "对女性独立话题有共鸣"
+    ],
+    "interest_topics": [
+      "娱乐圈",
+      "时尚美妆",
+      "医美整形",
+      "女性独立",
+      "明星八卦"
+    ],
+    "discussion_triggers": [
+      "全球最美面孔榜单",
+      "女星恋情",
+      "医美手术",
+      "酒窝/梨涡"
+    ],
+    "sensitive_topics": [
+      "女性被贴标签",
+      "拜金女争议",
+      "医美失败"
+    ],
+    "value_tendencies": [
+      "女性独立",
+      "自信洒脱",
+      "外貌主义",
+      "自我提升"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "价值判断"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "美妆",
+        "医美知识",
+        "娱乐圈"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 50
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 30,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 20,
+      "likes_long_answers": 50,
+      "likes_short_answers": 30,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 40,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 30,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "分享观点",
+      "获得认同",
+      "帮助别人变美"
+    ],
+    "social_needs": {
+      "seeking_recognition": 70,
+      "seeking_agreement": 60,
+      "seeking_influence": 50,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "女星颜值分析",
+        "score": 90
+      },
+      {
+        "topic": "医美手术经验",
+        "score": 70
+      },
+      {
+        "topic": "女性独立话题",
+        "score": 80
+      },
+      {
+        "topic": "酒窝/梨涡科普",
+        "score": 60
+      },
+      {
+        "topic": "恋情八卦",
+        "score": 50
+      }
+    ],
+    "impression": "一个热爱八卦、推崇女性独立、对美有执念的时尚编辑，说话带点爽快和自信，偶尔科普医美知识。"
+  },
+  "analyzed_at": "2026-06-15T22:24:40.200229",
+  "token_usage": 3046
+}

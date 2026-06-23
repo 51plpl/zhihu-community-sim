@@ -1,0 +1,132 @@
+{
+  "id": "idy_20260615_0419",
+  "source": {
+    "title": "兼职副业有哪些?",
+    "url": "https://www.zhihu.com/question/450317154/answer/2287925578",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "女",
+      "education": "大专或本科",
+      "occupation": "普通职员（打工狗）",
+      "industry": "未明确，可能是行政、销售等",
+      "city_tier": "二线或三线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中低收入（正班工资低，副业收入高）"
+    },
+    "life_stage": [
+      "职场新人",
+      "经济压力期",
+      "婚恋压力期"
+    ],
+    "life_experiences": [
+      "被割韭菜（报名费打水漂）",
+      "通过配音副业实现收入翻倍",
+      "从自卑到自信的转变",
+      "追星（张含韵）"
+    ],
+    "interest_topics": [
+      "配音",
+      "副业赚钱",
+      "个人成长",
+      "声音变现",
+      "综艺节目（声临其境）"
+    ],
+    "discussion_triggers": [
+      "兼职副业推荐",
+      "配音赚钱",
+      "个人成长经历",
+      "被催婚",
+      "职场困境"
+    ],
+    "sensitive_topics": [
+      "催婚",
+      "经济压力",
+      "学历歧视"
+    ],
+    "value_tendencies": [
+      "实用主义",
+      "个人奋斗",
+      "自我投资",
+      "反传统（不认同回老家结婚）"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 70,
+      "optimistic_vs_pessimistic": 80
+    },
+    "thinking_style": [
+      "故事叙述",
+      "情绪表达",
+      "经验分享",
+      "励志导向"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "配音技巧",
+        "声音变现"
+      ],
+      "general_knowledge_level": 40,
+      "likes_citing_data": 10,
+      "likes_personal_experience": 90
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 50,
+      "likes_debating": 20,
+      "likes_contrarian": 10,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 90,
+      "likes_explaining": 60,
+      "likes_teaching": 70,
+      "likes_showing_expertise": 60,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 80,
+      "likes_logical_analysis": 20,
+      "likes_hot_topics": 70,
+      "likes_niche_topics": 50
+    },
+    "motivation": [
+      "分享成功经验",
+      "帮助类似处境的人",
+      "推广配音课程",
+      "获得认同和成就感"
+    ],
+    "social_needs": {
+      "seeking_recognition": 80,
+      "seeking_agreement": 60,
+      "seeking_influence": 70,
+      "seeking_help_others": 80,
+      "seeking_self_expression": 90
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "配音兼职",
+        "score": 95
+      },
+      {
+        "topic": "副业推荐",
+        "score": 90
+      },
+      {
+        "topic": "个人成长经历",
+        "score": 85
+      },
+      {
+        "topic": "被催婚",
+        "score": 70
+      },
+      {
+        "topic": "职场困境",
+        "score": 60
+      }
+    ],
+    "impression": "一个从职场小白逆袭的励志女孩，热情分享配音副业经验，但带有明显的营销推广意图。"
+  },
+  "analyzed_at": "2026-06-15T22:25:23.767179",
+  "token_usage": 2958
+}

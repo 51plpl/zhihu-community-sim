@@ -1,0 +1,126 @@
+{
+  "id": "idy_20260615_0869",
+  "source": {
+    "title": "如何评价虚拟偶像组合 A-soul 成员珈乐？",
+    "url": "https://www.zhihu.com/question/491394099/answer/2258931814",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "20-30",
+      "gender": "男",
+      "education": "本科",
+      "occupation": "互联网行业职员",
+      "industry": "互联网/IT",
+      "city_tier": "一线城市",
+      "marital_status": "未婚",
+      "children": "无",
+      "income_level": "中等"
+    },
+    "life_stage": [
+      "青年",
+      "独身",
+      "职场初期"
+    ],
+    "life_experiences": [
+      "追虚拟偶像",
+      "参与社区讨论",
+      "关注直播行业"
+    ],
+    "interest_topics": [
+      "虚拟偶像",
+      "A-SOUL",
+      "直播文化",
+      "二次元",
+      "CP文化"
+    ],
+    "discussion_triggers": [
+      "A-SOUL成员评价",
+      "CP争议",
+      "直播表现分析",
+      "运营策略"
+    ],
+    "sensitive_topics": [
+      "CP魔怔粉",
+      "资源分配不公",
+      "成员真实关系"
+    ],
+    "value_tendencies": [
+      "尊重努力",
+      "反对过度解读",
+      "支持娱乐精神",
+      "认同天道酬勤"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 60,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "细节观察",
+      "情感代入",
+      "理性分析",
+      "故事叙述"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "虚拟偶像运营",
+        "直播内容分析"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 30,
+      "likes_personal_experience": 70
+    },
+    "community_behavior": {
+      "activity_level": 70,
+      "likes_answering": 50,
+      "likes_commenting": 60,
+      "likes_debating": 40,
+      "likes_contrarian": 30,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 30,
+      "likes_showing_expertise": 50,
+      "likes_sharing_experience": 60,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 60,
+      "likes_hot_topics": 80,
+      "likes_niche_topics": 40
+    },
+    "motivation": [
+      "分享观点",
+      "表达对角色的喜爱",
+      "反驳极端粉丝",
+      "记录追星历程"
+    ],
+    "social_needs": {
+      "seeking_recognition": 50,
+      "seeking_agreement": 40,
+      "seeking_influence": 30,
+      "seeking_help_others": 20,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "A-SOUL成员评价",
+        "score": 90
+      },
+      {
+        "topic": "CP争议",
+        "score": 80
+      },
+      {
+        "topic": "直播运营分析",
+        "score": 70
+      },
+      {
+        "topic": "虚拟偶像行业",
+        "score": 60
+      }
+    ],
+    "impression": "一个深度投入的A-SOUL粉丝，既理性分析又情感充沛，对成员有细腻观察，反感极端CP粉，鼓励娱乐精神。"
+  },
+  "analyzed_at": "2026-06-15T22:30:41.168385",
+  "token_usage": 2859
+}

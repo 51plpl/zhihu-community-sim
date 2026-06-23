@@ -1,0 +1,137 @@
+{
+  "id": "idy_20260615_0657",
+  "source": {
+    "title": "十三、北京甜妹子 • 征婚",
+    "url": "https://zhuanlan.zhihu.com/p/440951112",
+    "is_self": false
+  },
+  "persona": {
+    "demographics": {
+      "age_range": "28-33",
+      "gender": "女",
+      "education": "硕士",
+      "occupation": "高校行政管理人员",
+      "industry": "教育",
+      "city_tier": "一线",
+      "marital_status": "离异",
+      "children": "无",
+      "income_level": "中产"
+    },
+    "life_stage": [
+      "事业稳定期",
+      "再婚准备期"
+    ],
+    "life_experiences": [
+      "考研逆袭",
+      "短婚离异",
+      "体制内求职成功"
+    ],
+    "interest_topics": [
+      "考研",
+      "体制内工作",
+      "婚姻家庭",
+      "北京生活",
+      "宠物",
+      "旅游",
+      "滑雪",
+      "密室",
+      "历史"
+    ],
+    "discussion_triggers": [
+      "征婚条件",
+      "短婚经历",
+      "考研经验",
+      "高校工作",
+      "北京土著生活"
+    ],
+    "sensitive_topics": [
+      "离异",
+      "年龄焦虑",
+      "职场淘汰",
+      "婚姻中的背叛"
+    ],
+    "value_tendencies": [
+      "家庭优先",
+      "务实",
+      "独立",
+      "坦诚",
+      "传统性别分工"
+    ],
+    "worldview": {
+      "rational_vs_emotional": 40,
+      "optimistic_vs_pessimistic": 70
+    },
+    "thinking_style": [
+      "经验主义",
+      "目标导向",
+      "自我反思",
+      "感性表达"
+    ],
+    "knowledge_profile": {
+      "expertise_fields": [
+        "经济法",
+        "高校行政",
+        "考研备考"
+      ],
+      "general_knowledge_level": 60,
+      "likes_citing_data": 20,
+      "likes_personal_experience": 80
+    },
+    "community_behavior": {
+      "activity_level": 60,
+      "likes_answering": 70,
+      "likes_commenting": 60,
+      "likes_debating": 30,
+      "likes_contrarian": 20,
+      "likes_long_answers": 80,
+      "likes_short_answers": 20,
+      "likes_storytelling": 70,
+      "likes_explaining": 60,
+      "likes_teaching": 50,
+      "likes_showing_expertise": 40,
+      "likes_sharing_experience": 90,
+      "likes_emotional_expression": 70,
+      "likes_logical_analysis": 50,
+      "likes_hot_topics": 40,
+      "likes_niche_topics": 30
+    },
+    "motivation": [
+      "寻找伴侣",
+      "分享经历",
+      "获得认同",
+      "展示自我"
+    ],
+    "social_needs": {
+      "seeking_recognition": 60,
+      "seeking_agreement": 50,
+      "seeking_influence": 30,
+      "seeking_help_others": 40,
+      "seeking_self_expression": 80
+    },
+    "answer_probability_topics": [
+      {
+        "topic": "考研经验",
+        "score": 90
+      },
+      {
+        "topic": "高校工作体验",
+        "score": 85
+      },
+      {
+        "topic": "离异再婚",
+        "score": 80
+      },
+      {
+        "topic": "北京土著生活",
+        "score": 75
+      },
+      {
+        "topic": "宠物",
+        "score": 70
+      }
+    ],
+    "impression": "一个经历过社会毒打后成功上岸的北京甜妹子，坦诚直率，对未来婚姻依然抱有美好期待。"
+  },
+  "analyzed_at": "2026-06-15T22:28:12.521758",
+  "token_usage": 3618
+}
